@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+            <title xml:lang="ta">Aiṅkuṟunūṟu</title>. <term xml:lang="ta">kaṭavuḷ vāḻttu</term>.
+        </title>
+        
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+        <listWit n="1"></listWit>
+        <listWit n="2"></listWit>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc/>
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <div xml:id="Aink0-kilavi">
+          <p type="edition"></p>
+          <p type="translation" xml:lang="en"></p>
+        </div>
+        <div xml:id="Aink0">
+            <lg type="edition">
+                <l>nīla mēṉi vāliḻai pākat</l>
+                <l>toruva ṉirutā ṇiḻaṟkīḻ</l>
+                <l>mūvakai yulaku mukiḻttaṉa muṟaiyē.</l>
+            </lg>
+            <lg type="translation" xml:lang="en">
+
+            </lg>
+        </div>
+    </body>
+  </text>
+<standOff type="wordsplit" corresp="#Aink0">
+<interp type="alignment" select="0">5ML16MG12ML19M2G2ML14MG3M,78M</interp>
+<entry>
+<form>nīlam</form>
+<def>blue</def>
+</entry>
+<entry>
+<form>mēṉi</form>
+<def>body</def>
+</entry>
+<entry>
+<form>vāl</form>
+<def>pure</def>
+</entry>
+<entry>
+<form>iḻai</form>
+<def>jewel</def>
+</entry>
+<entry>
+<form>pākatt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>part-</def>
+</entry>
+<entry>
+<form>oruvaṉ</form>
+<def>one-he</def>
+</entry>
+<entry>
+<form>iru</form>
+<def>two</def>
+</entry>
+<entry>
+<form>tāḷ</form>
+<def>foot</def>
+</entry>
+<entry>
+<form>niḻal</form>
+<def>shade</def>
+</entry>
+<entry>
+<form>kīḻ</form>
+<def>under</def>
+</entry>
+<entry>
+<form>mū</form>
+<def>three</def>
+</entry>
+<entry>
+<form>vakai</form>
+<def>kind</def>
+</entry>
+<entry>
+<form><pc>~</pc>ulak<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-um</form>
+<def>world</def>
+<form type="simple">ulaku</form>
+<gramGrp type="particle"><form>um</form></gramGrp>
+</entry>
+<entry>
+<form>mukiḻttaṉa</form>
+<def>budded-they</def>
+<gram type="role">neuter plural</gram>
+</entry>
+<entry>
+<form>muṟai-<pc>~</pc>ē</form>
+<def>order</def>
+<form type="simple">muṟai</form>
+<gramGrp type="particle"><form>ē</form></gramGrp>
+</entry>
+</standOff>
+</TEI>
