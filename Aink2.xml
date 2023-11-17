@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+            <title xml:lang="ta">Aiṅkuṟunūṟu</title> 2. <persName xml:lang="ta">Ōrampōkiyār</persName>
+        </title>
+        <editor role="translator">Eva Wilden</editor>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc/>
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+        
+        <div xml:id="Aink2">
+            <lg type="edition">
+<l>              vāḻi yātaṉ vāḻi yaviṉi</l>
+<l>              viḷaika vayalē varuka viravala</l>
+<l>              reṉavēṭ ṭōḷē yāyē yāmē</l>
+<l>              pallitaḻ nīlamoṭu neyta ṉikarkkun</l>
+<l>              taṇṭuṟai yūraṉ kēṇmai	</l>
+<l>              vaḻivaḻic ciṟakka veṉavēṭ ṭēmē.</l>
+            </lg>
+            <lg type="translation" xml:lang="en">
+<l>              “May Ātaṉ prosper, may Aviṉi prosper.</l>
+<l>              let the paddy fields ripen, let the beggars come”</l>
+<l>              thus wants our mother. We,</l>
+<l>              “the intimacy with the man from the village by the cool ghat,</l>
+<l>              where waterlilies rival with many-petalled lotuses,</l>
+<l>              let it grow step by step,” thus we want.</l>
+              
+            </lg>
+        </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#Aink2">
+    <interp type="alignment" select="0">31MG25MG4MG4MG23ML53MG2M,147MG</interp>
+    <entry>
+    <form>vāḻi</form>
+    <def>live-you</def>
+    <gram type="role">subjuntive</gram>
+    </entry>
+    <entry>
+    <form><pc>~</pc>ātaṉ</form>
+    <def>Ātaṉ</def>
+    </entry>
+    <entry>
+    <form>vāḻi</form>
+    <def>live-you</def>
+    <gram type="role">subjuntive</gram>
+    </entry>
+    <entry>
+    <form><pc>~</pc>aviṉi</form>
+    <def>Aviṉi</def>
+    </entry>
+    <entry>
+    <form>viḷaika</form>
+    <def>may-ripen</def>
+    <gram type="role">optative</gram>
+    </entry>
+    <entry>
+    <form>vayal-ē</form>
+    <def>paddy-field</def>
+    <form type="simple">vayal</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    <entry>
+    <form>varuka</form>
+    <def>may-come</def>
+    <gram type="role">optative</gram>
+    </entry>
+    <entry>
+    <form><pc>~</pc>iravalar</form>
+    <def>beggar</def>
+    <gram type="role">honorific</gram>
+    </entry>
+    <entry>
+    <form>eṉa</form>
+    <def>say</def>
+    <gram type="role">infinitive</gram>
+    </entry>
+    <entry>
+    <form>vēṭṭōḷ-ē</form>
+    <def>wanted-she</def>
+    <form type="simple">vēṭṭōḷ</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    <entry>
+    <form>yāy-ē</form>
+    <def>your-mother</def>
+    <form type="simple">yāy</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    <entry>
+    <form>yām-ē</form>
+    <def>we</def>
+    <form type="simple">yām</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    <entry>
+    <form>pal</form>
+    <def>many</def>
+    </entry>
+    <entry>
+    <form><pc>+</pc>itaḻ</form>
+    <def>petal</def>
+    </entry>
+    <entry>
+    <form>nīlamoṭu</form>
+    <def>blue-lotus</def>
+    <gramGrp type="affix"><form>oṭu</form><gram type="role">sociative/instrumental</gram></gramGrp>
+    </entry>
+    <entry>
+    <form>neytal</form>
+    <def>waterlily</def>
+    </entry>
+    <entry>
+    <form>nikarkkum</form>
+    <def>rivalling-</def>
+    </entry>
+    <entry>
+    <form>taṇ</form>
+    <def>cool</def>
+    </entry>
+    <entry>
+    <form>tuṟai</form>
+    <def>ghat</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>ūraṉ</form>
+    <def>village-he</def>
+    </entry>
+    <entry>
+    <form>kēṇmai</form>
+    <def>intimacy</def>
+    </entry>
+    <entry>
+    <form>vaḻi</form>
+    <def>way</def>
+    </entry>
+    <entry>
+    <form>vaḻi<pc>+</pc></form>
+    <def>way</def>
+    </entry>
+    <entry>
+    <form>ciṟakka</form>
+    <def>may-excell</def>
+    <gram type="role">optative</gram>
+    </entry>
+    <entry>
+    <form><pc>~</pc>eṉa</form>
+    <def>say</def>
+    <gram type="role">infinitive</gram>
+    </entry>
+    <entry>
+    <form>vēṭṭēm-ē</form>
+    <def>wanted-we</def>
+    <form type="simple">vēṭṭēm</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    </standOff>
+</TEI>
