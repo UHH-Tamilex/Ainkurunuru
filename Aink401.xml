@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+            <title xml:lang="ta">Aiṅkuṟunūṟu</title>. <persName xml:lang="ta">Pēyaṉār</persName> 401.
+        </title>
+        <editor role="translator">Leo Nelson-Jones</editor>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc/>
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <div xml:id="Aink401-kilavi">
+          <p type="edition">
+            kaṭimaṉaic ceṉṟuvanta cevili uvanta uḷḷattaḷāy naṟṟāykkuc colliyatu.
+          </p>
+          <p type="translation" xml:lang="en">
+            The foster-mother who has gone and returned from their home speaking rejoicefully to the 'real' mother. 
+          </p>
+        </div>
+        <div xml:id="Aink401">
+            <lg type="edition">
+             <l> maṟiyiṭaip paṭutta māṉpiṇai pōlap</l>
+             <l> putalva ṉaṭuvaṇa ṉāka naṉṟu</l>     
+             <l>miṉitu maṉṟavavar kiṭakkai muṉiviṉṟi</l>             
+<l>              nīṉiṟa viyalakaṅ kavaiiya         </l>
+<l>              vīṉu mumparum peṟalaruṅ kuraittē.</l>
+            </lg>
+            <p type="translation" xml:lang="en">
+            It was certainly good and sweet, them lying down without affliction, the[ir] son between [them] like a stag and doe with [their] calf between them - it is something difficult to obtain both in this world which the vast blue expanse embraces and in the beyond. 
+            </p>
+        </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#Aink401">
+    <interp type="alignment" select="0">38ML15MG7MG23MG7ML23MG7MG18M2G2M,148MG</interp>
+    <entry>
+    <form>maṟi</form>
+    <def>calf</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>iṭai<pc>+</pc></form>
+    <def>middle</def>
+    </entry>
+    <entry>
+    <form>paṭutta</form>
+    <def>happened-</def>
+    </entry>
+    <entry>
+    <form>māṉ</form>
+    <def>stag</def>
+    </entry>
+    <entry>
+    <form>piṇai</form>
+    <def>doe</def>
+    </entry>
+    <entry>
+    <form>pōla<pc>+</pc></form>
+    <def>be-like</def>
+    <gram type="role">infinitive</gram>
+    </entry>
+    <entry>
+    <form>putalvaṉ</form>
+    <def>son</def>
+    </entry>
+    <entry>
+    <form>naṭuvaṇaṉ</form>
+    <def>centre-he</def>
+    </entry>
+    <entry>
+    <form>āka</form>
+    <def>being</def>
+    <gram type="role">infinitive</gram>
+    </entry>
+    <entry>
+    <form>naṉṟ-um</form>
+    <def>good-it</def>
+    </entry>
+    <entry>
+    <form>iṉitu-maṉṟa</form>
+    <def>sweet-it</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>avar</form>
+    <def>they</def>
+    </entry>
+    <entry>
+    <form>kiṭakkai</form>
+    <def>lying-down</def>
+    </entry>
+    <entry>
+    <form>muṉiv<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>affliction</def>
+    </entry>
+    <entry>
+    <form>iṉṟi</form>
+    <def>without</def>
+    </entry>
+    <entry>
+    <form>nīl</form>
+    <def>Blue-lotus</def>
+    </entry>
+    <entry>
+    <form>niṟa</form>
+    <def>take-on-colour(vr.)</def>
+    </entry>
+    <entry>
+    <form>viyal</form>
+    <def>wide</def>
+    </entry>
+    <entry>
+    <form>akam</form>
+    <def>chest/breast</def>
+    </entry>
+    <entry>
+    <form>kavaiiya</form>
+    <def>embraced-</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>īṉ-um</form>
+    <def>this-world</def>
+    </entry>
+    <entry>
+    <form>umpar-um</form>
+    <def>beyond</def>
+    </entry>
+    <entry>
+    <form>peṟal</form>
+    <def>obtaining</def>
+    </entry>
+    <entry>
+    <form>aruṅkuraitt<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
+    <def>difficult-it</def>
+    </entry>
+    </standOff>
+</TEI>
