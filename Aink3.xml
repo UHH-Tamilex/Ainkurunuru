@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
 <?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta">Aiṅkuṟunūṟu</title> 2. <persName xml:lang="ta">Ōrampōkiyār</persName>
+          <title xml:lang="ta">Aiṅkuṟunūṟu</title> 3. <persName xml:lang="ta">Ōrampōkiyār</persName>
         </title>
         <editor role="translator">Eva Wilden</editor>
       </titleStmt>
@@ -14,48 +14,46 @@
         <msDesc xml:lang="en">
           <msIdentifier>
           </msIdentifier>
-           <msContents>
+          <msContents>
             <summary><p></p>
             </summary>
-          </msContents>    
+          </msContents>
         </msDesc>
       </sourceDesc>
     </fileDesc>
-    <revisionDesc/>
+    <revisionDesc />
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="Aink2-kilavi">
-        <p type="edition">
-          ituvumatu
-        </p>
-        <p type="translation" xml:lang="en">
-        </p>
+      <div xml:id="Aink3-kilavi">
+        <p type="edition"> ituvumatu </p>
+        <p type="translation" xml:lang="en"> </p>
       </div>
-        
-        <div xml:id="Aink2">
-            <lg type="edition">
-<l>              vāḻi yātaṉ vāḻi yaviṉi</l>
-<l>              viḷaika vayalē varuka viravala</l>
-<l>              reṉavēṭ ṭōḷē yāyē yāmē</l>
-<l>              pallitaḻ nīlamoṭu neyta ṉikarkkun</l>
-<l>              taṇṭuṟai yūraṉ kēṇmai	</l>
-<l>              vaḻivaḻic ciṟakka veṉavēṭ ṭēmē.</l>
-            </lg>
-            <lg type="translation" xml:lang="en">
-<l>              “May Ātaṉ prosper, may Aviṉi prosper.</l>
-<l>              let the paddy fields ripen, let the beggars come”</l>
-<l>              thus wants our mother. We,</l>
-<l>              “the intimacy with the man from the village by the cool ghat,</l>
-<l>              where waterlilies rival with many-petalled lotuses,</l>
-<l>              let it grow step by step,” thus we want.</l>
-              
-            </lg>
-        </div>
+
+      <div xml:id="Aink3">
+        <lg type="edition">
+          <l> vāḻi yātaṉ vāḻi yaviṉi</l>
+          <l> pālpala vūṟuka pakaṭupala ciṟakka</l>
+          <l> veṉavēṭ ṭōḷē yāyē yāmē</l>
+          <l> vittiya vuḻavar nelloṭu peyarum</l>
+          <l> pūkkaña lūraṉ ṟaṉmaṉai </l>
+          <l> vāḻkkai polika veṉavēṭ ṭēmē. </l>
+        </lg>
+        <lg type="translation" xml:lang="en">
+          <l> “May Ātaṉ prosper, may Aviṉi prosper.</l>
+          <l> Let many [droughts of] milk trickle, let many bulls grow”,</l>
+          <l> thus wants our mother. We,</l>
+          <l> “the house of the man from the village dense with flowers,</l>
+          <l> where the ploughmen who have sown come back with paddy,</l>
+          <l> let [its] livehood flourish”, thus we want.</l>
+
+
+        </lg>
+      </div>
     </body>
   </text>
-  <standOff type="wordsplit" corresp="#Aink2">
-    <interp type="alignment" select="0">31MG25MG4MG4MG23ML53MG2M,147MG</interp>
+  <standOff type="wordsplit" corresp="#Aink3">
+    <interp type="alignment" select="0">59MG4MG4MG72MG2M,144MG</interp>
     <entry>
     <form>vāḻi</form>
     <def>live-you</def>
@@ -75,28 +73,35 @@
     <def>Aviṉi</def>
     </entry>
     <entry>
-    <form>viḷaika</form>
-    <def>may-ripen</def>
+    <form>pāl</form>
+    <def>milk</def>
+    </entry>
+    <entry>
+    <form>pala</form>
+    <def>many</def>
+    <gram type="role">neuter plural</gram>
+    </entry>
+    <entry>
+    <form><pc>~</pc>ūṟuka</form>
+    <def>may-trickle</def>
     <gram type="role">optative</gram>
     </entry>
     <entry>
-    <form>vayal-ē</form>
-    <def>paddy-field</def>
-    <form type="simple">vayal</form>
-    <gramGrp type="particle"><form>ē</form></gramGrp>
+    <form>pakaṭu</form>
+    <def>bull</def>
     </entry>
     <entry>
-    <form>varuka</form>
-    <def>may-come</def>
+    <form>pala</form>
+    <def>many</def>
+    <gram type="role">neuter plural</gram>
+    </entry>
+    <entry>
+    <form>ciṟakka</form>
+    <def>may-excell</def>
     <gram type="role">optative</gram>
     </entry>
     <entry>
-    <form><pc>~</pc>iravalar</form>
-    <def>beggar</def>
-    <gram type="role">honorific</gram>
-    </entry>
-    <entry>
-    <form>eṉa</form>
+    <form><pc>~</pc>eṉa</form>
     <def>say</def>
     <gram type="role">infinitive</gram>
     </entry>
@@ -119,53 +124,50 @@
     <gramGrp type="particle"><form>ē</form></gramGrp>
     </entry>
     <entry>
-    <form>pal</form>
-    <def>many</def>
+    <form>vittiya</form>
+    <def>sown-</def>
     </entry>
     <entry>
-    <form><pc>+</pc>itaḻ</form>
-    <def>petal</def>
+    <form><pc>~</pc>uḻavar</form>
+    <def>ploughman</def>
+    <gram type="role">honorific</gram>
     </entry>
     <entry>
-    <form>nīlamoṭu</form>
-    <def>blue-lotus</def>
+    <form>nelloṭu</form>
+    <def>paddy</def>
     <gramGrp type="affix"><form>oṭu</form><gram type="role">sociative/instrumental</gram></gramGrp>
     </entry>
     <entry>
-    <form>neytal</form>
-    <def>waterlily</def>
+    <form>peyarum</form>
+    <def>returning-</def>
     </entry>
     <entry>
-    <form>nikarkkum</form>
-    <def>rivalling-</def>
+    <form>pū<pc>+</pc></form>
+    <def>flower</def>
     </entry>
     <entry>
-    <form>taṇ</form>
-    <def>cool</def>
+    <form>kañal</form>
+    <def>be-dense-</def>
     </entry>
     <entry>
-    <form>tuṟai</form>
-    <def>ghat</def>
-    </entry>
-    <entry>
-    <form><pc>~</pc>ūraṉ</form>
+    <form>ūraṉ</form>
     <def>village-he</def>
     </entry>
     <entry>
-    <form>kēṇmai</form>
-    <def>intimacy</def>
+    <form>taṉ</form>
+    <def>self-</def>
     </entry>
     <entry>
-    <form>vaḻi</form>
-    <def>way</def>
+    <form>maṉai</form>
+    <def>house</def>
     </entry>
     <entry>
-    <form>vaḻi<pc>+</pc></form>
-    <def>way</def>
+    <form>vāḻkkai</form>
+    <def>living</def>
     </entry>
     <entry>
-    <form>ciṟakka</form>
-    <def>may-excell</def>
+    <form>polika</form>
+    <def>may-flourish</def>
     <gram type="role">optative</gram>
     </entry>
     <entry>
