@@ -35,10 +35,7 @@
 <form type="sandhi">aruṅkuraittē</form><def xml:lang="en">difficult-it</def><cit><q corresp="#Aink401">mumparum peṟa<hi>laruṅ kuraittē</hi></q></cit></entry>
 <entry>
 <form type="standard">avar</form>
-<form type="sandhi">vavar</form><def xml:lang="en">they</def><cit><q corresp="#Aink401">miṉitu maṉṟa<hi>vavar</hi> kiṭakkai muṉiviṉṟi</q></cit></entry>
-<entry>
-<form type="standard">avarō</form>
-<def xml:lang="en">he</def><cit><q corresp="#Aink343"> <hi>avarō</hi> vārār tāṉvan</q></cit></entry>
+<form type="sandhi">vavar</form><gram type="particle">ō</gram><def xml:lang="en">he</def><def xml:lang="en">they</def><cit><q corresp="#Aink343"> <hi>avarō</hi> vārār tāṉvan</q></cit><cit><q corresp="#Aink401">miṉitu maṉṟa<hi>vavar</hi> kiṭakkai muṉiviṉṟi</q></cit></entry>
 <entry>
 <form type="standard">aviṉi</form>
 <form type="sandhi">yaviṉi</form><def xml:lang="en">Aviṉi</def><cit><q corresp="#Aink1">vāḻi <hi>yaviṉi</hi> neṟpala polika</q></cit></entry>
@@ -217,8 +214,8 @@
 <form type="standard">polika</form>
 <def xml:lang="en">may-flourish</def><cit><q corresp="#Aink1">neṟpala <hi>polika</hi> poṉperitu ciṟakka</q></cit></entry>
 <entry>
-<form type="standard">poḻutuē</form>
-<form type="sandhi">poḻutē</form><def xml:lang="en">season</def><cit><q corresp="#Aink343">yuṭaiyum <hi>poḻut</hi></q></cit></entry>
+<form type="standard">poḻutu</form>
+<form type="sandhi">poḻut</form><gram type="particle">ē</gram><def xml:lang="en">season</def><cit><q corresp="#Aink343">yuṭaiyum <hi>poḻut</hi></q></cit></entry>
 <entry>
 <form type="standard">poṉ</form>
 <def xml:lang="en">gold</def><cit><q corresp="#Aink1">polika <hi>poṉ</hi>peritu ciṟakka</q></cit></entry>
@@ -274,8 +271,8 @@
 <form type="standard">vakai</form>
 <def xml:lang="en">kind</def><cit><q corresp="#Aink0">ṇiḻaṟkīḻ mū<hi>vakai</hi> yulaku mukiḻttaṉa</q></cit></entry>
 <entry>
-<form type="standard">vantaṉṟuē</form>
-<form type="sandhi">vantaṉṟē</form><def xml:lang="en">came</def><cit><q corresp="#Aink343">vārār tāṉ<hi>van taṉṟē</hi> tiṇinilaik kōṅkam</q></cit></entry>
+<form type="standard">vantaṉṟu</form>
+<form type="sandhi">vantaṉṟ</form><gram type="particle">ē</gram><def xml:lang="en">came</def><cit><q corresp="#Aink343">vārār tāṉ<hi>van taṉṟē</hi> tiṇinilaik kōṅkam</q></cit></entry>
 <entry>
 <form type="standard">varaiyara</form>
 <def xml:lang="en">mountain-nymph</def><cit><q corresp="#Aink204">tevaṉkol <hi>varaiyara</hi> makaḷiri ṉiraiyuṭaṉ</q></cit></entry>
