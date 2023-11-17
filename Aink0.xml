@@ -6,9 +6,9 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta">Aiṅkuṟunūṟu</title> 0. <persName xml:lang="ta">poet name here</persName> vāḻttu.
+            <title xml:lang="ta">Aiṅkuṟunūṟu</title>. <term xml:lang="ta">kaṭavuḷ vāḻttu</term>.
         </title>
-        <editor role="translator">[your name here]</editor>
+        <editor role="translator">Eva Wilden</editor>
       </titleStmt>
       <sourceDesc>
         <msDesc xml:lang="en">
@@ -98,6 +98,8 @@
     </entry>
     <entry>
     <form>muṟai-<pc>~</pc>ē</form>
+    <form type="simple">muṟai</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
     <def>order</def>
     </entry>
     </standOff>
