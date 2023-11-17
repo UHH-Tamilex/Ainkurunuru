@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+            <title xml:lang="ta">Aiṅkuṟunūṟu</title> 343. <persName xml:lang='ta'>Ōtalāntaiyār</persName>
+        </title>
+        <editor role="translator">Nikolay Gordiychuk</editor>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc/>
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+     
+        <div xml:id="Aink343">
+            <lg type="edition">
+            <l>avarō vārār tāṉvan taṉṟē</l>
+            <l>tiṇinilaik kōṅkam payanta</l>
+            <l>vaṇimiku koḻumukai yuṭaiyum poḻutē</l>
+            </lg>
+            <lg type="translation" xml:lang="en">
+             <l>Oh, indeed he isn’t coming! [But] the season has come,</l>  
+             <l>when thick buds of great beauty,  </l>
+             <l>produced by kōṅkam [tree] that has firmness, blossom.</l>
+            </lg>
+        </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#Aink343">
+    <interp type="alignment" select="0">4MG16M2G54M2GM,80M</interp>
+    <entry>
+    <form>avar-ō</form>
+    <def>he</def>
+    </entry>
+    <entry>
+    <form>vārār</form>
+    <def>come-not</def>
+    </entry>
+    <entry>
+    <form>tāṉ</form>
+    <def>indeed</def>
+    </entry>
+    <entry>
+    <form>vantaṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
+    <def>came</def>
+    </entry>
+    <entry>
+    <form>tiṇi</form>
+    <def>firm</def>
+    </entry>
+    <entry>
+    <form>nilai<pc>+</pc></form>
+    <def>condition</def>
+    </entry>
+    <entry>
+    <form>kōṅkam</form>
+    <def>myrobalan</def>
+    </entry>
+    <entry>
+    <form>payanta</form>
+    <def>produced</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>aṇi</form>
+    <def>beauty</def>
+    </entry>
+    <entry>
+    <form>miku</form>
+    <def>increase</def>
+    </entry>
+    <entry>
+    <form>koḻu</form>
+    <def>thick</def>
+    </entry>
+    <entry>
+    <form>mukai</form>
+    <def>bud</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>uṭaiyum</form>
+    <def>break</def>
+    </entry>
+    <entry>
+    <form>poḻut<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
+    <def>season</def>
+    </entry>
+    </standOff>
+</TEI>
