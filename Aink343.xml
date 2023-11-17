@@ -44,6 +44,8 @@
     <interp type="alignment" select="0">4MG16M2G54M2GM,80M</interp>
     <entry>
     <form>avar-ō</form>
+    <form type="simple">avar</form>
+    <gramGrp type="particle"><form>ō</form></gramGrp>
     <def>he</def>
     </entry>
     <entry>
@@ -56,6 +58,8 @@
     </entry>
     <entry>
     <form>vantaṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
+    <form type="simple">vantaṉṟu</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
     <def>came</def>
     </entry>
     <entry>
@@ -96,6 +100,8 @@
     </entry>
     <entry>
     <form>poḻut<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
+    <form type="simple">poḻutu</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
     <def>season</def>
     </entry>
     </standOff>
