@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <title xml:lang="ta">Aiṅkuṟunūṟu</title> 8. <persName xml:lang="ta">Ōrampōkiyār</persName>
+        </title>
+        <editor role="translator">Eva Wilden</editor>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc />
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <div xml:id="Aink8-kilavi">
+        <p type="edition"> ituvumatu. </p>
+        <p type="translation" xml:lang="en"> </p>
+      </div>
+
+      <div xml:id="Aink8">
+        <lg type="edition">
+<l>          vāḻi yātaṉ vāḻi yaviṉi</l>
+<l>          yaracumuṟai ceyka kaḷavil lākuka</l>
+<l>          veṉavēṭ ṭōḷē yāyē yāmē</l>
+<l>          yalaṅkuciṉai māat taṇimayi lirukkum</l>
+<l>          pūkkaña lūraṉ cūḷivaṇ	</l>
+<l>          vāyppa tāka veṉavēṭ ṭēmē.</l>
+        </lg>
+        <lg type="translation" xml:lang="en">
+<l>          “May Ātaṉ prosper, may Aviṉi prosper.</l>
+<l>          Let the king do justice, let their be no theft”,</l>
+<l>          thus wants our mother. We,</l>
+<l>          “the oath of the man from a village dense with flowers,</l>
+<l>          where ornate peacocks perch in mango trees with swaying branches,</l>
+<l>          let it be successful here”, thus we want.</l>
+          
+
+
+        </lg>
+      </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#Aink8">
+    <interp type="alignment" select="0">40MG18MG4MG4MG18MG41MG13MG2M,146MG</interp>
+    <entry>
+    <form>vāḻi</form>
+    <def>live-you</def>
+    <gram type="role">subjuntive</gram>
+    </entry>
+    <entry>
+    <form><pc>~</pc>ātaṉ</form>
+    <def>Ātaṉ</def>
+    </entry>
+    <entry>
+    <form>vāḻi</form>
+    <def>live-you</def>
+    <gram type="role">subjuntive</gram>
+    </entry>
+    <entry>
+    <form><pc>~</pc>aviṉi</form>
+    <def>Aviṉi</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>aracu</form>
+    <def>king</def>
+    </entry>
+    <entry>
+    <form>muṟai</form>
+    <def>order</def>
+    </entry>
+    <entry>
+    <form>ceyka</form>
+    <def>may-make</def>
+    <gram type="role">optative</gram>
+    </entry>
+    <entry>
+    <form>kaḷav<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>theft</def>
+    </entry>
+    <entry>
+    <form>il</form>
+    <def>not</def>
+    </entry>
+    <entry>
+    <form><pc>+</pc>ākuka</form>
+    <def>may-become</def>
+    <gram type="role">optative</gram>
+    </entry>
+    <entry>
+    <form><pc>~</pc>eṉa</form>
+    <def>say</def>
+    <gram type="role">infinitive</gram>
+    </entry>
+    <entry>
+    <form>vēṭṭōḷ-ē</form>
+    <def>wanted-she</def>
+    <form type="simple">vēṭṭōḷ</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    <entry>
+    <form>yāy-ē</form>
+    <def>your-mother</def>
+    <form type="simple">yāy</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    <entry>
+    <form>yām-ē</form>
+    <def>we</def>
+    <form type="simple">yām</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    <entry>
+    <form><pc>~</pc>alaṅku</form>
+    <def>sway-</def>
+    </entry>
+    <entry>
+    <form>ciṉai</form>
+    <def>branch</def>
+    </entry>
+    <entry>
+    <form>māatt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>mango-tree-</def>
+    </entry>
+    <entry>
+    <form>aṇi</form>
+    <def>adorn-</def>
+    </entry>
+    <entry>
+    <form>mayil</form>
+    <def>peacock</def>
+    </entry>
+    <entry>
+    <form>irukkum</form>
+    <def>being-</def>
+    </entry>
+    <entry>
+    <form>pū<pc>+</pc></form>
+    <def>flower</def>
+    </entry>
+    <entry>
+    <form>kañal</form>
+    <def>be-dense-</def>
+    </entry>
+    <entry>
+    <form>ūraṉ</form>
+    <def>village-he</def>
+    </entry>
+    <entry>
+    <form>cūḷ</form>
+    <def>oath</def>
+    </entry>
+    <entry>
+    <form>ivaṇ</form>
+    <def>here</def>
+    </entry>
+    <entry>
+    <form>vāyppat<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>excel-it</def>
+    </entry>
+    <entry>
+    <form>āka</form>
+    <def>become</def>
+    <gram type="role">optative</gram>
+    </entry>
+    <entry>
+    <form><pc>~</pc>eṉa</form>
+    <def>say</def>
+    <gram type="role">infinitive</gram>
+    </entry>
+    <entry>
+    <form>vēṭṭēm-ē</form>
+    <def>wanted-we</def>
+    <form type="simple">vēṭṭēm</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    </standOff>
+</TEI>
