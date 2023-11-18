@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <title xml:lang="ta">Aiṅkuṟunūṟu</title> 5. <persName xml:lang="ta">Ōrampōkiyār</persName>
+        </title>
+        <editor role="translator">Eva Wilden</editor>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc />
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <div xml:id="Aink5-kilavi">
+        <p type="edition"> ituvumatu </p>
+        <p type="translation" xml:lang="en"> </p>
+      </div>
+
+      <div xml:id="Aink5">
+        <lg type="edition">
+<l>          vāḻi yātaṉ vāḻi yaviṉi</l>
+<l>          paciyil lākuka piṇicē ṇīṅkuka</l>
+<l>          veṉavēṭ ṭōḷē yāyē yāmē</l>
+<l>          mutalaip pōttu muḻumī ṉārun</l>
+<l>          taṇṭuṟai yūraṉ ṟērem</l>
+<l>          muṉkaṭai niṟka veṉavēṭ ṭēmē.</l>
+        </lg>
+        <lg type="translation" xml:lang="en">
+<l>          “May Ātaṉ prosper, may Aviṉi prosper.</l>
+<l>          May there be no hunger, may sickness leave into the distance”,</l>
+<l>          thus wants our mother. We,</l>
+<l>          “the chariot of the man from the village by the cool ghat,</l>
+<l>          where the male of the crocodile becomes full of whole fish,</l>
+<l>          let it stand at our front gate”, thus we want.</l>
+
+
+        </lg>
+      </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#Aink5">
+    <interp type="alignment" select="0">39ML16MG4MG4MG66MG2M,135MG</interp>
+    <entry>
+    <form>vāḻi</form>
+    <def>live-you</def>
+    <gram type="role">subjuntive</gram>
+    </entry>
+    <entry>
+    <form><pc>~</pc>ātaṉ</form>
+    <def>Ātaṉ</def>
+    </entry>
+    <entry>
+    <form>vāḻi</form>
+    <def>live-you</def>
+    <gram type="role">subjuntive</gram>
+    </entry>
+    <entry>
+    <form><pc>~</pc>aviṉi</form>
+    <def>Aviṉi</def>
+    </entry>
+    <entry>
+    <form>paci</form>
+    <def>hunger</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>il</form>
+    <def>not</def>
+    </entry>
+    <entry>
+    <form><pc>+</pc>ākuka</form>
+    <def>may-become</def>
+    <gram type="role">optative</gram>
+    </entry>
+    <entry>
+    <form>piṇi</form>
+    <def>sickness</def>
+    </entry>
+    <entry>
+    <form>cēṇ</form>
+    <def>distance</def>
+    </entry>
+    <entry>
+    <form>nīṅkuka</form>
+    <def>may-leave</def>
+    <gram type="role">optative</gram>
+    </entry>
+    <entry>
+    <form><pc>~</pc>eṉa</form>
+    <def>say</def>
+    <gram type="role">infinitive</gram>
+    </entry>
+    <entry>
+    <form>vēṭṭōḷ-ē</form>
+    <def>wanted-she</def>
+    <form type="simple">vēṭṭōḷ</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    <entry>
+    <form>yāy-ē</form>
+    <def>your-mother</def>
+    <form type="simple">yāy</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    <entry>
+    <form>yām-ē</form>
+    <def>we</def>
+    <form type="simple">yām</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    <entry>
+    <form>mutalai<pc>+</pc></form>
+    <def>crocodile</def>
+    </entry>
+    <entry>
+    <form>pōttu</form>
+    <def>male</def>
+    </entry>
+    <entry>
+    <form>muḻu</form>
+    <def>whole</def>
+    </entry>
+    <entry>
+    <form>mīṉ</form>
+    <def>fish</def>
+    </entry>
+    <entry>
+    <form>ārum</form>
+    <def>becoming-full-</def>
+    </entry>
+    <entry>
+    <form>taṇ</form>
+    <def>cool</def>
+    </entry>
+    <entry>
+    <form>tuṟai</form>
+    <def>ghat</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>ūraṉ</form>
+    <def>village-he</def>
+    </entry>
+    <entry>
+    <form>tēr</form>
+    <def>chariot</def>
+    </entry>
+    <entry>
+    <form>em</form>
+    <def>our-</def>
+    </entry>
+    <entry>
+    <form>muṉ</form>
+    <def>front</def>
+    </entry>
+    <entry>
+    <form>kaṭai</form>
+    <def>gate</def>
+    </entry>
+    <entry>
+    <form>niṟka</form>
+    <def>may-stand</def>
+    <gram type="role">optative</gram>
+    </entry>
+    <entry>
+    <form><pc>~</pc>eṉa</form>
+    <def>say</def>
+    <gram type="role">infinitive</gram>
+    </entry>
+    <entry>
+    <form>vēṭṭēm-ē</form>
+    <def>wanted-we</def>
+    <form type="simple">vēṭṭēm</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    </standOff>
+
+</TEI>
