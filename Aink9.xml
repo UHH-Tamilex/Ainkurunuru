@@ -40,12 +40,12 @@
           <l> yampalā kaṟka veṉavēṭ ṭēmē.</l>
         </lg>
         <lg type="translation" xml:lang="en">
-          <l> “May Ātaṉ prosper, may Aviṉi prosper.</l>
-          <l> Let what is good greatly prevail, let what is bad be nought”,</l>
+          <l> 'May Ātaṉ prosper, may Aviṉi prosper.</l>
+          <l> Let what is good greatly prevail, let what is bad be nought,'</l>
           <l> thus wants our mother. We,</l>
-          <l> “the intimacy with the man from the village by the cool ghat,</l>
-          <l> where cranes full of carp rest on heaps,</l>
-          <l> let it not become gossip”, thus we want.</l>
+          <l> 'The intimacy with the man from the village by the cool ghat,</l>
+          <l> where cranes full of carp rest on heaps:</l>
+          <l> let it not become gossip,' thus we want.</l>
 
 
         </lg>
@@ -55,128 +55,128 @@
   <standOff type="wordsplit" corresp="#Aink9">
     <interp type="alignment" select="0">40MG18MG4MG4MG66MG2M,138MG</interp>
     <entry>
-    <form>vāḻi</form>
-    <def>live-you</def>
-    <gram type="role">subjuntive</gram>
+      <form>vāḻi</form>
+      <def>live-you</def>
+      <gram type="role">subjuntive</gram>
     </entry>
     <entry>
-    <form><pc>~</pc>ātaṉ</form>
-    <def>Ātaṉ</def>
+      <form><pc>~</pc>ātaṉ</form>
+      <def>Ātaṉ</def>
     </entry>
     <entry>
-    <form>vāḻi</form>
-    <def>live-you</def>
-    <gram type="role">subjuntive</gram>
+      <form>vāḻi</form>
+      <def>live-you</def>
+      <gram type="role">subjuntive</gram>
     </entry>
     <entry>
-    <form><pc>~</pc>aviṉi</form>
-    <def>Aviṉi</def>
+      <form><pc>~</pc>aviṉi</form>
+      <def>Aviṉi</def>
     </entry>
     <entry>
-    <form>naṉṟu</form>
-    <def>good-it</def>
+      <form>naṉṟu</form>
+      <def>good-it</def>
     </entry>
     <entry>
-    <form>peritu</form>
-    <def>big-it</def>
+      <form>peritu</form>
+      <def>big-it</def>
     </entry>
     <entry>
-    <form>ciṟakka</form>
-    <def>may-excel</def>
-    <gram type="role">optative</gram>
+      <form>ciṟakka</form>
+      <def>may-excel</def>
+      <gram type="role">optative</gram>
     </entry>
     <entry>
-    <form>tīt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
-    <def>evil</def>
+      <form>tīt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+      <def>evil</def>
     </entry>
     <entry>
-    <form>il</form>
-    <def>not-</def>
+      <form>il</form>
+      <def>not-</def>
     </entry>
     <entry>
-    <form><pc>+</pc>ākuka</form>
-    <def>may-become</def>
-    <gram type="role">optative</gram>
+      <form><pc>+</pc>ākuka</form>
+      <def>may-become</def>
+      <gram type="role">optative</gram>
     </entry>
     <entry>
-    <form><pc>~</pc>eṉa</form>
-    <def>say</def>
-    <gram type="role">infinitive</gram>
+      <form><pc>~</pc>eṉa</form>
+      <def>say</def>
+      <gram type="role">infinitive</gram>
     </entry>
     <entry>
-    <form>vēṭṭōḷ-ē</form>
-    <def>wanted-she</def>
-    <form type="simple">vēṭṭōḷ</form>
-    <gramGrp type="particle"><form>ē</form></gramGrp>
+      <form>vēṭṭōḷ-ē</form>
+      <def>wanted-she</def>
+      <form type="simple">vēṭṭōḷ</form>
+      <gramGrp type="particle"><form>ē</form></gramGrp>
     </entry>
     <entry>
-    <form>yāy-ē</form>
-    <def>your-mother</def>
-    <form type="simple">yāy</form>
-    <gramGrp type="particle"><form>ē</form></gramGrp>
+      <form>yāy-ē</form>
+      <def>your-mother</def>
+      <form type="simple">yāy</form>
+      <gramGrp type="particle"><form>ē</form></gramGrp>
     </entry>
     <entry>
-    <form>yām-ē</form>
-    <def>we</def>
-    <form type="simple">yām</form>
-    <gramGrp type="particle"><form>ē</form></gramGrp>
+      <form>yām-ē</form>
+      <def>we</def>
+      <form type="simple">yām</form>
+      <gramGrp type="particle"><form>ē</form></gramGrp>
     </entry>
     <entry>
-    <form>kayal</form>
-    <def>carp</def>
+      <form>kayal</form>
+      <def>carp</def>
     </entry>
     <entry>
-    <form>ār</form>
-    <def>becoming-full-</def>
+      <form>ār</form>
+      <def>becoming-full-</def>
     </entry>
     <entry>
-    <form>nārai</form>
-    <def>crane</def>
+      <form>nārai</form>
+      <def>crane</def>
     </entry>
     <entry>
-    <form>pōrviṉ</form>
-    <def>heap</def>
-    <gramGrp type="affix"><form>iṉ</form><gram type="role">locative</gram></gramGrp>
+      <form>pōrviṉ</form>
+      <def>heap</def>
+      <gramGrp type="affix"><form>iṉ</form><gram type="role">locative</gram></gramGrp>
     </entry>
     <entry>
-    <form>cēkkum</form>
-    <def>dwelling-</def>
+      <form>cēkkum</form>
+      <def>dwelling-</def>
     </entry>
     <entry>
-    <form>taṇ</form>
-    <def>cool</def>
+      <form>taṇ</form>
+      <def>cool</def>
     </entry>
     <entry>
-    <form>tuṟai</form>
-    <def>ghat</def>
+      <form>tuṟai</form>
+      <def>ghat</def>
     </entry>
     <entry>
-    <form><pc>~</pc>ūraṉ</form>
-    <def>village-he</def>
+      <form><pc>~</pc>ūraṉ</form>
+      <def>village-he</def>
     </entry>
     <entry>
-    <form>kēṇmai</form>
-    <def>intimacy</def>
+      <form>kēṇmai</form>
+      <def>intimacy</def>
     </entry>
     <entry>
-    <form><pc>~</pc>ampal</form>
-    <def>rumour</def>
+      <form><pc>~</pc>ampal</form>
+      <def>rumour</def>
     </entry>
     <entry>
-    <form>ākaṟka</form>
-    <def>may-not-become</def>
-    <gram type="role">optative</gram>
+      <form>ākaṟka</form>
+      <def>may-not-become</def>
+      <gram type="role">optative</gram>
     </entry>
     <entry>
-    <form><pc>~</pc>eṉa</form>
-    <def>say</def>
-    <gram type="role">infinitive</gram>
+      <form><pc>~</pc>eṉa</form>
+      <def>say</def>
+      <gram type="role">infinitive</gram>
     </entry>
     <entry>
-    <form>vēṭṭēm-ē</form>
-    <def>wanted-we</def>
-    <form type="simple">vēṭṭēm</form>
-    <gramGrp type="particle"><form>ē</form></gramGrp>
+      <form>vēṭṭēm-ē</form>
+      <def>wanted-we</def>
+      <form type="simple">vēṭṭēm</form>
+      <gramGrp type="particle"><form>ē</form></gramGrp>
     </entry>
-    </standOff>
+  </standOff>
 </TEI>
