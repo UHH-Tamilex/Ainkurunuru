@@ -6,7 +6,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-          <title xml:lang="ta">Aiṅkuṟunūṟu</title> 3. <persName xml:lang="ta">Ōrampōkiyār</persName>
+          <title xml:lang="ta">Aiṅkuṟunūṟu</title> 10. <persName xml:lang="ta">Ōrampōkiyār</persName>
         </title>
         <editor role="translator">Eva Wilden</editor>
       </titleStmt>
@@ -25,35 +25,36 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="Aink3-kilavi">
+      <div xml:id="Aink10-kilavi">
         <p type="edition"> ituvumatu. </p>
         <p type="translation" xml:lang="en"> </p>
       </div>
 
-      <div xml:id="Aink3">
+      <div xml:id="Aink10">
         <lg type="edition">
-          <l> vāḻi yātaṉ vāḻi yaviṉi</l>
-          <l> pālpala vūṟuka pakaṭupala ciṟakka</l>
-          <l> veṉavēṭ ṭōḷē yāyē yāmē</l>
-          <l> vittiya vuḻavar nelloṭu peyarum</l>
-          <l> pūkkaña lūraṉ ṟaṉmaṉai </l>
-          <l> vāḻkkai polika veṉavēṭ ṭēmē. </l>
+<l>          vāḻi yātaṉ vāḻi yaviṉi</l>
+<l>          māri vāykka vaḷanaṉi ciṟakka</l>
+<l>          veṉavēṭ ṭōḷē yāyē yāmē</l>
+<l>          pūtta māattup pulālañ ciṟumīṉ</l>
+<l>          ṟaṇṭuṟai yūraṉ ṟaṉṉoṭu	</l>
+<l>          koṇṭaṉaṉ celka veṉavēṭ ṭēmē.</l>
         </lg>
         <lg type="translation" xml:lang="en">
-          <l> “May Ātaṉ prosper, may Aviṉi prosper.</l>
-          <l> Let many [droughts of] milk trickle, let many bulls grow”,</l>
-          <l> thus wants our mother. We,</l>
-          <l> “the house of the man from the village dense with flowers,</l>
-          <l> where the ploughmen who have sown come back with paddy,</l>
-          <l> let [its] livehood flourish”, thus we want.</l>
+<l>          'May Ātaṉ prosper, may Aviṉi prosper.</l>
+<l>          May the showers be excellent, may fertility be extraordinary,'</l>
+<l>          thus wants our mother. We,</l>
+<l>          'The man from the village by the cool ghat</l>
+<l>          with flowering mango trees [and] reeking little fish:</l>
+<l>          let him go as one who takes [us] with him,' thus we want. </l>
+          
 
 
         </lg>
       </div>
     </body>
   </text>
-  <standOff type="wordsplit" corresp="#Aink3">
-    <interp type="alignment" select="0">59MG4MG4MG72MG2M,144MG</interp>
+  <standOff type="wordsplit" corresp="#Aink10">
+    <interp type="alignment" select="0">33MR21MG4MG4MG70MG2M,138MG</interp>
     <entry>
     <form>vāḻi</form>
     <def>live-you</def>
@@ -73,27 +74,21 @@
     <def>Aviṉi</def>
     </entry>
     <entry>
-    <form>pāl</form>
-    <def>milk</def>
+    <form>māri</form>
+    <def>shower</def>
     </entry>
     <entry>
-    <form>pala</form>
-    <def>many</def>
-    <gram type="role">neuter plural</gram>
-    </entry>
-    <entry>
-    <form><pc>~</pc>ūṟuka</form>
-    <def>may-trickle</def>
+    <form>vāykka</form>
+    <def>may-reach</def>
     <gram type="role">optative</gram>
     </entry>
     <entry>
-    <form>pakaṭu</form>
-    <def>bull</def>
+    <form>vaḷam</form>
+    <def>fertility</def>
     </entry>
     <entry>
-    <form>pala</form>
-    <def>many</def>
-    <gram type="role">neuter plural</gram>
+    <form>naṉi</form>
+    <def>well</def>
     </entry>
     <entry>
     <form>ciṟakka</form>
@@ -124,50 +119,49 @@
     <gramGrp type="particle"><form>ē</form></gramGrp>
     </entry>
     <entry>
-    <form>vittiya</form>
-    <def>sown-</def>
+    <form>pūtta</form>
+    <def>flowered-</def>
     </entry>
     <entry>
-    <form><pc>~</pc>uḻavar</form>
-    <def>ploughman</def>
-    <gram type="role">honorific</gram>
+    <form>māattu<pc>+</pc></form>
+    <def>mango-tree</def>
     </entry>
     <entry>
-    <form>nelloṭu</form>
-    <def>paddy</def>
-    <gramGrp type="affix"><form>oṭu</form><gram type="role">sociative/instrumental</gram></gramGrp>
+    <form>pulālam</form>
+    <def>fish-stench</def>
     </entry>
     <entry>
-    <form>peyarum</form>
-    <def>returning-</def>
+    <form>ciṟu</form>
+    <def>little</def>
     </entry>
     <entry>
-    <form>pū<pc>+</pc></form>
-    <def>flower</def>
+    <form>mīṉ</form>
+    <def>fish</def>
     </entry>
     <entry>
-    <form>kañal</form>
-    <def>be-dense-</def>
+    <form>taṇ</form>
+    <def>cool</def>
     </entry>
     <entry>
-    <form>ūraṉ</form>
+    <form>tuṟai</form>
+    <def>ghat</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>ūraṉ</form>
     <def>village-he</def>
     </entry>
     <entry>
-    <form>taṉ</form>
-    <def>self-</def>
+    <form>taṉṉoṭu</form>
+    <def>self</def>
+    <gramGrp type="affix"><form>oṭu</form><gram type="role">sociative/instrumental</gram></gramGrp>
     </entry>
     <entry>
-    <form>maṉai</form>
-    <def>house</def>
+    <form>koṇṭaṉaṉ</form>
+    <def>taken-he</def>
     </entry>
     <entry>
-    <form>vāḻkkai</form>
-    <def>living</def>
-    </entry>
-    <entry>
-    <form>polika</form>
-    <def>may-flourish</def>
+    <form>celka</form>
+    <def>may-go</def>
     <gram type="role">optative</gram>
     </entry>
     <entry>
