@@ -12,6 +12,10 @@ const go = () => {
             flist.push(f);
     });
     
+    flist.sort((a,b) => 
+        parseInt(a.replaceAll(/\D/g,'')) > parseInt(b.replaceAll(/\D/g,''))
+    );
+
     const list = [];
     for(const f of flist) {
         const xmlTxt = Fs.readFileSync(dir + f,{encoding: 'utf-8'});
