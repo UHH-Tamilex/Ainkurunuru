@@ -11,6 +11,10 @@ const go = () => {
             if(/\.xml$/.test(f))
                 flist.push('wordlists/'+f);
         });
+        flist.sort((a,b) =>
+            parseInt(a.replaceAll(/\D/g,'')) - parseInt(b.replaceAll(/\D/g,''))
+        );
+
         readfiles(flist);
     });
 };
