@@ -10,6 +10,7 @@
         </title>
         <editor role="translator">Eva Wilden</editor>
       </titleStmt>
+      <publicationStmt><p/></publicationStmt>
       <sourceDesc>
         <msDesc xml:lang="en">
           <msIdentifier>
@@ -21,7 +22,7 @@
         </msDesc>
       </sourceDesc>
     </fileDesc>
-    <revisionDesc/>
+    <revisionDesc><change/></revisionDesc>
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
@@ -31,9 +32,9 @@
 <l>              toruva ṉirutā ṇiḻaṟkīḻ</l>
 <l>              mūvakai yulaku mukiḻttaṉa muṟaiyē.</l>
             </lg>
-            <lg type="translation" xml:lang="en">
+            <!--lg type="translation" xml:lang="en">
 
-            </lg>
+            </lg-->
         </div>
     </body>
   </text>
@@ -91,18 +92,20 @@
 <form><pc>~</pc>ulak<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-um</form>
 <def>world</def>
 <form type="simple">ulaku</form>
-<gramGrp type="particle"><form>um</form></gramGrp>
+<gramGrp type="particle"><m>um</m></gramGrp>
 </entry>
 <entry>
 <form>mukiḻttaṉa</form>
 <def>budded-they</def>
+<gramGrp>
 <gram type="role">neuter plural</gram>
+</gramGrp>
 </entry>
 <entry>
 <form>muṟai-<pc>~</pc>ē</form>
 <def>order</def>
 <form type="simple">muṟai</form>
-<gramGrp type="particle"><form>ē</form></gramGrp>
+<gramGrp type="particle"><m>ē</m></gramGrp>
 </entry>
 </standOff>
 </TEI>

@@ -81,16 +81,18 @@
 </xsl:template-->
 
 <xsl:template match="x:publicationStmt">
-    <xsl:element name="p">
-        <xsl:text>Published in </xsl:text>
-        <xsl:apply-templates select="x:date"/>
-        <xsl:text> by </xsl:text>
-        <xsl:apply-templates select="x:publisher"/> 
-        <xsl:if test="x:pubPlace">
-            <xsl:text>in </xsl:text><xsl:apply-templates select="x:pubPlace"/>
-        </xsl:if>
-        <xsl:text>.</xsl:text>
-    </xsl:element>
+    <xsl:if test="x:date and x:publisher">
+        <xsl:element name="p">
+            <xsl:text>Published in </xsl:text>
+            <xsl:apply-templates select="x:date"/>
+            <xsl:text> by </xsl:text>
+            <xsl:apply-templates select="x:publisher"/> 
+            <xsl:if test="x:pubPlace">
+                <xsl:text>in </xsl:text><xsl:apply-templates select="x:pubPlace"/>
+            </xsl:if>
+            <xsl:text>.</xsl:text>
+        </xsl:element>
+    </xsl:if>
 </xsl:template>
 
 <xsl:template match="x:title">
