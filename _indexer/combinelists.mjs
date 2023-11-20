@@ -117,7 +117,7 @@ const addWords = (words, wits, fname) => {
     for(const entry of entries) {
         const word = entry.querySelector('form[type="standard"]').textContent;
         const sandhi = entry.querySelector('form[type="sandhi"]');
-        const particle = entry.querySelector('gramGrp[type="particle"] form');
+        const particle = entry.querySelector('gramGrp[type="particle"] form, gramGrp[type="particle"] m');
         const def = entry.querySelector('def');
         const app = entry.querySelector('app');
         const cit = entry.querySelector('cit');
