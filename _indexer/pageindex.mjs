@@ -12,8 +12,8 @@ const go = () => {
             flist.push(f);
     });
     
-    flist.sort((a,b) => 
-        parseInt(a.replaceAll(/\D/g,'')) > parseInt(b.replaceAll(/\D/g,''))
+    flist.sort((a,b) =>
+        parseInt(a.replaceAll(/\D/g,'')) - parseInt(b.replaceAll(/\D/g,''))
     );
 
     const list = [];
