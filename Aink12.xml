@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <title xml:lang="ta">Aiṅkuṟunūṟu</title> 12. <persName xml:lang="ta">Ōrampōkiyār</persName>
+        </title>
+        <editor role="translator">Eva Wilden</editor>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc />
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <div xml:id="Aink12-kilavi">
+        <p type="edition">uḻaiyar neruṅkik kūṟiya tiṟamum taṉatu āṟṟāmaiyum niṉaintu vāyil nērak
+          karutiya talaimakaḷ parattaiyarkkup piṉpum avaṉ ciṟappuc ceytāṉ eṉpatu kēṭṭup poṟāḷāyk
+          karuttaḻintu taṉṉuḷḷē colliyatu.</p>
+        <p type="translation" xml:lang="en"> </p>
+      </div>
+
+      <div xml:id="Aink12">
+        <lg type="edition">
+          <l> karaicēr vēḻaṅ karumpiṟ pūkkun</l>
+          <l> tuṟaikē ḻūraṉ koṭumai naṉṟu</l>
+          <l> māṟṟuka tilla yāmē</l>
+          <l> tōṟka tillaveṉ ṟaṭameṉ ṟōḷē.</l>
+        </lg>
+        <lg type="translation" xml:lang="en">
+          <l> The cruelty of the man from the village that has a ghat,</l>
+          <l> where the wild cane from the shore enter into the sugarcane,</l>
+          <l> let us bear [it] well.</l>
+          <l> Let my broad soft shoulders be defeated.</l>
+
+
+        </lg>
+      </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#Aink12">
+    <interp type="alignment" select="0">50M2G8MG8MG6MG18MG2M,97MG</interp>
+    <entry>
+    <form>karai</form>
+    <def>bank</def>
+    </entry>
+    <entry>
+    <form>cēr</form>
+    <def>join-</def>
+    </entry>
+    <entry>
+    <form>vēḻam</form>
+    <def>wild-cane</def>
+    </entry>
+    <entry>
+    <form>karumpiṉ</form>
+    <def>sugarcane</def>
+    <gramGrp type="affix"><form>iṉ</form><gram type="role">locative</gram></gramGrp>
+    </entry>
+    <entry>
+    <form>pūkkum</form>
+    <def>flowering-</def>
+    </entry>
+    <entry>
+    <form>tuṟai</form>
+    <def>ghat</def>
+    </entry>
+    <entry>
+    <form>kēḻ</form>
+    <def>have-</def>
+    </entry>
+    <entry>
+    <form>ūraṉ</form>
+    <def>village-he</def>
+    </entry>
+    <entry>
+    <form>koṭumai</form>
+    <def>cruelty</def>
+    </entry>
+    <entry>
+    <form>naṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-um</form>
+    <def>good-it</def>
+    <form type="simple">naṉṟu</form>
+    <gramGrp type="particle"><form>um</form></gramGrp>
+    </entry>
+    <entry>
+    <form>āṟṟuka-tilla</form>
+    <def>may-bear</def>
+    <form type="simple">āṟṟuka</form>
+    <gram type="role">optative</gram>
+    <gramGrp type="particle"><form>tilla</form></gramGrp>
+    </entry>
+    <entry>
+    <form>yām-ē</form>
+    <def>we</def>
+    <form type="simple">yām</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    <entry>
+    <form>tōṟka-tilla</form>
+    <def>let-be-defeated</def>
+    <form type="simple">tōṟka</form>
+    <gram type="role">optative</gram>
+    <gramGrp type="particle"><form>tilla</form></gramGrp>
+    </entry>
+    <entry>
+    <form><pc>~</pc>eṉ</form>
+    <def>my-</def>
+    </entry>
+    <entry>
+    <form>taṭa</form>
+    <def>broad</def>
+    </entry>
+    <entry>
+    <form>mel</form>
+    <def>soft</def>
+    </entry>
+    <entry>
+    <form>tōḷ-ē</form>
+    <def>shoulder</def>
+    <form type="simple">tōḷ</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    </standOff>
+ 
+</TEI>
