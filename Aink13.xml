@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <title xml:lang="ta">Aiṅkuṟunūṟu</title> 13. <persName xml:lang="ta">Ōrampōkiyār</persName>
+        </title>
+        <editor role="translator">Eva Wilden</editor>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc />
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <div xml:id="Aink13-kilavi">
+        <p type="edition">vāyilāyp pukkārkkut talaimakaḷ, ‘avaṉ peṇṭir naḷḷeṉ yāmattum tuyilār; avar
+          aṟiyāmal avaṉ varuntiram yātu?’ eṉac colli vāyil maṟuttatu.</p>
+        <p type="translation" xml:lang="en"> </p>
+      </div>
+
+      <div xml:id="Aink13">
+        <lg type="edition">
+          <l> pariyuṭai naṉmāṉ poṅkuḷai yaṉṉa</l>
+          <l> vaṭaikarai vēḻam veṇpūp pakarun</l>
+          <l> taṇṭuṟai yūraṉ peṇṭir</l>
+          <l> tuñcūr yāmattun tuyilaṟi yalarē.</l>
+        </lg>
+        <lg type="translation" xml:lang="en">
+          <l> The women of the man from the village by the cool ghat–</l>
+          <l rend="indent2"> where they announce the white flower of wild cane from the settling
+            shore</l>
+          <l rend="indent2"> that resembles the foaming manes of well-paced gold horses–</l>
+          <l> won’t know sleep–even at midnight, when the village sleeps.</l>
+
+
+        </lg>
+      </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#Aink13">
+    <interp type="alignment" select="0">19MG60MG8M2G15MG2M,108MG</interp>
+    <entry>
+    <form>pari</form>
+    <def>motion</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>uṭai</form>
+    <def>possess-</def>
+    </entry>
+    <entry>
+    <form>nal</form>
+    <def>good</def>
+    </entry>
+    <entry>
+    <form>māṉ</form>
+    <def>horse</def>
+    </entry>
+    <entry>
+    <form>poṅk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>foam-</def>
+    </entry>
+    <entry>
+    <form>uḷai</form>
+    <def>mane</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>aṉṉa</form>
+    <def>like</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>aṭai</form>
+    <def>settle-</def>
+    </entry>
+    <entry>
+    <form>karai</form>
+    <def>shore</def>
+    </entry>
+    <entry>
+    <form>vēḻam</form>
+    <def>wild-cane</def>
+    </entry>
+    <entry>
+    <form>veḷ</form>
+    <def>white</def>
+    </entry>
+    <entry>
+    <form>pū<pc>+</pc></form>
+    <def>flower</def>
+    </entry>
+    <entry>
+    <form>pakarum</form>
+    <def>announcing-</def>
+    </entry>
+    <entry>
+    <form>taṇ</form>
+    <def>cool</def>
+    </entry>
+    <entry>
+    <form>tuṟai</form>
+    <def>ghat</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>ūraṉ</form>
+    <def>village-he</def>
+    </entry>
+    <entry>
+    <form>peṇṭir</form>
+    <def>women</def>
+    </entry>
+    <entry>
+    <form>tuñc<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>sleep-</def>
+    </entry>
+    <entry>
+    <form>ūr</form>
+    <def>village</def>
+    </entry>
+    <entry>
+    <form>yāmatt<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-um</form>
+    <def>midnight-</def>
+    <form type="simple">yāmattu</form>
+    <gramGrp type="particle"><form>um</form></gramGrp>
+    </entry>
+    <entry>
+    <form>tuyil</form>
+    <def>sleep</def>
+    </entry>
+    <entry>
+    <form>aṟiyalar-ē</form>
+    <def>know-not-they</def>
+    <form type="simple">aṟiyalar</form>
+    <gram type="role">honorific</gram>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    </standOff>
+</TEI>
