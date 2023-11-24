@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <title xml:lang="ta">Aiṅkuṟunūṟu</title> 11. <persName xml:lang="ta">Ōrampōkiyār</persName>
+        </title>
+        <editor role="translator">Eva Wilden</editor>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc />
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <div xml:id="Aink11-kilavi">
+        <p type="edition"> pāṇaṉ mutalāyiṉārkkut talaimakaṉ koṭumai kūṟi vāyil maṟutta talaimakaḷ
+          kaḻaṟiya pāṅkaṟku vāyil nērvāḷ colliyatu ‘talaivaṉ evvāṟu tappiyoḻukiṉum avaṉ koṭumai
+          niṉṉāṟ pulappaṭutal takātu’ eṉṟu kaḻaṟiya pāṅkikkut talaimakaḷ colliyatūumām. </p>
+        <p type="translation" xml:lang="en"> </p>
+      </div>
+
+      <div xml:id="Aink11">
+        <lg type="edition">
+          <l> maṉainaṭu vayalai vēḻañ cuṟṟun</l>
+          <l> tuṟaikē ḻūraṉ koṭumai nāṇi</l>
+          <l> nalla ṉeṉṟum yāmē</l>
+          <l> yalla ṉeṉṉumeṉ ṟaṭameṉ ṟōḷē.</l>
+        </lg>
+        <lg type="translation" xml:lang="en">
+          <l> Ashamed by the cruelty of the man from the village that has a ghat,</l>
+          <l> where wild sugarcane surrounds the purslane planted by the house,</l>
+          <l> we may [still] say, 'He is good'.</l>
+          <l> 'He is not,' say my broad, soft shoulders.</l>
+
+
+        </lg>
+      </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#Aink11">
+    <interp type="alignment" select="0">64MG24MG2M,91MG</interp>
+    <entry>
+    <form>maṉai</form>
+    <def>house</def>
+    </entry>
+    <entry>
+    <form>naṭu</form>
+    <def>plant-</def>
+    </entry>
+    <entry>
+    <form>vayalai</form>
+    <def>purslane</def>
+    </entry>
+    <entry>
+    <form>vēḻam</form>
+    <def>wild-cane</def>
+    </entry>
+    <entry>
+    <form>cuṟṟum</form>
+    <def>going-around-</def>
+    </entry>
+    <entry>
+    <form>tuṟai</form>
+    <def>ghat</def>
+    </entry>
+    <entry>
+    <form>kēḻ</form>
+    <def>possess-</def>
+    </entry>
+    <entry>
+    <form>ūraṉ</form>
+    <def>village-he</def>
+    </entry>
+    <entry>
+    <form>koṭumai</form>
+    <def>cruelty</def>
+    </entry>
+    <entry>
+    <form>nāṇi</form>
+    <def>been-ashamed</def>
+    </entry>
+    <entry>
+    <form>nallaṉ</form>
+    <def>good-he</def>
+    </entry>
+    <entry>
+    <form>eṉṟum</form>
+    <def>say-we</def>
+    <gram type="role">subjuntive</gram>
+    </entry>
+    <entry>
+    <form>yām-ē</form>
+    <def>we</def>
+    <form type="simple">yām</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    <entry>
+    <form><pc>~</pc>allaṉ</form>
+    <def>not-so-he</def>
+    </entry>
+    <entry>
+    <form>eṉṉum</form>
+    <def>saying-</def>
+    </entry>
+    <entry>
+    <form>eṉ</form>
+    <def>my-</def>
+    </entry>
+    <entry>
+    <form>taṭa</form>
+    <def>broad</def>
+    </entry>
+    <entry>
+    <form>mel</form>
+    <def>soft</def>
+    </entry>
+    <entry>
+    <form>tōḷ-ē</form>
+    <def>shoulder</def>
+    <form type="simple">tōḷ</form>
+    <gramGrp type="particle"><form>ē</form></gramGrp>
+    </entry>
+    </standOff>
+</TEI>
