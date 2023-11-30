@@ -24,6 +24,7 @@
 - `-kollō`
 - `-kollē`
 - `-koṉ`
+- `koṉ-`
 - `-tilla`
 - `-tillamma`
 - `-teyya`
@@ -42,6 +43,7 @@
 - `-mātō`
 - `-māḷa`
 - `-yāḻa`
+- `yāḻa-`
 
 ## Word-by-word gloss
 
