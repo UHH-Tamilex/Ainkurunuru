@@ -14,8 +14,8 @@
 - `-ā`
 - `-ār`
 - `-āl`
-- `-āl-amma`
-- `-āl-illa`
+- `-ālamma`
+- `-āṟṟilla`
 - `-ikā`
 - `-um`
 - `-ē`
@@ -24,10 +24,12 @@
 - `-kollō`
 - `-kollē`
 - `-koṉ`
+- `koṉ-`
 - `-tilla`
 - `-tillamma`
 - `-teyya`
-- `-maṟṟu`
+- `maṟṟu-`, `maṟṟ*-`
+- `-maṟṟu`, `-maṟṟ*`
 - `-maṟṟē`
 - `-ōmaṟṟē`
 - `-maṟṟilla`
@@ -37,14 +39,15 @@
 - `-maṉṉē`
 - `-maṉṟa`
 - `-maṉṟamma`
-- `-mātu`
+- `-mātu`, `-māt*`
 - `-mātō`
 - `-māḷa`
 - `-yāḻa`
+- `yāḻa-`
 
 ## Word-by-word gloss
 
-- `(abs.)` - absolutive
+- `(abs.)` - absolutive/viṉaiyeccam
 - `(acc.)` - accusative
 - `(adj.)` - adjective
 - `(adv.)` - adverb
@@ -74,7 +77,6 @@
 - `(neg.)` - negative
 - `(obl.)` - oblique
 - `(opt.)` - optative
-- `(p.)` - peyareccam
 - `(p.a.)` - perfective aspect
 - `(p.n.)` - proper name
 - `(part.n.)` - participial noun

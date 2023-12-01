@@ -48,7 +48,7 @@
     </body>
   </text>
   <standOff type="wordsplit" corresp="#Aink401">
-    <interp type="alignment" select="0">38ML15MG7MG23MG7ML23MG7MG18M2G2M,148MG</interp>
+    <interp type="alignment" select="0">38ML15M2G7MG23MG7ML23MG7MG18M2G2M,149MG</interp>
     <entry>
     <form>maṟi</form>
     <def>calf</def>
@@ -88,12 +88,16 @@
     <gram type="role">infinitive</gram>
     </entry>
     <entry>
-    <form>naṉṟ-um</form>
+    <form>naṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-um</form>
+    <form type="simple">naṉṟu</form>
+    <gramGrp type="particle"><m>um</m></gramGrp>
     <def>good-it</def>
     </entry>
     <entry>
     <form>iṉitu-maṉṟa</form>
     <def>sweet-it</def>
+    <form type="simple">iṉitu</form>
+    <gramGrp type="particle"><m>maṉṟa</m></gramGrp>
     </entry>
     <entry>
     <form><pc>~</pc>avar</form>
@@ -134,10 +138,14 @@
     <entry>
     <form><pc>~</pc>īṉ-um</form>
     <def>this-world</def>
+    <form type="simple">īṉ</form>
+    <gramGrp type="particle"><m>um</m></gramGrp>
     </entry>
     <entry>
     <form>umpar-um</form>
     <def>beyond</def>
+    <form type="simple">umpar</form>
+    <gramGrp type="particle"><m>um</m></gramGrp>
     </entry>
     <entry>
     <form>peṟal</form>
@@ -145,6 +153,8 @@
     </entry>
     <entry>
     <form>aruṅkuraitt<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
+    <form type="simple">aruṅkuraittu</form>
+    <gramGrp type="particle"><m>ē</m></gramGrp>
     <def>difficult-it</def>
     </entry>
     </standOff>

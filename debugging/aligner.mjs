@@ -3,48 +3,67 @@ import needlemanWunsch from './needlemanwunsch.mjs';
 const CONCATRIGHT = Symbol.for('concatright');
 const CONCATLEFT = Symbol.for('concatleft');
 
-const affixbare = ['amma','arō','ā','ār','āl','āl-amma','āl-illa','ikā','um','ē','ō','kol','kollō','kollē','koṉ','tilla','tillamma','teyya','maṟṟu','maṟṟē','ōmaṟṟē','maṟṟilla','maṉ','maṉṟilla','maṉṉō','maṉṉē','maṉṟa','maṉṟamma','mātu','mātō','māḷa','yāḻa'];
-affixbare.sort((a,b) => b.length - a.length);
+const particlebare = ['amma','amma-','arō','ā','ār','āl','ālamma','āṟṟilla','ikā','um','ē','ō','kol','kollō','kollē','koṉ','koṉ-','tilla','tillamma','teyya','maṟṟu','maṟṟu-','maṟṟē','ōmaṟṟē','maṟṟilla','maṉ','maṉṟa','maṉṟilla','maṉṉō','maṉṉē','maṉṟa','maṉṟamma','mātu','mātō','māḷa','yāḻa','yāḻa-'];
+particlebare.sort((a,b) => b.length - a.length);
 
-const affixes = affixbare.map(a => [a,new RegExp(`\\[?${a}\\]?$`)]);
-
-affixes.push(['maṟṟu',new RegExp('^\\[?maṟṟ[u*\'’]\\]?')]);
+const particles = particlebare.map(a => {
+    if(a.endsWith('-')) {
+        const aa = a.slice(0,-1);
+        if(/u$/.test(aa)) {
+            const regex = aa.replace(/u$/,'[*\'’u]');
+            return [a,new RegExp(`^\\+?~?${regex}\\+?-`)];
+        }
+        else
+            return [a,new RegExp(`^\\+?~?${aa}\\+?-`)];
+    }
+    if(/u$/.test(a)) {
+        const regex = a.replace(/u$/,'[*\'’u]');
+        return [a,new RegExp(`\\+?~?${regex}\\+?$`)];
+    }
+    else
+        return [a,new RegExp(`\\+?~?${a}\\+?$`)];
+});
 
 const caseAffixes = [
     ['māṭṭu',{
-        regex: /māṭṭ[’u]$/,
+        regex: /māṭṭ[*’u]$/,
         gram: 'locative',
         translationregex: /\(loc\.\)$/
     }],
     ['mutal',{
-        regex: /mutal$/,
+        regex: /mutal\+?$/,
         gram: 'locative',
         translationregex: /\(loc\.\)$/
     }],
+    ['kaṇ',{
+        regex: /kaṇ\+?$/,
+        gram: 'locative',
+        translatonregex: /\(loc.\.\)$/
+    }],
     ['iṉ',{
-        regex: /iṉ$/,
+        regex: /iṉ\+?$/,
         gram: 'locative',
         translationregex: /\(loc\.\)$|iṉ$/
     }],
     ['iṉum',{
-        regex: /iṉum$/,
+        regex: /~?iṉum\+?$/,
         translationregex: /iṉum$/
     }],
     ['am',{
-        regex: /am$/,
+        regex: /~?am\+?$/,
         translationregex: /am$/
     }],
     ['a',{
-        regex: /a$/,
+        regex: /~?a\+?$/,
         translationregex: /a$/
     }],
     ['oṭu',{
-        regex: /[oō]ṭ[u’*]$/,
+        regex: /~?[oō]ṭ[u’*]\+?$/,
         gram: 'sociative/instrumental',
         translationregex: /-with$/
     }],
     ['āṅku',{
-        regex: /[aā]ṅk[u’*]$/,
+        regex: /~?[aā]ṅk[u’*]\+?$/,
         gram: 'comparative',
         translationregex: /-like$/
     }]
@@ -108,7 +127,7 @@ const wordsplitscore = (a,b) => {
     if(vowels.includes(a) && vowels.includes(b)) return -0.5;
     return -1;
 };
-
+/*
 const warnTypos = (alignment) => {
     const ret = [];
     alignment[1].forEach((el, i) => {
@@ -135,7 +154,7 @@ const warnTypos = (alignment) => {
     });
     return ret;
 };
-
+*/
 const removeOptions = (words) => words.map(w => w.split('/')[0]);
 
 const tamilSplit = (str) => {
@@ -151,9 +170,11 @@ const tamilSplit = (str) => {
 };
 
 const alignWordsplits = (text,tam,eng) => {
+    /*
     if(tam.length !== eng.length) {
         return {xml: null, warnings: ['Tamil and English don\'t match.']};
     }
+    */
     //const wl = restoreSandhi(removeOptions(tam).join(''));
     const wl = tamilSplit(removeOptions(tam).join(''));
     const aligned = needlemanWunsch(tamilSplit(text),wl,wordsplitscore);
@@ -170,21 +191,21 @@ const alignWordsplits = (text,tam,eng) => {
     cleanupWordlist(wordlist);
 
     const entries = makeEntries(wordlist);
-    //console.log(aligned1.map(a => a.map(b => typeof b === 'symbol'? b.toString() : b).join(',')).join('\n'));
     const rle = formatAlignment(realigned,0);
+
     return {xml: rle + '\n' + entries.join('\n'), alignment: aligned};
 };
-
+/*
 const cleanupTranslation = (str) => {
     return str.replace(/-(?=\w)/g, ' ');
 };
-
-const restoreSandhi = (s) => {
-    return s/*.replace(/[mṉ]$/,'x')*/ // need to share
-            .replaceAll(/([iīeē])~/g,'$1y')
-            .replaceAll(/([aāuūoō])~/g,'$1v')
-            .replaceAll(/[\[\]]/g,'');
-};
+*/
+//const restoreSandhi = (s) => {
+//    return s/*.replace(/[mṉ]$/,'x')*/ // need to share
+//            .replaceAll(/([iīeē])~/g,'$1y')
+//            .replaceAll(/([aāuūoō])~/g,'$1v')
+//            .replaceAll(/[\[\]]/g,'');
+//};
 
 const formatAlignment = (arr) => {
     const getChar = s => {
@@ -198,6 +219,7 @@ const formatAlignment = (arr) => {
     for(let n=0;n<arr[0].length;n++) {
         const arr0len = arr[0][n].length;
         const arr1len = arr[1][n].length;
+        //TODO: more general solution for longer elements?
         if(arr0len === 2) {
             a0 = a0 + 'MM';
             if(arr1len === 2)
@@ -214,17 +236,6 @@ const formatAlignment = (arr) => {
             a1 = a1 + getChar(arr[1][n]);
         }
     }
-    /*
-    const flatarrs = arr.map(a => {
-        const alignment = a.map(s => {
-            if(s === '') return 'G';
-            else if(s === CONCATRIGHT) return 'R';
-            else if(s === CONCATLEFT) return 'L';
-            else return 'M';
-        }).join('');
-        return alignment.replaceAll(/([GRLM])\1+/g,(match, chr) => match.length + chr);
-    });
-    */
     const flatarrs = [a0,a1].map(a => a.replaceAll(/([GRLM])\1+/g,(match, chr) => match.length + chr));
     return `<interp type="alignment" select="0">${flatarrs[0]},${flatarrs[1]}</interp>`;
 };
@@ -240,10 +251,10 @@ const makeEntries = (arr) => {
 
     const formatEntry = (e) => {
         const bare = e.bare ? `<form type="simple">${e.bare}</form>\n` : '';
-        const affixrole = e.affixrole ? `<gram type="role">${e.affixrole}</gram>` : '';
-        const affix = e.affix ? `<gramGrp type="affix"><form>${e.affix}</form>${affixrole}</gramGrp>\n` : '';
-        const gram = e.gram ? `<gram type="role">${e.gram}</gram>\n` : '';
-        const particle = e.particle ? `<gramGrp type="particle"><form>${e.particle}</form></gramGrp>\n` : '';
+        const affixrole = e.affixrole ? `<gramGrp><gram type="role">${e.affixrole}</gram></gramGrp>` : '';
+        const affix = e.affix ? `<gramGrp type="affix"><m>${e.affix}</m>${affixrole}</gramGrp>\n` : '';
+        const gram = e.gram ? `<gramGrp><gram type="role">${e.gram}</gram></gramGrp>\n` : '';
+        const particle = e.particle ? `<gramGrp type="particle"><m>${e.particle}</m></gramGrp>\n` : '';
         return `<entry>\n<form>${formatWord(e.word)}</form>\n<def>${e.translation}</def>\n${bare}${affix}${gram}${particle}${e.wordnote ? formatNote(e.wordnote) : ''}${e.transnote ? formatNote(e.transnote) : ''}</entry>`;
     };
 
@@ -264,7 +275,7 @@ const makeEntries = (arr) => {
 
 const cleanBare = (str) => {
     //str = str.replaceAll(/[~+-.]/g,'').replace(/['’*]$/,'u');
-    str = str.replaceAll(/[~+.]/g,'').replace(/-$|^-/,'').replace(/['’*]/,'u');
+    str = str.replaceAll(/[\[\]~+.]/g,'').replace(/-$|^-/,'').replace(/['’*]/,'u');
     /*
     if(str.match(/[iīeē]y$/))
         return str.slice(0,-1); // inserted glide
@@ -278,7 +289,10 @@ const cleanBare = (str) => {
     return str;
 };
 
-const findHyphen = (str, index) => {
+const findHyphen = (str, index,affix) => {
+    if(affix.endsWith('-')) {
+        return true;
+    }
     for(let i=index-1;i>0;i--) {
         if(str[i] === '-') return i;
         if(['~','+'].includes(str[i])) continue;
@@ -288,7 +302,7 @@ const findHyphen = (str, index) => {
 };
 
 const findParticle = (word,translation) => {
-    for(const [affix,regex] of affixes) {
+    for(const [particle,regex] of particles) {
         const cleanword = word.replaceAll(/[\[\]]/g,'');
         const wordmatch = cleanword.match(regex);
         const transmatch = translation.match(regex);
@@ -297,21 +311,25 @@ const findParticle = (word,translation) => {
                 return {
                     //translation: translation.slice(0,translation.length-transmatch[0].length),
                     translation: translation.replace(regex,''),
-                    particle: affix,
+                    particle: cleanBare(particle),
                     //bare: cleanBare(cleanword.slice(0,cleanword.length-wordmatch[0].length))
                     bare: cleanBare(cleanword.replace(regex,''))
                 };
             else {
-                const hyphen = findHyphen(cleanword,wordmatch.index);
+                const hyphen = findHyphen(cleanword,wordmatch.index,particle);
                 if(hyphen)
                     return {
                         translation: translation,
-                        particle: affix,
+                        particle: cleanBare(particle),
                         bare: cleanBare(cleanword.replace(regex,''))
                     };
             }
         }
     }
+    return null;
+};
+
+const findAffix = (word,translation) => {
     for(const [affix,obj] of caseAffixes) {
         const wordmatch = word.match(obj.regex);
         const transmatch = translation.match(obj.translationregex);
@@ -319,13 +337,12 @@ const findParticle = (word,translation) => {
             const ret = {
                 translation: translation.slice(0,translation.length-transmatch[0].length),
                 affix: affix,
-                // don't clip affix for case particles; the declined form goes into the dictionary
+                // don't clip affix for case affixes; the declined form goes into the dictionary
             };
             if(obj.gram) ret.gram = obj.gram;
             return ret;
         }
     }
-    return null;
 };
 
 const findGrammar = (translation) => {
@@ -349,14 +366,20 @@ const cleanupWordlist = (list) => {
         // we should remove punctuation from the wordlist so it aligns properly
         //obj.word = obj.word.replace(/[\.;]$/,'');
         //obj.translation = obj.translation.replace(/[\.;]$/,'');
+        // BUT now punctuation is removed from the wordsplit completely
         const particle = findParticle(obj.word,obj.translation);
         if(particle) {
-            console.log(`Found particle: ${particle.affix || particle.particle} in ${obj.word}, "${obj.translation}".`);
+            //console.log(`Found particle: ${particle.particle} in ${obj.word}, "${obj.translation}".`);
             obj.translation = particle.translation;
-            if(particle.affix) obj.affix = particle.affix;
-            if(particle.particle) obj.particle = particle.particle;
-            if(particle.gram) obj.affixrole = particle.gram;
-            if(particle.bare) obj.bare = particle.bare;
+            obj.particle = particle.particle;
+            obj.bare = particle.bare;
+        }
+        const affix = findAffix(obj.word,obj.translation);
+        if(affix) {
+            //console.log(`Found affix: ${particle.affix} in ${obj.word}, "${obj.translation}".`);
+            obj.translation = affix.translation;
+            obj.affix = affix.affix;
+            if(affix.gram) obj.affixrole = affix.gram;
         }
         const grammar = findGrammar(obj.translation);
         if(grammar) {
@@ -365,10 +388,12 @@ const cleanupWordlist = (list) => {
             if(obj.gram) obj.gram = [obj.gram,grammar.gram];
             else obj.gram = grammar.gram;
         }
-        if(!particle && !grammar) {
+        /*
+        if(!particle && !affix && !grammar) {
             const maybeParticle = obj.translation.match(/\(.+\)-?/);
             if(maybeParticle) console.log(`What about ${maybeParticle[0]} in "${obj.translation}"?`);
         }
+        */
         
     };
     for(const entry of list)
@@ -388,7 +413,6 @@ const mergeWordlists = (doc, list1, list2) => {
     merged.sort((a,b) => a.start - b.start);
     return merged;
 };
-*/
 const realNextSibling = (walker) => {
     let cur = walker.currentNode;
     while(cur) {
@@ -398,7 +422,6 @@ const realNextSibling = (walker) => {
     }
     return null;
 };
-
 const extracttext = (el, i) => {
     const clone = el.documentElement.cloneNode(true);
     const toremove = [];
@@ -412,7 +435,7 @@ const extracttext = (el, i) => {
     for(const el of toremove) el.remove();
     return clone.textContent.replaceAll(/\s/g,'');
 };
-
+*/
 const jiggleWord = (word, text, start, end) => {
     const wordend = word.at(-1);
     const wordstart = word.at(0);
