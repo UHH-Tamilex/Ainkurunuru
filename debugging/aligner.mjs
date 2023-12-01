@@ -116,6 +116,8 @@ const gramAbbreviations = [
     ['(p.a.)','perfective aspect'],
     ['(p.a.n.sg.)','perfective aspect neuter singular'],
     ['(p.a.n.pl.)','perfective aspect neuter plural'],
+    ['(p.a.f.sg.)','perfective aspect feminine singular'],
+    ['(p.a.f.pl.)','perfective aspect feminine plural'],
     ['(p.n.)','proper name'],
     ['(part.n.)','participial noun'],
     ['(pey.)','peyareccam'],
