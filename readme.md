@@ -87,6 +87,10 @@
 - `(pl.dat.)` - plural
 - `(pl.sub.)` - plural subjunctive
 - `(pron.n.)` - pronominalised noun
+- `(pron.n.m.sg.)` - pronominalised noun masculine singular
+- `(pron.n.m.pl.)` - pronominalised noun masculine plural
+- `(pron.n.f.sg.)` - pronominalised noun feminine singular
+- `(pron.n.f.pl.)` - pronominalised noun feminine plural
 - `(r.n.)` - root noun
 - `(sg.)` - singular
 - `(soc.)` - sociative
