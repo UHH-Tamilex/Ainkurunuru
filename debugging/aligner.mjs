@@ -109,6 +109,7 @@ const gramAbbreviations = [
     ['(pey.)','peyareccam'],
     ['(pey.p.a.)','peyareccam perfective aspect'],
     ['(pl.)','plural'],
+    ['(pl.dat.)','plural dative'],
     ['(pl.sub.)','plural subjunctive'],
     ['(pron.n.)','pronominalised noun'],
     ['(sg.)','singular'],
