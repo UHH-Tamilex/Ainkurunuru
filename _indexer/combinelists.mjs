@@ -71,7 +71,7 @@ const tamilSort = (a,b) => {
     let n = 0;
     while(n < minlen) {
         const achar = aa[n];
-        const bchar = bb[n]);
+        const bchar = bb[n];
         if(achar === bchar) {
             n++;
         } else {
