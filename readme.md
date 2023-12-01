@@ -64,6 +64,8 @@
 - `(h.loc.)` - honorific locative
 - `(hab.fut.)` - habitual future
 - `(i.a.)` - imperfect aspect
+- `(i.a.n.sg.)` - imperfect aspect neuter singular
+- `(i.a.n.pl.)` - imperfect aspect neuter plural
 - `(id.)` - ideophone
 - `(inf.)` - infinitive
 - `(inst.)` - instrumental
@@ -85,6 +87,10 @@
 - `(obl.)` - oblique
 - `(opt.)` - optative
 - `(p.a.)` - perfective aspect
+- `(p.a.n.sg.)` - perfective aspect neuter singular
+- `(p.a.n.pl.)` - perfective aspect neuter plural
+- `(p.a.f.sg.)` - perfective aspect feminine singular
+- `(p.a.f.pl.)` - perfective aspect feminine plural
 - `(p.n.)` - proper name
 - `(part.n.)` - participial noun
 - `(pey.)` - peyareccam
@@ -104,6 +110,8 @@
 - `(sg.dat.)` - singular dative
 - `(soc.)` - sociative
 - `(sub.)` - subjuntive
+- `(sub.2.sg.)` - subjuntive 2nd person singular
+- `(sub.2.pl.)` - subjuntive 2nd person plural
 - `(suff.)` - suffix
 - `(v.n.)` - verbal noun
 - `(v.r.)` - verbal root
