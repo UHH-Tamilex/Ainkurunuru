@@ -32,80 +32,85 @@
 <l>              toruva ṉirutā ṇiḻaṟkīḻ</l>
 <l>              mūvakai yulaku mukiḻttaṉa muṟaiyē.</l>
             </lg>
-            <!--lg type="translation" xml:lang="en">
-
-            </lg-->
+            <lg type="translation" xml:lang="en">
+<l>              All three kinds of world budded in the proper way </l>
+<l>              under the shade of the two feet of one man </l>
+<l>              who has as a half [the woman] with pure jewels and a blue throat (Shiva)/ </l>
+<l>              who has [reserved] on his blue body a share for the woman who is a pure jewel (Vishnu). </l>
+              
+                        
+                      </lg>
         </div>
     </body>
   </text>
-<standOff type="wordsplit" corresp="#Aink0">
-<interp type="alignment" select="0">5ML16MG12ML19M2G2ML14MG3M,77MG</interp>
-<entry>
-<form>nīlam</form>
-<def>blue</def>
-</entry>
-<entry>
-<form>mēṉi</form>
-<def>body</def>
-</entry>
-<entry>
-<form>vāl</form>
-<def>pure</def>
-</entry>
-<entry>
-<form>iḻai</form>
-<def>jewel</def>
-</entry>
-<entry>
-<form>pākatt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
-<def>part-</def>
-</entry>
-<entry>
-<form>oruvaṉ</form>
-<def>one-he</def>
-</entry>
-<entry>
-<form>iru</form>
-<def>two</def>
-</entry>
-<entry>
-<form>tāḷ</form>
-<def>foot</def>
-</entry>
-<entry>
-<form>niḻal</form>
-<def>shade</def>
-</entry>
-<entry>
-<form>kīḻ</form>
-<def>under</def>
-</entry>
-<entry>
-<form>mū</form>
-<def>three</def>
-</entry>
-<entry>
-<form>vakai</form>
-<def>kind</def>
-</entry>
-<entry>
-<form><pc>~</pc>ulak<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-um</form>
-<def>world</def>
-<form type="simple">ulaku</form>
-<gramGrp type="particle"><m>um</m></gramGrp>
-</entry>
-<entry>
-<form>mukiḻttaṉa</form>
-<def>budded-they</def>
-<gramGrp>
-<gram type="role">neuter plural</gram>
-</gramGrp>
-</entry>
-<entry>
-<form>muṟai-<pc>~</pc>ē</form>
-<def>order</def>
-<form type="simple">muṟai</form>
-<gramGrp type="particle"><m>ē</m></gramGrp>
-</entry>
-</standOff>
+  <standOff type="wordsplit" corresp="#Aink0">
+    <interp type="alignment" select="0">5ML16MG12ML19M2G2ML14MG3M,77MG</interp>
+    <entry>
+    <form>nīlam</form>
+    <def>blue</def>
+    </entry>
+    <entry>
+    <form>mēṉi</form>
+    <def>body</def>
+    </entry>
+    <entry>
+    <form>vāl</form>
+    <def>pure</def>
+    </entry>
+    <entry>
+    <form>iḻai</form>
+    <def>jewel</def>
+    </entry>
+    <entry>
+    <form>pākatt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>part</def>
+    <gramGrp><gram type="role">oblique</gram></gramGrp>
+    </entry>
+    <entry>
+    <form>oruvaṉ</form>
+    <def>one</def>
+    <gramGrp><gram type="role">pronominalised noun masculine singular</gram></gramGrp>
+    </entry>
+    <entry>
+    <form>iru</form>
+    <def>two</def>
+    </entry>
+    <entry>
+    <form>tāḷ</form>
+    <def>foot</def>
+    </entry>
+    <entry>
+    <form>niḻal</form>
+    <def>shade</def>
+    </entry>
+    <entry>
+    <form>kīḻ</form>
+    <def>under</def>
+    </entry>
+    <entry>
+    <form>mū</form>
+    <def>three</def>
+    </entry>
+    <entry>
+    <form>vakai</form>
+    <def>kind</def>
+    <gramGrp><gram type="role">noun</gram></gramGrp>
+    </entry>
+    <entry>
+    <form><pc>~</pc>ulak<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-um</form>
+    <def>world</def>
+    <form type="simple">ulaku</form>
+    <gramGrp type="particle"><m>um</m></gramGrp>
+    </entry>
+    <entry>
+    <form>mukiḻttaṉa</form>
+    <def>budded(​​p.a.n.pl.)</def>
+    </entry>
+    <entry>
+    <form>muṟai-<pc>~</pc>ē</form>
+    <def>order</def>
+    <form type="simple">muṟai</form>
+    <gramGrp type="particle"><m>ē</m></gramGrp>
+    </entry>
+    </standOff>
 </TEI>
