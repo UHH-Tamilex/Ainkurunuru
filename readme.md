@@ -81,6 +81,7 @@
 - `(p.n.)` - proper name
 - `(part.n.)` - participial noun
 - `(pey.)` - peyareccam
+- `(pey.i.a.)` - peyareccam imperfective aspect
 - `(pey.p.a.)` - peyareccam perfective aspect
 - `(pl.)` - plural
 - `(pl.dat.)` - plural
