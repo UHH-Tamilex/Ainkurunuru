@@ -57,97 +57,101 @@
   <standOff type="wordsplit" corresp="#Aink204">
     <interp type="alignment" select="0">13MG9MG4MG21ML54ML14MG18M2GM,142M</interp>
     <entry>
-      <form>aṉṉāy</form>
-      <def>mother</def>
-      <gram type="role">vocative</gram>
+    <form>aṉṉāy</form>
+    <def>mother</def>
+    <gramGrp><gram type="role">vocative</gram></gramGrp>
     </entry>
     <entry>
-      <form>vāḻi</form>
-      <def>live</def>
+    <form>vāḻi</form>
+    <def>live</def>
+    <gramGrp><gram type="role">imperative</gram></gramGrp>
     </entry>
     <entry>
-      <form>vēṇṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
-      <def>be-necessary</def>
-      <gram type="role">imperative</gram>
+    <form>vēṇṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>be-necessary</def>
+    <gramGrp><gram type="role">imperative</gram></gramGrp>
     </entry>
     <entry>
-      <form>aṉṉai</form>
-      <def>mother</def>
+    <form>aṉṉai</form>
+    <def>mother</def>
     </entry>
     <entry>
-      <form><pc>~</pc>aḵt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
-      <def>that</def>
+    <form><pc>~</pc>aḵt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>that</def>
     </entry>
     <entry>
-      <form>evaṉ-kol</form>
-      <def>what</def>
-      <form type="simple">evaṉ</form>
-      <gramGrp type="particle"><form>kol</form></gramGrp>
+    <form>evaṉ-kol</form>
+    <def>what</def>
+    <form type="simple">evaṉ</form>
+    <gramGrp type="particle"><m>kol</m></gramGrp>
     </entry>
     <entry>
-      <form>varaiyara</form>
-      <def>mountain-nymph</def>
+    <form>varaiyara</form>
+    <def>mountain-nymph</def>
     </entry>
     <entry>
-      <form>makaḷiriṉ</form>
-      <def>women</def>
-      <gramGrp type="affix"><form>iṉ</form><gram type="role">locative</gram></gramGrp>
+    <form>makaḷiriṉ</form>
+    <def>women</def>
+    <gramGrp><gram type="role">plural oblique</gram></gramGrp>
     </entry>
     <entry>
-      <form>niraiyuṭaṉ</form>
-      <def>row</def>
-      <gram type="role">sociative</gram>
+    <form>niraiyuṭaṉ</form>
+    <def>row</def>
+    <gramGrp><gram type="role">sociative</gram></gramGrp>
     </entry>
     <entry>
-      <form>kuḻīi<pc>+</pc></form>
-      <def>assembled</def>
-      <gram type="role">absolutive</gram>
+    <form>kuḻīi<pc>+</pc></form>
+    <def>assembled</def>
+    <gramGrp><gram type="role">absolutive</gram></gramGrp>
     </entry>
     <entry>
-      <form>peyarvuḻi<pc>+</pc></form>
-      <def>move-while</def>
+    <form>peyarvuḻi<pc>+</pc></form>
+    <def>move-while</def>
     </entry>
     <entry>
-      <form>peyarvuḻi<pc>+</pc></form>
-      <def>move-while</def>
+    <form>peyarvuḻi<pc>+</pc></form>
+    <def>move-while</def>
     </entry>
     <entry>
-      <form>tavirātu</form>
-      <def>refrain-not(neg.abs.)</def>
+    <form>tavirātu</form>
+    <def>refrain-not</def>
+    <gramGrp><gram type="role">negative absolutive</gram></gramGrp>
     </entry>
     <entry>
-      <form>nōkki</form>
-      <def>looked</def>
-      <gram type="role">absolutive</gram>
+    <form>nōkki</form>
+    <def>looked</def>
+    <gramGrp><gram type="role">absolutive</gram></gramGrp>
     </entry>
     <entry>
-      <form>nallaḷ</form>
-      <def>good-she</def>
+    <form>nallaḷ</form>
+    <def>good-she</def>
+    <gramGrp><gram type="role">feminine singular</gram></gramGrp>
     </entry>
     <entry>
-      <form>nallaḷ</form>
-      <def>good-she</def>
+    <form>nallaḷ</form>
+    <def>good-she</def>
+    <gramGrp><gram type="role">feminine singular</gram></gramGrp>
     </entry>
     <entry>
-      <form>eṉpa</form>
-      <def>they-say</def>
+    <form>eṉpa</form>
+    <def>they-say</def>
     </entry>
     <entry>
-      <form>tīyēṉ-tilla</form>
-      <def>fault-I</def>
-      <form type="simple">tīyēṉ</form>
-      <gramGrp type="particle"><form>tilla</form></gramGrp>
+    <form>tīyēṉ-tilla</form>
+    <def>fault-I</def>
+    <form type="simple">tīyēṉ</form>
+    <gramGrp type="particle"><m>tilla</m></gramGrp>
     </entry>
     <entry>
-      <form>malai</form>
-      <def>mountain</def>
+    <form>malai</form>
+    <def>mountain</def>
     </entry>
     <entry>
-      <form>kiḻavōṟk<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
-      <def>master-he</def>
-      <form type="simple">kiḻavōṟku</form>
-      <gram type="role">dative</gram>
-      <gramGrp type="particle"><form>ē</form></gramGrp>
+    <form>kiḻavōṟk<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
+    <def>master-he</def>
+    <form type="simple">kiḻavōṟku</form>
+    <gramGrp><gram type="role">singular dative</gram></gramGrp>
+    <gramGrp type="particle"><m>ē</m></gramGrp>
     </entry>
-  </standOff>
+    </standOff>
 </TEI>
