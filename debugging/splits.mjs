@@ -42,14 +42,6 @@ const cancelPopup = (e) => {
 
 };
 
-const getCached = (el) => {
-    let ret = '';
-    const walker = document.createTreeWalker(el,NodeFilter.SHOW_TEXT);
-    while(walker.nextNode())
-        ret = ret + Transliterate.getCached(walker.currentNode).replaceAll(/[\u00AD\s]/g,'');
-    return ret;
-};
-
 const showSplits = () => {
     const popup = document.querySelector('.popup');
     popup.style.height = '80%';
@@ -90,7 +82,7 @@ const showSplits = () => {
     const blockid = popup.querySelector('select').value;
 
     const textblock = document.getElementById(blockid).querySelector('.text-block');
-    const text = getCached(textblock);
+    const text = Transliterate.getCachedText(textblock);
 
     const ret = alignWordsplits(text,tam,eng);
 
