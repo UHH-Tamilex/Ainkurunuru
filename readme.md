@@ -94,6 +94,7 @@
 - `(v.n.)` - verbal noun
 - `(v.r.)` - verbal root
 - `(v.r.adj.)` - verbal root as adjective
+- `(v.r.ger.)` - verbal root as gerundive
 - `(v.r.imp.)` - verbal root as imperative
 - `(v.r.inf.)` - verbal root as infinitive
 - `(v.r.pey.)` - verbal root as peyareccam
