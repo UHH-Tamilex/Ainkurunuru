@@ -86,9 +86,17 @@
 - `(pl.dat.)` - plural
 - `(pl.sub.)` - plural subjunctive
 - `(pron.n.)` - pronominalised noun
+- `(r.n.)` - root noun
 - `(sg.)` - singular
 - `(soc.)` - sociative
 - `(sub.)` - subjuntive
 - `(suff.)` - suffix
 - `(v.n.)` - verbal noun
+- `(v.r.)` - verbal root
+- `(v.r.adj.)` - verbal root as adjective
+- `(v.r.imp.)` - verbal root as imperative
+- `(v.r.inf.)` - verbal root as infinitive
+- `(v.r.pey.)` - verbal root as peyareccam
+- `(v.r.pey.p.a.)` - verbal root as peyareccam perfective aspect
+- `(v.r.pey.i.a.)` - verbal root as peyareccam imperfective aspect
 - `(voc.)` - vocative
