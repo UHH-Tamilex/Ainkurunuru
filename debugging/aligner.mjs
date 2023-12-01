@@ -96,7 +96,7 @@ const gramAbbreviations = [
     ['(loc.)','locative'],
     ['(m.)','masculine'],
     ['(muṟ.)','muṟṟeccam'],
-    ['(n.)','neuter'],
+    ['(n.)','noun'],
     ['(n.sg.)','neuter singular'],
     ['(n.pl.)','neuter plural'],
     ['(neg.)','negative'],
