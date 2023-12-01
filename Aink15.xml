@@ -44,101 +44,12 @@
           <l rend='indent2'> who helps [his] consort united with the women bathing in the flood</l>
           <l rend='indent2'> [all wearing] bright foliage, they who'd desired the fullness of the
             flood dancing in the sand,</l>
-          <l> even though he is a man from the town, he is not a man of the town.</l>
+          <l> Even though he is a man from the town, he is not a man of the town.</l>
 
 
         </lg>
       </div>
     </body>
   </text>
-  <standOff type="wordsplit" corresp="#Aink15">
-    <interp type="alignment" select="0">77ML2MG25MG3M,109MG</interp>
-    <entry>
-    <form>maṇal</form>
-    <def>sand</def>
-    </entry>
-    <entry>
-    <form>āṭu</form>
-    <def>dance-</def>
-    </entry>
-    <entry>
-    <form>malir</form>
-    <def>flood-</def>
-    </entry>
-    <entry>
-    <form>niṟai</form>
-    <def>fullness</def>
-    </entry>
-    <entry>
-    <form>virumpiya</form>
-    <def>desired-</def>
-    </entry>
-    <entry>
-    <form><pc>~</pc>oḷ</form>
-    <def>bright</def>
-    </entry>
-    <entry>
-    <form>taḻai<pc>+</pc></form>
-    <def>foliage</def>
-    </entry>
-    <entry>
-    <form>puṉal</form>
-    <def>flood</def>
-    </entry>
-    <entry>
-    <form>āṭu</form>
-    <def>bathe-</def>
-    </entry>
-    <entry>
-    <form>makaḷirkku<pc>+</pc></form>
-    <def>women</def>
-    <gramGrp><gram type="role">dative</gram></gramGrp>
-    </entry>
-    <entry>
-    <form>puṇar</form>
-    <def>unite-</def>
-    </entry>
-    <entry>
-    <form>tuṇai</form>
-    <def>companion</def>
-    </entry>
-    <entry>
-    <form><pc>~</pc>utavum</form>
-    <def>helping-</def>
-    </entry>
-    <entry>
-    <form>vēḻam</form>
-    <def>wild-cane</def>
-    </entry>
-    <entry>
-    <form>mūt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
-    <def>old</def>
-    </entry>
-    <entry>
-    <form>ūr</form>
-    <def>village</def>
-    </entry>
-    <entry>
-    <form>ūraṉ</form>
-    <def>village-he</def>
-    </entry>
-    <entry>
-    <form>ūraṉ</form>
-    <def>village-he</def>
-    </entry>
-    <entry>
-    <form>āyiṉum</form>
-    <def>if-even</def>
-    </entry>
-    <entry>
-    <form>ūraṉ</form>
-    <def>village-he</def>
-    </entry>
-    <entry>
-    <form>allaṉ-<pc>+</pc>ē</form>
-    <def>not-so-he</def>
-    <form type="simple">allaṉ</form>
-    <gramGrp type="particle"><m>ē</m></gramGrp>
-    </entry>
-    </standOff>
+  
 </TEI>
