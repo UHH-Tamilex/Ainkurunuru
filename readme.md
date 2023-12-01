@@ -77,6 +77,7 @@
 - `(n.sg.)` - neuter singular
 - `(n.pl.)` - neuter plural
 - `(neg.)` - negative
+- `(neg.abs.)` - negative absolute
 - `(neg.m.sg.)` - negative masculine singular
 - `(neg.m.pl.)` - negative masculine plural
 - `(neg.f.sg.)` - negative feminine singular
