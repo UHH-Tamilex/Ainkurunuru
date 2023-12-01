@@ -55,6 +55,7 @@
 - `(conc.)` - concessive
 - `(dat.)` - dative
 - `(f.)` - feminine
+- `(f.sg.)` - feminine singular
 - `(f.v.)` - finite verb
 - `(gen.)` - genitive
 - `(h.)` - honorific
@@ -90,6 +91,7 @@
 - `(pey.p.a.)` - peyareccam perfective aspect
 - `(pl.)` - plural
 - `(pl.dat.)` - plural
+- `(pl.obl.)` - plural oblique
 - `(pl.sub.)` - plural subjunctive
 - `(pron.n.)` - pronominalised noun
 - `(pron.n.m.sg.)` - pronominalised noun masculine singular
@@ -98,6 +100,7 @@
 - `(pron.n.f.pl.)` - pronominalised noun feminine plural
 - `(r.n.)` - root noun
 - `(sg.)` - singular
+- `(sg.dat.)` - singular dative
 - `(soc.)` - sociative
 - `(sub.)` - subjuntive
 - `(suff.)` - suffix
