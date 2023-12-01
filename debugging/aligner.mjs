@@ -103,7 +103,7 @@ const gramAbbreviations = [
     ['(n.sg.)','neuter singular'],
     ['(n.pl.)','neuter plural'],
     ['(neg.)','negative'],
-    ['(neg.abs.)','negative absolute'],
+    ['(neg.abs.)','negative absolutive'],
     ['(neg.m.sg.)','negative masculine singular'],
     ['(neg.m.pl.)','negative masculine plural'],
     ['(neg.f.sg.)','negative feminine singular'],
