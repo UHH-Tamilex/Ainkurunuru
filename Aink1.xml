@@ -95,7 +95,8 @@
     </entry>
     <entry>
     <form>peritu</form>
-    <def>big(pron.n.n.sg.)(adv)</def>
+    <def>big(n.sg.)</def>
+    <gramGrp><gram type="role">adverb</gram></gramGrp>
     </entry>
     <entry>
     <form>ciṟakka</form>
@@ -109,7 +110,7 @@
     </entry>
     <entry>
     <form>vēṭṭōḷ-ē</form>
-    <def>wanted(​​p.a.f.sg.)</def>
+    <def>she-wanted(​​f.v.)</def>
     <form type="simple">vēṭṭōḷ</form>
     <gramGrp type="particle"><m>ē</m></gramGrp>
     </entry>
@@ -132,7 +133,7 @@
     </entry>
     <entry>
     <form>kāñci<pc>+</pc></form>
-    <def>portia-tree</def>
+    <def>Portia-tree</def>
     </entry>
     <entry>
     <form>ciṉaiya</form>
@@ -178,9 +179,10 @@
     </entry>
     <entry>
     <form>vēṭṭēm-ē</form>
-    <def>wanted(​​p.a.1.pl.)</def>
+    <def>wanted(​​f.v.)</def>
     <form type="simple">vēṭṭēm</form>
     <gramGrp type="particle"><m>ē</m></gramGrp>
     </entry>
     </standOff>
+
 </TEI>
