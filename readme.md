@@ -59,19 +59,19 @@
 - `(f.v.)` - finite verb
 - `(gen.)` - genitive
 - `(h.)` - honorific
-- `(3.h.)` - 3rd person honorific
-- `(h.dat.)` - honorific dative
-- `(h.loc.)` - honorific locative
+    - `(3.h.)` - 3rd person honorific
+    - `(h.dat.)` - honorific dative
+    - `(h.loc.)` - honorific locative
 - `(hab.fut.)` - habitual future
 - `(i.a.)` - imperfect aspect
-- `(i.a.n.sg.)` - imperfect aspect neuter singular
-- `(i.a.n.pl.)` - imperfect aspect neuter plural
+    - `(i.a.n.sg.)` - imperfect aspect neuter singular
+    - `(i.a.n.pl.)` - imperfect aspect neuter plural
 - `(id.)` - ideophone
 - `(inf.)` - infinitive
 - `(inst.)` - instrumental
 - `(inter.pron.)` - interrogative pronoun
 - `(ipt.)` - imperative
-- `(ipt.pl.)` - imperative plural
+    - `(ipt.pl.)` - imperative plural
 - `(loc.)` - locative
 - `(m.)` - masculine
 - `(muṟ.)` - muṟṟeccam
@@ -79,18 +79,18 @@
 - `(n.sg.)` - neuter singular
 - `(n.pl.)` - neuter plural
 - `(neg.)` - negative
-- `(neg.abs.)` - negative absolutive
-- `(neg.m.sg.)` - negative masculine singular
-- `(neg.m.pl.)` - negative masculine plural
-- `(neg.f.sg.)` - negative feminine singular
-- `(neg.f.pl.)` - negative feminine plural
+    - `(neg.abs.)` - negative absolutive
+    - `(neg.m.sg.)` - negative masculine singular
+    - `(neg.m.pl.)` - negative masculine plural
+    - `(neg.f.sg.)` - negative feminine singular
+    - `(neg.f.pl.)` - negative feminine plural
 - `(obl.)` - oblique
 - `(opt.)` - optative
 - `(p.a.)` - perfective aspect
-- `(p.a.n.sg.)` - perfective aspect neuter singular
-- `(p.a.n.pl.)` - perfective aspect neuter plural
-- `(p.a.f.sg.)` - perfective aspect feminine singular
-- `(p.a.f.pl.)` - perfective aspect feminine plural
+    - `(p.a.n.sg.)` - perfective aspect neuter singular
+    - `(p.a.n.pl.)` - perfective aspect neuter plural
+    - `(p.a.f.sg.)` - perfective aspect feminine singular
+    - `(p.a.f.pl.)` - perfective aspect feminine plural
 - `(p.n.)` - proper name
 - `(part.n.)` - participial noun
 - `(pey.)` - peyareccam
@@ -101,10 +101,12 @@
 - `(pl.obl.)` - plural oblique
 - `(pl.sub.)` - plural subjunctive
 - `(pron.n.)` - pronominalised noun
-- `(pron.n.m.sg.)` - pronominalised noun masculine singular
-- `(pron.n.m.pl.)` - pronominalised noun masculine plural
-- `(pron.n.f.sg.)` - pronominalised noun feminine singular
-- `(pron.n.f.pl.)` - pronominalised noun feminine plural
+    - `(pron.n.n.sg.)` - pronominalised noun neuter singular
+    - `(pron.n.n.pl.)` - pronominalised noun neuter plural
+    - `(pron.n.m.sg.)` - pronominalised noun masculine singular
+    - `(pron.n.m.pl.)` - pronominalised noun masculine plural
+    - `(pron.n.f.sg.)` - pronominalised noun feminine singular
+    - `(pron.n.f.pl.)` - pronominalised noun feminine plural
 - `(r.n.)` - root noun
 - `(sg.)` - singular
 - `(sg.dat.)` - singular dative
