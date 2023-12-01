@@ -76,6 +76,10 @@
 - `(n.sg.)` - neuter singular
 - `(n.pl.)` - neuter plural
 - `(neg.)` - negative
+- `(neg.m.sg.)` - negative masculine singular
+- `(neg.m.pl.)` - negative masculine plural
+- `(neg.f.sg.)` - negative feminine singular
+- `(neg.f.pl.)` - negative feminine plural
 - `(obl.)` - oblique
 - `(opt.)` - optative
 - `(p.a.)` - perfective aspect
