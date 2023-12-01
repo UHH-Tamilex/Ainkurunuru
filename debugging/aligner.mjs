@@ -136,6 +136,8 @@ const gramAbbreviations = [
     ['(sg.)','singular'],
     ['(soc.)','sociative'],
     ['(sub.)','subjuntive'],
+    ['(sub.2.sg.)','subjuntive 2nd person singular'],
+    ['(sub.2.pl.)','subjuntive 2nd person plural'],
     ['(suff.)','suffix'],
     ['(v.n.)','verbal noun'],
     ['(v.r.)','verbal root'],
