@@ -13,7 +13,7 @@
         </expan></witness><witness xml:id="Aink1" source="Aink1.xml"><abbr>Aink1</abbr><expan>
           <title xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Aiṅkuṟunūṟu</title> 1. <persName xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Ōrampōkiyār</persName>
         </expan></witness><witness xml:id="Aink2" source="Aink2.xml"><abbr>Aink2</abbr><expan>
-            <title xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Aiṅkuṟunūṟu</title> 2. <persName xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Ōrampōkiyār</persName>
+          <title xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Aiṅkuṟunūṟu</title> 2. <persName xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Ōrampōkiyār</persName>
         </expan></witness><witness xml:id="Aink3" source="Aink3.xml"><abbr>Aink3</abbr><expan>
           <title xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Aiṅkuṟunūṟu</title> 3. <persName xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Ōrampōkiyār</persName>
         </expan></witness><witness xml:id="Aink4" source="Aink4.xml"><abbr>Aink4</abbr><expan>
@@ -288,7 +288,7 @@
 <def xml:lang="en">may-get-lost</def><cit><q corresp="#Aink7">vallatu <hi>keṭuka</hi> veṉavēṭ ṭōḷē</q></cit></entry>
 <entry>
 <form type="standard">kēṇmai</form>
-<def xml:lang="en">intimacy</def><cit><q corresp="#Aink2">yūraṉ <hi>kēṇmai</hi> vaḻivaḻic ciṟakka</q></cit><cit><q corresp="#Aink9">yūraṉ <hi>kēṇmai</hi> yampalā kaṟka</q></cit></entry>
+<def xml:lang="en">friendship/bond</def><def xml:lang="en">intimacy</def><cit><q corresp="#Aink2">yūraṉ <hi>kēṇmai</hi> vaḻivaḻic ciṟakka</q></cit><cit><q corresp="#Aink9">yūraṉ <hi>kēṇmai</hi> yampalā kaṟka</q></cit></entry>
 <entry>
 <form type="standard">kēḻ</form>
 <def xml:lang="en">possess-</def><def xml:lang="en">have-</def><cit><q corresp="#Aink11">cuṟṟun tuṟai<hi>kē ḻū</hi>raṉ koṭumai</q></cit><cit><q corresp="#Aink12">pūkkun tuṟai<hi>kē ḻū</hi>raṉ koṭumai</q></cit></entry>
@@ -453,7 +453,7 @@
 <def xml:lang="en">crane</def><cit><q corresp="#Aink9">kayalār <hi>nārai</hi> pōrviṟ cēkkun</q></cit></entry>
 <entry>
 <form type="standard">nikarkkum</form>
-<form type="sandhi">ṉikarkkun</form><def xml:lang="en">rivalling-</def><cit><q corresp="#Aink2">neyta <hi>ṉikarkkun</hi> taṇṭuṟai yūraṉ</q></cit></entry>
+<form type="sandhi">ṉikarkkun</form><def xml:lang="en">rivalling</def><cit><q corresp="#Aink2">neyta <hi>ṉikarkkun</hi> taṇṭuṟai yūraṉ</q></cit></entry>
 <entry>
 <form type="standard">niraiyuṭaṉ</form>
 <form type="sandhi">ṉiraiyuṭaṉ</form><def xml:lang="en">row</def><cit><q corresp="#Aink204">makaḷiri <hi>ṉiraiyuṭaṉ</hi> kuḻīip peyarvuḻip</q></cit></entry>
@@ -735,7 +735,7 @@
 <def xml:lang="en">purslane</def><cit><q corresp="#Aink11">maṉainaṭu <hi>vayalai</hi> vēḻañ cuṟṟun</q></cit></entry>
 <entry>
 <form type="standard">varuka</form>
-<def xml:lang="en">may-come</def><cit><q corresp="#Aink2">vayalē <hi>varuka</hi> viravala reṉavēṭ</q></cit></entry>
+<def xml:lang="en">come</def><cit><q corresp="#Aink2">vayalē <hi>varuka</hi> viravala reṉavēṭ</q></cit></entry>
 <entry>
 <form type="standard">varaika</form>
 <def xml:lang="en">may-limit</def><cit><q corresp="#Aink6">yūraṉ <hi>varaika</hi> ventaiyuṅ koṭukka</q></cit></entry>
@@ -783,7 +783,7 @@
 <def xml:lang="en">desired</def><cit><q corresp="#Aink15">malirniṟai <hi>virumpiya</hi> voṇṭaḻaip puṉalāṭu</q></cit></entry>
 <entry>
 <form type="standard">viḷaika</form>
-<def xml:lang="en">may-ripen</def><cit><q corresp="#Aink2">yaviṉi <hi>viḷaika</hi> vayalē varuka</q></cit></entry>
+<def xml:lang="en">ripen</def><cit><q corresp="#Aink2">yaviṉi <hi>viḷaika</hi> vayalē varuka</q></cit></entry>
 <entry>
 <form type="standard">veḷ</form>
 <form type="sandhi">veṇ</form><def xml:lang="en">white</def><cit><q corresp="#Aink13">vēḻam <hi>veṇ</hi>pūp pakarun</q></cit></entry>
