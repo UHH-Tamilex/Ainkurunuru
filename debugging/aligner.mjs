@@ -76,6 +76,7 @@ const gramAbbreviations = [
     ['(acc.)','accusative'],
     ['(adj.)','adjective'],
     ['(adv.)','adverb'],
+    ['(conc.)','concessive'],
     ['(comp.)','comparative'],
     ['(dat.)','dative'],
     ['(f.)','feminine'],

@@ -52,6 +52,7 @@
 - `(adj.)` - adjective
 - `(adv.)` - adverb
 - `(comp.)` - comparative
+- `(conc.)` - concessive
 - `(dat.)` - dative
 - `(f.)` - feminine
 - `(f.v.)` - finite verb
