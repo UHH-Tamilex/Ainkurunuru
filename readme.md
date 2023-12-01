@@ -109,19 +109,19 @@
     - `(pron.n.f.pl.)` - pronominalised noun feminine plural
 - `(r.n.)` - root noun
 - `(sg.)` - singular
-- `(sg.dat.)` - singular dative
+    - `(sg.dat.)` - singular dative
 - `(soc.)` - sociative
 - `(sub.)` - subjuntive
-- `(sub.2.sg.)` - subjuntive 2nd person singular
-- `(sub.2.pl.)` - subjuntive 2nd person plural
+    - `(sub.2.sg.)` - subjuntive 2nd person singular
+    - `(sub.2.pl.)` - subjuntive 2nd person plural
 - `(suff.)` - suffix
 - `(v.n.)` - verbal noun
 - `(v.r.)` - verbal root
-- `(v.r.adj.)` - verbal root as adjective
-- `(v.r.ger.)` - verbal root as gerundive
-- `(v.r.imp.)` - verbal root as imperative
-- `(v.r.inf.)` - verbal root as infinitive
-- `(v.r.pey.)` - verbal root as peyareccam
-- `(v.r.pey.p.a.)` - verbal root as peyareccam perfective aspect
-- `(v.r.pey.i.a.)` - verbal root as peyareccam imperfective aspect
+    - `(v.r.adj.)` - verbal root as adjective
+    - `(v.r.ger.)` - verbal root as gerundive
+    - `(v.r.imp.)` - verbal root as imperative
+    - `(v.r.inf.)` - verbal root as infinitive
+    - `(v.r.pey.)` - verbal root as peyareccam
+    - `(v.r.pey.p.a.)` - verbal root as peyareccam perfective aspect
+    - `(v.r.pey.i.a.)` - verbal root as peyareccam imperfective aspect
 - `(voc.)` - vocative
