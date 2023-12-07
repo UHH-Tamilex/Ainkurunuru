@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <title xml:lang="ta">Aiṅkuṟunūṟu</title> 16. <persName xml:lang="ta">Ōrampōkiyār</persName>
+        </title>
+        <editor role="translator">Eva Wilden</editor>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc />
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <div xml:id="Aink16-kilavi">
+        <p type="edition">vāyilāyp pukuntārkkut tōḻi ‘avaṉ varavaiyē niṉaittu ivaḷ kaṇṇum pacantaṉa;
+          iṉi avaṉ vantu peṟuvatu eṉṉai?’ eṉac colli vāyil maṟuttatu.</p>
+        <p type="translation" xml:lang="en"> </p>
+      </div>
+
+      <div xml:id="Aink16">
+        <lg type="edition">
+          <l> ōṅkupū vēḻattut tūmpuṭait tiraḷkāṟ</l>
+          <l> ciṟutoḻu makaḷi rañcaṉam peyyum</l>
+          <l> pūkkaña lūraṉai yuḷḷip</l>
+          <l> pūppō luṇkaṇ poṉpōrt taṉavē. </l>
+
+
+        </lg>
+        <lg type="translation" xml:lang="en">
+          <l> Remembering the man from the village dense with flowers,</l>
+          <l rend='indent2'> where little maid-servants put on kajal</l>
+          <l rend='indent2'> with [the help of] the hollow, round stems of high, flowering wild-cane,</l>
+          <l> [My] flower-like kajal eyes are wrapped in gold.</l>
+
+
+        </lg>
+      </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#Aink16">
+    <interp type="alignment" select="0">18MG83MG3M,105MG</interp>
+    <entry>
+    <form>ōṅku</form>
+    <def>become-high</def>
+    <gramGrp><gram type="role">verbal root</gram></gramGrp>
+    </entry>
+    <entry>
+    <form>pū</form>
+    <def>flower</def>
+    </entry>
+    <entry>
+    <form>vēḻattu<pc>+</pc></form>
+    <def>wild-cane</def>
+    <gramGrp><gram type="role">oblique</gram></gramGrp>
+    </entry>
+    <entry>
+    <form>tūmp<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>tube</def>
+    </entry>
+    <entry>
+    <form>uṭai<pc>+</pc></form>
+    <def>possess</def>
+    <gramGrp><gram type="role">verbal root</gram></gramGrp>
+    </entry>
+    <entry>
+    <form>tiraḷ</form>
+    <def>be-round</def>
+    <gramGrp><gram type="role">verbal root</gram></gramGrp>
+    </entry>
+    <entry>
+    <form>kāl</form>
+    <def>stem</def>
+    </entry>
+    <entry>
+    <form>ciṟu</form>
+    <def>little</def>
+    </entry>
+    <entry>
+    <form>toḻumakaḷir</form>
+    <def>maid-servant(?)</def>
+    <gramGrp><gram type="role">3rd person plural</gram></gramGrp>
+    </entry>
+    <entry>
+    <form>añcaṉam</form>
+    <def>kajal</def>
+    </entry>
+    <entry>
+    <form>peyyum</form>
+    <def>putting-on</def>
+    <gramGrp><gram type="role">peyareccam perfective aspect</gram></gramGrp>
+    </entry>
+    <entry>
+    <form>pū<pc>+</pc></form>
+    <def>flower</def>
+    </entry>
+    <entry>
+    <form>kañal</form>
+    <def>be-dense</def>
+    <gramGrp><gram type="role">verbal root</gram></gramGrp>
+    </entry>
+    <entry>
+    <form>ūraṉai</form>
+    <def>village(pron.n.m.sg.)</def>
+    <gramGrp><gram type="role">accusative</gram></gramGrp>
+    </entry>
+    <entry>
+    <form><pc>~</pc>uḷḷi<pc>+</pc></form>
+    <def>remembering(vin.)</def>
+    </entry>
+    <entry>
+    <form>pū<pc>+</pc></form>
+    <def>flower</def>
+    </entry>
+    <entry>
+    <form>pōl</form>
+    <def>be-similar</def>
+    <gramGrp><gram type="role">verbal root</gram></gramGrp>
+    </entry>
+    <entry>
+    <form>uṇ</form>
+    <def>kajal</def>
+    </entry>
+    <entry>
+    <form>kaṇ</form>
+    <def>eye</def>
+    <gramGrp type="affix"><m>kaṇ</m><gramGrp><gram type="role">locative</gram></gramGrp></gramGrp>
+    </entry>
+    <entry>
+    <form>poṉ</form>
+    <def>gold</def>
+    </entry>
+    <entry>
+    <form>pōrttaṉa-<pc>~</pc>ē</form>
+    <def>they-were-wrapped(f.v.)</def>
+    <form type="simple">pōrttaṉa</form>
+    <gramGrp><gram type="role">perfective aspect neuter plural</gram></gramGrp>
+    <gramGrp type="particle"><m>ē</m></gramGrp>
+    </entry>
+    </standOff> 
+</TEI>

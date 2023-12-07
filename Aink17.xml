@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <title xml:lang="ta">Aiṅkuṟunūṟu</title> 17. <persName xml:lang="ta">Ōrampōkiyār</persName>
+        </title>
+        <editor role="translator">Eva Wilden</editor>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc />
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <div xml:id="Aink17-kilavi">
+        <p type="edition">talaimakaṉ parattaiyiṟ pirintavaḻi, ‘ivvāṟu oḻukutalum āṭavarkku
+          iyalpaṉṟē; nī itaṟku neñcu aḻikiṉṟatu eṉṉai?’ eṉṟa tōḻikkut talaimakaḷ colliyatu.</p>
+        <p type="translation" xml:lang="en"> </p>
+      </div>
+
+      <div xml:id="Aink17">
+        <lg type="edition">
+          <l> putaṉmicai nuṭaṅkum vēḻa veṇpū</l>
+          <l> vicumpāṭu kurukiṟ ṟōṉṟu mūraṉ</l>
+          <l> putuvōr mēvala ṉākaliṉ</l>
+          <l> vaṟitā kiṉṟeṉ maṭaṅkeḻu neñcē.</l>
+
+
+        </lg>
+        <lg type="translation" xml:lang="en">
+          <l> Because the man from the village </l>
+          <l rend='indent2'> where the white flowers of the wild-cane that sway on bushes </l>
+          <l rend='indent2'> appear like egrets dancing in the sky</l>
+          <l> Desires new girls,</l>
+          <l> My innocent heart has become empty.</l>
+
+
+        </lg>
+      </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#Aink17">
+    <interp type="alignment" select="0">5MG17M3G11MG45MG5MG15M2G2M,108MG</interp>
+    <entry>
+    <form>putal-micai</form>
+    <def>bush</def>
+    <gramGrp><gram type="role">locative</gram></gramGrp>
+    </entry>
+    <entry>
+    <form>nuṭaṅkum</form>
+    <def>swaying</def>
+    <gramGrp><gram type="role">peyareccam imperfective aspect</gram></gramGrp>
+    </entry>
+    <entry>
+    <form>vēḻa<pc>(</pc>m<pc>)</pc></form>
+    <def>wild-cane</def>
+    </entry>
+    <entry>
+    <form>veḷ</form>
+    <def>white</def>
+    </entry>
+    <entry>
+    <form>pū</form>
+    <def>flower</def>
+    </entry>
+    <entry>
+    <form>vicump<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>sky</def>
+    </entry>
+    <entry>
+    <form>āṭu</form>
+    <def>dance</def>
+    <gramGrp><gram type="role">verbal root</gram></gramGrp>
+    </entry>
+    <entry>
+    <form>kurukiṉ</form>
+    <def>heron/egret/stalk/crane</def>
+    <gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">locative</gram></gramGrp></gramGrp>
+    </entry>
+    <entry>
+    <form>tōṉṟum</form>
+    <def>appearing</def>
+    <gramGrp><gram type="role">peyareccam imperfective aspect</gram></gramGrp>
+    </entry>
+    <entry>
+    <form>ūraṉ</form>
+    <def>village</def>
+    <gramGrp><gram type="role">pronominalised noun masculine singular</gram></gramGrp>
+    </entry>
+    <entry>
+    <form>putuvōr</form>
+    <def>new-ones(pronominalised noun)</def>
+    <gramGrp><gram type="role">plural</gram></gramGrp>
+    </entry>
+    <entry>
+    <form>mēvalaṉ</form>
+    <def>one-who-desires</def>
+    <gramGrp><gram type="role">pronominalised noun masculine singular</gram></gramGrp>
+    </entry>
+    <entry>
+    <form>ākaliṉ</form>
+    <def>because</def>
+    </entry>
+    <entry>
+    <form>vaṟit<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>small/worthless/empty</def>
+    <gramGrp><gram type="role">pronominalised noun neuter singular</gram></gramGrp>
+    </entry>
+    <entry>
+    <form>ākiṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>it-became(f.v.)</def>
+    <gramGrp><gram type="role">perfective aspect neuter singular</gram></gramGrp>
+    </entry>
+    <entry>
+    <form>eṉ</form>
+    <def>my</def>
+    </entry>
+    <entry>
+    <form>maṭam</form>
+    <def>innocence</def>
+    </entry>
+    <entry>
+    <form>keḻu</form>
+    <def>have(?)</def>
+    </entry>
+    <entry>
+    <form>neñc<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
+    <def>heart</def>
+    <form type="simple">neñcu</form>
+    <gramGrp type="particle"><m>ē</m></gramGrp>
+    </entry>
+    </standOff>
+</TEI>
