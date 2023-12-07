@@ -38,6 +38,7 @@
 - `-maṉṟilla`
 - `-maṉṉō`
 - `-maṉṉē`
+- `-maṉṉum`
 - `-maṉṟa`
 - `-maṉṟamma`
 - `-mātu`, `-māt*`
