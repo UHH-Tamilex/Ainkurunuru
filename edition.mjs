@@ -216,7 +216,7 @@ const makeWord = (entry) => {
     span.className = 'word split';
     const translation = entry.querySelector('.f[data-name="translation"]');
     const affix = entry.querySelector('.f[data-name="affix"]');
-    const particle = entry.querySelector('.f[data-name="particle"]');
+    const particles = entry.querySelectorAll('.f[data-name="particle"]');
     const role = entry.querySelector(':scope > .f[data-name="role"], :scope > .f[data-name=""] > .f[data-name="role"]');
     const cleanlemma = entry.querySelector('.f[data-name="simple"]');
     if(cleanlemma) span.dataset.clean = cleanlemma.textContent;
@@ -234,7 +234,7 @@ const makeWord = (entry) => {
             const form = affix.querySelector('[data-name="lemma"]');
             annohtml = annohtml + ` (${affixrole} <span lang="ta">${form.textContent}</span>)`;
         }
-        if(particle) {
+        for(const particle of particles) {
             const form = particle.querySelector('[data-name="lemma"]');
             annohtml = annohtml + ` (particle <span lang="ta">${form.textContent}</span>)`;
         }
