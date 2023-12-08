@@ -56,128 +56,130 @@
   <standOff type="wordsplit" corresp="#Aink6">
     <interp type="alignment" select="0">61MG4MG4MG57MG20MG2M,152MG</interp>
     <entry>
-      <form>vāḻi</form>
-      <def>live-you</def>
-      <gram type="role">subjuntive</gram>
+    <form>vāḻi</form>
+    <def>live</def>
+    <gramGrp><gram type="role">subjuntive 2nd person singular</gram></gramGrp>
     </entry>
     <entry>
-      <form><pc>~</pc>ātaṉ</form>
-      <def>Ātaṉ</def>
+    <form><pc>~</pc>ātaṉ</form>
+    <def>Ātaṉ</def>
     </entry>
     <entry>
-      <form>vāḻi</form>
-      <def>live-you</def>
-      <gram type="role">subjuntive</gram>
+    <form>vāḻi</form>
+    <def>live</def>
+    <gramGrp><gram type="role">subjuntive 2nd person singular</gram></gramGrp>
     </entry>
     <entry>
-      <form><pc>~</pc>aviṉi</form>
-      <def>Aviṉi</def>
+    <form><pc>~</pc>aviṉi</form>
+    <def>Aviṉi</def>
     </entry>
     <entry>
-      <form>vēntu</form>
-      <def>king</def>
+    <form>vēntu</form>
+    <def>king</def>
     </entry>
     <entry>
-      <form>pakai</form>
-      <def>enemy</def>
+    <form>pakai</form>
+    <def>enemy</def>
     </entry>
     <entry>
-      <form>taṇika</form>
-      <def>may-cool-down</def>
-      <gram type="role">optative</gram>
+    <form>taṇika</form>
+    <def>cool-down</def>
+    <gramGrp><gram type="role">optative</gram></gramGrp>
     </entry>
     <entry>
-      <form>yāṇṭu</form>
-      <def>year</def>
+    <form>yāṇṭu</form>
+    <def>year</def>
     </entry>
     <entry>
-      <form>pala</form>
-      <def>many</def>
-      <gram type="role">neuter plural</gram>
+    <form>pala</form>
+    <def>many</def>
+    <gramGrp><gram type="role">neuter plural</gram></gramGrp>
     </entry>
     <entry>
-      <form>nantuka</form>
-      <def>may-flourish</def>
-      <gram type="role">optative</gram>
+    <form>nantuka</form>
+    <def>flourish</def>
+    <gramGrp><gram type="role">optative</gram></gramGrp>
     </entry>
     <entry>
-      <form><pc>~</pc>eṉa</form>
-      <def>say</def>
-      <gram type="role">infinitive</gram>
+    <form><pc>~</pc>eṉa</form>
+    <def>say</def>
+    <gramGrp><gram type="role">infinitive</gram></gramGrp>
     </entry>
     <entry>
-      <form>vēṭṭōḷ-ē</form>
-      <def>wanted-she</def>
-      <form type="simple">vēṭṭōḷ</form>
-      <gramGrp type="particle"><form>ē</form></gramGrp>
+    <form>vēṭṭōḷ-ē</form>
+    <def>she-wanted(​​f.v.)</def>
+    <form type="simple">vēṭṭōḷ</form>
+    <gramGrp type="particle"><m>ē</m></gramGrp>
     </entry>
     <entry>
-      <form>yāy-ē</form>
-      <def>your-mother</def>
-      <form type="simple">yāy</form>
-      <gramGrp type="particle"><form>ē</form></gramGrp>
+    <form>yāy-ē</form>
+    <def>your-mother</def>
+    <form type="simple">yāy</form>
+    <gramGrp type="particle"><m>ē</m></gramGrp>
     </entry>
     <entry>
-      <form>yām-ē</form>
-      <def>we</def>
-      <form type="simple">yām</form>
-      <gramGrp type="particle"><form>ē</form></gramGrp>
+    <form>yām-ē</form>
+    <def>we</def>
+    <form type="simple">yām</form>
+    <gramGrp type="particle"><m>ē</m></gramGrp>
     </entry>
     <entry>
-      <form>malarnta</form>
-      <def>blossomed-</def>
+    <form>malarnta</form>
+    <def>blossomed</def>
+    <gramGrp><gram type="role">peyareccam perfective aspect</gram></gramGrp>
     </entry>
     <entry>
-      <form>poykai</form>
-      <def>pond</def>
+    <form>poykai</form>
+    <def>pond</def>
     </entry>
     <entry>
-      <form>mukainta</form>
-      <def>budded-</def>
+    <form>mukainta</form>
+    <def>budded</def>
+    <gramGrp><gram type="role">peyareccam perfective aspect</gram></gramGrp>
     </entry>
     <entry>
-      <form>tāmarai<pc>+</pc></form>
-      <def>lotus</def>
+    <form>tāmarai<pc>+</pc></form>
+    <def>lotus</def>
     </entry>
     <entry>
-      <form>taṇ</form>
-      <def>cool</def>
+    <form>taṇ</form>
+    <def>cool</def>
     </entry>
     <entry>
-      <form>tuṟai</form>
-      <def>ghat</def>
+    <form>tuṟai</form>
+    <def>ghat</def>
     </entry>
     <entry>
-      <form><pc>~</pc>ūraṉ</form>
-      <def>village-he</def>
+    <form><pc>~</pc>ūraṉ</form>
+    <def>village(pron.n.m.sg)</def>
     </entry>
     <entry>
-      <form>varaika</form>
-      <def>may-limit</def>
-      <gram type="role">optative</gram>
+    <form>varaika</form>
+    <def>limit</def>
+    <gramGrp><gram type="role">optative</gram></gramGrp>
     </entry>
     <entry>
-      <form><pc>~</pc>entai-<pc>~</pc>um</form>
-      <def>my-father</def>
-      <form type="simple">entai</form>
-      <gramGrp type="particle"><form>um</form></gramGrp>
+    <form><pc>~</pc>entai-<pc>~</pc>um</form>
+    <def>my-father</def>
+    <form type="simple">entai</form>
+    <gramGrp type="particle"><m>um</m></gramGrp>
     </entry>
     <entry>
-      <form>koṭukka</form>
-      <def>may-give</def>
-      <gram type="role">optative</gram>
+    <form>koṭukka</form>
+    <def>give</def>
+    <gramGrp><gram type="role">optative</gram></gramGrp>
     </entry>
     <entry>
-      <form><pc>~</pc>eṉa</form>
-      <def>say</def>
-      <gram type="role">infinitive</gram>
+    <form><pc>~</pc>eṉa</form>
+    <def>say</def>
+    <gramGrp><gram type="role">infinitive</gram></gramGrp>
     </entry>
     <entry>
-      <form>vēṭṭēm-ē</form>
-      <def>wanted-we</def>
-      <form type="simple">vēṭṭēm</form>
-      <gramGrp type="particle"><form>ē</form></gramGrp>
+    <form>vēṭṭēm-ē</form>
+    <def>we-wanted</def>
+    <form type="simple">vēṭṭēm</form>
+    <gramGrp type="particle"><m>ē</m></gramGrp>
     </entry>
-  </standOff>
+    </standOff>
 
 </TEI>
