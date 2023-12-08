@@ -44,10 +44,10 @@
 
 <l>          'May you live long, Ātaṉ! May you live long, Aviṉi!</l>
 <l>          May many [ears] of paddy flourish! May the gold greatly accumulate!'</l>
-<l>          That's what your mother wanted. As for me:</l>
+<l>          That's what your mother wanted. As for us:</l>
 <l>          'Long live the man from the fertile village </l>
 <l>          with little fish who have eggs and portia trees which have buds,</l>
-<l>          and long live the bard!'—that's what I wanted. </l>
+<l>          and long live the bard!'—that's what we wanted. </l>
           
           
           
@@ -110,7 +110,7 @@
     </entry>
     <entry>
     <form>vēṭṭōḷ-ē</form>
-    <def>she-wanted(​​f.v.)</def>
+    <def>she-wanted(​​participal noun perfective aspect feminine singular)</def>
     <form type="simple">vēṭṭōḷ</form>
     <gramGrp type="particle"><m>ē</m></gramGrp>
     </entry>
@@ -176,10 +176,11 @@
     <entry>
     <form><pc>~</pc>eṉa</form>
     <def>say</def>
+    <gramGrp><gram type="role">infinitive</gram></gramGrp>
     </entry>
     <entry>
     <form>vēṭṭēm-ē</form>
-    <def>we-wanted(​​f.v.)</def>
+    <def>we-wanted</def>
     <form type="simple">vēṭṭēm</form>
     <gramGrp type="particle"><m>ē</m></gramGrp>
     </entry>
