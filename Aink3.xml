@@ -42,11 +42,11 @@
         <lg type="translation" xml:lang="en">
 
 <l>          'Long live Ātan! Long live Aviṉi! </l>
-<l>          May many [drops of] milk flow! May many bulls grow!' </l>
-<l>          That's what your mother wanted. As for me: </l>
+<l>          May many [drops of] milk trickle! May many bulls grow!' </l>
+<l>          That's what your mother wanted. As for us: </l>
 <l>          '[There is] a man from a land filled with flowers,</l>
 <l>          where ploughmen, after sowing, return with paddy:</l>
-<l>          May the livelihood of his household flourish!' — that's what I wanted. </l>
+<l>          May the livelihood of his household flourish!' — that's what we wanted. </l>
           
 
 
@@ -85,7 +85,7 @@
     </entry>
     <entry>
     <form><pc>~</pc>ūṟuka</form>
-    <def>flow</def>
+    <def>trickle/ooze</def>
     <gramGrp><gram type="role">optative</gram></gramGrp>
     </entry>
     <entry>
@@ -109,7 +109,7 @@
     </entry>
     <entry>
     <form>vēṭṭōḷ-ē</form>
-    <def>she-wanted(​​f.v.)</def>
+    <def>she-wanted(​​participial noun perfective aspect feminine singular)</def>
     <form type="simple">vēṭṭōḷ</form>
     <gramGrp type="particle"><m>ē</m></gramGrp>
     </entry>
@@ -132,8 +132,7 @@
     </entry>
     <entry>
     <form><pc>~</pc>uḻavar</form>
-    <def>ploughman</def>
-    <gramGrp><gram type="role">3rd person honorific</gram></gramGrp>
+    <def>ploughmen (3rd person honorific plural)</def>
     </entry>
     <entry>
     <form>nelloṭu</form>
@@ -184,7 +183,7 @@
     </entry>
     <entry>
     <form>vēṭṭēm-ē</form>
-    <def>we-wanted(​​f.v.)</def>
+    <def>we-wanted(​​perfective aspect 1st person plural)</def>
     <form type="simple">vēṭṭēm</form>
     <gramGrp type="particle"><m>ē</m></gramGrp>
     </entry>

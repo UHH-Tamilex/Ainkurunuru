@@ -110,7 +110,7 @@
     </entry>
     <entry>
     <form>vēṭṭōḷ-ē</form>
-    <def>she-wanted(​​participal noun perfective aspect feminine singular)</def>
+    <def>she-wanted​​(​​participial noun perfective aspect feminine singular)</def>
     <form type="simple">vēṭṭōḷ</form>
     <gramGrp type="particle"><m>ē</m></gramGrp>
     </entry>
@@ -129,16 +129,16 @@
     <entry>
     <form>naṉaiya</form>
     <def>bud</def>
-    <gramGrp><gram type="role">pronominalised noun neuter plural</gram></gramGrp>
+    <gramGrp><gram type="role">adjective</gram></gramGrp>
     </entry>
     <entry>
     <form>kāñci<pc>+</pc></form>
-    <def>Portia-tree</def>
+    <def>portia-tree</def>
     </entry>
     <entry>
     <form>ciṉaiya</form>
     <def>egg</def>
-    <gramGrp><gram type="role">pronominalised noun neuter plural</gram></gramGrp>
+    <gramGrp><gram type="role">adjective</gram></gramGrp>
     </entry>
     <entry>
     <form>ciṟu</form>
@@ -180,10 +180,11 @@
     </entry>
     <entry>
     <form>vēṭṭēm-ē</form>
-    <def>we-wanted</def>
+    <def>wanted(​​perfective aspect 1st person plural)</def>
     <form type="simple">vēṭṭēm</form>
     <gramGrp type="particle"><m>ē</m></gramGrp>
     </entry>
     </standOff>
+  
 
 </TEI>
