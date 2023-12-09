@@ -41,14 +41,15 @@
           <l> ventaiyuṅ koṭukka veṉavēṭ ṭēmē.</l>
         </lg>
         <lg type="translation" xml:lang="en">
-          <l> 'May Ātaṉ prosper, may Aviṉi prosper.</l>
-          <l> May the king’s enemies calm down, may he flourish for many years,</l>
-          <l> thus wants our mother. We:</l>
-          <l> 'Let the man from the village by the cool ghat with lotuses</l>
-          <l> that budded in the blooming pond propose marriage,</l>
-          <l> and let our father give [me],' thus we want.</l>
 
-
+<l>          'Long live Ātan! Long live Aviṉi! </l>
+<l>          May the king's enemies calm down! May he flourish for many years!' </l>
+<l>          That's what mother our wants. As for us: </l>
+<l>          'The man from the village by the cool ghat,</l>
+<l>          where lotuses have formed buds in the blooming pond: </l>
+<l>          May he propose marriage! </l>
+<l>          And may our father give [his consent]!' — that's what we want.</l>
+          
         </lg>
       </div>
     </body>
@@ -106,10 +107,10 @@
     <gramGrp><gram type="role">infinitive</gram></gramGrp>
     </entry>
     <entry>
-    <form>vēṭṭōḷ-ē</form>
-    <def>she-wanted(​​f.v.)</def>
-    <form type="simple">vēṭṭōḷ</form>
-    <gramGrp type="particle"><m>ē</m></gramGrp>
+      <form>vēṭṭōḷ-ē</form>
+      <def>she-wanted(​​​​​​participial noun perfective aspect feminine singular)</def>
+      <form type="simple">vēṭṭōḷ</form>
+      <gramGrp type="particle"><m>ē</m></gramGrp>
     </entry>
     <entry>
     <form>yāy-ē</form>
@@ -150,8 +151,9 @@
     <def>ghat</def>
     </entry>
     <entry>
-    <form><pc>~</pc>ūraṉ</form>
-    <def>village(pron.n.m.sg)</def>
+      <form><pc>~</pc>ūraṉ</form>
+      <def>village</def>
+      <gramGrp><gram type="role">pronominalised noun masculine singular</gram></gramGrp>
     </entry>
     <entry>
     <form>varaika</form>
@@ -175,8 +177,8 @@
     <gramGrp><gram type="role">infinitive</gram></gramGrp>
     </entry>
     <entry>
-    <form>vēṭṭēm-ē</form>
-    <def>we-wanted</def>
+      <form>vēṭṭēm-ē</form>
+    <def>we-wanted(​​perfective aspect 1st person plural)</def>
     <form type="simple">vēṭṭēm</form>
     <gramGrp type="particle"><m>ē</m></gramGrp>
     </entry>

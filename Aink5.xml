@@ -42,10 +42,10 @@
         <lg type="translation" xml:lang="en">
 <l>          'Long live Ātan! Long live Aviṉi!</l>
 <l>          May there be no hunger! May sickness go far away!'</l>
-<l>          That's what mother wanted. As for me:</l>
+<l>          That's what our mother wants. As for us:</l>
 <l>          'May the chariot of the man from the village by the cool ghat</l>
 <l>          where male crocodiles gorge on whole fish</l>
-<l>          stop at our front gate!' — that's what I wanted.</l>
+<l>          stop in front of our gate!' — that's what we want.</l>
 
 
         </lg>
@@ -106,7 +106,7 @@
     </entry>
     <entry>
     <form>vēṭṭōḷ-ē</form>
-    <def>she-wanted(​​f.v.)</def>
+    <def>she-wanted(​​​​​​participial noun perfective aspect feminine singular)</def>
     <form type="simple">vēṭṭōḷ</form>
     <gramGrp type="particle"><m>ē</m></gramGrp>
     </entry>
@@ -141,7 +141,7 @@
     <entry>
     <form>ārum</form>
     <def>becoming-full</def>
-    <gramGrp><gram type="role">peyareccam perfective aspect</gram></gramGrp>
+    <gramGrp><gram type="role">peyareccam imperfective aspect</gram></gramGrp>
     </entry>
     <entry>
     <form>taṇ</form>
@@ -167,7 +167,7 @@
     </entry>
     <entry>
     <form>muṉ</form>
-    <def>front</def>
+    <def>in front (adverb)</def>
     </entry>
     <entry>
     <form>kaṭai</form>
@@ -184,8 +184,8 @@
     <gramGrp><gram type="role">infinitive</gram></gramGrp>
     </entry>
     <entry>
-    <form>vēṭṭēm-ē</form>
-    <def>we-wanted</def>
+      <form>vēṭṭēm-ē</form>
+    <def>we-wanted(​​perfective aspect 1st person plural)</def>
     <form type="simple">vēṭṭēm</form>
     <gramGrp type="particle"><m>ē</m></gramGrp>
     </entry>
