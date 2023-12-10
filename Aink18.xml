@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <title xml:lang="ta">Aiṅkuṟunūṟu</title> 18. <persName xml:lang="ta">Ōrampōkiyār</persName>
+        </title>
+        <editor role="translator">Eva Wilden</editor>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc />
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <div xml:id="Aink18-kilavi">
+        <p type="edition">
+          parattaiyiṉ pirintuvantu teḷittuk kūṭiya talaimakaṟkup piṉ avvoḻukkam uḷatāyavaḻi avaṉ varaviṭutta vāyilkaṭkut talaimakaḷ colliyatu.
+          </p>
+        <p type="translation" xml:lang="en"> </p>
+      </div>
+
+      <div xml:id="Aink18">
+        <lg type="edition">
+<l>          iruñcā yaṉṉa ceruntiyoṭu vēḻaṅ</l>
+<l>          karumpi ṉalamaruṅ kaḻaṉi yūraṉ</l>
+<l>          poruntumala raṉṉaveṉ kaṇṇaḻap</l>
+<l>          pirintaṉa ṉallaṉō piriyale ṉeṉṟē.</l>
+
+
+        </lg>
+        <lg type="translation" xml:lang="en">
+
+<l>          The man from the village with fields where wild cane </l>
+<l>          with dark, sedge-like pear trees whirls amongst the sugarcane–</l>
+<l>          After saying 'I shan't leave [you],' he left [me], didn't he? </l>
+<l>          So my eyes like matching blossoms cry. </l>
+          
+
+
+        </lg>
+      </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#Aink18">
+    <interp type="alignment" select="0">96MG13M2G2M,113MG</interp>
+    <entry>
+    <form>irum</form>
+    <def>big/dark</def>
+    </entry>
+    <entry>
+    <form>cāy</form>
+    <def>sedge</def>
+    </entry>
+    <entry>
+    <form>aṉṉa</form>
+    <def>like</def>
+    <gramGrp><gram type="role">postposition</gram></gramGrp>
+    </entry>
+    <entry>
+    <form>ceruntiyoṭu</form>
+    <def>pear-tree</def>
+    <gramGrp type="affix"><m>oṭu</m><gramGrp><gram type="role">sociative</gram></gramGrp></gramGrp>
+    </entry>
+    <entry>
+    <form>vēḻam</form>
+    <def>wild-cane</def>
+    </entry>
+    <entry>
+    <form>karumpiṉ</form>
+    <def>sugarcane</def>
+    <gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
+    </entry>
+    <entry>
+    <form>alamarum</form>
+    <def>whirling</def>
+    <gramGrp><gram type="role">peyareccam imperfective aspect</gram></gramGrp>
+    </entry>
+    <entry>
+    <form>kaḻaṉi</form>
+    <def>field</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>ūraṉ</form>
+    <def>village</def>
+    <gramGrp><gram type="role">pronominalised noun masculine singular</gram></gramGrp>
+    </entry>
+    <entry>
+    <form>poruntu</form>
+    <def>be-suited</def>
+    <gramGrp><gram type="role">verbal root as peyareccam imperfective aspect</gram></gramGrp>
+    </entry>
+    <entry>
+    <form>malar</form>
+    <def>blossom</def>
+    </entry>
+    <entry>
+    <form>aṉṉa</form>
+    <def>like</def>
+    <gramGrp><gram type="role">postposition</gram></gramGrp>
+    </entry>
+    <entry>
+    <form><pc>~</pc>eṉ</form>
+    <def>my</def>
+    <gramGrp><gram type="role">oblique</gram></gramGrp>
+    </entry>
+    <entry>
+    <form>kaṇ</form>
+    <def>eye</def>
+    </entry>
+    <entry>
+    <form><pc>+</pc>aḻa<pc>+</pc></form>
+    <def>cry</def>
+    <gramGrp><gram type="role">infinitive</gram></gramGrp>
+    </entry>
+    <entry>
+    <form>pirintaṉaṉ</form>
+    <def>he-separated(perfective aspect masculine singular)</def>
+    </entry>
+    <entry>
+    <form>allaṉ-ō</form>
+    <def>he-is/was-not-such</def>
+    <form type="simple">allaṉ</form>
+    <gramGrp><gram type="role">masculine singular</gram></gramGrp>
+    <gramGrp type="particle"><m>ō</m></gramGrp>
+    </entry>
+    <entry>
+    <form>piriyaleṉ</form>
+    <def>I-shall-not-separate(negative 1st person singular)</def>
+    </entry>
+    <entry>
+    <form>eṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
+    <def>saying (quotative particle)</def>
+    <form type="simple">eṉṟu</form>
+    <gramGrp type="particle"><m>ē</m></gramGrp>
+    </entry>
+    </standOff>
+</TEI>
