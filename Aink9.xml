@@ -40,12 +40,13 @@
           <l> yampalā kaṟka veṉavēṭ ṭēmē.</l>
         </lg>
         <lg type="translation" xml:lang="en">
-          <l> 'May Ātaṉ prosper, may Aviṉi prosper.</l>
-          <l> Let what is good greatly prevail, let what is bad come to nought,'</l>
-          <l> thus wants our mother. We,</l>
-          <l> 'The intimacy with the man from the village by the cool ghat,</l>
-          <l> where cranes full of carp rest on heaps:</l>
-          <l> let it not become gossip,' thus we want.</l>
+<l>          'Long live Ātan! Long live Aviṉi! </l>
+<l>          May Goodness greatly prevail! May Evil come to nought!' </l>
+<l>          That's what our mother wanted. As for us: </l>
+<l>          '[My] bond with the man from the village by the cool ghat,</l>
+<l>          where cranes, who gorge on carp, nest on grain-heaps: </l>
+<l>          May it not become [the subject of] gossip!' — that's what we want.</l>
+          
 
 
         </lg>
@@ -56,8 +57,8 @@
     <interp type="alignment" select="0">40MG18MG4MG4MG66MG2M,138MG</interp>
     <entry>
       <form>vāḻi</form>
-      <def>live-you</def>
-      <gram type="role">subjuntive</gram>
+      <def>live</def>
+      <gram type="role">subjuntive 2nd person singular</gram>
     </entry>
     <entry>
       <form><pc>~</pc>ātaṉ</form>
@@ -65,8 +66,8 @@
     </entry>
     <entry>
       <form>vāḻi</form>
-      <def>live-you</def>
-      <gram type="role">subjuntive</gram>
+      <def>live</def>
+      <gram type="role">subjuntive 2nd person singular</gram>
     </entry>
     <entry>
       <form><pc>~</pc>aviṉi</form>
@@ -74,15 +75,15 @@
     </entry>
     <entry>
       <form>naṉṟu</form>
-      <def>good-it</def>
+      <def>goodness (pronominalised noun neuter singular)</def>
     </entry>
     <entry>
       <form>peritu</form>
-      <def>big-it</def>
+      <def>greatly (pronominalised noun neuter singular) (adv) </def>
     </entry>
     <entry>
       <form>ciṟakka</form>
-      <def>may-excel</def>
+      <def>excel</def>
       <gram type="role">optative</gram>
     </entry>
     <entry>
@@ -91,11 +92,11 @@
     </entry>
     <entry>
       <form>il</form>
-      <def>not-</def>
+      <def>be-not (verbal root)</def>
     </entry>
     <entry>
       <form><pc>+</pc>ākuka</form>
-      <def>may-become</def>
+      <def>become</def>
       <gram type="role">optative</gram>
     </entry>
     <entry>
@@ -105,9 +106,9 @@
     </entry>
     <entry>
       <form>vēṭṭōḷ-ē</form>
-      <def>wanted-she</def>
+      <def>one-who-wants/one-who-wanted(​​​​​​participial noun perfective aspect feminine singular)</def>
       <form type="simple">vēṭṭōḷ</form>
-      <gramGrp type="particle"><form>ē</form></gramGrp>
+      <gramGrp type="particle"><m>ē</m></gramGrp>
     </entry>
     <entry>
       <form>yāy-ē</form>
@@ -127,7 +128,7 @@
     </entry>
     <entry>
       <form>ār</form>
-      <def>becoming-full-</def>
+      <def>become-full (verbal root as peyareccam)</def>
     </entry>
     <entry>
       <form>nārai</form>
@@ -140,7 +141,7 @@
     </entry>
     <entry>
       <form>cēkkum</form>
-      <def>dwelling-</def>
+      <def>dwelling (peyareccam imperfective aspect)</def>
     </entry>
     <entry>
       <form>taṇ</form>
@@ -152,7 +153,7 @@
     </entry>
     <entry>
       <form><pc>~</pc>ūraṉ</form>
-      <def>village-he</def>
+      <def>village (pronominalised noun masculine singular)</def>
     </entry>
     <entry>
       <form>kēṇmai</form>
@@ -164,8 +165,8 @@
     </entry>
     <entry>
       <form>ākaṟka</form>
-      <def>may-not-become</def>
-      <gram type="role">optative</gram>
+      <def>not-become</def>
+      <gram type="role">negative optative</gram>
     </entry>
     <entry>
       <form><pc>~</pc>eṉa</form>
@@ -174,7 +175,7 @@
     </entry>
     <entry>
       <form>vēṭṭēm-ē</form>
-      <def>wanted-we</def>
+      <def>we-wanted (​​perfective aspect 1st person plural)</def>
       <form type="simple">vēṭṭēm</form>
       <gramGrp type="particle"><form>ē</form></gramGrp>
     </entry>

@@ -40,12 +40,13 @@
 <l>          koṇṭaṉaṉ celka veṉavēṭ ṭēmē.</l>
         </lg>
         <lg type="translation" xml:lang="en">
-<l>          'May Ātaṉ prosper, may Aviṉi prosper.</l>
-<l>          May the showers be excellent, may fertility be extraordinary,'</l>
-<l>          thus wants our mother. We,</l>
+<l>          'Long live Ātan! Long live Aviṉi! </l>
+<l>          May the rains pour down! May fertility well abound!' </l>
+<l>          That's what our mother wants. As for us: </l>
 <l>          'The man from the village by the cool ghat</l>
-<l>          with flowering mango trees [and] reeking little fish:</l>
-<l>          let him go as one who takes [us] with him,' thus we want. </l>
+<l>          with flowering mango trees and tiny stinking fish: </l>
+<l>          May he take [me] with him and go!' — that's what we want.</l>
+          
           
 
 
@@ -56,18 +57,18 @@
   <standOff type="wordsplit" corresp="#Aink10">
     <interp type="alignment" select="0">33MR21MG4MG4MG70MG2M,138MG</interp>
     <entry>
-    <form>vāḻi</form>
-    <def>live-you</def>
-    <gram type="role">subjuntive</gram>
+      <form>vāḻi</form>
+      <def>live</def>
+      <gram type="role">subjuntive 2nd person singular</gram>
     </entry>
     <entry>
     <form><pc>~</pc>ātaṉ</form>
     <def>Ātaṉ</def>
     </entry>
     <entry>
-    <form>vāḻi</form>
-    <def>live-you</def>
-    <gram type="role">subjuntive</gram>
+      <form>vāḻi</form>
+      <def>live</def>
+      <gram type="role">subjuntive 2nd person singular</gram>
     </entry>
     <entry>
     <form><pc>~</pc>aviṉi</form>
@@ -75,11 +76,11 @@
     </entry>
     <entry>
     <form>māri</form>
-    <def>shower</def>
+    <def>shower (noun) </def>
     </entry>
     <entry>
     <form>vāykka</form>
-    <def>may-reach</def>
+    <def>reach</def>
     <gram type="role">optative</gram>
     </entry>
     <entry>
@@ -88,11 +89,11 @@
     </entry>
     <entry>
     <form>naṉi</form>
-    <def>well</def>
+    <def>well (adverb)</def>
     </entry>
     <entry>
     <form>ciṟakka</form>
-    <def>may-excel</def>
+    <def>excel</def>
     <gram type="role">optative</gram>
     </entry>
     <entry>
@@ -102,9 +103,9 @@
     </entry>
     <entry>
     <form>vēṭṭōḷ-ē</form>
-    <def>wanted-she</def>
+    <def>one-who-wants/one-who-wanted(​​​​​​participial noun perfective aspect feminine singular)</def>
     <form type="simple">vēṭṭōḷ</form>
-    <gramGrp type="particle"><form>ē</form></gramGrp>
+    <gramGrp type="particle"><m>ē</m></gramGrp>
     </entry>
     <entry>
     <form>yāy-ē</form>
@@ -120,11 +121,11 @@
     </entry>
     <entry>
     <form>pūtta</form>
-    <def>flowered-</def>
+    <def>flowered (peyareccam perfective aspect)</def>
     </entry>
     <entry>
     <form>māattu<pc>+</pc></form>
-    <def>mango-tree</def>
+    <def>mango-tree (oblique)</def>
     </entry>
     <entry>
     <form>pulālam</form>
@@ -148,20 +149,20 @@
     </entry>
     <entry>
     <form><pc>~</pc>ūraṉ</form>
-    <def>village-he</def>
+    <def>village (pronominalised noun masculine singular)</def>
     </entry>
     <entry>
     <form>taṉṉoṭu</form>
-    <def>self</def>
-    <gramGrp type="affix"><form>oṭu</form><gram type="role">sociative/instrumental</gram></gramGrp>
+    <def>with-himself</def>
+    <gramGrp type="affix"><form>oṭu</form><gram type="role">sociative</gram></gramGrp>
     </entry>
     <entry>
     <form>koṇṭaṉaṉ</form>
-    <def>taken-he</def>
+    <def>one-who-takes/one-who-has-taken</def>
     </entry>
     <entry>
     <form>celka</form>
-    <def>may-go</def>
+    <def>go</def>
     <gram type="role">optative</gram>
     </entry>
     <entry>
@@ -171,7 +172,7 @@
     </entry>
     <entry>
     <form>vēṭṭēm-ē</form>
-    <def>wanted-we</def>
+    <def>we-wanted (perfective aspect 1st person plural)</def>
     <form type="simple">vēṭṭēm</form>
     <gramGrp type="particle"><form>ē</form></gramGrp>
     </entry>
