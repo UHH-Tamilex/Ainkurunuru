@@ -59,8 +59,8 @@
     </entry>
     <entry>
     <form>āṭu</form>
-    <def>play</def>
-    <gramGrp><gram type="role">verbal root</gram></gramGrp>
+    <def>dance</def>
+    <gramGrp><gram type="role">verbal root as peyareccam</gram></gramGrp>
     </entry>
     <entry>
     <form>malir</form>
@@ -93,17 +93,17 @@
     <entry>
     <form>āṭu</form>
     <def>bathe</def>
-    <gramGrp><gram type="role">verbal root</gram></gramGrp>
+    <gramGrp><gram type="role">verbal root as peyareccam</gram></gramGrp>
     </entry>
     <entry>
     <form>makaḷirkku<pc>+</pc></form>
     <def>women</def>
-    <gramGrp><gram type="role">plural dative</gram></gramGrp>
+    <gramGrp><gram type="role">3rd person honorific plural dative</gram></gramGrp>
     </entry>
     <entry>
     <form>puṇar</form>
     <def>unite</def>
-    <gramGrp><gram type="role">verbal root</gram></gramGrp>
+    <gramGrp><gram type="role">verbal root as peyareccam</gram></gramGrp>
     </entry>
     <entry>
     <form>tuṇai</form>
@@ -112,7 +112,7 @@
     <entry>
     <form><pc>~</pc>utavum</form>
     <def>helping</def>
-    <gramGrp><gram type="role">peyareccam perfective aspect</gram></gramGrp>
+    <gramGrp><gram type="role">peyareccam imperfective aspect</gram></gramGrp>
     </entry>
     <entry>
     <form>vēḻam</form>
