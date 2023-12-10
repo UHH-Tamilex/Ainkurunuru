@@ -40,10 +40,10 @@
           <l> tōṟka tillaveṉ ṟaṭameṉ ṟōḷē.</l>
         </lg>
         <lg type="translation" xml:lang="en">
-          <l> The cruelty of the man from the village that has a ghat,</l>
-          <l> where the wild cane from the shore enter into the sugarcane,</l>
-          <l> let us bear [it] well.</l>
-          <l> Let my broad soft shoulders be defeated.</l>
+          <l> May we bear well</l>
+          <l>the cruelty of the man from the village that has a ghat</l>
+          <l> where the wild cane that joins the shore flowers amongst the sugarcane!</l>
+          <l> May my broad soft shoulders be defeated!</l>
 
 
         </lg>
@@ -58,7 +58,7 @@
     </entry>
     <entry>
     <form>cēr</form>
-    <def>join-</def>
+    <def>join (verbal root)</def>
     </entry>
     <entry>
     <form>vēḻam</form>
@@ -67,23 +67,23 @@
     <entry>
     <form>karumpiṉ</form>
     <def>sugarcane</def>
-    <gramGrp type="affix"><form>iṉ</form><gram type="role">locative</gram></gramGrp>
+    <gramGrp type="affix"><form>iṉ</form><gram type="role">oblique</gram></gramGrp>
     </entry>
     <entry>
     <form>pūkkum</form>
-    <def>flowering-</def>
+    <def>flowering (peyareccam imperfective aspect)</def>
     </entry>
     <entry>
     <form>tuṟai</form>
     <def>ghat</def>
     </entry>
     <entry>
-    <form>kēḻ</form>
-    <def>have-</def>
+    <form>kēḻ*</form>
+    <def>possessing (postposition) (sandhi form of keḻu)</def>
     </entry>
     <entry>
     <form>ūraṉ</form>
-    <def>village-he</def>
+    <def>village (pronominalised noun masculine singular)</def>
     </entry>
     <entry>
     <form>koṭumai</form>
@@ -91,13 +91,13 @@
     </entry>
     <entry>
     <form>naṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-um</form>
-    <def>good-it</def>
+    <def>well (pronominalsed noun neuter singular) (adv)</def>
     <form type="simple">naṉṟu</form>
     <gramGrp type="particle"><form>um</form></gramGrp>
     </entry>
     <entry>
     <form>āṟṟuka-tilla</form>
-    <def>may-bear</def>
+    <def>bear</def>
     <form type="simple">āṟṟuka</form>
     <gram type="role">optative</gram>
     <gramGrp type="particle"><form>tilla</form></gramGrp>
@@ -110,14 +110,14 @@
     </entry>
     <entry>
     <form>tōṟka-tilla</form>
-    <def>let-be-defeated</def>
+    <def>be-defeated</def>
     <form type="simple">tōṟka</form>
     <gram type="role">optative</gram>
     <gramGrp type="particle"><form>tilla</form></gramGrp>
     </entry>
     <entry>
     <form><pc>~</pc>eṉ</form>
-    <def>my-</def>
+    <def>my (oblique)</def>
     </entry>
     <entry>
     <form>taṭa</form>
