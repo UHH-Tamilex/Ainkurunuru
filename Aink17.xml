@@ -55,9 +55,13 @@
   <standOff type="wordsplit" corresp="#Aink17">
     <interp type="alignment" select="0">5MG17M3G11MG45MG5MG15M2G2M,108MG</interp>
     <entry>
-    <form>putal-micai</form>
+    <form>putal</form>
     <def>bush</def>
-    <gramGrp><gram type="role">locative</gram></gramGrp>
+  </entry>
+  <entry>
+    <form>micai</form>
+    <def>on</def>
+    <gramGrp><gram type="role">postposition</gram></gramGrp>
     </entry>
     <entry>
     <form>nuṭaṅkum</form>
@@ -83,12 +87,12 @@
     <entry>
     <form>āṭu</form>
     <def>dance</def>
-    <gramGrp><gram type="role">verbal root</gram></gramGrp>
+    <gramGrp><gram type="role">verbal root as peyareccam imperfective aspect</gram></gramGrp>
     </entry>
     <entry>
     <form>kurukiṉ</form>
-    <def>heron/egret/stalk/crane</def>
-    <gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">locative</gram></gramGrp></gramGrp>
+    <def>wader</def>
+    <gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
     </entry>
     <entry>
     <form>tōṉṟum</form>
@@ -102,8 +106,8 @@
     </entry>
     <entry>
     <form>putuvōr</form>
-    <def>new-ones(pronominalised noun)</def>
-    <gramGrp><gram type="role">plural</gram></gramGrp>
+    <def>new-ones</def>
+    <gramGrp><gram type="role">pronominalised noun 3rd person honorific plural</gram></gramGrp>
     </entry>
     <entry>
     <form>mēvalaṉ</form>
@@ -116,17 +120,17 @@
     </entry>
     <entry>
     <form>vaṟit<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
-    <def>small/worthless/empty</def>
+    <def>empty</def>
     <gramGrp><gram type="role">pronominalised noun neuter singular</gram></gramGrp>
     </entry>
     <entry>
     <form>ākiṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
-    <def>it-became(f.v.)</def>
+    <def>it-became</def>
     <gramGrp><gram type="role">perfective aspect neuter singular</gram></gramGrp>
     </entry>
     <entry>
     <form>eṉ</form>
-    <def>my</def>
+    <def>my (oblique) </def>
     </entry>
     <entry>
     <form>maṭam</form>
@@ -134,7 +138,7 @@
     </entry>
     <entry>
     <form>keḻu</form>
-    <def>have(?)</def>
+    <def>possessing (postposition)</def>
     </entry>
     <entry>
     <form>neñc<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
