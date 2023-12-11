@@ -25,6 +25,7 @@ const particles = particlebare.map(a => {
 });
 
 const caseAffixes = [
+/*
     ['māṭṭu',{
         regex: /māṭṭ[*’u]$/,
         gram: 'locative',
@@ -40,6 +41,7 @@ const caseAffixes = [
         gram: 'locative',
         translatonregex: /\(loc.\.\)$/
     }],
+    */
     ['iṉ',{
         regex: /iṉ\+?$/,
         gram: 'oblique',
@@ -70,6 +72,69 @@ const caseAffixes = [
 ];
 caseAffixes.sort((a,b) => b[0].length - a[0].length);
 
+const gramAbbreviations = [
+    ['abl.','ablative'],
+    ['abs.','absolutive'],
+    ['acc.','accusative'],
+    ['adj.','adjective'],
+    ['adv.','adverb'],
+    ['conc.','concessive'],
+    ['comp.','comparative'],
+    ['dat.','dative'],
+    ['f.','feminine'],
+    ['f.s.','feminine singular'],
+    ['f.pl.','feminine plural'],
+    ['f.v.','finite verb'],
+    ['gen.','genitive'],
+    ['h.','honorific'],
+    ['1.','first person'],
+    ['2.','second person'],
+    ['3.','third person'],
+    ['hab.fut.','habitual future'],
+    ['i.a.','imperfect aspect'],
+    ['id.','ideophone'],
+    ['inf.','infinitive'],
+    ['inst.','instrumental'],
+    ['inter.pron.','interrogative pronoun'],
+    ['ipt.','imperative'],
+    ['loc.','locative'],
+    ['m.','masculine'],
+    ['m.sg.','masculine singular'],
+    ['m.pl.','masculine singular'],
+    ['muṟ.','muṟṟeccam'],
+    ['n.','noun'],
+    ['n.sg.','neuter singular'],
+    ['n.pl.','neuter plural'],
+    ['neg.','negative'],
+    ['obl.','oblique'],
+    ['opt.','optative'],
+    ['p.a.','perfective aspect'],
+    ['p.n.','proper name'],
+    ['part.n.','participial noun'],
+    ['pey.','peyareccam'],
+    ['pl.','plural'],
+    ['post.','postposition'],
+    ['sub.','subjunctive'],
+    ['pron.n.','pronominalised noun'],
+    ['r.n.','root noun'],
+    ['sg.','singular'],
+    ['soc.','sociative'],
+    ['sub.','subjuntive'],
+    ['suff.','suffix'],
+    ['v.n.','verbal noun'],
+    ['v.r.','verbal root'],
+    ['v.r.adj.','verbal root as adjective'],
+    ['v.r.ger.','verbal root as gerundive'],
+    ['v.r.imp.','verbal root as imperative'],
+    ['v.r.inf.','verbal root as infinitive'],
+    ['v.r.pey.','verbal root as peyareccam'],
+    ['v.r.pey.p.a.','verbal root as peyareccam perfective aspect'],
+    ['v.r.pey.i.a.','verbal root as peyareccam imperfective aspect'],
+    ['voc.','vocative']
+];
+
+gramAbbreviations.sort((a,b) => b[0].length - a[0].length);
+/*
 const gramAbbreviations = [
     ['(a.)','absolutive?'], // check
     ['(abs.)','absolutive'],
@@ -176,6 +241,7 @@ const gramAbbreviations = [
     ['(v.r.pey.p.a.)','verbal root as peyareccam perfective aspect'],
     ['(v.r.pey.i.a.)','verbal root as peyareccam imperfective aspect'],
     ['(voc.)','vocative']];
+*/
 
 const wordsplitscore = (a,b) => {
     const vowels = 'aāiīuūoōeē'.split('');
@@ -312,7 +378,10 @@ const makeEntries = (arr) => {
         const bare = e.bare ? `<form type="simple">${e.bare}</form>\n` : '';
         const affixrole = e.affixrole ? `<gramGrp><gram type="role">${e.affixrole}</gram></gramGrp>` : '';
         const affix = e.affix ? `<gramGrp type="affix"><m>${e.affix}</m>${affixrole}</gramGrp>\n` : '';
-        const gram = e.gram ? `<gramGrp><gram type="role">${e.gram}</gram></gramGrp>\n` : '';
+        const gram = e.gram ? '<gramGrp>' + 
+                    e.gram.map(g => `<gram type="role">${g}</gram>\n`).join('') +
+                    '</gramGrp>'
+                : '';
         const particle = e.particle ? `<gramGrp type="particle"><m>${e.particle}</m></gramGrp>\n` : '';
         return `<entry>\n<form>${formatWord(e.word)}</form>\n<def>${e.translation}</def>\n${bare}${affix}${gram}${particle}${e.wordnote ? formatNote(e.wordnote) : ''}${e.transnote ? formatNote(e.transnote) : ''}</entry>`;
     };
@@ -405,6 +474,30 @@ const findAffix = (word,translation) => {
 };
 
 const findGrammar = (translation) => {
+    const gram = translation.search(/\(.+\)-?$/);
+    if(gram == -1) return null;
+
+    const hyphen = translation.endsWith('-') ? '-' : '';
+    const trimmed = translation.slice(0,gram) + hyphen;
+
+    let hay = translation.slice(gram).replaceAll(/[\(\)\-]/g,'');
+    
+    const ret = [];
+
+    for(const [abbr,expan] of gramAbbreviations) {
+        const found = hay.search(abbr);
+        if(found === -1) continue;
+        
+        hay = hay.slice(0,found) + hay.slice(found + abbr.length);
+        ret.push(expan);
+    }
+
+    return {
+        translation: trimmed,
+        gram: ret
+    };
+
+    /*
     for(const [affix,gram] of gramAbbreviations) {
        if(translation.endsWith(affix))
             return {
@@ -418,6 +511,7 @@ const findGrammar = (translation) => {
             };
     }
     return null;
+    */
 };
 
 const cleanupWordlist = (list) => {
@@ -444,8 +538,11 @@ const cleanupWordlist = (list) => {
         if(grammar) {
             //console.log(`Found grammar: ${grammar.gram} in ${obj.translation}`);
             obj.translation = grammar.translation;
-            if(obj.gram) obj.gram = [obj.gram,grammar.gram];
+            /*
+            if(obj.gram) obj.gram = [...obj.gram,...grammar.gram];
             else obj.gram = grammar.gram;
+            */
+            obj.gram = grammar.gram;
         }
         /*
         if(!particle && !affix && !grammar) {

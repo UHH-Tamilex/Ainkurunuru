@@ -217,7 +217,7 @@ const makeWord = (entry) => {
     const translation = entry.querySelector('.f[data-name="translation"]');
     const affix = entry.querySelector('.f[data-name="affix"]');
     const particles = entry.querySelectorAll('.f[data-name="particle"]');
-    const role = entry.querySelector(':scope > .f[data-name="role"], :scope > .f[data-name=""] > .f[data-name="role"]');
+    const roles = entry.querySelectorAll(':scope > .f[data-name="role"], :scope > .f[data-name=""] > .f[data-name="role"]');
     const cleanlemma = entry.querySelector('.f[data-name="simple"]');
     if(cleanlemma) span.dataset.clean = cleanlemma.textContent;
     if(translation || affix) {
@@ -227,8 +227,8 @@ const makeWord = (entry) => {
         annoel.lang = 'en';
         if(translation) annoel.append(translation.textContent);
         let annohtml = translation ? translation.textContent : '';
-        if(role)
-            annohtml = annohtml + ` (${role.textContent})`;
+        if(roles)
+            annohtml = annohtml + ` (${[...roles].map(r => r.textContent).join(' ')})`;
         if(affix) {
             const affixrole = affix.querySelector('[data-name="role"]')?.textContent || 'suffix';
             const form = affix.querySelector('[data-name="lemma"]');
