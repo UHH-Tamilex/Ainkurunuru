@@ -227,7 +227,7 @@ const makeWord = (entry) => {
         annoel.lang = 'en';
         if(translation) annoel.append(translation.textContent);
         let annohtml = translation ? translation.textContent : '';
-        if(roles)
+        if(roles.length > 0)
             annohtml = annohtml + ` (${[...roles].map(r => r.textContent).join(' ')})`;
         if(affix) {
             const affixrole = affix.querySelector('[data-name="role"]')?.textContent || 'suffix';
