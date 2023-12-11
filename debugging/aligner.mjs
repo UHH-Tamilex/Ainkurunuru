@@ -78,7 +78,9 @@ const gramAbbreviations = [
     ['acc.','accusative'],
     ['adj.','adjective'],
     ['adv.','adverb'],
+    ['caus.','causative'],
     ['conc.','concessive'],
+    ['cond.','conditional'],
     ['comp.','comparative'],
     ['dat.','dative'],
     ['f.','feminine'],
@@ -485,7 +487,7 @@ const findGrammar = (translation) => {
     const ret = [];
 
     for(const [abbr,expan] of gramAbbreviations) {
-        const found = hay.search(abbr);
+        const found = hay.indexOf(abbr);
         if(found === -1) continue;
         
         hay = hay.slice(0,found) + hay.slice(found + abbr.length);
