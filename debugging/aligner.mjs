@@ -1,4 +1,5 @@
 import needlemanWunsch from './needlemanwunsch.mjs';
+import dbQuery from './dbquery.mjs';
 
 const CONCATRIGHT = Symbol.for('concatright');
 const CONCATLEFT = Symbol.for('concatleft');
@@ -136,114 +137,10 @@ const gramAbbreviations = [
 ];
 
 gramAbbreviations.sort((a,b) => b[0].length - a[0].length);
-/*
-const gramAbbreviations = [
-    ['(a.)','absolutive?'], // check
-    ['(abs.)','absolutive'],
-    ['(acc.)','accusative'],
-    ['(adj.)','adjective'],
-    ['(adv.)','adverb'],
-    ['(conc.)','concessive'],
-    ['(comp.)','comparative'],
-    ['(dat.)','dative'],
-    ['(f.)','feminine'],
-    ['(f.v.)','finite verb'],
-    ['(gen.)','genitive'],
-    ['(h.)','third person honorific'],
-    ['(3.h.)','third person honorific'],
-    ['(3.h.pl.)','third person honorific plural'],
-    ['(3.h.pl.dat.)','third person honorific plural dative'],
-    ['(3.h.pl.loc.)','third person honorific plural locative'],
-    ['(h.dat.)','honorific dative'],
-    ['(h.loc.)','honorific locative'],
-    ['(hab.fut.)','habitual future'],
-    ['(i.a.)','imperfect aspect'],
-    ['(i.a.n.sg.)','imperfect aspect neuter singular'],
-    ['(i.a.n.pl.)','imperfect aspect neuter plural'],
-    ['(id.)','ideophone'],
-    ['(inf.)','infinitive'],
-    ['(inst.)','instrumental'],
-    ['(inter.pron.)','interrogative pronoun'],
-    ['(ipt.)','imperative'],
-    ['(ipt.pl.)','imperative plural'],
-    ['(loc.)','locative'],
-    ['(m.)','masculine'],
-    ['(m.sg.)','masculine singular'],
-    ['(m.pl.)','masculine singular'],
-    ['(muṟ.)','muṟṟeccam'],
-    ['(n.)','noun'],
-    ['(n.sg.)','neuter singular'],
-    ['(n.pl.)','neuter plural'],
-    ['(neg.)','negative'],
-    ['(neg.abs.)','negative absolutive'],
-    ['(neg.m.sg.)','negative masculine singular'],
-    ['(neg.m.pl.)','negative masculine plural'],
-    ['(neg.f.sg.)','negative feminine singular'],
-    ['(neg.f.pl.)','negative feminine plural'],
-    ['(neg.opt.)','negative optative'],
-    ['(obl.)','oblique'],
-    ['(opt.)','optative'],
-    ['(p.)','peyareccam'],
-    ['(p.a.)','perfective aspect'],
-    ['(p.a.n.sg.)','perfective aspect neuter singular'],
-    ['(p.a.n.pl.)','perfective aspect neuter plural'],
-    ['(p.a.f.sg.)','perfective aspect feminine singular'],
-    ['(p.a.f.pl.)','perfective aspect feminine plural'],
-    ['(p.a.1.sg.)','perfective aspect first person singular'],
-    ['(p.a.1.pl.)','perfective aspect first person plural'],
-    ['(p.n.)','proper name'],
-    ['(part.n.)','participial noun'],
-    ['(part.n.p.a.n.sg.)','participial noun perfective aspect neuter singular'],
-    ['(part.n.p.a.f.sg.)','participial noun perfective aspect feminine singular'],
-    ['(part.n.p.a.m.sg.)','participial noun perfective aspect masculine singular'],
-    ['(part.n.p.a.pl.)','participial noun perfective aspect plural'],
-    ['(part.n.i.a.n.pl.)','participial noun imperfective aspect neuter plural'],
-    ['(part.n.i.a.f.pl.)','participial noun imperfective aspect feminine plural'],
-    ['(part.n.i.a.m.pl.)','participial noun imperfective aspect masculine plural'],
-    ['(part.n.i.a.pl.)','participial noun imperfective aspect plural'],
-    ['(pey.)','peyareccam'],
-    ['(pey.i.a.)','peyareccam imperfective aspect'],
-    ['(pey.p.a.)','peyareccam perfective aspect'],
-    ['(pl.)','plural'],
-    ['(pl.dat.)','plural dative'],
-    ['(post.)','postposition'],
-    ['(f.sg.)','feminine singular'],
-    ['(pl.obl.)','plural oblique'],
-    ['(sg.dat.)','singular dative'],
-    ['(sub.pl.)','plural subjunctive'],
-    ['(sub.1.pl.)','subjunctive first person plural'],
-    ['(pl.sub.)','plural subjunctive'],
-    ['(pron.n.)','pronominalised noun'],
-    ['(pron.n.n.sg.)','pronominalised noun neuter singular'],
-    ['(pron.n.n.sg.acc.)','pronominalised noun neuter singular accusative'],
-    ['(pron.n.n.pl.)','pronominalised noun neuter plural'],
-    ['(pron.n.n.pl.acc.)','pronominalised noun neuter plural accusative'],
-    ['(pron.n.m.sg.)','pronominalised noun masculine singular'],
-    ['(pron.n.m.sg.acc.)','pronominalised noun masculine singular accusative'],
-    ['(pron.n.m.pl.)','pronominalised noun masculine plural'],
-    ['(pron.n.m.pl.acc.)','pronominalised noun masculine plural accusative'],
-    ['(pron.n.f.sg.)','pronominalised noun feminine singular'],
-    ['(pron.n.f.sg.acc.)','pronominalised noun feminine singular accusative'],
-    ['(pron.n.f.pl.)','pronominalised noun feminine plural'],
-    ['(pron.n.f.pl.acc.)','pronominalised noun feminine plural accusative'],
-    ['(r.n.)','root noun'],
-    ['(sg.)','singular'],
-    ['(soc.)','sociative'],
-    ['(sub.)','subjuntive'],
-    ['(sub.2.sg.)','subjuntive 2nd person singular'],
-    ['(sub.2.pl.)','subjuntive 2nd person plural'],
-    ['(suff.)','suffix'],
-    ['(v.n.)','verbal noun'],
-    ['(v.r.)','verbal root'],
-    ['(v.r.adj.)','verbal root as adjective'],
-    ['(v.r.ger.)','verbal root as gerundive'],
-    ['(v.r.imp.)','verbal root as imperative'],
-    ['(v.r.inf.)','verbal root as infinitive'],
-    ['(v.r.pey.)','verbal root as peyareccam'],
-    ['(v.r.pey.p.a.)','verbal root as peyareccam perfective aspect'],
-    ['(v.r.pey.i.a.)','verbal root as peyareccam imperfective aspect'],
-    ['(voc.)','vocative']];
-*/
+
+const gramKeys = gramAbbreviations.map(a => a[0]);
+
+const gramMap = new Map(gramAbbreviations);
 
 const wordsplitscore = (a,b) => {
     const vowels = 'aāiīuūoōeē'.split('');
@@ -296,7 +193,7 @@ const tamilSplit = (str) => {
     return ret;
 };
 
-const alignWordsplits = (text,tam,eng) => {
+const alignWordsplits = async (text,tam,eng,lookup=false) => {
     /*
     if(tam.length !== eng.length) {
         return {xml: null, warnings: ['Tamil and English don\'t match.']};
@@ -315,12 +212,15 @@ const alignWordsplits = (text,tam,eng) => {
         return {word: e, translation: eng[i]};
     });
     
-    cleanupWordlist(wordlist);
+    await cleanupWordlist(wordlist,lookup);
 
     const entries = makeEntries(wordlist);
     const rle = formatAlignment(realigned,0);
 
-    return {xml: rle + '\n' + entries.join('\n'), alignment: aligned};
+    const ret = {xml: rle + '\n' + entries.join('\n'), alignment: aligned};
+    if(lookup)
+        ret.wordlist = wordlist;
+    return ret;
 };
 /*
 const cleanupTranslation = (str) => {
@@ -381,7 +281,7 @@ const makeEntries = (arr) => {
         const affixrole = e.affixrole ? `<gramGrp><gram type="role">${e.affixrole}</gram></gramGrp>` : '';
         const affix = e.affix ? `<gramGrp type="affix"><m>${e.affix}</m>${affixrole}</gramGrp>\n` : '';
         const gram = e.gram ? '<gramGrp>' + 
-                    e.gram.map(g => `<gram type="role">${g}</gram>\n`).join('') +
+                    e.gram.map(g => `<gram type="role">${gramMap.get(g)}</gram>\n`).join('') +
                     '</gramGrp>'
                 : '';
         const particle = e.particle ? `<gramGrp type="particle"><m>${e.particle}</m></gramGrp>\n` : '';
@@ -486,12 +386,12 @@ const findGrammar = (translation) => {
     
     const ret = [];
 
-    for(const [abbr,expan] of gramAbbreviations) {
+    for(const abbr of gramKeys) {
         const found = hay.indexOf(abbr);
         if(found === -1) continue;
         
         hay = hay.slice(0,found) + hay.slice(found + abbr.length);
-        ret.push(expan);
+        ret.push(abbr);
     }
 
     return {
@@ -516,8 +416,24 @@ const findGrammar = (translation) => {
     */
 };
 
-const cleanupWordlist = (list) => {
-    const cleanupWord = (obj) => {
+const lookupFeatures = async (str) => {
+    const newstr = str.replace(/([~+()])/g,'')
+                .replaceAll(/['’*]/g,'u');
+    const res = await dbQuery(newstr);
+    if(!res) return null;
+    
+    const arr = JSON.parse(res);
+    if(arr.length === 0) return null;
+
+    const ret = [];
+    for(const abbr of arr) {
+        if(gramMap.has(abbr)) ret.push(abbr);
+    }
+    return ret;
+};
+
+const cleanupWordlist = async (list,lookup) => {
+    const cleanupWord = async (obj) => {
         // we should remove punctuation from the wordlist so it aligns properly
         //obj.word = obj.word.replace(/[\.;]$/,'');
         //obj.translation = obj.translation.replace(/[\.;]$/,'');
@@ -540,11 +456,11 @@ const cleanupWordlist = (list) => {
         if(grammar) {
             //console.log(`Found grammar: ${grammar.gram} in ${obj.translation}`);
             obj.translation = grammar.translation;
-            /*
-            if(obj.gram) obj.gram = [...obj.gram,...grammar.gram];
-            else obj.gram = grammar.gram;
-            */
             obj.gram = grammar.gram;
+        }
+        else if(lookup) {
+            const features = await lookupFeatures(obj.bare || obj.word);
+            if(features) obj.gram = features;
         }
         /*
         if(!particle && !affix && !grammar) {
@@ -555,7 +471,7 @@ const cleanupWordlist = (list) => {
         
     };
     for(const entry of list)
-        cleanupWord(entry);
+        await cleanupWord(entry);
 };
 
 /*
