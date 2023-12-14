@@ -61,7 +61,7 @@ const showSplits = async () => {
     const tamval = Sanscript.t(inputs[0].value.trim(),'tamil','iast');
     //const tam = tamval.split(/\s+/).map(s => s.replace(/[,.;?!]$/,''));
     const tamlines = tamval.replaceAll(/[,.;?!](?=\s|$)/g,'').split(/\n+/);
-    const tam = tamlines.reduce((acc,cur) => acc.concat(cur.split(/\s+/)),[]);
+    const tam = tamlines.reduce((acc,cur) => acc.concat(cur.trim().split(/\s+/)),[]);
 
     const engval = inputs[1].value.trim();
     const eng = engval ? engval.split(/\s+/).map(s => s.replace(/[,.;?!]$/,'')) :
