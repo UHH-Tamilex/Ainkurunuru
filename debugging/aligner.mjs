@@ -438,6 +438,9 @@ const cleanupWordlist = async (list,lookup) => {
         //obj.word = obj.word.replace(/[\.;]$/,'');
         //obj.translation = obj.translation.replace(/[\.;]$/,'');
         // BUT now punctuation is removed from the wordsplit completely
+        
+        if(obj.translation === '()') obj.translation = '';
+
         const particle = findParticle(obj.word,obj.translation);
         if(particle) {
             //console.log(`Found particle: ${particle.particle} in ${obj.word}, "${obj.translation}".`);
