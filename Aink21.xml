@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <title xml:lang="ta">Aiṅkuṟunūṟu</title> 21. <persName xml:lang="ta">Ōrampōkiyār</persName>
+        </title>
+        <editor role="translator">Eva Wilden</editor>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc />
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <div xml:id="Aink21-kilavi">
+        <p type="edition"> puṟattoḻukkam eṉakku iṉiyillai eṉṟu talaimakaṉ teḷippavum aḵtu uḷatu eṉṟu
+          vēṟupaṭum talaimakaṭkut tōḻi colliyatu. </p>
+        <p type="translation" xml:lang="en"> </p>
+      </div>
+
+      <div xml:id="Aink21">
+        <lg type="edition">
+          <l> muḷḷi nīṭiya mutunī raṭaikaraip</l>
+          <l> puḷḷik kaḷva ṉāmpa laṟukkun</l>
+          <l> taṇṭuṟai yūraṉ ṟeḷippavu</l>
+          <l> muṇkaṇ pacappa tevaṉko laṉṉāy.</l>
+
+        </lg>
+        <lg type="translation" xml:lang="en">
+          <l> Although the man from the village by the cool ghat </l>
+          <l rend='indent2'> where on the settling shore by the old water overgrown by Muḷḷi
+            creepers</l>
+          <l rend='indent2'> the spotted crab tears off the white lotus</l>
+          <l> Explained [himself],</l>
+          <l> My kajal eyes are becoming pale. What [is this], mother?</l>
+
+
+        </lg>
+      </div>
+    </body>
+  </text>
+  
+</TEI>
