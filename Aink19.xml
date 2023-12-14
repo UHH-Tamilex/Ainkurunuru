@@ -102,8 +102,9 @@
     <entry>
     <form>kamaḻum</form>
     <def>being-fragrant</def>
-    <gramGrp><gram type="role">imperfect aspect</gram>
+
     <gram type="role">peyareccam</gram>
+    <gramGrp><gram type="role">imperfect aspect</gram>
     </gramGrp></entry>
     <entry>
     <form>taṇ</form>
@@ -136,8 +137,9 @@
     <entry>
     <form>cīkkum</form>
     <def>sweeping</def>
-    <gramGrp><gram type="role">imperfect aspect</gram>
     <gram type="role">peyareccam</gram>
+    <gramGrp><gram type="role">imperfect aspect</gram>
+  
     </gramGrp></entry>
     <entry>
     <form>ūraṉ</form>
