@@ -32,21 +32,20 @@
 
       <div xml:id="Aink5">
         <lg type="edition">
-<l>          vāḻi yātaṉ vāḻi yaviṉi</l>
-<l>          paciyil lākuka piṇicē ṇīṅkuka</l>
-<l>          veṉavēṭ ṭōḷē yāyē yāmē</l>
-<l>          mutalaip pōttu muḻumī ṉārun</l>
-<l>          taṇṭuṟai yūraṉ ṟērem</l>
-<l>          muṉkaṭai niṟka veṉavēṭ ṭēmē.</l>
+          <l> vāḻi yātaṉ vāḻi yaviṉi</l>
+          <l> paciyil lākuka piṇicē ṇīṅkuka</l>
+          <l> veṉavēṭ ṭōḷē yāyē yāmē</l>
+          <l> mutalaip pōttu muḻumī ṉārun</l>
+          <l> taṇṭuṟai yūraṉ ṟērem</l>
+          <l> muṉkaṭai niṟka veṉavēṭ ṭēmē.</l>
         </lg>
         <lg type="translation" xml:lang="en">
-<l>         'May Ātaṉ prosper, may Aviṉi prosper.</l>
-<l>          May there be no hunger, may sickness leave into the distance,'</l>
-<l>          thus wants our mother. We:</l>
-<l>          'The chariot of the man from the village by the cool ghat,</l>
-<l>          where the male of the crocodile becomes full of whole fish,</l>
-<l>          let it stand at our front gate,' thus we want.</l>
-          
+<l>          'Long live Ātan! Long live Aviṉi!</l>
+<l>          May there be no hunger! May sickness go far away!'</l>
+<l>          That's what our mother wants. As for us:</l>
+<l>          'May the chariot of the man from the village by the cool ghat</l>
+<l>          where male crocodiles gorge on whole fish</l>
+<l>          stop in front of our gate!' — that's what we want.</l>
 
 
         </lg>
@@ -57,8 +56,8 @@
     <interp type="alignment" select="0">39ML16MG4MG4MG66MG2M,135MG</interp>
     <entry>
     <form>vāḻi</form>
-    <def>live-you</def>
-    <gram type="role">subjuntive</gram>
+    <def>live</def>
+    <gramGrp><gram type="role">subjuntive 2nd person singular</gram></gramGrp>
     </entry>
     <entry>
     <form><pc>~</pc>ātaṉ</form>
@@ -66,8 +65,8 @@
     </entry>
     <entry>
     <form>vāḻi</form>
-    <def>live-you</def>
-    <gram type="role">subjuntive</gram>
+    <def>live</def>
+    <gramGrp><gram type="role">subjuntive 2nd person singular</gram></gramGrp>
     </entry>
     <entry>
     <form><pc>~</pc>aviṉi</form>
@@ -80,11 +79,12 @@
     <entry>
     <form><pc>~</pc>il</form>
     <def>not</def>
+    <gramGrp><gram type="role">verbal root</gram></gramGrp>
     </entry>
     <entry>
     <form><pc>+</pc>ākuka</form>
-    <def>may-become</def>
-    <gram type="role">optative</gram>
+    <def>become</def>
+    <gramGrp><gram type="role">optative</gram></gramGrp>
     </entry>
     <entry>
     <form>piṇi</form>
@@ -96,31 +96,31 @@
     </entry>
     <entry>
     <form>nīṅkuka</form>
-    <def>may-leave</def>
-    <gram type="role">optative</gram>
+    <def>leave</def>
+    <gramGrp><gram type="role">optative</gram></gramGrp>
     </entry>
     <entry>
     <form><pc>~</pc>eṉa</form>
     <def>say</def>
-    <gram type="role">infinitive</gram>
+    <gramGrp><gram type="role">infinitive</gram></gramGrp>
     </entry>
     <entry>
-    <form>vēṭṭōḷ-ē</form>
-    <def>wanted-she</def>
-    <form type="simple">vēṭṭōḷ</form>
-    <gramGrp type="particle"><form>ē</form></gramGrp>
+      <form>vēṭṭōḷ-ē</form>
+      <def>one-who-wants/one-who-wanted(​​​​​​participial noun perfective aspect feminine singular)</def>
+      <form type="simple">vēṭṭōḷ</form>
+      <gramGrp type="particle"><m>ē</m></gramGrp>
     </entry>
     <entry>
     <form>yāy-ē</form>
-    <def>your-mother</def>
+    <def>our-mother</def>
     <form type="simple">yāy</form>
-    <gramGrp type="particle"><form>ē</form></gramGrp>
+    <gramGrp type="particle"><m>ē</m></gramGrp>
     </entry>
     <entry>
     <form>yām-ē</form>
     <def>we</def>
     <form type="simple">yām</form>
-    <gramGrp type="particle"><form>ē</form></gramGrp>
+    <gramGrp type="particle"><m>ē</m></gramGrp>
     </entry>
     <entry>
     <form>mutalai<pc>+</pc></form>
@@ -140,7 +140,8 @@
     </entry>
     <entry>
     <form>ārum</form>
-    <def>becoming-full-</def>
+    <def>becoming-full</def>
+    <gramGrp><gram type="role">peyareccam imperfective aspect</gram></gramGrp>
     </entry>
     <entry>
     <form>taṇ</form>
@@ -152,7 +153,8 @@
     </entry>
     <entry>
     <form><pc>~</pc>ūraṉ</form>
-    <def>village-he</def>
+    <def>village</def>
+    <gramGrp><gram type="role">pronominalised noun masculine singular</gram></gramGrp>
     </entry>
     <entry>
     <form>tēr</form>
@@ -160,11 +162,12 @@
     </entry>
     <entry>
     <form>em</form>
-    <def>our-</def>
+    <def>our</def>
+    <gramGrp><gram type="role">oblique</gram></gramGrp>
     </entry>
     <entry>
     <form>muṉ</form>
-    <def>front</def>
+    <def>in front (adverb)</def>
     </entry>
     <entry>
     <form>kaṭai</form>
@@ -172,20 +175,19 @@
     </entry>
     <entry>
     <form>niṟka</form>
-    <def>may-stand</def>
-    <gram type="role">optative</gram>
+    <def>stand</def>
+    <gramGrp><gram type="role">optative</gram></gramGrp>
     </entry>
     <entry>
     <form><pc>~</pc>eṉa</form>
     <def>say</def>
-    <gram type="role">infinitive</gram>
+    <gramGrp><gram type="role">infinitive</gram></gramGrp>
     </entry>
     <entry>
-    <form>vēṭṭēm-ē</form>
-    <def>wanted-we</def>
+      <form>vēṭṭēm-ē</form>
+    <def>we-wanted(​​perfective aspect 1st person plural)</def>
     <form type="simple">vēṭṭēm</form>
-    <gramGrp type="particle"><form>ē</form></gramGrp>
+    <gramGrp type="particle"><m>ē</m></gramGrp>
     </entry>
     </standOff>
-
 </TEI>

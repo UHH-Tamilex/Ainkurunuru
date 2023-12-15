@@ -14,7 +14,7 @@ const addWordSplits = () => {
         option.append(lg.id);
         selector.append(option);
     }
-
+    
     const blackout = document.getElementById('blackout');
     blackout.querySelector('button').addEventListener('click',showSplits);
     blackout.style.display = 'flex';
@@ -42,7 +42,7 @@ const cancelPopup = (e) => {
 
 };
 
-const showSplits = () => {
+const showSplits = async () => {
     const popup = document.querySelector('.popup');
     popup.style.height = '80%';
     popup.querySelector('.boxen').style.height = 'unset';
@@ -59,12 +59,13 @@ const showSplits = () => {
 
     const inputs = popup.querySelectorAll('textarea');
     const tamval = Sanscript.t(inputs[0].value.trim(),'tamil','iast');
-    const tam = tamval.split(/\s+/).map(s => s.replace(/[,.;?]$/,''));
-    const engval = inputs[1].value.trim();
-    const eng = engval ? engval.split(/\s+/).map(s => s.replace(/[,.;?]$/,'')) :
-                         Array(tam.length).fill('');
+    //const tam = tamval.split(/\s+/).map(s => s.replace(/[,.;?!]$/,''));
+    const tamlines = tamval.replaceAll(/[,.;?!](?=\s|$)/g,'').split(/\n+/);
+    const tam = tamlines.reduce((acc,cur) => acc.concat(cur.trim().split(/\s+/)),[]);
 
-    const tamlines = tamval.split(/\n+/);
+    const engval = inputs[1].value.trim();
+    const eng = engval ? engval.split(/\s+/).map(s => s.replace(/[,.;?!]$/,'')) :
+                         Array(tam.length).fill('');
 
     if(engval) {
         const englines = engval.split(/\n+/);
@@ -84,9 +85,13 @@ const showSplits = () => {
     const textblock = document.getElementById(blockid).querySelector('.text-block');
     const text = Transliterate.getCachedText(textblock);
 
-    const ret = alignWordsplits(text,tam,eng);
+    const lookup = document.querySelector('.popup input[name="lookup"]').checked;
+
+    const ret = await alignWordsplits(text,tam,eng,lookup);
 
     makeAlignmentTable(ret.alignment,tamlines,warnings);
+    
+    if(lookup) inputs[1].value = refreshTranslation(tamlines,ret.wordlist);
 
     output.style.display = 'block';
     output.style.border = '1px solid black';
@@ -94,6 +99,28 @@ const showSplits = () => {
     output.innerHTML = Prism.highlight(standOff,Prism.languages.xml,'xml');
     
     copyToClipboard(standOff);
+};
+
+const refreshTranslation = (lines,wordlist) => {
+    let ret = '';
+    const makeWord = (obj) => {
+        let trans = obj.translation;
+        if(obj.gram && obj.gram.length > 0)
+            trans = trans + '(' + obj.gram.join('') + ')';
+        if(trans === '') trans = '()';
+        return trans;
+    };
+
+    let w = 0;
+    for(const line of lines) {
+        const wordsinline = line.trim().split(/\s+/).length;
+        for(let n=0;n<wordsinline;n++) {
+            ret = ret + makeWord(wordlist[w]) + ' ';
+            w = w + 1;
+        }
+        ret = ret + '\n';
+    }
+    return ret;
 };
 
 const copyToClipboard = (xml) => {

@@ -40,12 +40,14 @@
           <l> koṇṭaṉaṉ celka veṉavēṭ ṭēmē.</l>
         </lg>
         <lg type="translation" xml:lang="en">
-          <l> 'May Ātaṉ prosper, may Aviṉi prosper.</l>
-          <l> May dharma much prevail, may what is not get lost,'</l>
-          <l> thus wants our mother. We:</l>
-          <l> 'The man from the village by the cool ghat,</l>
-          <l> where herons perch on the branches of the myrobalan trees with plume-like flowers,</l>
-          <l> let him go as one who takes me to his village,' thus we want. </l>
+<l>          'Long live Ātan! Long live Aviṉi! </l>
+<l>          May Dharma greatly prevail! Down with Non-Dharma!' </l>
+<l>          That's what our mother wants. As for us: </l>
+<l>          'The man from the village by the cool ghat,</l>
+<l>          where a heron perches on the branches of the myrobalan tree with its feathery flowers: </l>
+<l>          May he go as one who takes me to his village!' — that's what we want.</l>
+          
+          
 
 
         </lg>
@@ -56,8 +58,8 @@
     <interp type="alignment" select="0">23MR34MG4MG4MG30MG50MG2M,152MG</interp>
     <entry>
       <form>vāḻi</form>
-      <def>live-you</def>
-      <gram type="role">subjuntive</gram>
+      <def>live</def>
+      <gram type="role">subjuntive 2nd person singular</gram>
     </entry>
     <entry>
       <form><pc>~</pc>ātaṉ</form>
@@ -65,8 +67,8 @@
     </entry>
     <entry>
       <form>vāḻi</form>
-      <def>live-you</def>
-      <gram type="role">subjuntive</gram>
+      <def>live</def>
+      <gram type="role">subjuntive 2nd person singular</gram>
     </entry>
     <entry>
       <form><pc>~</pc>aviṉi</form>
@@ -78,20 +80,20 @@
     </entry>
     <entry>
       <form>naṉi</form>
-      <def>much</def>
+      <def>much (adverb)</def>
     </entry>
     <entry>
       <form>ciṟakka</form>
-      <def>may-excel</def>
+      <def>excel</def>
       <gram type="role">optative</gram>
     </entry>
     <entry>
       <form><pc>~</pc>allatu</form>
-      <def>not-so-it</def>
+      <def>that-which-is-not-so (pronominalised noun neuter singular)</def>
     </entry>
     <entry>
       <form>keṭuka</form>
-      <def>may-get-lost</def>
+      <def>get-lost</def>
       <gram type="role">optative</gram>
     </entry>
     <entry>
@@ -101,13 +103,13 @@
     </entry>
     <entry>
       <form>vēṭṭōḷ-ē</form>
-      <def>wanted-she</def>
+      <def>one-who-wants/one-who-wanted(​​​​​​participial noun perfective aspect feminine singular)</def>
       <form type="simple">vēṭṭōḷ</form>
-      <gramGrp type="particle"><form>ē</form></gramGrp>
+      <gramGrp type="particle"><m>ē</m></gramGrp>
     </entry>
     <entry>
       <form>yāy-ē</form>
-      <def>your-mother</def>
+      <def>our-mother</def>
       <form type="simple">yāy</form>
       <gramGrp type="particle"><form>ē</form></gramGrp>
     </entry>
@@ -127,7 +129,7 @@
     </entry>
     <entry>
       <form>marutattu<pc>+</pc></form>
-      <def>Marutam-tree-</def>
+      <def> myrobalan-tree (oblique)</def>
     </entry>
     <entry>
       <form>kiḷai<pc>+</pc></form>
@@ -139,7 +141,7 @@
     </entry>
     <entry>
       <form>irukkum</form>
-      <def>being-</def>
+      <def>perching (peyareccam imperfective aspect)</def>
     </entry>
     <entry>
       <form>taṇ</form>
@@ -151,11 +153,11 @@
     </entry>
     <entry>
       <form><pc>~</pc>ūraṉ</form>
-      <def>village-he</def>
+      <def>village (pronominalised noun masculine singular)</def>
     </entry>
     <entry>
       <form>taṉ</form>
-      <def>self-</def>
+      <def>his-own(oblique)</def>
     </entry>
     <entry>
       <form><pc>+</pc>ūr<pc>+</pc></form>
@@ -163,11 +165,11 @@
     </entry>
     <entry>
       <form>koṇṭaṉaṉ</form>
-      <def>took-he</def>
+      <def>one-who-takes/has-taken(participial noun perfective aspect masculine singular)</def>
     </entry>
     <entry>
       <form>celka</form>
-      <def>may-go</def>
+      <def>go</def>
       <gram type="role">optative</gram>
     </entry>
     <entry>
@@ -177,7 +179,7 @@
     </entry>
     <entry>
       <form>vēṭṭēm-ē</form>
-      <def>wanted-we</def>
+      <def>we-wanted (​​perfective aspect 1st person plural)</def>
       <form type="simple">vēṭṭēm</form>
       <gramGrp type="particle"><form>ē</form></gramGrp>
     </entry>

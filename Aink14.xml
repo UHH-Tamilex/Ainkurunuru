@@ -65,13 +65,12 @@
     </entry>
     <entry>
     <form>tīṇṭi</form>
-    <def>come-into-contact</def>
-    <gramGrp><gram type="role">absolutive?</gram></gramGrp>
+    <def>coming-into-contact (?)</def>
+    <gramGrp><gram type="role">absolutive</gram></gramGrp>
     </entry>
     <entry>
     <form><pc>~</pc>ayala</form>
-    <def>neighbourhood</def>
-    <gramGrp type="affix"><m>a</m></gramGrp>
+    <def>neighbourhood (adjective)</def>
     </entry>
     <entry>
     <form>vaṭu<pc>+</pc></form>
@@ -79,11 +78,11 @@
     </entry>
     <entry>
     <form>koḷ</form>
-    <def>take-</def>
+    <def>take (verbal root as peyareccam perfective aspect)</def>
     </entry>
     <entry>
     <form>māattu</form>
-    <def>mango-tree-</def>
+    <def>mango-tree (oblique)</def>
     </entry>
     <entry>
     <form>val</form>
@@ -95,11 +94,11 @@
     </entry>
     <entry>
     <form>nuṭaṅkum</form>
-    <def>swaying-</def>
+    <def>swaying (peyareccam imperfective aspect)</def>
     </entry>
     <entry>
     <form>aṇi<pc>+</pc></form>
-    <def>adorn-</def>
+    <def>adorn (verbal root)</def>
     </entry>
     <entry>
     <form>tuṟai</form>
@@ -107,7 +106,7 @@
     </entry>
     <entry>
     <form><pc>~</pc>ūraṉ</form>
-    <def>village-he</def>
+    <def>village (pronominalised noun masculine singular)</def>
     </entry>
     <entry>
     <form>mārp<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
@@ -125,15 +124,15 @@
     </entry>
     <entry>
     <form>ceyyum</form>
-    <def>making-</def>
+    <def>making (peyareccam imperfective aspect)</def>
     </entry>
     <entry>
     <form>iṉ</form>
-    <def>pleasing</def>
+    <def>sweet</def>
     </entry>
     <entry>
     <form>cāyaṟṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
-    <def>grace-it</def>
+    <def>a-thing-which-has-grace(pronominalised noun neuter singular as predicate noun)</def>
     <form type="simple">cāyaṟṟu</form>
     <gramGrp type="particle"><m>ē</m></gramGrp>
     </entry>

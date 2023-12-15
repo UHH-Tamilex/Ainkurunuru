@@ -40,12 +40,13 @@
 <l>          vāyppa tāka veṉavēṭ ṭēmē.</l>
         </lg>
         <lg type="translation" xml:lang="en">
-<l>          'May Ātaṉ prosper, may Aviṉi prosper.</l>
-<l>          Let the king do justice, let there be no theft,'</l>
-<l>          thus wants our mother. We:</l>
-<l>          'The oath of the man from a village dense with flowers,</l>
-<l>          where ornate peacocks perch in mango trees with swaying branches,</l>
-<l>          let it be successful here,' thus we want.</l>
+<l>          'Long live Ātan! Long live Aviṉi! </l>
+<l>          May the king deliver justice! May there be no theft!' </l>
+<l>          That's what our mother wants. As for us: </l>
+<l>          'The promises of the man from the village teeming with flowers,</l>
+<l>          where picturesque peacocks perch in the mango trees with swaying branches: </l>
+<l>          May they come true here!' — that's what we want.</l>
+          
           
 
 
@@ -56,18 +57,18 @@
   <standOff type="wordsplit" corresp="#Aink8">
     <interp type="alignment" select="0">40MG18MG4MG4MG18MG41MG13MG2M,146MG</interp>
     <entry>
-    <form>vāḻi</form>
-    <def>live-you</def>
-    <gram type="role">subjuntive</gram>
+      <form>vāḻi</form>
+      <def>live</def>
+      <gram type="role">subjuntive 2nd person singular</gram>
     </entry>
     <entry>
     <form><pc>~</pc>ātaṉ</form>
     <def>Ātaṉ</def>
     </entry>
     <entry>
-    <form>vāḻi</form>
-    <def>live-you</def>
-    <gram type="role">subjuntive</gram>
+      <form>vāḻi</form>
+      <def>live</def>
+      <gram type="role">subjuntive 2nd person singular</gram>
     </entry>
     <entry>
     <form><pc>~</pc>aviṉi</form>
@@ -83,7 +84,7 @@
     </entry>
     <entry>
     <form>ceyka</form>
-    <def>may-make</def>
+    <def>make</def>
     <gram type="role">optative</gram>
     </entry>
     <entry>
@@ -92,11 +93,11 @@
     </entry>
     <entry>
     <form>il</form>
-    <def>not</def>
+    <def>be-not (verbal root)</def>
     </entry>
     <entry>
     <form><pc>+</pc>ākuka</form>
-    <def>may-become</def>
+    <def>become</def>
     <gram type="role">optative</gram>
     </entry>
     <entry>
@@ -105,14 +106,14 @@
     <gram type="role">infinitive</gram>
     </entry>
     <entry>
-    <form>vēṭṭōḷ-ē</form>
-    <def>wanted-she</def>
-    <form type="simple">vēṭṭōḷ</form>
-    <gramGrp type="particle"><form>ē</form></gramGrp>
+      <form>vēṭṭōḷ-ē</form>
+      <def>one-who-wants/one-who-wanted(​​​​​​participial noun perfective aspect feminine singular)</def>
+      <form type="simple">vēṭṭōḷ</form>
+      <gramGrp type="particle"><m>ē</m></gramGrp>
     </entry>
     <entry>
     <form>yāy-ē</form>
-    <def>your-mother</def>
+    <def>our-mother</def>
     <form type="simple">yāy</form>
     <gramGrp type="particle"><form>ē</form></gramGrp>
     </entry>
@@ -124,7 +125,7 @@
     </entry>
     <entry>
     <form><pc>~</pc>alaṅku</form>
-    <def>sway-</def>
+    <def>sway (verbal root)</def>
     </entry>
     <entry>
     <form>ciṉai</form>
@@ -132,11 +133,11 @@
     </entry>
     <entry>
     <form>māatt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
-    <def>mango-tree-</def>
+    <def>mango-tree (oblique)</def>
     </entry>
     <entry>
     <form>aṇi</form>
-    <def>adorn-</def>
+    <def>adorn (verbal root)</def>
     </entry>
     <entry>
     <form>mayil</form>
@@ -144,7 +145,7 @@
     </entry>
     <entry>
     <form>irukkum</form>
-    <def>being-</def>
+    <def>perching (peyareccam imperfective aspect)</def>
     </entry>
     <entry>
     <form>pū<pc>+</pc></form>
@@ -152,11 +153,11 @@
     </entry>
     <entry>
     <form>kañal</form>
-    <def>be-dense-</def>
+    <def>be-dense (verbal root)</def>
     </entry>
     <entry>
     <form>ūraṉ</form>
-    <def>village-he</def>
+    <def>village (pronominalised noun masculine singular)</def>
     </entry>
     <entry>
     <form>cūḷ</form>
@@ -168,7 +169,7 @@
     </entry>
     <entry>
     <form>vāyppat<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
-    <def>excel-it</def>
+    <def>that-which-flourishes (participial noun imperfective aspect neuter singular)</def>
     </entry>
     <entry>
     <form>āka</form>
@@ -181,10 +182,10 @@
     <gram type="role">infinitive</gram>
     </entry>
     <entry>
-    <form>vēṭṭēm-ē</form>
-    <def>wanted-we</def>
-    <form type="simple">vēṭṭēm</form>
-    <gramGrp type="particle"><form>ē</form></gramGrp>
+      <form>vēṭṭēm-ē</form>
+      <def>we-wanted (​​perfective aspect 1st person plural)</def>
+      <form type="simple">vēṭṭēm</form>
+      <gramGrp type="particle"><form>ē</form></gramGrp>
     </entry>
     </standOff>
 </TEI>

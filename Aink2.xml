@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
 <?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta">Aiṅkuṟunūṟu</title> 2. <persName xml:lang="ta">Ōrampōkiyār</persName>
+          <title xml:lang="ta">Aiṅkuṟunūṟu</title> 2. <persName xml:lang="ta">Ōrampōkiyār</persName>
         </title>
         <editor role="translator">Eva Wilden</editor>
       </titleStmt>
@@ -14,52 +14,51 @@
         <msDesc xml:lang="en">
           <msIdentifier>
           </msIdentifier>
-           <msContents>
+          <msContents>
             <summary><p></p>
             </summary>
-          </msContents>    
+          </msContents>
         </msDesc>
       </sourceDesc>
     </fileDesc>
-    <revisionDesc/>
+    <revisionDesc />
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
       <div xml:id="Aink2-kilavi">
-        <p type="edition">
-          ituvumatu.
-        </p>
-        <p type="translation" xml:lang="en">
-        </p>
+        <p type="edition"> ituvumatu. </p>
+        <p type="translation" xml:lang="en"> </p>
       </div>
-        
-        <div xml:id="Aink2">
-            <lg type="edition">
-<l>              vāḻi yātaṉ vāḻi yaviṉi</l>
-<l>              viḷaika vayalē varuka viravala</l>
-<l>              reṉavēṭ ṭōḷē yāyē yāmē</l>
-<l>              pallitaḻ nīlamoṭu neyta ṉikarkkun</l>
-<l>              taṇṭuṟai yūraṉ kēṇmai	</l>
-<l>              vaḻivaḻic ciṟakka veṉavēṭ ṭēmē.</l>
-            </lg>
-            <lg type="translation" xml:lang="en">
-<l>              'May Ātaṉ prosper, may Aviṉi prosper.</l>
-<l>              Let the paddy fields ripen, let the beggars come.”</l>
-<l>              Thus wants our mother. We:</l>
-<l>              “The intimacy with the man from the village by the cool ghat,</l>
-<l>              where waterlilies rival many-petalled lotuses,</l>
-<l>              let it grow step by step,” thus we want.</l>
-              
-            </lg>
-        </div>
+
+      <div xml:id="Aink2">
+        <lg type="edition">
+          <l> vāḻi yātaṉ vāḻi yaviṉi</l>
+          <l> viḷaika vayalē varuka viravala</l>
+          <l> reṉavēṭ ṭōḷē yāyē yāmē</l>
+          <l> pallitaḻ nīlamoṭu neyta ṉikarkkun</l>
+          <l> taṇṭuṟai yūraṉ kēṇmai </l>
+          <l> vaḻivaḻic ciṟakka veṉavēṭ ṭēmē.</l>
+        </lg>
+        <lg type="translation" xml:lang="en">
+
+          <l> 'May you live long, Ātaṉ! May you live long, Aviṉi!</l>
+          <l> May the paddy fields ripen! May the beggars come!' </l>
+          <l> That's what our mother wants. As for us: </l>
+          <l> 'The bond [I have] with the man from the village by the cool ghat</l>
+          <l> where waterlilies rival many-petalled lotuses—</l>
+          <l> May it grow step by step!' — that's what we want. </l>
+
+
+        </lg>
+      </div>
     </body>
   </text>
   <standOff type="wordsplit" corresp="#Aink2">
     <interp type="alignment" select="0">31MG25MG4MG4MG23ML53MG2M,147MG</interp>
     <entry>
     <form>vāḻi</form>
-    <def>live-you</def>
-    <gram type="role">subjuntive</gram>
+    <def>live</def>
+    <gramGrp><gram type="role">subjuntive 2nd person singular</gram></gramGrp>
     </entry>
     <entry>
     <form><pc>~</pc>ātaṉ</form>
@@ -67,8 +66,8 @@
     </entry>
     <entry>
     <form>vāḻi</form>
-    <def>live-you</def>
-    <gram type="role">subjuntive</gram>
+    <def>live</def>
+    <gramGrp><gram type="role">subjuntive 2nd person singular</gram></gramGrp>
     </entry>
     <entry>
     <form><pc>~</pc>aviṉi</form>
@@ -76,51 +75,52 @@
     </entry>
     <entry>
     <form>viḷaika</form>
-    <def>may-ripen</def>
-    <gram type="role">optative</gram>
+    <def>ripen</def>
+    <gramGrp><gram type="role">optative</gram></gramGrp>
     </entry>
     <entry>
     <form>vayal-ē</form>
     <def>paddy-field</def>
     <form type="simple">vayal</form>
-    <gramGrp type="particle"><form>ē</form></gramGrp>
+    <gramGrp type="particle"><m>ē</m></gramGrp>
     </entry>
     <entry>
     <form>varuka</form>
-    <def>may-come</def>
-    <gram type="role">optative</gram>
+    <def>come</def>
+    <gramGrp><gram type="role">optative</gram></gramGrp>
     </entry>
     <entry>
     <form><pc>~</pc>iravalar</form>
-    <def>beggar</def>
-    <gram type="role">honorific</gram>
+    <def>beggars</def>
+    <gramGrp><gram type="role">3rd person honorific plural</gram></gramGrp>
     </entry>
     <entry>
     <form>eṉa</form>
     <def>say</def>
-    <gram type="role">infinitive</gram>
+    <gramGrp><gram type="role">infinitive</gram></gramGrp>
     </entry>
     <entry>
-    <form>vēṭṭōḷ-ē</form>
-    <def>wanted-she</def>
-    <form type="simple">vēṭṭōḷ</form>
-    <gramGrp type="particle"><form>ē</form></gramGrp>
+      <form>vēṭṭōḷ-ē</form>
+      <def>one-who-wants/one-who-wanted(​​​​​​participial noun perfective aspect feminine singular)</def>
+      <form type="simple">vēṭṭōḷ</form>
+      <gramGrp type="particle"><m>ē</m></gramGrp>
     </entry>
     <entry>
     <form>yāy-ē</form>
-    <def>your-mother</def>
+    <def>our-mother</def>
     <form type="simple">yāy</form>
-    <gramGrp type="particle"><form>ē</form></gramGrp>
+    <gramGrp type="particle"><m>ē</m></gramGrp>
     </entry>
     <entry>
     <form>yām-ē</form>
     <def>we</def>
     <form type="simple">yām</form>
-    <gramGrp type="particle"><form>ē</form></gramGrp>
+    <gramGrp type="particle"><m>ē</m></gramGrp>
     </entry>
     <entry>
     <form>pal</form>
     <def>many</def>
+    <gramGrp><gram type="role">neuter plural</gram></gramGrp>
     </entry>
     <entry>
     <form><pc>+</pc>itaḻ</form>
@@ -129,7 +129,7 @@
     <entry>
     <form>nīlamoṭu</form>
     <def>blue-lotus</def>
-    <gramGrp type="affix"><form>oṭu</form><gram type="role">sociative/instrumental</gram></gramGrp>
+    <gramGrp><gram type="role">sociative</gram></gramGrp>
     </entry>
     <entry>
     <form>neytal</form>
@@ -137,7 +137,8 @@
     </entry>
     <entry>
     <form>nikarkkum</form>
-    <def>rivalling-</def>
+    <def>rivalling</def>
+    <gramGrp><gram type="role">peyareccam imperfective aspect</gram></gramGrp>
     </entry>
     <entry>
     <form>taṇ</form>
@@ -149,7 +150,8 @@
     </entry>
     <entry>
     <form><pc>~</pc>ūraṉ</form>
-    <def>village-he</def>
+    <def>village</def>
+    <gramGrp><gram type="role">pronominalised noun masculine singular</gram></gramGrp>
     </entry>
     <entry>
     <form>kēṇmai</form>
@@ -165,19 +167,19 @@
     </entry>
     <entry>
     <form>ciṟakka</form>
-    <def>may-excel</def>
-    <gram type="role">optative</gram>
+    <def>excel</def>
+    <gramGrp><gram type="role">optative</gram></gramGrp>
     </entry>
     <entry>
     <form><pc>~</pc>eṉa</form>
     <def>say</def>
-    <gram type="role">infinitive</gram>
+    <gramGrp><gram type="role">infinitive</gram></gramGrp>
     </entry>
     <entry>
     <form>vēṭṭēm-ē</form>
-    <def>wanted-we</def>
+    <def>we-wanted​​(perfective aspect 1st person plural)</def>
     <form type="simple">vēṭṭēm</form>
-    <gramGrp type="particle"><form>ē</form></gramGrp>
+    <gramGrp type="particle"><m>ē</m></gramGrp>
     </entry>
     </standOff>
 </TEI>

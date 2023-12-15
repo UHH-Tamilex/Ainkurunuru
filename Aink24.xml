@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <title xml:lang="ta">Aiṅkuṟunūṟu</title> 24. <persName xml:lang="ta">Ōrampōkiyār</persName>
+        </title>
+        <editor role="translator">Eva Wilden</editor>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc />
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <div xml:id="Aink24-kilavi">
+        <p type="edition"> parattaiyaruḷḷum oruttiyaiviṭṭu oruttiyaip paṟṟi oḻukukiṉṟāṉ eṉpatu kēṭṭa
+          tōḻi vāyilāy vantār kēṭpat talaimakaṭkuc colliyatu. </p>
+        <p type="translation" xml:lang="en"> </p>
+      </div>
+
+      <div xml:id="Aink24">
+        <lg type="edition">
+          <l> tāycāp piṟakkum puḷḷik kaḷvaṉoṭu</l>
+          <l> piḷḷai tiṉṉu mutalait tavaṉū</l>
+          <l> reytiṉa ṉākiṉṟu kollō makiḻnaṉ</l>
+          <l> polantoṭi teḷirppa muyaṅkiyavar</l>
+          <l> nalaṅkoṇṭu tuṟappa tevaṉko laṉṉāy.</l>
+
+        </lg>
+        <lg type="translation" xml:lang="en">
+
+          <l> His village is one of crocodiles that eat [their own] young</l>
+          <l rend='indent2'> and spotted crabs that are born when [their] mother dies.</l>
+          <l> Is it that he reached [there], the delightful man?</l>
+          <l> His taking the beauty of those he embraces– so that [their] golden</l>
+          <l> bracelets sparkle – [and] abandoning [of them]: </l>
+          <l> What [of it], mother? </l>
+
+        </lg>
+      </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#Aink24">
+    <interp type="alignment" select="0">41ML8MG19MG60MG4MG9M,145MG</interp>
+    <entry>
+    <form>tāy</form>
+    <def>mother</def>
+    </entry>
+    <entry>
+    <form>cā<pc>+</pc></form>
+    <def>die</def>
+    <gramGrp><gram type="role">verbal root</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>piṟakkum</form>
+    <def>being-born</def>
+    <gramGrp><gram type="role">imperfect aspect</gram>
+    <gram type="role">peyareccam</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>puḷḷi<pc>+</pc></form>
+    <def>dot</def>
+    </entry>
+    <entry>
+    <form>kaḷvaṉoṭu</form>
+    <def>crab</def>
+    <gramGrp><gram type="role">sociative</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>piḷḷai</form>
+    <def>child</def>
+    </entry>
+    <entry>
+    <form>tiṉṉum</form>
+    <def>eating</def>
+    <gramGrp><gram type="role">imperfect aspect</gram>
+    <gram type="role">peyareccam</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>mutalaitt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>crocodile</def>
+    <gramGrp><gram type="role">pronominalised noun</gram>
+    <gram type="role">neuter singular</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>avaṉ</form>
+    <def>his</def>
+    <gramGrp><gram type="role">oblique</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>ūr</form>
+    <def>village</def>
+    </entry>
+    <entry>
+    <form>eytiṉaṉ</form>
+    <def>one-who-reached</def>
+    <gramGrp><gram type="role">participial noun</gram>
+    <gram type="role">masculine singular</gram>
+    <gram type="role">perfective aspect</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>ākiṉṟu-kollō</form>
+    <def>it-became</def>
+    <form type="simple">ākiṉṟu</form>
+    <gramGrp><gram type="role">neuter singular</gram>
+    <gram type="role">perfective aspect</gram>
+    </gramGrp><gramGrp type="particle"><m>kollō</m></gramGrp>
+    </entry>
+    <entry>
+    <form>makiḻnaṉ</form>
+    <def>delight</def>
+    <gramGrp><gram type="role">pronominalised noun</gram>
+    <gram type="role">masculine singular</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>polam</form>
+    <def>gold</def>
+    </entry>
+    <entry>
+    <form>toṭi</form>
+    <def>bracelet</def>
+    </entry>
+    <entry>
+    <form>teḷirppa</form>
+    <def>sparkle</def>
+    <gramGrp><gram type="role">infinitive</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>muyaṅkiyavar</form>
+    <def>those-embraced</def>
+    <gramGrp><gram type="role">participial noun</gram>
+    <gram type="role">plural</gram>
+    <gram type="role">honorific</gram>
+    <gram type="role">third person</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>nalam</form>
+    <def>goodness/beauty</def>
+    </entry>
+    <entry>
+    <form>koṇṭu</form>
+    <def>taking</def>
+    <gramGrp><gram type="role">absolutive</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>tuṟappat<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>act-of-abandoning</def>
+    <gramGrp><gram type="role">verbal noun</gram>
+    <gram type="role">neuter singular</gram>
+    <gram type="role">imperfect aspect</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>evaṉ-kol</form>
+    <def>what</def>
+    <form type="simple">evaṉ</form>
+    <gramGrp type="particle"><m>kol</m></gramGrp>
+    </entry>
+    <entry>
+    <form>aṉṉāy</form>
+    <def>mother</def>
+    <gramGrp><gram type="role">vocative</gram>
+    </gramGrp></entry>
+    </standOff>
+  
+</TEI>

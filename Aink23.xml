@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <title xml:lang="ta">Aiṅkuṟunūṟu</title> 23. <persName xml:lang="ta">Ōrampōkiyār</persName>
+        </title>
+        <editor role="translator">Eva Wilden</editor>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc />
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <div xml:id="Aink23-kilavi">
+        <p type="edition">  ituvumatu. </p>
+        <p type="translation" xml:lang="en"> </p>
+      </div>
+
+      <div xml:id="Aink23">
+        <lg type="edition">
+<l>          muḷḷi vēraḷaik kaḷva ṉāṭṭip</l>
+<l>          pūkkuṟ ṟeytiya puṉalaṇi yūraṉ</l>
+<l>          ṟēṟṟañ ceytunap puṇarntiṉit</l>
+<l>          tākkaṇaṅ kāva tevaṉko laṉṉāy.</l>
+
+        </lg>
+        <lg type="translation" xml:lang="en">
+<l>          The man from the village adorned by a flood </l>
+<l rend='indent2'>          that reached, plucking flowers,</l>
+<l rend='indent2'>          chasing the crab [back] into [its] hole by the Muḷḷi roots–</l>
+<l>        His making [things] clear, uniting with us [and] now</l>
+<l rend='indent2'>        becoming a torment that attacks [us]: </l>
+<l>        What [of it], mother?</l>
+        
+        </lg>
+      </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#Aink23">
+    <interp type="alignment" select="0">31MG40MG8MG5MG4MG4MG9M,106MG</interp>
+    <entry>
+    <form>muḷḷi</form>
+    <def>Muḷḷi-plant</def>
+    </entry>
+    <entry>
+    <form>vēr</form>
+    <def>root</def>
+    </entry>
+    <entry>
+    <form>aḷai<pc>+</pc></form>
+    <def>hole</def>
+    </entry>
+    <entry>
+    <form>kaḷvaṉ</form>
+    <def>crab</def>
+    </entry>
+    <entry>
+    <form>āṭṭi<pc>+</pc></form>
+    <def>chasing</def>
+    <gramGrp><gram type="role">absolutive</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>pū<pc>+</pc></form>
+    <def>flower</def>
+    </entry>
+    <entry>
+    <form>kuṟṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>plucking</def>
+    <gramGrp><gram type="role">absolutive</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>eytiya</form>
+    <def>reached</def>
+    <gramGrp><gram type="role">perfective aspect</gram>
+    <gram type="role">peyareccam</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>puṉal</form>
+    <def>flood</def>
+    </entry>
+    <entry>
+    <form>aṇi</form>
+    <def>adorn</def>
+    <gramGrp><gram type="role">verbal root</gram>
+    </gramGrp></entry>
+    <entry>
+    <form><pc>~</pc>ūraṉ</form>
+    <def>village</def>
+    <gramGrp><gram type="role">pronominalised noun</gram>
+    <gram type="role">masculine singular</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>tēṟṟam</form>
+    <def>clarity</def>
+    </entry>
+    <entry>
+    <form>ceytu</form>
+    <def>making</def>
+    <gramGrp><gram type="role">absolutive</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>na<pc>+</pc></form>
+    <def>us</def>
+    <gramGrp><gram type="role">oblique</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>puṇarnt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>uniting</def>
+    <gramGrp><gram type="role">absolutive</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>iṉi<pc>+</pc></form>
+    <def>now</def>
+    </entry>
+    <entry>
+    <form>tākk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>attack</def>
+    <gramGrp><gram type="role">verbal root</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>aṇaṅk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>torment</def>
+    </entry>
+    <entry>
+    <form>āvat<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>act-of-becoming</def>
+    <gramGrp><gram type="role">verbal noun</gram>
+    <gram type="role">neuter singular</gram>
+    <gram type="role">imperfect aspect</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>evaṉ-kol</form>
+    <def>what</def>
+    <form type="simple">evaṉ</form>
+    <gramGrp type="particle"><m>kol</m></gramGrp>
+    </entry>
+    <entry>
+    <form>aṉṉāy</form>
+    <def>mother</def>
+    <gramGrp><gram type="role">vocative</gram>
+    </gramGrp></entry>
+    </standOff>
+</TEI>

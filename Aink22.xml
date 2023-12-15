@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <title xml:lang="ta">Aiṅkuṟunūṟu</title> 22. <persName xml:lang="ta">Ōrampōkiyār</persName>
+        </title>
+        <editor role="translator">Eva Wilden</editor>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc />
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <div xml:id="Aink22-kilavi">
+        <p type="edition"> kaḷaviṉiṟ puṇarntu piṉpu varaintukoṇṭu oḻukāniṉṟa talaimakaṟkup
+          puṟattoḻukkam uḷatāyiṟṟāka, āṟṟāḷākiya talaimakaḷ tōḻikkuc colliyatu. </p>
+        <p type="translation" xml:lang="en"> </p>
+      </div>
+
+      <div xml:id="Aink22">
+        <lg type="edition">
+          <l> aḷḷa lāṭiya puḷḷik kaḷvaṉ</l>
+          <l> muḷḷi vēraḷaic cellu mūra</l>
+          <l> ṉalla colli maṇantiṉi</l>
+          <l> nīyē ṉeṉṟa tevaṉko laṉṉāy.</l>
+
+        </lg>
+        <lg type="translation" xml:lang="en">
+          <l> The man from the village</l>
+          <l rend='indent2'> where the spotted crab that played in the mire </l>
+          <l rend='indent2'> goes [back] into [its] hole at the Muḷḷi roots – </l>
+          <l> That, after speaking good [words] [and] uniting [with me], he said</l>
+          <l rend='indent4'> “Now I won’t leave [you anymore].”</l> 
+            <l> What [of it], mother?</l>
+
+
+        </lg>
+      </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#Aink22">
+    <interp type="alignment" select="0">45ML15MG13MG4MG9M,89MG</interp>
+    <entry>
+    <form>aḷḷal</form>
+    <def>mire</def>
+    </entry>
+    <entry>
+    <form>āṭiya</form>
+    <def>played</def>
+    <gram type="role">peyareccam</gram>
+    <gramGrp><gram type="role">perfective aspect</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>puḷḷi<pc>+</pc></form>
+    <def>dot</def>
+    </entry>
+    <entry>
+    <form>kaḷvaṉ</form>
+    <def>crab</def>
+    </entry>
+    <entry>
+    <form>muḷḷi</form>
+    <def>Muḷḷi-plant</def>
+    </entry>
+    <entry>
+    <form>vēr</form>
+    <def>root</def>
+    </entry>
+    <entry>
+    <form>aḷai<pc>+</pc></form>
+    <def>hole</def>
+    </entry>
+    <entry>
+    <form>cellum</form>
+    <def>going</def>
+    <gram type="role">peyareccam</gram>
+    <gramGrp><gram type="role">imperfect aspect</gram>
+
+    </gramGrp></entry>
+    <entry>
+    <form>ūraṉ</form>
+    <def>village</def>
+    <gramGrp><gram type="role">pronominalised noun</gram>
+    <gram type="role">masculine singular</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>nalla</form>
+    <def>good-things</def>
+    <gramGrp><gram type="role">participial noun</gram>
+    <gram type="role">neuter plural</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>colli</form>
+    <def>speaking</def>
+    <gramGrp><gram type="role">absolutive</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>maṇant<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>uniting</def>
+    <gramGrp><gram type="role">absolutive</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>iṉi</form>
+    <def>now</def>
+    </entry>
+    <entry>
+    <form>nīyēṉ</form>
+    <def>I-shall-not-leave</def>
+    <gramGrp><gram type="role">negative</gram>
+      <gram type="role">first person</gram>
+    <gram type="role">singular</gram>
+
+    </gramGrp></entry>
+    <entry>
+    <form>eṉṟat<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>act-of-saying</def>
+    <gramGrp><gram type="role">verbal noun</gram>
+      <gram type="role">perfective aspect</gram>
+    <gram type="role">neuter singular</gram>
+
+    </gramGrp></entry>
+    <entry>
+    <form>evaṉ-kol</form>
+    <def>what</def>
+    <form type="simple">evaṉ</form>
+    <gramGrp type="particle"><m>kol</m></gramGrp>
+    </entry>
+    <entry>
+    <form>aṉṉāy</form>
+    <def>mother</def>
+    <gramGrp><gram type="role">vocative</gram>
+    </gramGrp></entry>
+    </standOff>
+</TEI>

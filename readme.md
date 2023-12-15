@@ -18,6 +18,7 @@
 - `-āṟṟilla`
 - `-ikā`
 - `-um`
+- `-umār`
 - `-ē`
 - `-ō`
 - `-kol`
@@ -37,6 +38,7 @@
 - `-maṉṟilla`
 - `-maṉṉō`
 - `-maṉṉē`
+- `-maṉṉum`
 - `-maṉṟa`
 - `-maṉṟamma`
 - `-mātu`, `-māt*`
@@ -55,23 +57,23 @@
 - `(conc.)` - concessive
 - `(dat.)` - dative
 - `(f.)` - feminine
-- `(f.sg.)` - feminine singular
 - `(f.v.)` - finite verb
 - `(gen.)` - genitive
 - `(h.)` - honorific
-    - `(3.h.)` - 3rd person honorific
-    - `(h.dat.)` - honorific dative
-    - `(h.loc.)` - honorific locative
+    - `(h.acc.)` - honorific dative
+    - ...etc.
 - `(hab.fut.)` - habitual future
 - `(i.a.)` - imperfect aspect
     - `(i.a.n.sg.)` - imperfect aspect neuter singular
     - `(i.a.n.pl.)` - imperfect aspect neuter plural
+    - ...etc.
 - `(id.)` - ideophone
 - `(inf.)` - infinitive
 - `(inst.)` - instrumental
 - `(inter.pron.)` - interrogative pronoun
 - `(ipt.)` - imperative
     - `(ipt.pl.)` - imperative plural
+    - ...etc.
 - `(loc.)` - locative
 - `(m.)` - masculine
 - `(muṟ.)` - muṟṟeccam
@@ -81,16 +83,13 @@
 - `(neg.)` - negative
     - `(neg.abs.)` - negative absolutive
     - `(neg.m.sg.)` - negative masculine singular
-    - `(neg.m.pl.)` - negative masculine plural
-    - `(neg.f.sg.)` - negative feminine singular
-    - `(neg.f.pl.)` - negative feminine plural
+    - ...etc.
 - `(obl.)` - oblique
 - `(opt.)` - optative
 - `(p.a.)` - perfective aspect
     - `(p.a.n.sg.)` - perfective aspect neuter singular
     - `(p.a.n.pl.)` - perfective aspect neuter plural
-    - `(p.a.f.sg.)` - perfective aspect feminine singular
-    - `(p.a.f.pl.)` - perfective aspect feminine plural
+    - ...etc.
 - `(p.n.)` - proper name
 - `(part.n.)` - participial noun
 - `(pey.)` - peyareccam
@@ -103,17 +102,14 @@
 - `(pron.n.)` - pronominalised noun
     - `(pron.n.n.sg.)` - pronominalised noun neuter singular
     - `(pron.n.n.pl.)` - pronominalised noun neuter plural
-    - `(pron.n.m.sg.)` - pronominalised noun masculine singular
-    - `(pron.n.m.pl.)` - pronominalised noun masculine plural
-    - `(pron.n.f.sg.)` - pronominalised noun feminine singular
-    - `(pron.n.f.pl.)` - pronominalised noun feminine plural
+    - ...etc.
 - `(r.n.)` - root noun
 - `(sg.)` - singular
-    - `(sg.dat.)` - singular dative
 - `(soc.)` - sociative
 - `(sub.)` - subjuntive
     - `(sub.2.sg.)` - subjuntive 2nd person singular
     - `(sub.2.pl.)` - subjuntive 2nd person plural
+    - ...etc.
 - `(suff.)` - suffix
 - `(v.n.)` - verbal noun
 - `(v.r.)` - verbal root
