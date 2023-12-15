@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <title xml:lang="ta">Aiṅkuṟunūṟu</title> 25. <persName xml:lang="ta">Ōrampōkiyār</persName>
+        </title>
+        <editor role="translator">Eva Wilden</editor>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc />
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <div xml:id="Aink25-kilavi">
+        <p type="edition"> ituvumatu. </p>
+        <p type="translation" xml:lang="en"> </p>
+      </div>
+
+      <div xml:id="Aink25">
+        <lg type="edition">
+          <l> ayalpuṟan tanta puṉiṟṟuvaḷar paiṅkāy</l>
+          <l> vayalaic ceṅkoṭi kaḷva ṉaṟukkuṅ</l>
+          <l> kaḻaṉi yūraṉ mārpupalark</l>
+          <l> kiḻainekiḻ cella lāku maṉṉāy.</l>
+
+        </lg>
+        <lg type="translation" xml:lang="en">
+
+          <l> The chest of the man from the village of paddy fields</l>
+          <l rend='indent2'> where crabs tear off the red creepers of the purslane</l>
+          <l rend='indent2'> [and] the neighbourhood protects the new-born, fresh unripe-fruit as it
+            grows </l>
+          <l> Is [the reason] that the jewels of many [girls] become loose [and] go, mother.</l>
+
+
+        </lg>
+      </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#Aink25">
+    <interp type="alignment" select="0">84MG25M,109MG</interp>
+    <entry>
+    <form>ayal</form>
+    <def>neighbourhood</def>
+    </entry>
+    <entry>
+    <form>puṟantanta</form>
+    <def>protected</def>
+    <gramGrp><gram type="role">perfective aspect</gram>
+    <gram type="role">peyareccam</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>puṉiṟṟu</form>
+    <def>newly-born-thing</def>
+    <gramGrp><gram type="role">participial noun</gram>
+    <gram type="role">neuter singular</gram>
+    <gram type="role">perfective aspect</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>vaḷar</form>
+    <def>grow</def>
+    <gramGrp><gram type="role">verbal root</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>paim</form>
+    <def>fresh</def>
+    </entry>
+    <entry>
+    <form>kāy</form>
+    <def>unripe-fruit</def>
+    </entry>
+    <entry>
+    <form>vayalai<pc>+</pc></form>
+    <def>purslane</def>
+    </entry>
+    <entry>
+    <form>cem</form>
+    <def>red</def>
+    </entry>
+    <entry>
+    <form>koṭi</form>
+    <def>creeper</def>
+    </entry>
+    <entry>
+    <form>kaḷvaṉ</form>
+    <def>crab</def>
+    </entry>
+    <entry>
+    <form>aṟukkum</form>
+    <def>tearing-off</def>
+    <gramGrp><gram type="role">imperfect aspect</gram>
+    <gram type="role">peyareccam</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>kaḻaṉi</form>
+    <def>paddy-field</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>ūraṉ</form>
+    <def>village</def>
+    <gramGrp><gram type="role">pronominalised noun</gram>
+    <gram type="role">masculine singular</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>mārpu</form>
+    <def>chest</def>
+    </entry>
+    <entry>
+    <form>palarkk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>many</def>
+    <gramGrp><gram type="role">dative</gram>
+    <gram type="role">plural</gram>
+    <gram type="role">honorific</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>iḻai</form>
+    <def>jewel</def>
+    </entry>
+    <entry>
+    <form>nekiḻ</form>
+    <def>become-loose</def>
+    <gramGrp><gram type="role">verbal root</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>cellal</form>
+    <def>act-of-going</def>
+    <gramGrp><gram type="role">verbal noun</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>ākum</form>
+    <def>it-becomes</def>
+    <gramGrp><gram type="role">habitual future</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>aṉṉāy</form>
+    <def>mother</def>
+    <gramGrp><gram type="role">vocative</gram>
+    </gramGrp></entry>
+    </standOff>
+
+</TEI>
