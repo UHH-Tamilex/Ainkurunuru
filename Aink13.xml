@@ -55,93 +55,122 @@
     <entry>
     <form>pari</form>
     <def>motion</def>
-    </entry>
+    <gramGrp><gram type="role">root noun</gram>
+    </gramGrp></entry>
     <entry>
     <form><pc>~</pc>uṭai</form>
-    <def> possessing (posposition)</def>
-    </entry>
+    <def>possessing</def>
+    <gramGrp><gram type="role">postposition</gram>
+    </gramGrp></entry>
     <entry>
     <form>nal</form>
     <def>good</def>
-    </entry>
+    <gramGrp><gram type="role">adjective</gram>
+    </gramGrp></entry>
     <entry>
     <form>māṉ</form>
     <def>horse</def>
     </entry>
     <entry>
     <form>poṅk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
-    <def>foam (verbal root)</def>
-    </entry>
+    <def>foam</def>
+    <gramGrp><gram type="role">verbal root</gram>
+    </gramGrp></entry>
     <entry>
     <form>uḷai</form>
     <def>mane</def>
-    </entry>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
     <entry>
     <form><pc>~</pc>aṉṉa</form>
-    <def>like (postposition)</def>
-    </entry>
+    <def>like</def>
+    <gramGrp><gram type="role">postposition</gram>
+    </gramGrp></entry>
     <entry>
     <form><pc>~</pc>aṭai</form>
-    <def>settle (verbal root)</def>
-    </entry>
+    <def>settle</def>
+    <gramGrp><gram type="role">verbal root as peyareccam</gram>
+    </gramGrp></entry>
     <entry>
     <form>karai</form>
     <def>shore</def>
-    </entry>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
     <entry>
     <form>vēḻam</form>
     <def>wild-cane</def>
-    </entry>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
     <entry>
     <form>veḷ</form>
     <def>white</def>
-    </entry>
+    <gramGrp><gram type="role">adjective</gram>
+    </gramGrp></entry>
     <entry>
     <form>pū<pc>+</pc></form>
     <def>flower</def>
-    </entry>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
     <entry>
     <form>pakarum</form>
-    <def>announcing (peyareccam imperfective aspect)</def>
-    </entry>
+    <def>announcing</def>
+    <gramGrp><gram type="role">imperfect aspect</gram>
+    <gram type="role">peyareccam</gram>
+    </gramGrp></entry>
     <entry>
     <form>taṇ</form>
     <def>cool</def>
-    </entry>
+    <gramGrp><gram type="role">adjective</gram>
+    </gramGrp></entry>
     <entry>
     <form>tuṟai</form>
     <def>ghat</def>
-    </entry>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
     <entry>
     <form><pc>~</pc>ūraṉ</form>
-    <def>village (pronominalsed noun masculine singular)</def>
-    </entry>
+    <def>village</def>
+    <gramGrp><gram type="role">pronominalised noun</gram>
+    <gram type="role">masculine singular</gram>
+    </gramGrp></entry>
     <entry>
     <form>peṇṭir</form>
-    <def>women (3rd person honorific plural)</def>
-    </entry>
+    <def>women</def>
+    <gramGrp><gram type="role">plural</gram>
+    <gram type="role">honorific</gram>
+    <gram type="role">third person</gram>
+    </gramGrp></entry>
     <entry>
     <form>tuñc<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
-    <def>sleep (verbal root)</def>
-    </entry>
+    <def>sleep</def>
+    <gramGrp><gram type="role">verbal root as peyareccam</gram>
+    </gramGrp></entry>
     <entry>
     <form>ūr</form>
     <def>village</def>
-    </entry>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
     <entry>
     <form>yāmatt<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-um</form>
-    <def>midnight (oblique)</def>
+    <def>midnight</def>
     <form type="simple">yāmattu</form>
-    <gramGrp type="particle"><form>um</form></gramGrp>
+    <gramGrp><gram type="role">oblique</gram>
+    </gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
     </entry>
     <entry>
     <form>tuyil</form>
     <def>sleep</def>
-    </entry>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
     <entry>
     <form>aṟiyalar-ē</form>
-    <def>they-do-not-know/they-will-not-know (negative 3rd person honorific plural)</def>
-    <gramGrp type="particle"><form>ē</form></gramGrp>
+    <def>they-don't-know/they-won't-know</def>
+    <form type="simple">aṟiyalar</form>
+    <gramGrp><gram type="role">negative</gram>
+    <gram type="role">plural</gram>
+    <gram type="role">honorific</gram>
+    <gram type="role">third person</gram>
+    </gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
     </entry>
     </standOff>
 </TEI>
