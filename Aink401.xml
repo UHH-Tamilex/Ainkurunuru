@@ -6,7 +6,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta">Aiṅkuṟunūṟu</title>. <persName xml:lang="ta">Pēyaṉār</persName> 401.
+            <title xml:lang="ta">Aiṅkuṟunūṟu</title> 401.<persName xml:lang="ta">Pēyaṉār</persName> 
         </title>
         <editor role="translator">Leo Nelson-Jones</editor>
       </titleStmt>
@@ -48,7 +48,7 @@
     </body>
   </text>
   <standOff type="wordsplit" corresp="#Aink401">
-    <interp type="alignment" select="0">38ML15M2G7MG23MG7ML23MG7MG18M2G2M,149MG</interp>
+    <interp type="alignment" select="0">38ML45MG7ML48M2G2M,144MG</interp>
     <entry>
     <form>maṟi</form>
     <def>calf</def>
@@ -59,7 +59,8 @@
     </entry>
     <entry>
     <form>paṭutta</form>
-    <def>happened-</def>
+    <def>happened</def>
+    <gramGrp><gram type="role">peyareccam perfective aspect</gram></gramGrp>
     </entry>
     <entry>
     <form>māṉ</form>
@@ -72,7 +73,7 @@
     <entry>
     <form>pōla<pc>+</pc></form>
     <def>be-like</def>
-    <gram type="role">infinitive</gram>
+    <gramGrp><gram type="role">infinitive</gram></gramGrp>
     </entry>
     <entry>
     <form>putalvaṉ</form>
@@ -80,23 +81,26 @@
     </entry>
     <entry>
     <form>naṭuvaṇaṉ</form>
-    <def>centre-he</def>
+    <def>centre</def>
+    <gramGrp><gram type="role">pronominalised noun masculine singular</gram></gramGrp>
     </entry>
     <entry>
     <form>āka</form>
-    <def>being</def>
-    <gram type="role">infinitive</gram>
+    <def>be</def>
+    <gramGrp><gram type="role">infinitive</gram></gramGrp>
     </entry>
     <entry>
-    <form>naṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-um</form>
-    <form type="simple">naṉṟu</form>
+    <form>naṉṟum</form>
+    <def>good</def>
+    <form type="simple">naṉṟ</form>
+    <gramGrp><gram type="role">pronominalised noun neuter singular</gram></gramGrp>
     <gramGrp type="particle"><m>um</m></gramGrp>
-    <def>good-it</def>
     </entry>
     <entry>
-    <form>iṉitu-maṉṟa</form>
-    <def>sweet-it</def>
+    <form>iṉitumaṉṟa</form>
+    <def>sweet-</def>
     <form type="simple">iṉitu</form>
+    <gramGrp><gram type="role">neuter singular</gram></gramGrp>
     <gramGrp type="particle"><m>maṉṟa</m></gramGrp>
     </entry>
     <entry>
@@ -114,14 +118,15 @@
     <entry>
     <form>iṉṟi</form>
     <def>without</def>
+    <gramGrp><gram type="role">absolutive</gram></gramGrp>
     </entry>
     <entry>
     <form>nīl</form>
-    <def>Blue-lotus</def>
+    <def>blue</def>
     </entry>
     <entry>
     <form>niṟa</form>
-    <def>take-on-colour(vr.)</def>
+    <def>take-on-colour(v.r.pey.i.a)</def>
     </entry>
     <entry>
     <form>viyal</form>
@@ -129,33 +134,36 @@
     </entry>
     <entry>
     <form>akam</form>
-    <def>chest/breast</def>
+    <def>expanse</def>
     </entry>
     <entry>
     <form>kavaiiya</form>
-    <def>embraced-</def>
+    <def>embraced</def>
+    <gramGrp><gram type="role">peyareccam perfective aspect</gram></gramGrp>
     </entry>
     <entry>
-    <form><pc>~</pc>īṉ-um</form>
-    <def>this-world</def>
+    <form><pc>~</pc>īṉum</form>
+    <def>this-world-</def>
     <form type="simple">īṉ</form>
     <gramGrp type="particle"><m>um</m></gramGrp>
     </entry>
     <entry>
-    <form>umpar-um</form>
-    <def>beyond</def>
+    <form>umparum</form>
+    <def>beyond-</def>
     <form type="simple">umpar</form>
     <gramGrp type="particle"><m>um</m></gramGrp>
     </entry>
     <entry>
     <form>peṟal</form>
     <def>obtaining</def>
+    <gramGrp><gram type="role">verbal noun</gram></gramGrp>
     </entry>
     <entry>
     <form>aruṅkuraitt<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
+    <def>difficult-</def>
     <form type="simple">aruṅkuraittu</form>
+    <gramGrp><gram type="role">pronominalised noun neuter singular</gram></gramGrp>
     <gramGrp type="particle"><m>ē</m></gramGrp>
-    <def>difficult-it</def>
     </entry>
     </standOff>
 </TEI>
