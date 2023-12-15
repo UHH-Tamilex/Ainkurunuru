@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <title xml:lang="ta">Aiṅkuṟunūṟu</title> 29. <persName xml:lang="ta">Ōrampōkiyār</persName>
+        </title>
+        <editor role="translator">Eva Wilden</editor>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc />
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <div xml:id="Aink29-kilavi">
+        <p type="edition"> varaivetir koḷḷār tamar avaṇ maṟuppuḻit tōḻi cevilikku aṟattoṭu niṉṟatu. </p>
+        <p type="translation" xml:lang="en"> </p>
+      </div>
+
+      <div xml:id="Aink29">
+        <lg type="edition">
+          <l> māri kaṭikoḷak kāvalar kaṭuka</l>
+          <l> vittiya veṇmuḷai kaḷva ṉaṟukkuṅ</l>
+          <l> kaḻaṉi yūraṉ mārpuṟa marīit</l>
+          <l> titalai yalku ṉiṉmakaḷ</l>
+          <l> pacalai koḷva tevaṉko laṉṉāy.</l>
+
+        </lg>
+        <lg type="translation" xml:lang="en">
+          <l> After she united with and possessed the chest of the man from the village of paddy
+            fields where </l>
+          <l rend='indent2'> when the watchmen hasten to find protection from showers</l>
+          <l> the crab tears off the white sprouts that have been sown–</l>
+          <l> What is this pallor taking your daughter</l>
+          <l> of the beauty-spotted hips, mother?</l>
+
+
+        </lg>
+      </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#Aink29">
+    <interp type="alignment" select="0">69MG22ML20MG4MG9M,127MG</interp>
+    <entry>
+    <form>māri</form>
+    <def>shower</def>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>kaṭi</form>
+    <def>protection</def>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>koḷa<pc>+</pc></form>
+    <def>take</def>
+    <gramGrp><gram type="role">infinitive</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>kāvalar</form>
+    <def>watchmen</def>
+    <gramGrp><gram type="role">plural</gram>
+    <gram type="role">honorific</gram>
+    <gram type="role">third person</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>kaṭuka</form>
+    <def>hasten</def>
+    <gramGrp><gram type="role">infinitive</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>vittiya</form>
+    <def>sown</def>
+    <gramGrp><gram type="role">perfective aspect</gram>
+    <gram type="role">peyareccam</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>veḷ</form>
+    <def>white</def>
+    <gramGrp><gram type="role">adjective</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>muḷai</form>
+    <def>sprout</def>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>kaḷvaṉ</form>
+    <def>crab</def>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>aṟukkum</form>
+    <def>tearing off</def>
+    <gramGrp><gram type="role">imperfect aspect</gram>
+    <gram type="role">peyareccam</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>kaḻaṉi</form>
+    <def>paddy field</def>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
+    <entry>
+    <form><pc>~</pc>ūraṉ</form>
+    <def>village</def>
+    <gramGrp><gram type="role">pronominalised noun</gram>
+    <gram type="role">masculine singular</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>mārp<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>chest</def>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>uṟa</form>
+    <def>have</def>
+    <gramGrp><gram type="role">infinitive</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>marīi<pc>+</pc></form>
+    <def>coming together</def>
+    <gramGrp><gram type="role">absolutive</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>titalai</form>
+    <def>beauty spot</def>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
+    <entry>
+    <form><pc>~</pc>alkul</form>
+    <def>hip</def>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>niṉ</form>
+    <def>your</def>
+    <gramGrp><gram type="role">oblique</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>makaḷ</form>
+    <def>daughter</def>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>pacalai</form>
+    <def>pallor</def>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>koḷvat<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>taking</def>
+    <gramGrp><gram type="role">verbal noun</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>evaṉ-kol</form>
+    <def>what</def>
+    <form type="simple">evaṉ</form>
+    <gramGrp type="particle"><m>kol</m></gramGrp>
+    </entry>
+    <entry>
+    <form>aṉṉāy</form>
+    <def>mother</def>
+    <gramGrp><gram type="role">vocative</gram>
+    </gramGrp></entry>
+    </standOff>
+</TEI>
