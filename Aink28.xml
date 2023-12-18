@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <title xml:lang="ta">Aiṅkuṟunūṟu</title> 28. <persName xml:lang="ta">Ōrampōkiyār</persName>
+        </title>
+        <editor role="translator">Eva Wilden</editor>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc />
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <div xml:id="Aink28-kilavi">
+        <p type="edition"> iṟceṟivitta iṭattuk talaimakaṭku eytiya vēṟupāṭu kaṇṭu, ‘itu teyvattiṉāṉ
+          āyiṟṟu’ eṉṟu tamar veṟiyeṭuppuḻi ataṉai vilakkak karutiya tōḻi cevilikku aṟattoṭu niṉṟatu. </p>
+        <p type="translation" xml:lang="en"> </p>
+      </div>
+
+      <div xml:id="Aink28">
+        <lg type="edition">
+          <l> uṇṭuṟai yaṇaṅkiva ḷuṟainō yāyiṟ</l>
+          <l> ṟaṇcēṟu kaḷvaṉ varikku mūraṟ</l>
+          <l> koṇṭoṭi nekiḻac cāay</l>
+          <l> meṉṟōḷ pacappa tevaṉko laṉṉāy.</l>
+
+        </lg>
+        <lg type="translation" xml:lang="en">
+          <l> If it's because of a spirit from the drinking ghat that she's still in pain, </l>
+          <l> [then] what about the fading of [her] soft shoulders? </l>
+          <l> Or the fact that she's so spent that [her] bright bangles loosen? </l>
+          <l> –[all] because of the man from the village where crabs scratch [lines] into the cool
+            mud? </l>
+
+
+        </lg>
+      </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#Aink28">
+    <interp type="alignment" select="0">13MG41MG31MG4MG9M,101MG</interp>
+    <entry>
+    <form>uṇ</form>
+    <def>eat/drink</def>
+    <gramGrp><gram type="role">verbal root as peyareccam</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>tuṟai</form>
+    <def>ghat</def>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
+    <entry>
+    <form><pc>~</pc>aṇaṅk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>evil spirit</def>
+    <gramGrp><gram type="role">root noun</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>ivaḷ</form>
+    <def>she</def>
+    <gramGrp></gramGrp></entry>
+    <entry>
+    <form>uṟai</form>
+    <def>stay</def>
+    <gramGrp><gram type="role">verbal root as peyareccam</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>nōy</form>
+    <def>pain</def>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>āyiṉ</form>
+    <def>if</def>
+    <gramGrp><gram type="role">conditional</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>taṇ</form>
+    <def>cool</def>
+    <gramGrp><gram type="role">adjective</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>cēṟu</form>
+    <def>mud</def>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>kaḷvaṉ</form>
+    <def>crab</def>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>varikkum</form>
+    <def>scratching</def>
+    <gramGrp><gram type="role">imperfect aspect</gram>
+    <gram type="role">peyareccam</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>ūraṟk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>village</def>
+    <gramGrp><gram type="role">pronominalised noun</gram>
+    <gram type="role">masculine singular</gram>
+    <gram type="role">dative</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>oḷ</form>
+    <def>bright</def>
+    <gramGrp><gram type="role">adjective</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>toṭi</form>
+    <def>bracelet</def>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>nekiḻa<pc>+</pc></form>
+    <def>become loose</def>
+    <gramGrp><gram type="role">infinitive</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>cāay</form>
+    <def>being exhausted</def>
+    <gramGrp><gram type="role">absolutive</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>mel</form>
+    <def>soft</def>
+    <gramGrp><gram type="role">adjective</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>tōḷ</form>
+    <def>shoulder</def>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>pacappat<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>fading</def>
+    <gramGrp><gram type="role">verbal noun</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>evaṉ-kol</form>
+    <def>what</def>
+    <form type="simple">evaṉ</form>
+    <gramGrp type="particle"><m>kol</m></gramGrp>
+    </entry>
+    <entry>
+    <form>aṉṉāy</form>
+    <def>mother</def>
+    <gramGrp><gram type="role">vocative</gram>
+    </gramGrp></entry>
+    </standOff>
+</TEI>

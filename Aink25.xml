@@ -66,9 +66,8 @@
     <entry>
     <form>puṉiṟṟu</form>
     <def>newly-born-thing</def>
-    <gramGrp><gram type="role">participial noun</gram>
-    <gram type="role">neuter singular</gram>
-    <gram type="role">perfective aspect</gram>
+    <gramGrp><gram type="role">obl.</gram>
+   
     </gramGrp></entry>
     <entry>
     <form>vaḷar</form>
@@ -133,7 +132,7 @@
     <entry>
     <form>nekiḻ</form>
     <def>become-loose</def>
-    <gramGrp><gram type="role">verbal root</gram>
+    <gramGrp><gram type="role">verbal root as absolutive</gram>
     </gramGrp></entry>
     <entry>
     <form>cellal</form>
@@ -142,7 +141,7 @@
     </gramGrp></entry>
     <entry>
     <form>ākum</form>
-    <def>it-becomes</def>
+    <def>it-is</def>
     <gramGrp><gram type="role">habitual future</gram>
     </gramGrp></entry>
     <entry>

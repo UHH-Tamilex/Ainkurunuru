@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <title xml:lang="ta">Aiṅkuṟunūṟu</title> 30. <persName xml:lang="ta">Ōrampōkiyār</persName>
+        </title>
+        <editor role="translator">Eva Wilden</editor>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc />
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <div xml:id="Aink30-kilavi">
+        <p type="edition"> varaivetir koḷḷār tamar avaṇ maṟuppuḻit tōḻi cevilikku aṟattoṭu niṉṟatu. </p>
+        <p type="translation" xml:lang="en"> </p>
+      </div>
+
+      <div xml:id="Aink30">
+        <lg type="edition">
+          <l> vēppunaṉai yaṉṉa neṭuṅkaṭ kaḷvaṉ</l>
+          <l> ṟaṇṇaka maṇṇaḷai niṟaiya nelli</l>
+          <l> ṉirumpū vuṟaikku mūraṟkivaḷ</l>
+          <l> peruṅkavi ṉiḻappa tevaṉko laṉṉāy.</l>
+
+        </lg>
+        <lg type="translation" xml:lang="en">
+          <l> The man from the village </l>
+          <l rend='indent2'> where the dark paddy flowers drip [pollen]</l>
+          <l rend='indent2'> so that the cool interior earth holes of crabs</l>
+          <l rend='indent2'>– whose eyes are as large as neem buds– </l>
+          <l rend='indent2'>become full:</l>
+          <l> What about her losing [her] great beauty because of him, mother?</l>
+
+
+        </lg>
+      </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#Aink30">
+    <interp type="alignment" select="0">37ML40MG21MG4MG9M,114MG</interp>
+    <entry>
+    <form>vēppu</form>
+    <def>neem tree</def>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>naṉai</form>
+    <def>bud</def>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
+    <entry>
+    <form><pc>~</pc>aṉṉa</form>
+    <def>like</def>
+    <gramGrp><gram type="role">postposition</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>neṭum</form>
+    <def>long</def>
+    <gramGrp><gram type="role">adjective</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>kaṇ</form>
+    <def>eye</def>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>kaḷvaṉ</form>
+    <def>crab</def>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>taṇ</form>
+    <def>cool</def>
+    <gramGrp><gram type="role">adjective</gram>
+    </gramGrp></entry>
+    <entry>
+    <form><pc>+</pc>akam</form>
+    <def>inside</def>
+    <gramGrp><gram type="role">adjective</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>maṇ</form>
+    <def>earth</def>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
+    <entry>
+    <form><pc>+</pc>aḷai</form>
+    <def>hole</def>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>niṟaiya</form>
+    <def>become full</def>
+    <gramGrp><gram type="role">infinitive</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>nelliṉ</form>
+    <def>paddy</def>
+    <gramGrp><gram type="role">oblique</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>irum</form>
+    <def>dark/big</def>
+    <gramGrp><gram type="role">adjective</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>pū</form>
+    <def>flower</def>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
+    <entry>
+    <form><pc>~</pc>uṟaikkum</form>
+    <def>dripping</def>
+    <gramGrp><gram type="role">imperfect aspect</gram>
+    <gram type="role">peyareccam</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>ūraṟk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>village</def>
+    <gramGrp><gram type="role">pronominalised noun</gram>
+    <gram type="role">masculine singular</gram>
+    <gram type="role">dative</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>ivaḷ</form>
+    <def>she</def>
+    <gramGrp></gramGrp></entry>
+    <entry>
+    <form>perum</form>
+    <def>big</def>
+    <gramGrp><gram type="role">adjective</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>kaviṉ</form>
+    <def>beauty</def>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>iḻappat<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>losing</def>
+    <gramGrp><gram type="role">verbal noun</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>evaṉ-kol</form>
+    <def>what</def>
+    <form type="simple">evaṉ</form>
+    <gramGrp type="particle"><m>kol</m></gramGrp>
+    </entry>
+    <entry>
+    <form>aṉṉāy</form>
+    <def>mother</def>
+    <gramGrp><gram type="role">vocative</gram>
+    </gramGrp></entry>
+    </standOff>
+</TEI>
