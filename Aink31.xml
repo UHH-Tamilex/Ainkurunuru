@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <title xml:lang="ta">Aiṅkuṟunūṟu</title> 31. <persName xml:lang="ta">Ōrampōkiyār</persName>
+        </title>
+        <editor role="translator">Eva Wilden</editor>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc />
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <div xml:id="Aink31-kilavi">
+        <p type="edition"> muṉṉorunāḷ taṉṉōṭu putuppuṉalāṭuḻi, ‘iṉip puṟattoḻukkam virumpēṉ’ eṉa
+          āyattārōṭu cūḷuṟṟa talaimakaṉ piṉpum parattaiyarōṭu puṉalāṭat toṭaṅkukiṉṟāṉ eṉpatu kēṭṭa
+          talaimakaḷ avaṉuḻaiyar kēṭpat tōḻikkuc colliyatu. </p>
+        <p type="translation" xml:lang="en"> </p>
+      </div>
+
+      <div xml:id="Aink31">
+        <lg type="edition">
+          <l> amma vāḻi tōḻi makiḻnaṉ</l>
+          <l> kaṭaṉaṉ ṟeṉṉuṅ kollō nammūr </l>
+          <l> muṭamutir marutattup peruntuṟai</l>
+          <l> yuṭaṉā ṭāyamō ṭuṟṟa cūḷē.</l>
+
+        </lg>
+        <lg type="translation" xml:lang="en">
+          <l> Alas, [my] friend! </l>
+          <l> They say that a man who delights cannot be virtuous, do they not?</l>
+          <l> [Remember] the oath that was sworn, in front of [our] friends when we were bathing together</l>
+          <l> at the big ghat in our village with its crooked, old myrobalan trees?</l>
+
+
+        </lg>
+      </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#Aink31">
+    <interp type="alignment" select="0">28MG5MG15MGM2G31MG6MG7MG2M,102MG</interp>
+    <entry>
+    <form>amma</form>
+    <def>alas</def>
+    <gramGrp><gram type="role">particle of lament</gram>
+    </gramGrp>
+    </entry>
+    <entry>
+    <form>vāḻi</form>
+    <def>may you live</def>
+    <gramGrp><gram type="role">subjuntive</gram>
+    <gram type="role">singular</gram>
+    <gram type="role">second person</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>tōḻi</form>
+    <def>friend</def>
+    <gramGrp><gram type="role">vocative</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>makiḻnaṉ</form>
+    <def>delight</def>
+    <gramGrp><gram type="role">pronominalised noun</gram>
+    <gram type="role">masculine singular</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>kaṭaṉ</form>
+    <def>virtue</def>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>aṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>it is not so</def>
+    <gramGrp><gram type="role">singular</gram>
+    <gram type="role">third person</gram>
+    <gram type="role">neuter</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>eṉṉum-kollō</form>
+    <def>they say</def>
+    <form type="simple">eṉṉum</form>
+    <gram type="role">habitual future</gram>
+    <gramGrp type="particle"><m>kollō</m></gramGrp>
+    </entry>
+    <entry>
+    <form>nam</form>
+    <def>our</def>
+    <gramGrp><gram type="role">oblique</gram>
+    </gramGrp></entry>
+    <entry>
+    <form><pc>+</pc>ūr</form>
+    <def>village</def>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>muṭa<pc>(</pc>m<pc>)</pc></form>
+    <def>bend</def>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>mutir</form>
+    <def>mature</def>
+    <gramGrp><gram type="role">verbal root</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>marutattu<pc>+</pc></form>
+    <def>myrobalan tree</def>
+    <gramGrp><gram type="role">oblique</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>perum</form>
+    <def>big</def>
+    <gramGrp><gram type="role">adjective</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>tuṟai</form>
+    <def>ghat</def>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
+    <entry>
+    <form><pc>~</pc>uṭaṉ</form>
+    <def>together</def>
+    <gramGrp><gram type="role">adverb</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>āṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>bathe</def>
+    <gramGrp><gram type="role">verbal root</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>āyamōṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>companion</def>
+    <gramGrp><gram type="role">sociative</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>uṟṟa</form>
+    <def>which-happened/occurred</def>
+    <gramGrp><gram type="role">perfective aspect</gram>
+    <gram type="role">peyareccam</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>cūḷ-ē</form>
+    <def>vow</def>
+    <form type="simple">cūḷ</form>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+    </entry>
+    </standOff>
+</TEI>
