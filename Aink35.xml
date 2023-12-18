@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <title xml:lang="ta">Aiṅkuṟunūṟu</title> 35. <persName xml:lang="ta">Ōrampōkiyār</persName>
+        </title>
+        <editor role="translator">Eva Wilden</editor>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc />
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <div xml:id="Aink35-kilavi">
+        <p type="edition">vāyilāyp pukuntār talaimakaṉ kuṇaṅ kūṟiyavaḻi ‘avaṉukku illātaṉavē
+          kūṟutalāl, ippoḻutukāṇ eṉ mēṉi pacantatu’ eṉat talaimakaḷ tōḻikkuc colliyatu.</p>
+        <p type="translation" xml:lang="en"> </p>
+      </div>
+
+      <div xml:id="Aink35">
+        <lg type="edition">
+          <l> amma vāḻi tōḻi nammūrp</l>
+          <l> poykai yāmpa ṉāruri meṉkā</l>
+          <l> ṉiṟattiṉu niḻaṟṟutaṉ maṉṉē</l>
+          <l> yiṉippacan taṉṟeṉ māmaik kaviṉē</l>
+        </lg>
+        <lg type="translation" xml:lang="en">
+
+          <l> Alas, [my] friend!</l>
+          <l> There is for sure  a shining brighter than the colour</l>
+          <l> of the soft stems stripped of bark(?) of the white lotus in the pond</l>
+          <l> by our village.</l>
+          <l> My dark beauty has now paled.</l>
+        </lg>
+      </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#Aink35">
+    <interp type="alignment" select="0">31ML11ML8MR10MG3MG16MG13MGM,100M</interp>
+    <entry>
+    <form>amma</form>
+    <def>alas</def>
+    <gramGrp><gram type="role">particle of lament</gram></gramGrp>
+    </entry>
+    <entry>
+    <form>vāḻi</form>
+    <def>may-you-live</def>
+    <gramGrp><gram type="role">subjuntive second person singular</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>tōḻi</form>
+    <def>friend</def>
+    <gramGrp><gram type="role">vocative</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>nam</form>
+    <def>our</def>
+    <gramGrp><gram type="role">oblique</gram>
+    </gramGrp></entry>
+    <entry>
+    <form><pc>+</pc>ūr<pc>+</pc></form>
+    <def>village</def>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>poykai</form>
+    <def>pond</def>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
+    <entry>
+    <form><pc>~</pc>āmpal</form>
+    <def>white-lotus</def>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>nār</form>
+    <def>bark</def>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>uri</form>
+    <def>stripped</def>
+    <gramGrp><gram type="role">verbal root as peyareccam</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>mel</form>
+    <def>soft</def>
+    <gramGrp><gram type="role">adjective</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>kāl</form>
+    <def>stem</def>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>niṟattiṉum</form>
+    <def>colour</def>
+    <gramGrp><gram type="role">comparative suffix -iṉum</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>niḻaṟṟutal-maṉ-<pc>+</pc>ē</form>
+    <def>shining</def>
+  
+    <form type="simple">niḻaṟṟutal</form>
+    <gramGrp><gram type="role">verbal noun</gram>
+    </gramGrp>
+    <gramGrp type="particle"><m>maṉ</m></gramGrp>
+    <gramGrp type="particle"><m>ē</m></gramGrp>
+    </entry>
+    <entry>
+    <form><pc>~</pc>iṉi<pc>+</pc></form>
+    <def>now</def>
+    <gramGrp><gram type="role">adverb</gram></gramGrp>
+    </entry>
+    <entry>
+    <form>pacantaṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>it-has-paled</def>
+    <gramGrp><gram type="role">neuter singular</gram>
+    <gram type="role">perfective aspect</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>eṉ</form>
+    <def>my</def>
+    <gramGrp><gram type="role">oblique</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>māmai<pc>+</pc></form>
+    <def>darkness</def>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>kaviṉ-ē</form>
+    <def>beauty</def>
+    <form type="simple">kaviṉ</form>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+    </entry>
+    </standOff>
+</TEI>
