@@ -26,6 +26,7 @@ jobs:
       - name: build word index
         run: |
           cd _indexer
+          mkdir wordlists
           yarn install
           for f in ../Aink*.xml; do yarn go $f; done
           yarn combine
