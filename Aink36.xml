@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <title xml:lang="ta">Aiṅkuṟunūṟu</title> 36. <persName xml:lang="ta">Ōrampōkiyār</persName>
+        </title>
+        <editor role="translator">Eva Wilden</editor>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc />
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <div xml:id="Aink36-kilavi">
+        <p type="edition">tāṉ vāyiṉēruṅ kuṟippiṉaḷāṉamai aṟiyātu tōḻi vāyil maṟuttuḻi avaḷ nērum
+          vakaiyāl avaṭkut talaimakaḷ colliyatu.</p>
+        <p type="translation" xml:lang="en"> </p>
+      </div>
+
+      <div xml:id="Aink36">
+        <lg type="edition">
+          <l> amma vāḻi tōḻi yūra</l>
+          <l> ṉammaṟan tamaikuva ṉāyi ṉāmaṟan</l>
+          <l> tuḷḷā tamaitalu mamaikuva maṉṉē</l>
+          <l> kayaleṉak karutiya vuṇkaṇ</l>
+          <l> pacalaik kolkā vākutal peṟiṉē.</l>
+        </lg>
+        <lg type="translation" xml:lang="en">
+
+          <l> Alas, [my] friend!</l>
+          <l> If the man from the village is happy to forget us,</l>
+          <l> my carp-like black kajal-eyes</l> 
+          <l> will be quite happy </l>
+          <l> to not think of him, to forget him–</l>
+          <l> unless they grow weak from pallor.</l>
+
+        </lg>
+      </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#Aink36">
+    <interp type="alignment" select="0">17ML8MG13ML2ML5MG5MG7MG10MG3MG34MG16MG2M,132MG</interp>
+    <entry>
+      <form>amma</form>
+      <def>alas</def>
+      <gramGrp><gram type="role">particle of lament</gram></gramGrp>
+    </entry>
+    <entry>
+      <form>vāḻi</form>
+      <def>may-you-live</def>
+      <gramGrp><gram type="role">subjuntive</gram>
+    <gram type="role">singular</gram>
+    <gram type="role">second
+        person</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>tōḻi</form>
+      <def>friend</def>
+      <gramGrp><gram type="role">vocative</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form><pc>~</pc>ūraṉ</form>
+      <def>village</def>
+      <gramGrp><gram type="role">pronominalised noun</gram>
+    <gram type="role">masculine singular</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>nam</form>
+      <def>us</def>
+      <gramGrp><gram type="role">oblique</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>maṟant<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+      <def>fogetting</def>
+      <gramGrp><gram type="role">absolutive</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>amaikuvaṉ</form>
+      <def>one-who-is-content</def>
+      <gramGrp><gram type="role">masculine singular</gram>
+    <gram type="role">participial noun</gram>
+    <gram
+          type="role">imperfect aspect</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>āyiṉ</form>
+      <def>if</def>
+      <gramGrp><gram type="role">conditional</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>nām</form>
+      <def>we</def>
+      <gramGrp><gram type="role">plural</gram>
+    <gram type="role">first person</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>maṟant<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+      <def>forgetting</def>
+      <gramGrp><gram type="role">absolutive</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>uḷḷāt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+      <def>not-remembering</def>
+      <gramGrp><gram type="role">absolutive</gram>
+    <gram type="role">negative</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>amaital-um</form>
+      <def>being-content</def>
+      <form type="simple">amaital</form>
+      <gramGrp><gram type="role">verbal noun</gram>
+      </gramGrp>
+      <gramGrp type="particle"><m>um</m></gramGrp>
+    </entry>
+    <entry>
+      <form>amaikuva-maṉ-<pc>+</pc>ē</form>
+      <def>they-will-be-content(imperfective aspect neuter plural)</def>
+      <form type="simple">amaikuva-maṉ</form>
+      <gramGrp type="particle"><m>maṉ</m></gramGrp>
+      <gramGrp type="particle"><m>ē</m></gramGrp>
+    </entry>
+    <entry>
+      <form>kayal</form>
+      <def>carp</def>
+      <gramGrp><gram type="role">noun</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>eṉa<pc>+</pc></form>
+      <def>say</def>
+      <gramGrp><gram type="role">infinitive as comparative</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>karutiya</form>
+      <def>having-become-black</def>
+      <gramGrp><gram type="role">perfective aspect</gram>
+    <gram type="role">peyareccam</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form><pc>~</pc>uṇ</form>
+      <def>kajal</def>
+      <gramGrp><gram type="role">noun</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>kaṇ</form>
+      <def>eye</def>
+      <gramGrp><gram type="role">noun</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>pacalaikk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+      <def>pallor</def>
+      <gramGrp><gram type="role">dative</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>olkā</form>
+      <def>not-growing-weak</def>
+      <gramGrp><gram type="role">negative</gram>
+    <gram type="role">peyareccam</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form><pc>~</pc>ākutal</form>
+      <def>becoming</def>
+      <gramGrp><gram type="role">verbal noun</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>peṟiṉ-ē</form>
+      <def>if-they-obtain</def>
+      <form type="simple">peṟiṉ</form>
+      <gramGrp><gram type="role">conditional</gram>
+      </gramGrp>
+      <gramGrp type="particle"><m>ē</m></gramGrp>
+    </entry>
+  </standOff>
+</TEI>

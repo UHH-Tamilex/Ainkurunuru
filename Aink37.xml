@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <title xml:lang="ta">Aiṅkuṟunūṟu</title> 37. <persName xml:lang="ta">Ōrampōkiyār</persName>
+        </title>
+        <editor role="translator">Eva Wilden</editor>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc />
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <div xml:id="Aink37-kilavi">
+        <p type="edition">talaimakaḷaic cūḷiṉāl teḷittāṉ eṉpatu kēṭṭa kātaṟparattai talaimakaṭkup
+          pāṅkāyiṉār kēṭpat taṉ tōḻikkuc colliyatu.</p>
+        <p type="translation" xml:lang="en"> </p>
+      </div>
+
+      <div xml:id="Aink37">
+        <lg type="edition">
+          <l> amma vāḻi tōḻi makiḻna</l>
+          <l>ṉayantō ruṇkaṇ pacantupaṉi malka</l>
+          <l>vallaṉ vallaṉ poytta</l>
+          <l>ṟēṟṟā ṉuṟṟa cūḷvāyt tallē</l>
+        </lg>
+        <lg type="translation" xml:lang="en">
+
+          <l> Alas, [my] friend!</l>
+          <l> While the kajal-eyes of those who longed for the bringer of joy paled</l>
+           <l> [and] tears welled up,</l>
+          <l> that big, strong man did not make clear</l>
+          <l> the [words of] the vow that had taken place, [even as they were] becoming true, were lies.</l>
+
+
+        </lg>
+      </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#Aink37">
+    <interp type="alignment" select="0">20ML66MG2M,90M</interp>
+    <entry>
+    <form>amma</form>
+    <def>alas</def>
+    <gramGrp><gram type="role">particle of lament</gram></gramGrp>
+    </entry>
+    <entry>
+    <form>vāḻi</form>
+    <def>may-you-live</def>
+    <gramGrp><gram type="role">subjuntive second person singular</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>tōḻi</form>
+    <def>friend</def>
+    <gramGrp><gram type="role">vocative</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>makiḻnaṉ</form>
+    <def>delight</def>
+    <gramGrp><gram type="role">pronominalised noun</gram>
+    <gram type="role">masculine singular</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>nayantōr</form>
+    <def>ones-who-yearned</def>
+    <gram type="role">participial noun perfective aspect</gram>
+    <gram type="role">third person</gram>
+    <gramGrp><gram type="role">plural</gram>
+    <gram type="role">honorific</gram>
+  
+    </gramGrp></entry>
+    <entry>
+    <form>uṇ</form>
+    <def>kajal</def>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>kaṇ</form>
+    <def>eye</def>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>pacantu</form>
+    <def>having-gone-pale</def>
+    <gramGrp><gram type="role">absolutive</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>paṉi</form>
+    <def>dew</def>
+    <gramGrp><gram type="role">root noun</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>malka</form>
+    <def>abound</def>
+    <gramGrp><gram type="role">infinitive</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>vallaṉ</form>
+    <def>strong</def>
+    <gramGrp><gram type="role">pronominalised noun</gram>
+    <gram type="role">masculine singular</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>vallaṉ</form>
+    <def>strong</def>
+    <gramGrp><gram type="role">pronominalised noun</gram>
+    <gram type="role">masculine singular</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>poytta</form>
+    <def>ones-which-lied</def>
+    <gramGrp>
+    <gram type="role">participial noun</gram>
+    <gram type="role">perfective aspect</gram>
+    <gram type="role">neuter plural</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>tēṟṟāṉ</form>
+    <def>he-did-not-make-clear</def>
+    <gramGrp><gram type="role">masculine singular</gram>
+    <gram type="role">negative</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>uṟṟa</form>
+    <def>occurred</def>
+    <gramGrp><gram type="role">perfective aspect</gram>
+    <gram type="role">peyareccam</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>cūḷ</form>
+    <def>vow</def>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>vāyttal-<pc>+</pc>ē</form>
+    <def>reaching</def>
+    <form type="simple">vāyttal</form>
+    <gramGrp><gram type="role">verbal noun</gram>
+    </gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+    </entry>
+    </standOff>
+</TEI>
