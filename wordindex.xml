@@ -135,7 +135,7 @@
 <form type="standard">amaikuva</form>
 <cit><q corresp="#Aink36">tamaitalu <hi>mamaikuva</hi> maṉṉē</q></cit><entry type="colloc">
 <form type="standard">amaikuva-maṉ</form>
-<form type="sandhi">amaikuvamaṉṉē</form><gram type="particle">maṉ</gram><def xml:lang="en">they-will-be-content(imperfective aspect neuter plural)</def><cit><q corresp="#Aink36">tamaitalu <hi>mamaikuva maṉṉē</hi> kayaleṉak karutiya</q></cit></entry>
+<form type="sandhi">amaikuva</form><gram type="particle">maṉṉē</gram><def xml:lang="en">they-will-be-content(imperfective aspect neuter plural)</def><cit><q corresp="#Aink36">tamaitalu <hi>mamaikuva maṉṉē</hi> kayaleṉak karutiya</q></cit></entry>
 </entry>
 <entry>
 <form type="standard">amaikuvaṉ</form>
@@ -481,12 +481,12 @@
 <form type="sandhi">eṉṉuṅ</form><form type="sandhi">ṉṉume</form><gram type="particle">kollō</gram><def xml:lang="en">they-will-say (habitual future)</def><def xml:lang="en">they say</def><cit><q corresp="#Aink11">yalla ṉe<hi>ṉṉume</hi>ṉ ṟaṭameṉ</q></cit><cit><q corresp="#Aink31">kaṭaṉaṉ <hi>ṟeṉṉuṅ kollō</hi> nammūr muṭamutir</q></cit></entry>
 </div><div><head>ē</head><entry>
 <form type="standard">ē</form>
-<form type="sandhi">ṉ</form><form type="sandhi">ṉē</form><gram type="particle">maṉṉē</gram><gram type="particle">maṉ</gram><cit><q corresp="#Aink35">niḻaṟṟutaṉ maṉ<hi>ṉē</hi> yiṉippacan taṉṟeṉ</q></cit><cit><q corresp="#Aink36">mamaikuva maṉ<hi>ṉē</hi> kayaleṉak karutiya</q></cit><cit><q corresp="#Aink39">piriyalaṉ maṉ<hi>ṉ</hi></q></cit><entry type="colloc">
+<form type="sandhi">ṉ</form><form type="sandhi">ṉē</form><gram type="particle">maṉṉē</gram><cit><q corresp="#Aink35">niḻaṟṟutaṉ maṉ<hi>ṉē</hi> yiṉippacan taṉṟeṉ</q></cit><cit><q corresp="#Aink36">mamaikuva maṉ<hi>ṉē</hi> kayaleṉak karutiya</q></cit><cit><q corresp="#Aink39">piriyalaṉ maṉ<hi>ṉ</hi></q></cit><entry type="colloc">
 <form type="standard">niḻaṟṟutal</form>
-<form type="sandhi">niḻaṟṟutaṉmaṉṉē</form><gram type="particle">maṉ</gram><def xml:lang="en">shining</def><cit><q corresp="#Aink35">ṉiṟattiṉu <hi>niḻaṟṟutaṉ maṉṉē</hi> yiṉippacan taṉṟeṉ</q></cit></entry>
+<form type="sandhi">niḻaṟṟutaṉ</form><gram type="particle">maṉṉē</gram><def xml:lang="en">shining</def><cit><q corresp="#Aink35">ṉiṟattiṉu <hi>niḻaṟṟutaṉ maṉṉē</hi> yiṉippacan taṉṟeṉ</q></cit></entry>
 <entry type="colloc">
 <form type="standard">amaikuva-maṉ</form>
-<form type="sandhi">amaikuvamaṉṉē</form><gram type="particle">maṉ</gram><def xml:lang="en">they-will-be-content(imperfective aspect neuter plural)</def><cit><q corresp="#Aink36">tamaitalu <hi>mamaikuva maṉṉē</hi> kayaleṉak karutiya</q></cit></entry>
+<form type="sandhi">amaikuva</form><gram type="particle">maṉṉē</gram><def xml:lang="en">they-will-be-content(imperfective aspect neuter plural)</def><cit><q corresp="#Aink36">tamaitalu <hi>mamaikuva maṉṉē</hi> kayaleṉak karutiya</q></cit></entry>
 <entry type="colloc">
 <form type="standard">piriyalaṉ</form>
 <form type="sandhi">mpiriyalaṉmaṉṉ</form><gram type="particle">maṉṉē</gram><def xml:lang="en">he-did-not-leave</def><cit><q corresp="#Aink39">pirintaṉa ṉāyiṉu<hi>m piriyalaṉ maṉṉ</hi></q></cit></entry>
@@ -1002,7 +1002,7 @@
 <form type="standard">niḻaṟṟutal</form>
 <form type="sandhi">niḻaṟṟutaṉ</form><cit><q corresp="#Aink35">ṉiṟattiṉu <hi>niḻaṟṟutaṉ</hi> maṉṉē</q></cit><entry type="colloc">
 <form type="standard">niḻaṟṟutal</form>
-<form type="sandhi">niḻaṟṟutaṉmaṉṉē</form><gram type="particle">maṉ</gram><def xml:lang="en">shining</def><cit><q corresp="#Aink35">ṉiṟattiṉu <hi>niḻaṟṟutaṉ maṉṉē</hi> yiṉippacan taṉṟeṉ</q></cit></entry>
+<form type="sandhi">niḻaṟṟutaṉ</form><gram type="particle">maṉṉē</gram><def xml:lang="en">shining</def><cit><q corresp="#Aink35">ṉiṟattiṉu <hi>niḻaṟṟutaṉ maṉṉē</hi> yiṉippacan taṉṟeṉ</q></cit></entry>
 </entry>
 <entry>
 <form type="standard">niṟa</form>
@@ -1392,10 +1392,10 @@
 <form type="standard">maṉ</form>
 <form type="sandhi">ma</form><cit><q corresp="#Aink35">niḻaṟṟutaṉ <hi>maṉ</hi>ṉē yiṉippacan</q></cit><cit><q corresp="#Aink36">mamaikuva <hi>maṉ</hi>ṉē kayaleṉak</q></cit><cit><q corresp="#Aink39">ṉāyiṉum piriyalaṉ<hi> ma</hi>ṉṉ</q></cit><entry type="colloc">
 <form type="standard">niḻaṟṟutal</form>
-<form type="sandhi">niḻaṟṟutaṉmaṉṉē</form><gram type="particle">maṉ</gram><def xml:lang="en">shining</def><cit><q corresp="#Aink35">ṉiṟattiṉu <hi>niḻaṟṟutaṉ maṉṉē</hi> yiṉippacan taṉṟeṉ</q></cit></entry>
+<form type="sandhi">niḻaṟṟutaṉ</form><gram type="particle">maṉṉē</gram><def xml:lang="en">shining</def><cit><q corresp="#Aink35">ṉiṟattiṉu <hi>niḻaṟṟutaṉ maṉṉē</hi> yiṉippacan taṉṟeṉ</q></cit></entry>
 <entry type="colloc">
 <form type="standard">amaikuva-maṉ</form>
-<form type="sandhi">amaikuvamaṉṉē</form><gram type="particle">maṉ</gram><def xml:lang="en">they-will-be-content(imperfective aspect neuter plural)</def><cit><q corresp="#Aink36">tamaitalu <hi>mamaikuva maṉṉē</hi> kayaleṉak karutiya</q></cit></entry>
+<form type="sandhi">amaikuva</form><gram type="particle">maṉṉē</gram><def xml:lang="en">they-will-be-content(imperfective aspect neuter plural)</def><cit><q corresp="#Aink36">tamaitalu <hi>mamaikuva maṉṉē</hi> kayaleṉak karutiya</q></cit></entry>
 <entry type="colloc">
 <form type="standard">piriyalaṉ</form>
 <form type="sandhi">mpiriyalaṉmaṉṉ</form><gram type="particle">maṉṉē</gram><def xml:lang="en">he-did-not-leave</def><cit><q corresp="#Aink39">pirintaṉa ṉāyiṉu<hi>m piriyalaṉ maṉṉ</hi></q></cit></entry>
