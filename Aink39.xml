@@ -41,10 +41,10 @@
         </lg>
         <lg type="translation" xml:lang="en">
           <l> Alas, [my] friend! </l>
-          <l> The man from the village,</l>
-          <l>after embracing [us so our] hot breasts were close [to him], while</l>
-          <l>on our part the bamboo shoulders with perfect jewels were emaciated</l>
-          <l>although he parted, he certainly does not part.</l>
+          <l>Although he left – the man from the village –</l>
+          <l>after fully embraching [my] hot breasts</l>
+          <l>while, as for me, my bamboo-like perfectly bejewelled shoulders had [already] grown emaciated</l>
+          <l>he didn't really leave.</l>
 
 
         </lg>
@@ -54,103 +54,119 @@
   <standOff type="wordsplit" corresp="#Aink39">
     <interp type="alignment" select="0">42MG11MG45MG3MG2M,107M</interp>
     <entry>
-    <form>amma</form>
-    <def>alas</def>
-    <gramGrp><gram type="role">particle of lament</gram></gramGrp>
+      <form>amma</form>
+      <def>alas</def>
+      <gramGrp><gram type="role">particle of lament</gram></gramGrp>
     </entry>
     <entry>
-    <form>vāḻi</form>
-    <def>may-you-live</def>
-    <gramGrp><gram type="role">subjuntive</gram>
+      <form>vāḻi</form>
+      <def>may-you-live</def>
+      <gramGrp><gram type="role">subjuntive</gram>
     <gram type="role">singular</gram>
-    <gram type="role">first person</gram>
-    </gramGrp></entry>
+    <gram type="role">first
+        person</gram>
+      </gramGrp>
+    </entry>
     <entry>
-    <form>tōḻi</form>
-    <def>friend</def>
-    <gramGrp><gram type="role">vocative</gram>
-    </gramGrp></entry>
+      <form>tōḻi</form>
+      <def>friend</def>
+      <gramGrp><gram type="role">vocative</gram>
+      </gramGrp>
+    </entry>
     <entry>
-    <form><pc>~</pc>ūraṉ</form>
-    <def>village</def>
-    <gramGrp><gram type="role">pronominalised noun</gram>
+      <form><pc>~</pc>ūraṉ</form>
+      <def>village</def>
+      <gramGrp><gram type="role">pronominalised noun</gram>
     <gram type="role">masculine singular</gram>
-    </gramGrp></entry>
+      </gramGrp>
+    </entry>
     <entry>
-    <form>vem</form>
-    <def>hot</def>
-    <gramGrp><gram type="role">adjective</gram>
-    </gramGrp></entry>
+      <form>vem</form>
+      <def>hot</def>
+      <gramGrp><gram type="role">adjective</gram>
+      </gramGrp>
+    </entry>
     <entry>
-    <form>mulai</form>
-    <def>breast</def>
-    <gramGrp><gram type="role">noun</gram>
-    </gramGrp></entry>
+      <form>mulai</form>
+      <def>breast</def>
+      <gramGrp><gram type="role">noun</gram>
+      </gramGrp>
+    </entry>
     <entry>
-    <form><pc>~</pc>aṭaiya</form>
-    <def>near</def>
-    <gramGrp><gram type="role">infinitive</gram>
-    </gramGrp></entry>
+      <form><pc>~</pc>aṭaiya</form>
+      <def>completely/thoroughly</def>
+      <gramGrp><gram type="role">adverb</gram>
+      </gramGrp>
+    </entry>
     <entry>
-    <form>muyaṅki</form>
-    <def>embracing</def>
-    <gramGrp><gram type="role">absolutive</gram>
-    </gramGrp></entry>
-
-    <entry>
-    <form>nam</form>
-    <def>us</def>
-    <gramGrp><gram type="role">oblique</gram></gramGrp>
+      <form>muyaṅki</form>
+      <def>embracing</def>
+      <gramGrp><gram type="role">absolutive</gram>
+      </gramGrp>
     </entry>
 
     <entry>
-    <form>vayiṉ</form>
-    <def>place</def>
-    <gramGrp><gram type="role">locative postposition</gram></gramGrp>
+      <form>nam</form>
+      <def>us</def>
+      <gramGrp><gram type="role">oblique</gram></gramGrp>
     </entry>
 
     <entry>
-    <form>tirunt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
-    <def>be-perfect-</def>
-    <gramGrp><gram type="role">verbal root</gram>
-    </gramGrp></entry>
+      <form>vayiṉ</form>
+      <def>place</def>
+      <gramGrp><gram type="role">locative postposition</gram></gramGrp>
+    </entry>
+
     <entry>
-    <form>iḻai</form>
-    <def>jewel</def>
-    <gramGrp><gram type="role">noun</gram>
-    </gramGrp></entry>
+      <form>tirunt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+      <def>be-perfect</def>
+      <gramGrp><gram type="role">verbal root</gram>
+      </gramGrp>
+    </entry>
     <entry>
-    <form>paṇai<pc>+</pc></form>
-    <def>bamboo</def>
-    <gramGrp><gram type="role">noun</gram>
-    </gramGrp></entry>
+      <form>iḻai</form>
+      <def>jewel</def>
+      <gramGrp><gram type="role">noun</gram>
+      </gramGrp>
+    </entry>
     <entry>
-    <form>tōḷ</form>
-    <def>shoulder</def>
-    <gramGrp><gram type="role">noun</gram>
-    </gramGrp></entry>
+      <form>paṇai<pc>+</pc></form>
+      <def>bamboo</def>
+      <gramGrp><gram type="role">noun</gram>
+      </gramGrp>
+    </entry>
     <entry>
-    <form>ñekiḻa<pc>+</pc></form>
-    <def>become-loose</def>
-    <gramGrp><gram type="role">infinitive</gram>
-    </gramGrp></entry>
+      <form>tōḷ</form>
+      <def>shoulder</def>
+      <gramGrp><gram type="role">noun</gram>
+      </gramGrp>
+    </entry>
     <entry>
-    <form>pirintaṉaṉ</form>
-    <def>one-who-left</def>
-    <gramGrp><gram type="role">participial noun</gram>
+      <form>ñekiḻa<pc>+</pc></form>
+      <def>grow-emaciated</def>
+      <gramGrp><gram type="role">infinitive</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>pirintaṉaṉ</form>
+      <def>he-left</def>
+      <gramGrp>
     <gram type="role">masculine singular</gram>
-    <gram type="role">perfective aspect</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>āyiṉum</form>
-    <def>even-if</def>
-    <gramGrp><gram type="role">concessive</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>piriyalaṉ<pc>-</pc>maṉṉē</form>
-    <def>he-did-not-leave</def>
-    <form type="simple">piriyalaṉ</form>
-    <gramGrp type="particle"><m>maṉṉē</m></gramGrp>
+    <gram
+          type="role">perfective aspect</gram>
+      </gramGrp>
     </entry>
-    </standOff>
+    <entry>
+      <form>āyiṉum</form>
+      <def>even-if</def>
+      <gramGrp><gram type="role">concessive</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>piriyalaṉ<pc>-</pc>maṉṉē</form>
+      <def>he-did-not-leave</def>
+      <form type="simple">piriyalaṉ</form>
+      <gramGrp type="particle"><m>maṉṉē</m></gramGrp>
+    </entry>
+  </standOff>
 </TEI>
