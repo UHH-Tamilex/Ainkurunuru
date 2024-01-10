@@ -95,11 +95,10 @@
     </entry>
     <entry>
       <form>amaikuvaṉ</form>
-      <def>one-who-is-content</def>
+      <def>he-is-content</def>
       <gramGrp><gram type="role">masculine singular</gram>
-    <gram type="role">participial noun</gram>
-    <gram
-          type="role">imperfect aspect</gram>
+    
+    <gram type="role">imperfect aspect</gram>
       </gramGrp>
     </entry>
     <entry>
@@ -137,11 +136,12 @@
       <gramGrp type="particle"><m>um</m></gramGrp>
     </entry>
     <entry>
-      <form>amaikuva-maṉ-<pc>+</pc>ē</form>
-      <def>they-will-be-content(imperfective aspect neuter plural)</def>
+      <form>amaikuva<pc>-</pc>maṉṉē</form>
+      <def>they-will-be-content</def>
+      <gramGrp><gram type="role">imperfective aspect neuter plural</gram></gramGrp>
       <form type="simple">amaikuva-maṉ</form>
-      <gramGrp type="particle"><m>maṉ</m></gramGrp>
-      <gramGrp type="particle"><m>ē</m></gramGrp>
+      <gramGrp type="particle"><m>maṉṉē</m></gramGrp>
+  
     </entry>
     <entry>
       <form>kayal</form>

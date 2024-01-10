@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <title xml:lang="ta">Aiṅkuṟunūṟu</title> 38. <persName xml:lang="ta">Ōrampōkiyār</persName>
+        </title>
+        <editor role="translator">Eva Wilden</editor>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc />
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <div xml:id="Aink38-kilavi">
+        <p type="edition">talaimakaṉ maṉaivayiṉ pōkak karutiṉāṉ eṉpatu colliya taṉ tōḻikkup parattai
+          colliyatu.</p>
+        <p type="translation" xml:lang="en"> </p>
+      </div>
+
+      <div xml:id="Aink38">
+        <lg type="edition">
+          <l> amma vāḻi tōḻi makiḻnaṉ</l>
+          <l>ṟaṉco luṇarntō raṟiyala ṉeṉṟun</l>
+          <l>taṇṭaḷir vauvu mēṉi</l>
+          <l>yoṇṭoṭi muṉkai yāmaḻap pirintē.</l>
+        </lg>
+        <lg type="translation" xml:lang="en">
+          <l> Alas, [my] friend! </l>
+          <l> The bringer of delight</l>
+          <l> did not know that people overheard his words,</l>
+          <l> when he left, [leaving us] to weep–</l>
+          <l> [our] forearms with bright bangles,</l>
+          <l> our body which forever catches [the colour of] cool sprouts.</l>
+
+
+        </lg>
+      </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#Aink38">
+    <interp type="alignment" select="0">61ML29M2G2M,94MG</interp>
+    <entry>
+      <form>amma</form>
+      <def>alas</def>
+      <gramGrp><gram type="role">particle of lament</gram></gramGrp>
+    </entry>
+    <entry>
+      <form>vāḻi</form>
+      <def>may-you-live</def>
+      <gramGrp><gram type="role">subjuntive</gram>
+    <gram type="role">singular</gram>
+    <gram type="role">second
+        person</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>tōḻi</form>
+      <def>friend</def>
+      <gramGrp><gram type="role">vocative</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>makiḻnaṉ</form>
+      <def>delight</def>
+      <gramGrp><gram type="role">pronominalised noun</gram>
+    <gram type="role">masculine singular</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>taṉ</form>
+      <def>self</def>
+      <gramGrp><gram type="role">oblique</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>col</form>
+      <def>word</def>
+      <gramGrp><gram type="role">root noun</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>uṇarntōr</form>
+      <def>ones-who-perceived</def>
+      <gram type="role">participial noun</gram>
+      <gramGrp><gram type="role">perfective aspect</gram>
+    <gram type="role">third person</gram>
+    <gram
+          type="role">plural</gram>
+    <gram type="role">honorific</gram>
+
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>aṟiyalaṉ</form>
+      <def>he-does/did-not-know</def>
+      <gramGrp><gram type="role">masculine singular</gram>
+    <gram type="role">negative</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>eṉṟum</form>
+      <def>always</def>
+    </entry>
+    <entry>
+      <form>taṇ</form>
+      <def>cool</def>
+      <gramGrp><gram type="role">adjective</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>taḷir</form>
+      <def>sprout</def>
+      <gramGrp><gram type="role">noun</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>vauvum</form>
+      <def>snatching</def>
+      <gramGrp><gram type="role">imperfect aspect</gram>
+    <gram type="role">peyareccam</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>mēṉi</form>
+      <def>body</def>
+      <gramGrp><gram type="role">noun</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form><pc>~</pc>oḷ</form>
+      <def>bright</def>
+      <gramGrp><gram type="role">adjective</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>toṭi</form>
+      <def>bracelet</def>
+      <gramGrp><gram type="role">noun</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>muṉkai</form>
+      <def>forearm</def>
+      <gramGrp><gram type="role">noun</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>yām</form>
+      <def>we</def>
+      <gramGrp><gram type="role">pronoun</gram>
+    <gram type="role">first person plural</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>aḻa<pc>+</pc></form>
+      <def>cry</def>
+      <gramGrp><gram type="role">infinitive</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>pirint<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
+      <def>separating/leaving</def>
+      <form type="simple">pirintu</form>
+      <gramGrp><gram type="role">absolutive</gram>
+      </gramGrp>
+      <gramGrp type="particle"><m>ē</m></gramGrp>
+    </entry>
+  </standOff>
+</TEI>

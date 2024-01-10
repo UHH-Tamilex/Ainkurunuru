@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <title xml:lang="ta">Aiṅkuṟunūṟu</title> 40. <persName xml:lang="ta">Ōrampōkiyār</persName>
+        </title>
+        <editor role="translator">Eva Wilden</editor>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc />
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <div xml:id="Aink40-kilavi">
+        <p type="edition">ulakiyal paṟṟit talaivaṉ taṉ maṉaikkaṇ oru ñāṉṟu pōṉatē koṇṭu avvaḻip
+          piriyātu uṟaikiṉṟāṉ eṉṟu ayaṟparattaiyar palarum kūṟiṉār eṉpatu kēṭṭa kātaṟparattai avar
+          pāṅkāyiṉār kēṭpat taṉ tōḻikkuc colliyatu.</p>
+        <p type="translation" xml:lang="en"> </p>
+      </div>
+
+      <div xml:id="Aink40">
+        <lg type="edition">
+          <l> amma vāḻi tōḻi makiḻna</l>
+          <l> ṉoṇṭoṭi muṉkai yāmaḻap pirintutaṉ</l>
+          <l> peṇṭi rūriṟai koṇṭaṉa ṉeṉpa</l>
+          <l> keṇṭai pāytara vaviḻnta</l>
+          <l> vaṇṭupiṇi yāmpa ṉāṭukiḻa vōṉē.</l>
+        </lg>
+        <lg type="translation" xml:lang="en">
+          <l> Alas, [my] friend! </l>
+          <l> The bringer of delight,</l>
+          <l> having left [us], with bright bracelets on [our] forearms, to cry,</l>
+            <l>  has taken [his] seat in the village of his women.</l>
+          <l> [He is] the lord of the land of white lotus</l>
+            <l> whose outer petals [covered with] bees</l>
+          <l> open, while Keṇṭai fish leap.</l>
+
+
+        </lg>
+      </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#Aink40">
+    <interp type="alignment" select="0">82MG27ML10MG2M,123MG</interp>
+    <entry>
+    <form>amma</form>
+    <def>alas</def>
+    <gramGrp><gram type="role">particle of lament</gram></gramGrp>
+    </entry>
+    <entry>
+    <form>vāḻi</form>
+    <def>may-you-live</def>
+    <gramGrp><gram type="role">subjuntive</gram>
+    <gram type="role">singular</gram>
+    <gram type="role">second person</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>tōḻi</form>
+    <def>friend</def>
+    <gramGrp><gram type="role">vocative</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>makiḻnaṉ</form>
+    <def>delight</def>
+    <gramGrp><gram type="role">pronominalised noun</gram>
+    <gram type="role">masculine singular</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>oḷ</form>
+    <def>bright</def>
+    <gramGrp><gram type="role">adjective</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>toṭi</form>
+    <def>bracelet</def>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>muṉkai</form>
+    <def>forearm</def>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>yām</form>
+    <def>we (exclusive)</def>
+    <gramGrp><gram type="role">personal pronoun</gram>
+    <gram type="role">first person plural</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>aḻa<pc>+</pc></form>
+    <def>cry</def>
+    <gramGrp><gram type="role">infinitive</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>pirintu</form>
+    <def>separating</def>
+    <gramGrp><gram type="role">absolutive</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>taṉ</form>
+    <def>self</def>
+    <gramGrp><gram type="role">oblique</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>peṇṭir</form>
+    <def>women</def>
+    <gramGrp><gram type="role">plural</gram>
+    <gram type="role">noun</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>ūr</form>
+    <def>village</def>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>iṟai</form>
+    <def>seat</def>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>koṇṭaṉaṉ</form>
+    <def>he-has-taken</def>
+    <gramGrp><gram type="role">masculine singular</gram>
+    <gram type="role">perfective aspect</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>eṉpa</form>
+    <def>they-say</def>
+    <gramGrp><gram type="role">imperfect aspect</gram>
+    <gram type="role">plural</gram>
+    <gram type="role">third person</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>keṇṭai</form>
+    <def>Keṇṭai-fish</def>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>pāy-tara</form>
+    <def>leap-give</def>
+    <gramGrp><gram type="role">infinitive</gram>
+    </gramGrp></entry>
+    <entry>
+    <form><pc>~</pc>aviḻnta</form>
+    <def>opened</def>
+    <gramGrp><gram type="role">perfective aspect</gram>
+    <gram type="role">peyareccam</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>vaṇṭu</form>
+    <def>bee</def>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>piṇi</form>
+    <def>bud</def>
+    <gramGrp><gram type="role">root noun</gram>
+    </gramGrp></entry>
+    <entry>
+    <form><pc>~</pc>āmpal</form>
+    <def>white-lotus</def>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>nāṭu</form>
+    <def>land</def>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>kiḻavōṉ-ē</form>
+    <def>lord</def>
+    <form type="simple">kiḻavōṉ</form>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+    </entry>
+    </standOff>
+</TEI>
