@@ -40,11 +40,11 @@
 
         </lg>
         <lg type="translation" xml:lang="en">
-          <l> That [we],</l>
+          <l> The fact that [we] are unhappy</l>
+          <l> and so exhausted that [our] bright bangles become loose </l>
             <l>because of the man from the village</l>
-          <l rend='indent2'> where the crab takes ears from the red paddy field </l>
-          <l rend='indent2'> [and] goes into [its] cool interior earth hole</l>
-          <l> are unhappy and so exhausted [our] bright bangles become loose: </l>
+          <l rend='indent2'> where the crab, having taken ears from the red paddy field, </l>
+          <l rend='indent2'> goes into [its] cool interior earth hole:</l>
           <l> What [of it], mother?</l>
 
 
@@ -91,7 +91,7 @@
     </gramGrp></entry>
     <entry>
     <form><pc>+</pc>akam</form>
-    <def>inside</def>
+    <def>interior</def>
     <gramGrp><gram type="role">noun</gram>
     </gramGrp></entry>
     <entry>
@@ -119,7 +119,7 @@
     </gramGrp></entry>
     <entry>
     <form>el</form>
-    <def>light</def>
+    <def>bright</def>
     <gramGrp><gram type="role">noun</gram>
     </gramGrp></entry>
     <entry>
@@ -129,7 +129,7 @@
     </gramGrp></entry>
     <entry>
     <form>nekiḻa<pc>+</pc></form>
-    <def>become loose</def>
+    <def>become-loose</def>
     <gramGrp><gram type="role">infinitive</gram>
     </gramGrp></entry>
     <entry>
@@ -157,6 +157,7 @@
     <form>aṉṉāy</form>
     <def>mother</def>
     <gramGrp><gram type="role">vocative</gram>
+    <gram type="role">noun</gram>
     </gramGrp></entry>
     </standOff>
 </TEI>
