@@ -56,128 +56,160 @@
   <standOff type="wordsplit" corresp="#Aink9">
     <interp type="alignment" select="0">40MG18MG4MG4MG66MG2M,138MG</interp>
     <entry>
-      <form>vāḻi</form>
-      <def>live</def>
-      <gram type="role">subjuntive 2nd person singular</gram>
+    <form>vāḻi</form>
+    <def>may-you-live</def>
+    <gramGrp><gram type="role">subjuntive</gram>
+    <gram type="role">singular</gram>
+    <gram type="role">second person</gram>
+    </gramGrp></entry>
+    <entry>
+    <form><pc>~</pc>ātaṉ</form>
+    <def>Ātaṉ</def>
+    <gramGrp><gram type="role">proper name</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>vāḻi</form>
+    <def>may-you-live</def>
+    <gramGrp><gram type="role">subjuntive</gram>
+    <gram type="role">singular</gram>
+    <gram type="role">second person</gram>
+    </gramGrp></entry>
+    <entry>
+    <form><pc>~</pc>aviṉi</form>
+    <def>Aviṉi</def>
     </entry>
     <entry>
-      <form><pc>~</pc>ātaṉ</form>
-      <def>Ātaṉ</def>
+    <form>naṉṟu</form>
+    <def>goodness</def>
+    <gramGrp><gram type="role">pronominalised noun</gram>
+    <gram type="role">neuter singular</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>peritu</form>
+    <def>greatly</def>
+    <gramGrp><gram type="role">pronominalised noun</gram>
+    <gram type="role">neuter singular</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>ciṟakka</form>
+    <def>may-it-excel</def>
+    <gramGrp><gram type="role">optative</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>tīt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>evil</def>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>il</form>
+    <def>non-existence</def>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
+    <entry>
+    <form><pc>+</pc>ākuka</form>
+    <def>may-it-become</def>
+    <gramGrp><gram type="role">optative</gram>
+    </gramGrp></entry>
+    <entry>
+    <form><pc>~</pc>eṉa</form>
+    <def>say</def>
+    <gramGrp><gram type="role">infinitive</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>vēṭṭōḷ-ē</form>
+    <def>one-who-wants/one-who-wanted</def>
+    <form type="simple">vēṭṭōḷ</form>
+    <gramGrp><gram type="role">participial noun</gram>
+    <gram type="role">perfective aspect</gram>
+    <gram type="role">singular</gram>
+    <gram type="role">feminine</gram>
+    </gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
     </entry>
     <entry>
-      <form>vāḻi</form>
-      <def>live</def>
-      <gram type="role">subjuntive 2nd person singular</gram>
+    <form>yāy-ē</form>
+    <def>our-mother</def>
+    <form type="simple">yāy</form>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
     </entry>
     <entry>
-      <form><pc>~</pc>aviṉi</form>
-      <def>Aviṉi</def>
+    <form>yām-ē</form>
+    <def>we</def>
+    <form type="simple">yām</form>
+    <gramGrp><gram type="role">neuter plural</gram>
+    <gram type="role">first person</gram>
+    </gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
     </entry>
     <entry>
-      <form>naṉṟu</form>
-      <def>goodness (pronominalised noun neuter singular)</def>
-    </entry>
+    <form>kayal</form>
+    <def>carp</def>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
     <entry>
-      <form>peritu</form>
-      <def>greatly (pronominalised noun neuter singular) (adv) </def>
-    </entry>
+    <form>ār</form>
+    <def>becoming-full</def>
+    <gramGrp><gram type="role">verbal root</gram>
+    </gramGrp></entry>
     <entry>
-      <form>ciṟakka</form>
-      <def>excel</def>
-      <gram type="role">optative</gram>
-    </entry>
+    <form>nārai</form>
+    <def>crane</def>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
     <entry>
-      <form>tīt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
-      <def>evil</def>
-    </entry>
+    <form>pōrviṉ</form>
+    <def>heap</def>
+    <gramGrp><gram type="role">oblique</gram>
+    </gramGrp></entry>
     <entry>
-      <form>il</form>
-      <def>be-not (verbal root)</def>
-    </entry>
+    <form>cēkkum</form>
+    <def>dwelling</def>
+    <gramGrp><gram type="role">imperfect aspect</gram>
+    <gram type="role">peyareccam</gram>
+    </gramGrp></entry>
     <entry>
-      <form><pc>+</pc>ākuka</form>
-      <def>become</def>
-      <gram type="role">optative</gram>
-    </entry>
+    <form>taṇ</form>
+    <def>cool</def>
+    <gramGrp><gram type="role">adjective</gram>
+    </gramGrp></entry>
     <entry>
-      <form><pc>~</pc>eṉa</form>
-      <def>say</def>
-      <gram type="role">infinitive</gram>
-    </entry>
+    <form>tuṟai</form>
+    <def>ghat</def>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
     <entry>
-      <form>vēṭṭōḷ-ē</form>
-      <def>one-who-wants/one-who-wanted(​​​​​​participial noun perfective aspect feminine singular)</def>
-      <form type="simple">vēṭṭōḷ</form>
-      <gramGrp type="particle"><m>ē</m></gramGrp>
-    </entry>
+    <form><pc>~</pc>ūraṉ</form>
+    <def>village</def>
+    <gramGrp><gram type="role">pronominalised noun</gram>
+    <gram type="role">masculine singular</gram>
+    </gramGrp></entry>
     <entry>
-      <form>yāy-ē</form>
-      <def>our-mother</def>
-      <form type="simple">yāy</form>
-      <gramGrp type="particle"><form>ē</form></gramGrp>
-    </entry>
+    <form>kēṇmai</form>
+    <def>intimacy</def>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
     <entry>
-      <form>yām-ē</form>
-      <def>we</def>
-      <form type="simple">yām</form>
-      <gramGrp type="particle"><form>ē</form></gramGrp>
-    </entry>
+    <form><pc>~</pc>ampal</form>
+    <def>rumour</def>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
     <entry>
-      <form>kayal</form>
-      <def>carp</def>
-    </entry>
+    <form>ākaṟka</form>
+    <def>may-it-not-become</def>
+    <gramGrp><gram type="role">optative</gram>
+    </gramGrp></entry>
     <entry>
-      <form>ār</form>
-      <def>become-full (verbal root as peyareccam)</def>
-    </entry>
+    <form><pc>~</pc>eṉa</form>
+    <def>say</def>
+    <gramGrp><gram type="role">infinitive</gram>
+    </gramGrp></entry>
     <entry>
-      <form>nārai</form>
-      <def>crane</def>
+    <form>vēṭṭēm-ē</form>
+    <def>we-wanted</def>
+    <form type="simple">vēṭṭēm</form>
+    <gramGrp><gram type="role">perfective aspect</gram>
+    <gram type="role">plural</gram>
+    <gram type="role">first person</gram>
+    </gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
     </entry>
-    <entry>
-      <form>pōrviṉ</form>
-      <def>heap</def>
-      <gramGrp type="affix"><form>iṉ</form><gram type="role">locative</gram></gramGrp>
-    </entry>
-    <entry>
-      <form>cēkkum</form>
-      <def>dwelling (peyareccam imperfective aspect)</def>
-    </entry>
-    <entry>
-      <form>taṇ</form>
-      <def>cool</def>
-    </entry>
-    <entry>
-      <form>tuṟai</form>
-      <def>ghat</def>
-    </entry>
-    <entry>
-      <form><pc>~</pc>ūraṉ</form>
-      <def>village (pronominalised noun masculine singular)</def>
-    </entry>
-    <entry>
-      <form>kēṇmai</form>
-      <def>intimacy</def>
-    </entry>
-    <entry>
-      <form><pc>~</pc>ampal</form>
-      <def>rumour</def>
-    </entry>
-    <entry>
-      <form>ākaṟka</form>
-      <def>not-become</def>
-      <gram type="role">negative optative</gram>
-    </entry>
-    <entry>
-      <form><pc>~</pc>eṉa</form>
-      <def>say</def>
-      <gram type="role">infinitive</gram>
-    </entry>
-    <entry>
-      <form>vēṭṭēm-ē</form>
-      <def>we-wanted (​​perfective aspect 1st person plural)</def>
-      <form type="simple">vēṭṭēm</form>
-      <gramGrp type="particle"><form>ē</form></gramGrp>
-    </entry>
-  </standOff>
+    </standOff>
 </TEI>
