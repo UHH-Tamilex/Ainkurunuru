@@ -8,7 +8,7 @@
         <title>
             <title xml:lang="ta">Aiṅkuṟunūṟu</title> 101.<persName xml:lang="ta"> Ammūvaṉār.</persName></title>
 
-        <editor role="translator">neela</editor>
+        <editor role="translator">Neela_Bhaskar</editor>
       </titleStmt>
       <sourceDesc>
         <msDesc xml:lang="en">
@@ -63,11 +63,13 @@ The ten that was narrated to the Mother
     <entry>
     <form>vāḻi</form>
     <def>live</def>
-    </entry>
+    <gramGrp><gram type="role">imperative</gram>
+    </gramGrp></entry>
     <entry>
     <form>vēṇṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
-    <def>desire</def>
-    </entry>
+    <def>be necessary</def>
+    <gramGrp><gram type="role">imperative</gram>
+    </gramGrp></entry>
     <entry>
     <form>aṉṉai</form>
     <def>mother</def>
@@ -78,12 +80,12 @@ The ten that was narrated to the Mother
     </entry>
     <entry>
     <form>kāṇ</form>
-    <def>look</def>
+    <def>to look</def>
     <gramGrp><gram type="role">imperative</gram>
     </gramGrp></entry>
     <entry>
     <form>ēr</form>
-    <def>superior</def>
+    <def>straight</def>
     </entry>
     <entry>
     <form>koṭi<pc>+</pc></form>
