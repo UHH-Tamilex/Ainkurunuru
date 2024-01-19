@@ -44,7 +44,7 @@
           <l rend='indent2'> so that the cool interior earth holes of crabs</l>
           <l rend='indent2'>– whose eyes are as large as neem buds– </l>
           <l rend='indent2'>become full:</l>
-          <l> What about her losing [her] great beauty because of him, mother?</l>
+          <l> What about the fact that she is losing [her] great beauty because of him, mother?</l>
 
 
         </lg>
@@ -55,7 +55,7 @@
     <interp type="alignment" select="0">37ML40MG21MG4MG9M,114MG</interp>
     <entry>
     <form>vēppu</form>
-    <def>neem tree</def>
+    <def>neem-tree</def>
     <gramGrp><gram type="role">noun</gram>
     </gramGrp></entry>
     <entry>
@@ -66,7 +66,8 @@
     <entry>
     <form><pc>~</pc>aṉṉa</form>
     <def>like</def>
-    <gramGrp><gram type="role">postposition</gram>
+    <gramGrp><gram type="role">comparative</gram>
+    <gram type="role">peyareccam</gram>
     </gramGrp></entry>
     <entry>
     <form>neṭum</form>
@@ -90,8 +91,8 @@
     </gramGrp></entry>
     <entry>
     <form><pc>+</pc>akam</form>
-    <def>inside</def>
-    <gramGrp><gram type="role">adjective</gram>
+    <def>interior</def>
+    <gramGrp><gram type="role">noun</gram>
     </gramGrp></entry>
     <entry>
     <form>maṇ</form>
@@ -105,7 +106,7 @@
     </gramGrp></entry>
     <entry>
     <form>niṟaiya</form>
-    <def>become full</def>
+    <def>become-full</def>
     <gramGrp><gram type="role">infinitive</gram>
     </gramGrp></entry>
     <entry>
@@ -139,7 +140,8 @@
     <entry>
     <form>ivaḷ</form>
     <def>she</def>
-    <gramGrp></gramGrp></entry>
+    <gramGrp><gram type="role">pronoun</gram>
+    </gramGrp></entry>
     <entry>
     <form>perum</form>
     <def>big</def>
@@ -165,6 +167,7 @@
     <form>aṉṉāy</form>
     <def>mother</def>
     <gramGrp><gram type="role">vocative</gram>
+    <gram type="role">noun</gram>
     </gramGrp></entry>
     </standOff>
 </TEI>
