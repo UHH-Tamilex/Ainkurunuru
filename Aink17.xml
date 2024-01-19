@@ -93,7 +93,7 @@
     <entry>
     <form>āṭu</form>
     <def>dance</def>
-    <gramGrp><gram type="role">verbal root</gram>
+    <gramGrp><gram type="role">verbal root as imperfective peyareccam</gram>
     </gramGrp></entry>
     <entry>
     <form>kurukiṉ</form>
@@ -116,8 +116,8 @@
     <form>putuvōr</form>
     <def>new-girls</def>
     <gramGrp><gram type="role">pronominalised noun</gram>
-    <gram type="role">neuter plural</gram>
-    <gram type="role">third person</gram>
+      <gram type="role">third person</gram>
+    <gram type="role">honorific plural</gram>
     </gramGrp></entry>
     <entry>
     <form>mēvalaṉ</form>
