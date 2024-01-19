@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+            <title xml:lang="ta">Aiṅkuṟunūṟu</title> 103.<persName xml:lang="ta"> Ammūvaṉār.</persName></title>
+
+        <editor role="translator">Neela_Bhaskar</editor>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc/>
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <div xml:id="Aink103-kilavi">
+          <p type="edition">
+            aṟattoṭu niṉṟa tōḻi vatuvai nikaḻāniṉṟuḻit tāykkuk
+kāṭṭi uvantu colliyatu. </p>
+          <p type="translation" xml:lang="en">
+
+          </p>
+        </div>
+        <div xml:id="Aink103">
+            <lg type="edition">
+              <l> aṉṉai vāḻivēṇ ṭaṉṉai puṉṉaiyoṭu</l>
+              <l> ñāḻal pūkkun taṇṇan tuṟaiva</l>
+                        <l> ṉivaṭkamain taṉaṉāṟ ṟāṉē</l>
+                        <l> taṉakkamain taṉṟivaṇ māmaik kaviṉē</l>
+                        
+            </lg>
+            <lg type="translation" xml:lang="en">
+<l> Oh mother, please mother </l>
+<l> The man from the cool, pretty harbour </l>
+<l> Where Ñāḻal trees bloom along with Puṉṉai trees </l>
+<l> Is indeed suitable for this girl </l>
+<l> Her great, dark beauty being suitable to him. </l>
+            </lg>
+        </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#Aink103">
+    <interp type="alignment" select="0">13MG45MG10MG5MG7MG6MG3MG15MGM,113M</interp>
+    <entry>
+    <form>aṉṉai</form>
+    <def>mother</def>
+    </entry>
+    <entry>
+    <form>vāḻi</form>
+    <def>live</def>
+    <gramGrp><gram type="role">imperative</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>vēṇṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>be necessary</def>
+    </entry>
+    <entry>
+    <form>aṉṉai</form>
+    <def>mother</def>
+    </entry>
+    <entry>
+    <form>puṉṉaiyoṭu</form>
+    <def>puṉṉai</def>
+    <gramGrp><gram type="role">sociative</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>ñāḻal</form>
+    <def>ñāḻal</def>
+    </entry>
+    <entry>
+    <form>pūkkum</form>
+    <def>to flower</def>
+    <gramGrp><gram type="role">peyareccam</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>taṇ<pc>+</pc></form>
+    <def>cool</def>
+    <gramGrp><gram type="role">adjective</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>am</form>
+    <def>pretty</def>
+    <gramGrp><gram type="role">adjective</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>tuṟaivaṉ</form>
+    <def>harbour</def>
+    <gramGrp><gram type="role">pronominalised noun</gram>
+    <gram type="role">masculine singular</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>ivaṭk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>she</def>
+    <gramGrp><gram type="role">dative</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>amaintaṉaṉ-āl</form>
+    <def>be suitable</def>
+    <form type="simple">amaintaṉaṉ</form>
+    <gramGrp><gram type="role">masculine singular</gram>
+    <gram type="role">perfective aspect</gram>
+    </gramGrp><gramGrp type="particle"><m>āl</m></gramGrp>
+    </entry>
+    <entry>
+    <form>tāṉ-ē</form>
+    <def>self</def>
+    <form type="simple">tāṉ</form>
+    <gramGrp type="particle"><m>ē</m></gramGrp>
+    </entry>
+    <entry>
+    <form>taṉakk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>self</def>
+    <gramGrp><gram type="role">dative</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>amaint<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>be suitable</def>
+    <gramGrp><gram type="role">absolutive</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>aṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>besides</def>
+    </entry>
+    <entry>
+    <form>ivaḷ</form>
+    <def>here</def>
+    </entry>
+    <entry>
+    <form>mā</form>
+    <def>great</def>
+    </entry>
+    <entry>
+    <form>mai<pc>+</pc></form>
+    <def>dark</def>
+    </entry>
+    <entry>
+    <form>kaviṉ-ē</form>
+    <def>beauty</def>
+    <form type="simple">kaviṉ</form>
+    <gramGrp type="particle"><m>ē</m></gramGrp>
+    </entry>
+    </standOff>
+</TEI>
