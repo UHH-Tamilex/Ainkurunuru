@@ -6,7 +6,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-          <title xml:lang="ta">Aiṅkuṟunūṟu</title> 250. </title>
+          <title xml:lang="ta">Aiṅkuṟunūṟu</title> 250. <persName xml:lang="ta">Kapilar</persName>
         <editor role="translator">[Maanasa Visweswaran]</editor>
       </titleStmt>
       <sourceDesc>
@@ -44,11 +44,159 @@
           <l>Oh Molucca-bean unaware of the occurrence of falsehood,</l>
           <l>the truth, in fact, </l>
           <l>is that he who tormented her ornament-bearing young breasts, </l>
-          <l> – our master of the forest with bloomed creepers,</l>
-          <l>where naïve peacocks dance in the nests of sapphire mountains, </l>
+          <l> – our master of the woodland with bloomed creepers,</l>
+          <l>where naïve peacocks dance in the forests of sapphire mountains, </l>
           <l>is not the victorious Vēḷ worthy of manhood. </l>
         </lg>
       </div>
     </body>
   </text>
+  <standOff type="wordsplit" corresp="#Aink250">
+    <interp type="alignment" select="0">8MG12M2G26ML7MR62MG4ML14MGM,142M</interp>
+    <entry>
+    <form>poy</form>
+    <def>lie</def>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>paṭup<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>happening</def>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>aṟiyā<pc>+</pc></form>
+    <def>know</def>
+    <gramGrp><gram type="role">negative</gram>
+    <gram type="role">peyareccam</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>kaḻaṅk<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
+    <def>Molucca-bean</def>
+    <form type="simple">kaḻaṅku</form>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+    </entry>
+    <entry>
+    <form>mey-ē</form>
+    <def>truth</def>
+    <form type="simple">mey</form>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+    </entry>
+    <entry>
+    <form>maṇi</form>
+    <def>sapphire</def>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>varai<pc>+</pc></form>
+    <def>mountain</def>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>kaṭci</form>
+    <def>forest</def>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>maṭam</form>
+    <def>naïve</def>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>mayil</form>
+    <def>peacock</def>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>ālum</form>
+    <def>dancing</def>
+    <gramGrp><gram type="role">imperfect aspect</gram>
+    <gram type="role">peyareccam</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>nam</form>
+    <def>our</def>
+    <gramGrp><gram type="role">oblique</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>malarnta</form>
+    <def>blossomed-</def>
+    <gramGrp><gram type="role">perfective aspect</gram>
+    <gram type="role">peyareccam</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>vaḷḷi<pc>~</pc>am</form>
+    <def>creeper</def>
+    <gramGrp><gram type="role">adjective</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>kāṉam</form>
+    <def>forest</def>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>kiḻavōṉ</form>
+    <def>master</def>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>āṇ</form>
+    <def>man</def>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>takai</form>
+    <def>fitting</def>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>viṟal</form>
+    <def>victory</def>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>vēḷ</form>
+    <def>ruler</def>
+    </entry>
+    <entry>
+    <form>allaṉ</form>
+    <def>not-he</def>
+    <gramGrp><gram type="role">pronominalised noun</gram>
+    <gram type="role">masculine singular</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>ivaḷ</form>
+    <def>she</def>
+    </entry>
+    <entry>
+    <form>pūṇ</form>
+    <def>ornament</def>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>tāṅk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>bear</def>
+    <gramGrp><gram type="role">verbal root</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>iḷam</form>
+    <def>young</def>
+    <gramGrp><gram type="role">adjective</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>mulai</form>
+    <def>breast</def>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
+    <entry>
+    <form><pc>~</pc>aṇaṅkiyōṉ-ē</form>
+    <def>he-who-tormented</def>
+    <form type="simple">aṇaṅkiyōṉ</form>
+    <gramGrp><gram type="role">participial noun</gram>
+    <gram type="role">masculine singular</gram>
+    <gram type="role">perfective aspect</gram>
+    </gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+    </entry>
+    </standOff>
 </TEI>
