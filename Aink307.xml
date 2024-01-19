@@ -6,7 +6,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta">Aiṅkuṟunūṟu</title> 307<persName xml:lang='ta'>Ōtalāntaiyār</persName>
+            <title xml:lang="ta">Aiṅkuṟunūṟu</title> 307.<persName xml:lang='ta'>Ōtalāntaiyār</persName>
         </title>
         <editor role="translator">Nikolay Gordiychuk</editor>
       </titleStmt>
@@ -107,7 +107,7 @@
                 <entry>
                 <form>naṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
                 <def>goodness</def>
-                <gramGrp><gram type="role">noun</gram>
+                <gramGrp><gram type="role">pron.n.n.sg.</gram>
                 </gramGrp></entry>
                 <entry>
                 <form>il</form>
