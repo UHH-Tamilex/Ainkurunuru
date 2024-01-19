@@ -41,7 +41,7 @@
         <lg type="translation" xml:lang="en">
           <l>They say his village has ponds with white flowers [in them]</l>
           <l>and heartless crocodiles that eat their [own] young. Because of that</l>
-          <l>the Lord of the Village turns </l>
+          <l>the lord of the village turns </l>
           <l>the bodies of those who heard his words</l>
           <l>[pale] as gold.</l>
 
@@ -122,7 +122,7 @@
     <entry>
     <form>ataṉāl</form>
     <def>because-of-that</def>
-    <gramGrp><gram type="role">deictic pronoun instrumental</gram>
+    <gramGrp><gram type="role">pronoun instrumental</gram>
     </gramGrp></entry>
     <entry>
     <form>taṉ</form>
