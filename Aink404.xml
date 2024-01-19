@@ -6,7 +6,7 @@
         <fileDesc>
             <titleStmt>
                 <title>
-                    <title xml:lang="ta">Aiṅkuṟunūṟu</title> 404. </title>
+                    <title xml:lang="ta">Aiṅkuṟunūṟu</title> 404.</title><persName xml:lang="ta"> Pēyaṉār</persName>
                 <editor role="translator">Leo Nelson-Jones</editor>
             </titleStmt>
             <sourceDesc>
@@ -25,7 +25,7 @@
     <text xml:lang="ta" type="edition">
         <body>
 
-            </div>
+        
             <div xml:id="Aink404">
                 <lg type="edition">
                     <l>vāṇuta larivai makaṉmulai yūṭṭat</l>
@@ -35,7 +35,7 @@
                 </lg>
                 <p type="translation" xml:lang="en">
                     While the young woman with the bright forehead nursed [her] son at her chest,
-                    that lord of the land with many small hills draped in cool forests with lovely
+                    that lord of the land with many small hills covered in cool forests with lovely
                     fragrant flowers, he embraced the small of her back.
                 </p>
             </div>
