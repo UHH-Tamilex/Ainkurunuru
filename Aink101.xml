@@ -34,15 +34,15 @@ The ten that was narrated to the Mother
         </div>
         <div xml:id="Aink101">
             <lg type="edition">
-              <1> aṉṉai vāḻivēṇ ṭaṉṉai yutukkā </1>
+              <l> aṉṉai vāḻivēṇ ṭaṉṉai yutukkā </l>
               <l> ṇērkoṭip pācaṭumpu pariyavūr piḻipu</l>
                         <l> neytaṉ mayakki vantaṉṟu niṉmakaḷ</l>
                         <l> pūppō luṇkaṇ marīiya</l>
-                        <l> nōykkumarun tākiya koṇkaṉ rērē </l>
+                        <l> nōykkumarun tākiya koṇkaṉ ṟērē </l>
             </lg>
             <lg type="translation" xml:lang="en">
 <l> Oh Mother! (Listen) with desire Mother! Look there - </l>
-<l> Tearing up the green Aṭumpu creepers, rising and falling </l>
+<l> Tearing up the green Aṭumpu's superior creepers, rising and falling </l>
 <l> Making the Neytal fade </l>
 <l> The chariot of the Lord of the seashore </l>
 <l> That is the antidote to the affliction that is set into </l>
@@ -52,4 +52,133 @@ The ten that was narrated to the Mother
         </div>
     </body>
   </text>
+  <standOff type="wordsplit" corresp="#Aink101">
+    <interp type="alignment" select="0">13MG23MG16MG64MG14MGM,136M</interp>
+    <entry>
+    <form>aṉṉai</form>
+    <def>mother</def>
+    </entry>
+    <entry>
+    <form>vāḻi</form>
+    <def>live</def>
+    </entry>
+    <entry>
+    <form>vēṇṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>desire</def>
+    </entry>
+    <entry>
+    <form>aṉṉai</form>
+    <def>mother</def>
+    </entry>
+    <entry>
+    <form><pc>~</pc>utu<pc>+</pc></form>
+    <def>there</def>
+    </entry>
+    <entry>
+    <form>kāṇ</form>
+    <def>look</def>
+    <gramGrp><gram type="role">imperative</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>ēr</form>
+    <def>superior</def>
+    </entry>
+    <entry>
+    <form>koṭi<pc>+</pc></form>
+    <def>creeper</def>
+    </entry>
+    <entry>
+    <form>pāc<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>green</def>
+    <gramGrp><gram type="role">adjective</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>aṭumpu</form>
+    <def>Aṭumpu</def>
+    </entry>
+    <entry>
+    <form>pariya</form>
+    <def>tear up</def>
+    <gramGrp><gram type="role">infinitive</gram>
+    </gramGrp></entry>
+    <entry>
+    <form><pc>~</pc>ūrp<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>rise</def>
+    <gramGrp><gram type="role">verbal root</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>iḻipu</form>
+    <def>fall</def>
+    <gramGrp><gram type="role">verbal root</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>neytal</form>
+    <def>Neytal</def>
+    </entry>
+    <entry>
+    <form>mayakki</form>
+    <def>make fade</def>
+    <gramGrp><gram type="role">absolutive</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>vantaṉṟu</form>
+    <def>came</def>
+    <gramGrp><gram type="role">neuter singular</gram>
+    <gram type="role">perfective aspect</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>niṉ</form>
+    <def>your</def>
+    <gramGrp><gram type="role">genitive</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>makaḷ</form>
+    <def>daughter</def>
+    </entry>
+    <entry>
+    <form>pū<pc>+</pc></form>
+    <def>flower</def>
+    </entry>
+    <entry>
+    <form>pōl</form>
+    <def>like</def>
+    </entry>
+    <entry>
+    <form>uṇ</form>
+    <def>kohl</def>
+    </entry>
+    <entry>
+    <form>kaṇ</form>
+    <def>eye</def>
+    </entry>
+    <entry>
+    <form>marīiya</form>
+    <def>set into</def>
+    <gramGrp><gram type="role">peyareccam</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>nōykku</form>
+    <def>affliction</def>
+    <gramGrp><gram type="role">dative</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>marunt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>antidote</def>
+    </entry>
+    <entry>
+    <form>ākiya</form>
+    <def>be</def>
+    <gramGrp><gram type="role">peyareccam</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>koṇkaṉ</form>
+    <def>sea man</def>
+    </entry>
+    <entry>
+    <form>tēr-ē</form>
+    <def>chariot</def>
+    <form type="simple">tēr</form>
+    <gramGrp type="particle"><m>ē</m></gramGrp>
+    </entry>
+    </standOff>
 </TEI>
