@@ -35,114 +35,135 @@
             <lg type="translation" xml:lang="en">
               <l>You made up your mind to go to the harsh wasteland full of hills,</l>
               <l>Where roaring fire [that sparked from] rubbing bamboos frightens tiger!</l>
-              <l>Seashore-dweller! You wealth isn’t worth</l>
-              <l>separating from your doll-like girl.</l>
+              <l>Seashore-dweller! You wealth isn’t good.</l>
+              <l>Come back after separating from your doll-like partner!</l>
               </lg>
-
-              Word-by-word translation
               <standOff type="wordsplit" corresp="#Aink307">
-              <interp type="alignment" select="0">15MG20MG29MG6MG15MG32MGM,124M</interp>
-              <entry>
-              <form>ñeli</form>
-              <def>rub</def>
-              </entry>
-              <entry>
-              <form>kaḻai</form>
-              <def>bamboo</def>
-              </entry>
-              <entry>
-              <form>muḻaṅk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
-              <def>roar</def>
-              </entry>
-              <entry>
-              <form>aḻal</form>
-              <def>fire</def>
-              </entry>
-              <entry>
-              <form>vayamā</form>
-              <def>tiger</def>
-              </entry>
-              <entry>
-              <form>verūum</form>
-              <def>frighten</def>
-              </entry>
-              <entry>
-              <form>kuṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
-              <def>hill</def>
-              </entry>
-              <entry>
-              <form>uṭai</form>
-              <def>have</def>
-              </entry>
-              <entry>
-              <form><pc>~</pc>arum</form>
-              <def>rare</def>
-              </entry>
-              <entry>
-              <form>curam</form>
-              <def>wasteland</def>
-              </entry>
-              <entry>
-              <form>cela</form>
-              <def>go</def>
-              </entry>
-              <entry>
-              <form><pc>~</pc>ayarntaṉai-<pc>~</pc>ē</form>
-              <def>decide</def>
-              <form type="simple">ayarntaṉai</form>
-              <gramGrp type="particle"><m>ē</m></gramGrp>
-              </entry>
-              <entry>
-              <form>naṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
-              <def>good</def>
-              </entry>
-              <entry>
-              <form>il</form>
-              <def>not</def>
-              </entry>
-              <entry>
-              <form>koṇka</form>
-              <def>seashore-dweller</def>
-              <gramGrp><gram type="role">vocative</gram>
-              </gramGrp></entry>
-              <entry>
-              <form>niṉ</form>
-              <def>your</def>
-              </entry>
-              <entry>
-              <form>poruḷ-ē</form>
-              <def>wealth</def>
-              <form type="simple">poruḷ</form>
-              <gramGrp type="particle"><m>ē</m></gramGrp>
-              </entry>
-              <entry>
-              <form>pāvai</form>
-              <def>doll</def>
-              </entry>
-              <entry>
-              <form><pc>~</pc>aṉṉa</form>
-              <def>like</def>
-              </entry>
-              <entry>
-              <form>niṉ</form>
-              <def>your</def>
-              </entry>
-              <entry>
-              <form>tuṇai<pc>+</pc></form>
-              <def>partner</def>
-              </entry>
-              <entry>
-              <form>pirintu</form>
-              <def>separate</def>
-              </entry>
-              <entry>
-              <form>varum-ē</form>
-              <def>come</def>
-              <form type="simple">varum</form>
-              <gramGrp type="particle"><m>ē</m></gramGrp>
-              </entry>
-              </standOff>
-
+                <interp type="alignment" select="0">15MG20MG29MG6MG15MG32MGM,124M</interp>
+                <entry>
+                <form>ñeli</form>
+                <def>rub</def>
+                <gramGrp><gram type="role">verbal root</gram>
+                </gramGrp></entry>
+                <entry>
+                <form>kaḻai</form>
+                <def>bamboo</def>
+                <gramGrp><gram type="role">noun</gram>
+                </gramGrp></entry>
+                <entry>
+                <form>muḻaṅk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+                <def>roar</def>
+                <gramGrp><gram type="role">verbal root</gram>
+                </gramGrp></entry>
+                <entry>
+                <form>aḻal</form>
+                <def>fire</def>
+                <gramGrp><gram type="role">noun</gram>
+                </gramGrp></entry>
+                <entry>
+                <form>vayamā</form>
+                <def>tiger</def>
+                <gramGrp></gramGrp></entry>
+                <entry>
+                <form>verūum</form>
+                <def>frighten</def>
+                <gramGrp><gram type="role">imperfect aspect</gram>
+                <gram type="role">peyareccam</gram>
+                </gramGrp></entry>
+                <entry>
+                <form>kuṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+                <def>hill</def>
+                <gramGrp><gram type="role">noun</gram>
+                </gramGrp></entry>
+                <entry>
+                <form>uṭai</form>
+                <def>have</def>
+                <gramGrp><gram type="role">verbal root</gram>
+                </gramGrp></entry>
+                <entry>
+                <form><pc>~</pc>arum</form>
+                <def>harsh</def>
+                <gramGrp><gram type="role">adjective</gram>
+                </gramGrp></entry>
+                <entry>
+                <form>curam</form>
+                <def>wasteland</def>
+                <gramGrp><gram type="role">noun</gram>
+                </gramGrp></entry>
+                <entry>
+                <form>cela</form>
+                <def>go</def>
+                <gramGrp><gram type="role">infinitive</gram>
+                </gramGrp></entry>
+                <entry>
+                <form><pc>~</pc>ayarntaṉai-<pc>~</pc>ē</form>
+                <def>decide</def>
+                <form type="simple">ayarntaṉai</form>
+                <gramGrp><gram type="role">perfective aspect</gram>
+                <gram type="role">singular</gram>
+                <gram type="role">second person</gram>
+                </gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+                </entry>
+                <entry>
+                <form>naṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+                <def>goodness</def>
+                <gramGrp><gram type="role">noun</gram>
+                </gramGrp></entry>
+                <entry>
+                <form>il</form>
+                <def>not</def>
+                <gramGrp><gram type="role">verbal root</gram>
+                </gramGrp></entry>
+                <entry>
+                <form>koṇka</form>
+                <def>seashore-dweller</def>
+                <gramGrp><gram type="role">vocative</gram>
+                </gramGrp></entry>
+                <entry>
+                <form>niṉ</form>
+                <def>your</def>
+                <gramGrp><gram type="role">oblique</gram>
+                </gramGrp></entry>
+                <entry>
+                <form>poruḷ-ē</form>
+                <def>wealth</def>
+                <form type="simple">poruḷ</form>
+                <gramGrp><gram type="role">noun</gram>
+                </gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+                </entry>
+                <entry>
+                <form>pāvai</form>
+                <def>doll</def>
+                <gramGrp><gram type="role">noun</gram>
+                </gramGrp></entry>
+                <entry>
+                <form><pc>~</pc>aṉṉa</form>
+                <def>like</def>
+                <gramGrp><gram type="role">comparative</gram>
+                </gramGrp></entry>
+                <entry>
+                <form>niṉ</form>
+                <def>your</def>
+                <gramGrp><gram type="role">oblique</gram>
+                </gramGrp></entry>
+                <entry>
+                <form>tuṇai<pc>+</pc></form>
+                <def>girl</def>
+                <gramGrp><gram type="role">noun</gram>
+                </gramGrp></entry>
+                <entry>
+                <form>pirintu</form>
+                <def>separate</def>
+                <gramGrp><gram type="role">absolutive</gram>
+                </gramGrp></entry>
+                <entry>
+                <form>varum-ē</form>
+                <def>come</def>
+                <form type="simple">varum</form>
+                <gramGrp><gram type="role">imperative</gram>
+                </gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+                </entry>
+                </standOff>
         </div>
     </body>
   </text>

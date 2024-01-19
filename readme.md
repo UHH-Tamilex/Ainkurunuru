@@ -49,6 +49,11 @@
 
 ## Word-by-word gloss
 
+- `(1.)` - first person
+- `(2.)` - second person
+- `(3.)` - third person
+    - `(1.pl.)` - first person plural
+    - ...etc.
 - `(abs.)` - absolutive/viṉaiyeccam
 - `(acc.)` - accusative
 - `(adj.)` - adjective
@@ -99,6 +104,7 @@
 - `(pl.dat.)` - plural
 - `(pl.obl.)` - plural oblique
 - `(pl.sub.)` - plural subjunctive
+- `(pron.)` - pronoun
 - `(pron.n.)` - pronominalised noun
     - `(pron.n.n.sg.)` - pronominalised noun neuter singular
     - `(pron.n.n.pl.)` - pronominalised noun neuter plural
