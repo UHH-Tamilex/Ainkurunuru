@@ -35,7 +35,7 @@
             <lg type="translation" xml:lang="en">
              <l>Oh, indeed he isn’t coming! [But] the season has come,</l>  
              <l>when thick buds of great beauty,  </l>
-             <l>produced by kōṅkam [tree] that has firmness, blossom.</l>
+             <l>produced by the myrobalan that has firmness, blossom.</l>
             </lg>
         </div>
     </body>
@@ -44,9 +44,10 @@
     <interp type="alignment" select="0">4MG16M2G54M2GM,80M</interp>
     <entry>
     <form>avar-ō</form>
-    <form type="simple">avar</form>
-    <gramGrp type="particle"><form>ō</form></gramGrp>
     <def>he</def>
+    <form type="simple">avar</form>
+    <gramGrp><gram type="role">honorific</gram></gramGrp>
+    <gramGrp type="particle"><m>ō</m></gramGrp>
     </entry>
     <entry>
     <form>vārār</form>
@@ -58,13 +59,14 @@
     </entry>
     <entry>
     <form>vantaṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
-    <form type="simple">vantaṉṟu</form>
-    <gramGrp type="particle"><form>ē</form></gramGrp>
     <def>came</def>
+    <form type="simple">vantaṉṟu</form>
+    <gramGrp><gram type="role">neuter singular</gram></gramGrp>
+    <gramGrp type="particle"><m>ē</m></gramGrp>
     </entry>
     <entry>
     <form>tiṇi</form>
-    <def>firm</def>
+    <def>firmness</def>
     </entry>
     <entry>
     <form>nilai<pc>+</pc></form>
@@ -77,6 +79,7 @@
     <entry>
     <form>payanta</form>
     <def>produced</def>
+    <gramGrp><gram type="role">peyareccam</gram></gramGrp>
     </entry>
     <entry>
     <form><pc>~</pc>aṇi</form>
@@ -85,10 +88,11 @@
     <entry>
     <form>miku</form>
     <def>increase</def>
+    <gramGrp><gram type="role">verbal root</gram></gramGrp>
     </entry>
     <entry>
     <form>koḻu</form>
-    <def>thick</def>
+    <def>thickness</def>
     </entry>
     <entry>
     <form>mukai</form>
@@ -97,12 +101,14 @@
     <entry>
     <form><pc>~</pc>uṭaiyum</form>
     <def>break</def>
+    <gramGrp><gram type="role">peyareccam</gram></gramGrp>
     </entry>
     <entry>
     <form>poḻut<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
-    <form type="simple">poḻutu</form>
-    <gramGrp type="particle"><form>ē</form></gramGrp>
     <def>season</def>
+    <form type="simple">poḻutu</form>
+    <gramGrp type="particle"><m>ē</m></gramGrp>
     </entry>
     </standOff>
+
 </TEI>
