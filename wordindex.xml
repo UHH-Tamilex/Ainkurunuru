@@ -116,7 +116,7 @@
 
 <text xml:lang="ta"><body><div><head>a</head><entry>
 <form type="standard">akam</form>
-<form type="sandhi">akaṅ</form><form type="sandhi">ṇakam</form><def xml:lang="en">interior</def><def xml:lang="en">inside</def><def xml:lang="en">expanse</def><cit><q corresp="#Aink27">kaḷvaṉ ṟaṇ<hi>ṇaka ma</hi>ṇṇaḷaic cellu</q></cit><cit><q corresp="#Aink30">kaḷvaṉ ṟaṇ<hi>ṇaka ma</hi>ṇṇaḷai niṟaiya</q></cit><cit><q corresp="#Aink401">nīṉiṟa viya<hi>lakaṅ</hi> kavaiiya vīṉu</q></cit></entry>
+<form type="sandhi">akaṅ</form><form type="sandhi">ṇakam</form><def xml:lang="en">interior</def><def xml:lang="en">expanse</def><cit><q corresp="#Aink27">kaḷvaṉ ṟaṇ<hi>ṇaka ma</hi>ṇṇaḷaic cellu</q></cit><cit><q corresp="#Aink30">kaḷvaṉ ṟaṇ<hi>ṇaka ma</hi>ṇṇaḷai niṟaiya</q></cit><cit><q corresp="#Aink401">nīṉiṟa viya<hi>lakaṅ</hi> kavaiiya vīṉu</q></cit></entry>
 <entry>
 <form type="standard">akalam</form>
 <form type="sandhi">akalan</form><def xml:lang="en">chest</def><cit><q corresp="#Aink33">ṟaṇṭā <hi>rakalan</hi> talaittalaik koḷavē</q></cit></entry>
@@ -1184,7 +1184,7 @@
 <def xml:lang="en">fullness</def><cit><q corresp="#Aink15">maṇalāṭu malir<hi>niṟai</hi> virumpiya voṇṭaḻaip</q></cit><cit><q corresp="#Aink42">kāviri malir<hi>niṟai</hi> yaṉṉaniṉ mārpunaṉi</q></cit></entry>
 <entry>
 <form type="standard">niṟaiya</form>
-<def xml:lang="en">become full</def><cit><q corresp="#Aink30">maṇṇaḷai <hi>niṟaiya</hi> nelli ṉirumpū</q></cit></entry>
+<def xml:lang="en">become-full</def><cit><q corresp="#Aink30">maṇṇaḷai <hi>niṟaiya</hi> nelli ṉirumpū</q></cit></entry>
 <entry>
 <form type="standard">niṟka</form>
 <def xml:lang="en">stand</def><cit><q corresp="#Aink5">muṉkaṭai <hi>niṟka</hi> veṉavēṭ ṭēmē</q></cit></entry>
@@ -1922,7 +1922,7 @@
 <def xml:lang="en">king</def><cit><q corresp="#Aink6">yaviṉi <hi>vēntu</hi>pakai taṇika</q></cit></entry>
 <entry>
 <form type="standard">vēppu</form>
-<def xml:lang="en">neem tree</def><cit><q corresp="#Aink30"> <hi>vēppu</hi>naṉai yaṉṉa</q></cit></entry>
+<def xml:lang="en">neem-tree</def><cit><q corresp="#Aink30"> <hi>vēppu</hi>naṉai yaṉṉa</q></cit></entry>
 <entry>
 <form type="standard">vēr</form>
 <def xml:lang="en">root</def><cit><q corresp="#Aink22">muḷḷi <hi>vēra</hi>ḷaic cellu</q></cit><cit><q corresp="#Aink23">muḷḷi <hi>vēra</hi>ḷaik kaḷva</q></cit></entry>
