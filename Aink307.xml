@@ -38,6 +38,111 @@
               <l>Seashore-dweller! You wealth isn’t worth</l>
               <l>separating from your doll-like girl.</l>
               </lg>
+
+              Word-by-word translation
+              <standOff type="wordsplit" corresp="#Aink307">
+              <interp type="alignment" select="0">15MG20MG29MG6MG15MG32MGM,124M</interp>
+              <entry>
+              <form>ñeli</form>
+              <def>rub</def>
+              </entry>
+              <entry>
+              <form>kaḻai</form>
+              <def>bamboo</def>
+              </entry>
+              <entry>
+              <form>muḻaṅk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+              <def>roar</def>
+              </entry>
+              <entry>
+              <form>aḻal</form>
+              <def>fire</def>
+              </entry>
+              <entry>
+              <form>vayamā</form>
+              <def>tiger</def>
+              </entry>
+              <entry>
+              <form>verūum</form>
+              <def>frighten</def>
+              </entry>
+              <entry>
+              <form>kuṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+              <def>hill</def>
+              </entry>
+              <entry>
+              <form>uṭai</form>
+              <def>have</def>
+              </entry>
+              <entry>
+              <form><pc>~</pc>arum</form>
+              <def>rare</def>
+              </entry>
+              <entry>
+              <form>curam</form>
+              <def>wasteland</def>
+              </entry>
+              <entry>
+              <form>cela</form>
+              <def>go</def>
+              </entry>
+              <entry>
+              <form><pc>~</pc>ayarntaṉai-<pc>~</pc>ē</form>
+              <def>decide</def>
+              <form type="simple">ayarntaṉai</form>
+              <gramGrp type="particle"><m>ē</m></gramGrp>
+              </entry>
+              <entry>
+              <form>naṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+              <def>good</def>
+              </entry>
+              <entry>
+              <form>il</form>
+              <def>not</def>
+              </entry>
+              <entry>
+              <form>koṇka</form>
+              <def>seashore-dweller</def>
+              <gramGrp><gram type="role">vocative</gram>
+              </gramGrp></entry>
+              <entry>
+              <form>niṉ</form>
+              <def>your</def>
+              </entry>
+              <entry>
+              <form>poruḷ-ē</form>
+              <def>wealth</def>
+              <form type="simple">poruḷ</form>
+              <gramGrp type="particle"><m>ē</m></gramGrp>
+              </entry>
+              <entry>
+              <form>pāvai</form>
+              <def>doll</def>
+              </entry>
+              <entry>
+              <form><pc>~</pc>aṉṉa</form>
+              <def>like</def>
+              </entry>
+              <entry>
+              <form>niṉ</form>
+              <def>your</def>
+              </entry>
+              <entry>
+              <form>tuṇai<pc>+</pc></form>
+              <def>partner</def>
+              </entry>
+              <entry>
+              <form>pirintu</form>
+              <def>separate</def>
+              </entry>
+              <entry>
+              <form>varum-ē</form>
+              <def>come</def>
+              <form type="simple">varum</form>
+              <gramGrp type="particle"><m>ē</m></gramGrp>
+              </entry>
+              </standOff>
+
         </div>
     </body>
   </text>
