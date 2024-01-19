@@ -116,7 +116,7 @@
 
 <text xml:lang="ta"><body><div><head>a</head><entry>
 <form type="standard">akam</form>
-<form type="sandhi">akaṅ</form><form type="sandhi">ṇakam</form><def xml:lang="en">inside</def><def xml:lang="en">expanse</def><cit><q corresp="#Aink27">kaḷvaṉ ṟaṇ<hi>ṇaka ma</hi>ṇṇaḷaic cellu</q></cit><cit><q corresp="#Aink30">kaḷvaṉ ṟaṇ<hi>ṇaka ma</hi>ṇṇaḷai niṟaiya</q></cit><cit><q corresp="#Aink401">nīṉiṟa viya<hi>lakaṅ</hi> kavaiiya vīṉu</q></cit></entry>
+<form type="sandhi">akaṅ</form><form type="sandhi">ṇakam</form><def xml:lang="en">interior</def><def xml:lang="en">inside</def><def xml:lang="en">expanse</def><cit><q corresp="#Aink27">kaḷvaṉ ṟaṇ<hi>ṇaka ma</hi>ṇṇaḷaic cellu</q></cit><cit><q corresp="#Aink30">kaḷvaṉ ṟaṇ<hi>ṇaka ma</hi>ṇṇaḷai niṟaiya</q></cit><cit><q corresp="#Aink401">nīṉiṟa viya<hi>lakaṅ</hi> kavaiiya vīṉu</q></cit></entry>
 <entry>
 <form type="standard">akalam</form>
 <form type="sandhi">akalan</form><def xml:lang="en">chest</def><cit><q corresp="#Aink33">ṟaṇṭā <hi>rakalan</hi> talaittalaik koḷavē</q></cit></entry>
@@ -542,7 +542,7 @@
 <def xml:lang="en">one-who-reached</def><cit><q corresp="#Aink24">tavaṉū <hi>reytiṉa ṉā</hi>kiṉṟu kollō</q></cit></entry>
 <entry>
 <form type="standard">el</form>
-<def xml:lang="en">lustre/splendour</def><def xml:lang="en">light</def><cit><q corresp="#Aink20">ṉiṟaiyē <hi>rel</hi>vaḷai nekiḻpō</q></cit><cit><q corresp="#Aink27">mūraṟ <hi>kel</hi>vaḷai nekiḻac</q></cit></entry>
+<def xml:lang="en">lustre/splendour</def><def xml:lang="en">bright</def><cit><q corresp="#Aink20">ṉiṟaiyē <hi>rel</hi>vaḷai nekiḻpō</q></cit><cit><q corresp="#Aink27">mūraṟ <hi>kel</hi>vaḷai nekiḻac</q></cit></entry>
 <entry>
 <form type="standard">evaṉ</form>
 <gram type="particle">kol</gram><def xml:lang="en">what</def><cit><q corresp="#Aink21">pacappa <hi>tevaṉko la</hi>ṉṉāy</q></cit><cit><q corresp="#Aink22">ṉeṉṟa <hi>tevaṉko la</hi>ṉṉāy</q></cit><cit><q corresp="#Aink23">kāva <hi>tevaṉko la</hi>ṉṉāy</q></cit><cit><q corresp="#Aink24">tuṟappa <hi>tevaṉko la</hi>ṉṉāy</q></cit><cit><q corresp="#Aink26">ṉāva <hi>tevaṉko la</hi>ṉṉāy</q></cit><cit><q corresp="#Aink27">luḻappa <hi>tevaṉko la</hi>ṉṉāy</q></cit><cit><q corresp="#Aink28">pacappa <hi>tevaṉko la</hi>ṉṉāy</q></cit><cit><q corresp="#Aink29">koḷva <hi>tevaṉko la</hi>ṉṉāy</q></cit><cit><q corresp="#Aink30">ṉiḻappa <hi>tevaṉko la</hi>ṉṉāy</q></cit><cit><q corresp="#Aink204">ṭaṉṉaiyaḵ <hi>tevaṉkol</hi> varaiyara makaḷiri</q></cit></entry>
@@ -1229,7 +1229,7 @@
 <def xml:lang="en">become-loose</def><cit><q corresp="#Aink25">mārpupalark kiḻai<hi>nekiḻ</hi> cella lāku</q></cit></entry>
 <entry>
 <form type="standard">nekiḻa</form>
-<form type="sandhi">nekiḻac</form><def xml:lang="en">become loose</def><cit><q corresp="#Aink27">kelvaḷai <hi>nekiḻac</hi> cāa yalla</q></cit><cit><q corresp="#Aink28">koṇṭoṭi <hi>nekiḻac</hi> cāay meṉṟōḷ</q></cit></entry>
+<form type="sandhi">nekiḻac</form><def xml:lang="en">become-loose</def><def xml:lang="en">become loose</def><cit><q corresp="#Aink27">kelvaḷai <hi>nekiḻac</hi> cāa yalla</q></cit><cit><q corresp="#Aink28">koṇṭoṭi <hi>nekiḻac</hi> cāay meṉṟōḷ</q></cit></entry>
 <entry>
 <form type="standard">nekiḻpu</form>
 <form type="sandhi">nekiḻp</form><def xml:lang="en">becoming-loose (absolutive)</def><cit><q corresp="#Aink20">relvaḷai <hi>nekiḻpō</hi> ṭummē</q></cit></entry>
