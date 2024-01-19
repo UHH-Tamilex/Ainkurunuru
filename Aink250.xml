@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <title xml:lang="ta">Aiṅkuṟunūṟu</title> 250. </title>
+        <editor role="translator">[Maanasa Visweswaran]</editor>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc />
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <div xml:id="Aink250-kilavi">
+        <p type="edition">
+          <p>talaimakaṭku vanta nōy murukaṉāl vantamai ikkaḻaṅku kūṟiṟṟu eṉṟu vēlaṉ coṉṉāṉ eṉpatu
+      kēṭṭa tōḻi akkaḻaṅkiṟku uraippāḷāyc cevili kēṭkumāṟṟāl aṟattoṭu nilai kuṟittuc colliyatu</p>
+        </p>
+        <p type="translation" xml:lang="en"> </p>
+      </div>What the friend, standing [in accordance] with duty, said as one who spoke to the Molucca-bean by the way of foster-mother listening; [the friend who]
+      listened to the Vēlaṉ who said that this Molucca-bean declared the pain that had
+      befallen the heroine to have come about by Murukaṉ. <div xml:id="Aink250">
+        <lg type="edition">
+          <l>poypaṭu paṟiyāk kaḻaṅkē meyyē</l>
+          <l>maṇivaraik kaṭci maṭamayi lālu nam</l>
+          <l>malarnta vaḷḷiyaṅ kāṉaṅ kiḻavō</l>
+          <l>ṉāṇṭakai viṟalvē ḷallaṉivaḷ</l>
+          <l>pūṇṭāṅ kiḷamulai yaṇaṅki yōṉē</l>
+        </lg>
+        <lg type="translation" xml:lang="en">
+          <l>Oh Molucca-bean unaware of the occurrence of falsehood,</l>
+          <l>the truth, in fact, </l>
+          <l>is that he who tormented her ornament-bearing young breasts, </l>
+          <l> – our master of the forest with bloomed creepers,</l>
+          <l>where naïve peacocks dance in the nests of sapphire mountains, </l>
+          <l>is not the victorious Vēḷ worthy of manhood. </l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>
