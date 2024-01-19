@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+            <title xml:lang="ta">Aiṅkuṟunūṟu</title> 307.
+        </title>
+        <editor role="translator">Nikolay Gordiychuk</editor>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc/>
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+            <div xml:id="Aink307">
+            <lg type="edition">
+            <l>ñelikaḻai muḻaṅkaḻal vayamā verūuṅ</l>
+            <l>kuṉṟuṭai yaruñcurañ celavayarn taṉaiyē</l>
+            <l>naṉṟil koṇkaniṉ poruḷē</l>
+            <l>pāvai yaṉṉaniṉ ṟuṇaippirintu varumē</l>                                       
+            </lg>
+            <lg type="translation" xml:lang="en">
+              <l>You made up your mind to go to the harsh wasteland full of hills,</l>
+              <l>Where roaring fire [that sparked from] rubbing bamboos frightens tiger!</l>
+              <l>Seashore-dweller! You wealth isn’t worth</l>
+              <l>separating from your doll-like girl.</l>
+              </lg>
+        </div>
+    </body>
+  </text>
+</TEI>
