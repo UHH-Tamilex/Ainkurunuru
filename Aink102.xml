@@ -50,7 +50,7 @@ And this is that
         </div>
     </body>
   </text>
-  <standOff type="wordsplit" corresp="#Aink101">
+  <standOff type="wordsplit" corresp="#Aink102">
     <interp type="alignment" select="0">13MG14ML29MG18MG29MGM,109M</interp>
     <entry>
     <form>aṉṉai</form>
@@ -59,21 +59,23 @@ And this is that
     <entry>
     <form>vāḻi</form>
     <def>live</def>
-    </entry>
+    <gramGrp><gram type="role">imperative</gram>
+    </gramGrp></entry>
     <entry>
     <form>vēṇṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
-    <def>desire</def>
-    </entry>
+    <def>be necessary</def>
+    <gramGrp><gram type="role">imperative</gram>
+    </gramGrp></entry>
     <entry>
     <form>aṉṉai</form>
     <def>mother</def>
     </entry>
     <entry>
-    <form>nam</form>
+    <form>nam<pc>+</pc></form>
     <def>our</def>
     </entry>
     <entry>
-    <form><pc>+</pc>ūr</form>
+    <form>ūr</form>
     <def>town</def>
     </entry>
     <entry>
@@ -101,7 +103,7 @@ And this is that
     </gramGrp></entry>
     <entry>
     <form>āṉātu</form>
-    <def>to cease</def>
+    <def>seize</def>
     <gramGrp><gram type="role">absolutive</gram>
     <gram type="role">negative</gram>
     </gramGrp></entry>
