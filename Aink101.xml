@@ -6,10 +6,9 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta">Aiṅkuṟunūṟu</title> 101.<persName xml:lang="ta">Ammūvaṉār.</persName></title>
-                    
-        </title>
-        <editor role="translator">neela</editor>
+            <title xml:lang="ta">Aiṅkuṟunūṟu</title> 101.<persName xml:lang="ta"> Ammūvaṉār.</persName></title>
+
+        <editor role="translator">Neela_Bhaskar</editor>
       </titleStmt>
       <sourceDesc>
         <msDesc xml:lang="en">
@@ -42,14 +41,15 @@ The ten that was narrated to the Mother
                         <l> nōykkumarun tākiya koṇkaṉ ṟērē </l>
             </lg>
             <lg type="translation" xml:lang="en">
-<l> Oh Mother! (Listen) with desire Mother! Look there - </l>
-<l> Having risen and fallen </l>
-<l> Tearing up the green Aṭumpu's superior creepers </l>
-<l> Making the Neytal fade </l>
-<l> The chariot of the Lord of the seashore </l>
-<l> That is the antidote to the affliction that is set into </l>
-<l> The kohl-rimmed flower-like eyes of your daughter </l>
-<l> Has arrived. </l>
+<l> Oh mother, please mother </l>
+<l> Look there! </l>
+<l> As the rising creepers of the green Aṭumpu are torn up </l>
+<l> Rising and falling, </l>
+<l> Having made the Neytal plant fall </l>
+<l> The chariot of the sea-man that is the antidote </l>
+<l> To the affliction that is set into the flower-like, kohled eyes </l>
+<l> Of your daughter </l>
+<l> Has come. </l>
             </lg>
         </div>
     </body>
@@ -63,11 +63,13 @@ The ten that was narrated to the Mother
     <entry>
     <form>vāḻi</form>
     <def>live</def>
-    </entry>
+    <gramGrp><gram type="role">imperative</gram>
+    </gramGrp></entry>
     <entry>
     <form>vēṇṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
-    <def>desire</def>
-    </entry>
+    <def>be necessary</def>
+    <gramGrp><gram type="role">imperative</gram>
+    </gramGrp></entry>
     <entry>
     <form>aṉṉai</form>
     <def>mother</def>
@@ -78,12 +80,12 @@ The ten that was narrated to the Mother
     </entry>
     <entry>
     <form>kāṇ</form>
-    <def>look</def>
+    <def>to look</def>
     <gramGrp><gram type="role">imperative</gram>
     </gramGrp></entry>
     <entry>
     <form>ēr</form>
-    <def>superior</def>
+    <def>straight</def>
     </entry>
     <entry>
     <form>koṭi<pc>+</pc></form>
