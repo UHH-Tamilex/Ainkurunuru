@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <title xml:lang="ta">Aiṅkuṟunūṟu</title> 42. <persName xml:lang="ta">Ōrampōkiyār</persName>
+        </title>
+        <editor role="translator">Eva Wilden</editor>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc />
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <div xml:id="Aink42-kilavi">
+        <p type="edition">talainiṉṟu oḻukappaṭāniṉṟa parattai talaivaṉ piṟa parattaiyaruṭaṉ oḻukiṉāṉ
+          eṉṟu pulantāḷāka, ataṉaiyaṟinta talaivi avaṉ taṉṉillattup pukuntuḻit tāṉ aṟintamai tōṉṟac
+          colliyatu.</p>
+        <p type="translation" xml:lang="en"> </p>
+      </div>
+
+      <div xml:id="Aink42">
+        <lg type="edition">
+          <l> makiḻmikac ciṟappa mayaṅkiṉaḷ kollō</l>
+          <l>yāṇa rūraniṉ māṇiḻai yarivai</l>
+          <l>kāviri malirniṟai yaṉṉaniṉ</l>
+          <l>mārpunaṉi vilakka ṟoṭaṅki yōḷē.</l>
+        </lg>
+        <lg type="translation" xml:lang="en">
+          <l> While much exultingin delight, is she confused,</l>
+          <l>o man from the fertile village, your woman with glorious jewels,</l>
+          <l>she who started much blocking your chest</l>
+          <l>that is like the flooding fullness of the Kāviri.</l>
+
+
+        </lg>
+      </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#Aink42">
+    <interp type="alignment" select="0">27MG71ML9MG2M,111MG</interp>
+    <entry>
+    <form>makiḻ</form>
+    <def>delight</def>
+    <gramGrp><gram type="role">root noun</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>mika<pc>+</pc></form>
+    <def>be-much</def>
+    <gramGrp><gram type="role">infinitive</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>ciṟappa</form>
+    <def>excel</def>
+    <gramGrp><gram type="role">infinitive</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>mayaṅkiṉaḷ-kollō</form>
+    <def>she-was-confused</def>
+    <form type="simple">mayaṅkiṉaḷ</form>
+    <gramGrp><gram type="role">perfective aspect</gram>
+    <gram type="role">singular</gram>
+    <gram type="role">feminine</gram>
+    </gramGrp><gramGrp type="particle"><m>kollō</m></gramGrp>
+    </entry>
+    <entry>
+    <form>yāṇar</form>
+    <def>fertility</def>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>ūra</form>
+    <def>village</def>
+    <gramGrp><gram type="role">pronominalised noun</gram>
+    <gram type="role">masculine singular</gram>
+    <gram type="role">vocative</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>niṉ</form>
+    <def>your</def>
+    <gramGrp><gram type="role">oblique</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>māṇ</form>
+    <def>be-glorious</def>
+    <gramGrp><gram type="role">accusative</gram>
+    <gram type="role">noun</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>iḻai</form>
+    <def>jewel</def>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
+    <entry>
+    <form><pc>~</pc>arivai</form>
+    <def>young-woman</def>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>kāviri</form>
+    <def>Kāviri</def>
+    <gramGrp><gram type="role">proper name</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>malir</form>
+    <def>flood</def>
+    <gramGrp><gram type="role">verbal root</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>niṟai</form>
+    <def>fullness</def>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
+    <entry>
+    <form><pc>~</pc>aṉṉa</form>
+    <def>like</def>
+    <gramGrp><gram type="role">neuter plural</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>niṉ</form>
+    <def>your</def>
+    <gramGrp><gram type="role">oblique</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>mārpu</form>
+    <def>chest</def>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>naṉi</form>
+    <def>much</def>
+    <gramGrp><gram type="role">adverb</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>vilakkal</form>
+    <def>obstructing</def>
+    <gramGrp><gram type="role">verbal noun</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>toṭaṅkiyōḷ-ē</form>
+    <def>she-began</def>
+    <form type="simple">toṭaṅkiyōḷ</form>
+    <gramGrp><gram type="role">perfective aspect</gram>
+    <gram type="role">singular</gram>
+    <gram type="role">feminine</gram>
+    </gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+    </entry>
+    </standOff>
+</TEI>
