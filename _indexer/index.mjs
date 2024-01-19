@@ -232,6 +232,7 @@ const restoreAlignment = (textarr, wordsplits, rles) => {
 };
 
 const go = (f/*, out*/) => {
+    console.log(`preparing ${f}`);
     const str = Fs.readFileSync(f,{encoding: 'utf-8'});
     const dom = new Jsdom.JSDOM('');
     const parser = new dom.window.DOMParser();
