@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <title xml:lang="ta">Aiṅkuṟunūṟu</title> 404. </title>
+                <editor role="translator">Leo Nelson-Jones</editor>
+            </titleStmt>
+            <sourceDesc>
+                <msDesc xml:lang="en">
+                    <msIdentifier>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><p></p>
+                        </summary>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc />
+    </teiHeader>
+    <text xml:lang="ta" type="edition">
+        <body>
+
+            </div>
+            <div xml:id="Aink404">
+                <lg type="edition">
+                    <l>vāṇuta larivai makaṉmulai yūṭṭat</l>
+                    <l>tāṉ avaḷ ciṟupuṟaṅ kavaiyiṉa ṉaṉṟu</l>
+                    <l>naṟumpūn taṇpuṟa vaṇinta</l>
+                    <l>kuṟumpal poṟaiya nāṭukiḻa vōṉē.</l>
+                </lg>
+                <p type="translation" xml:lang="en">
+                    While the young woman with the bright forehead nursed [her] son at her chest,
+                    that lord of the land with many small hills draped in cool forests with lovely
+                    fragrant flowers, he embraced the small of her back.
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>
