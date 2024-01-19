@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+            <title xml:lang="ta">Aiṅkuṟunūṟu</title> 102.
+        </title>
+        <editor role="translator">neela</editor>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc/>
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <div xml:id="Aink102-kilavi">
+          <p type="edition">
+ituvumatu </p>
+          </p>
+          <p type="translation" xml:lang="en">
+And this is that <p/>
+        </div>
+        <div xml:id="Aink102">
+            <lg type="edition">
+            <l> aṉṉai vāḻivēṇ taṉṉai nammūr </l>
+            <l> nīṉiṟap peruṅkaṭaṟ puḷḷi ṉāṉātu</l>
+            <l> tuṉpuṟu tuyara nīṅka </l>
+            <l> viṉpuṟa vicaikkumavar tērmaṇik kuralē </l>
+            </lg>
+            <lg type="translation" xml:lang="en">
+<l> Oh Mother! (Listen) with desire Mother! </l>
+<l> (Like) the birds (in) our town with a blue-hued, great ocean, </l>
+<l> The voice of the chariot bells </l>
+<l> </l>            </lg>
+        </div>
+    </body>
+  </text>
+</TEI>
