@@ -28,7 +28,6 @@ jobs:
           cd _collocator
           yarn install
           yarn harvest
-          git pull
           yarn build --emptyOutDir
 
       - uses: stefanzweifel/git-auto-commit-action@v4
