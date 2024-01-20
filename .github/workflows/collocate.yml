@@ -28,11 +28,11 @@ jobs:
           cd _collocator
           yarn install
           yarn harvest
-          yarn build --emptyOutDir
           git pull
+          yarn build --emptyOutDir
 
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: automatic collocations update
-          file_pattern: collocations/* collocations/assets/*
+          file_pattern: collocations
           commit_user_name: Tamilex Bot
