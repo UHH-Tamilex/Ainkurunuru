@@ -31,8 +31,8 @@ jobs:
           git pull
           yarn build --emptyOutDir
 
-      - uses: stefanzweifel/git-auto-commit-action@v4
+      - uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: automatic collocations update
-          file_pattern: collocations/index.html collocations/assets/*
+          file_pattern: collocations/* collocations/assets/*
           commit_user_name: Tamilex Bot
