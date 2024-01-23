@@ -129,14 +129,15 @@
     <def>we</def>
     <form type="simple">yām</form>
     <gramGrp><gram type="role">pronoun</gram>
-    <gram type="role">first person plural</gram>
+    <gram type="role">plural</gram>
+    <gram type="role">first person</gram>
     </gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
     </entry>
     <entry>
     <form>pal</form>
     <def>many</def>
-    <gramGrp><gram type="role">pronoun</gram>
-    <gram type="role">neuter plural</gram>
+    <gramGrp><gram type="role">neuter plural</gram>
+    <gram type="role">pronoun</gram>
     </gramGrp></entry>
     <entry>
     <form><pc>+</pc>itaḻ</form>
