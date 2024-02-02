@@ -58,18 +58,23 @@
     <interp type="alignment" select="0">59MG4MG4MG72MG2M,144MG</interp>
     <entry>
     <form>vāḻi</form>
-    <def>live</def>
-    <gramGrp><gram type="role">subjuntive 2nd person singular</gram></gramGrp>
-    </entry>
+    <def>may-you-live</def>
+    <gramGrp><gram type="role">subjuntive</gram>
+    <gram type="role">singular</gram>
+    <gram type="role">second person</gram>
+    </gramGrp></entry>
     <entry>
     <form><pc>~</pc>ātaṉ</form>
     <def>Ātaṉ</def>
-    </entry>
+    <gramGrp><gram type="role">proper name</gram>
+    </gramGrp></entry>
     <entry>
     <form>vāḻi</form>
-    <def>live</def>
-    <gramGrp><gram type="role">subjuntive 2nd person singular</gram></gramGrp>
-    </entry>
+    <def>may-you-live</def>
+    <gramGrp><gram type="role">subjuntive</gram>
+    <gram type="role">singular</gram>
+    <gram type="role">second person</gram>
+    </gramGrp></entry>
     <entry>
     <form><pc>~</pc>aviṉi</form>
     <def>Aviṉi</def>
@@ -77,17 +82,18 @@
     <entry>
     <form>pāl</form>
     <def>milk</def>
-    </entry>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
     <entry>
     <form>pala</form>
     <def>many</def>
-    <gramGrp><gram type="role">neuter plural</gram></gramGrp>
-    </entry>
+    <gramGrp><gram type="role">neuter plural</gram>
+    </gramGrp></entry>
     <entry>
     <form><pc>~</pc>ūṟuka</form>
-    <def>trickle/ooze</def>
-    <gramGrp><gram type="role">optative</gram></gramGrp>
-    </entry>
+    <def>may-they-trickle/ooze</def>
+    <gramGrp><gram type="role">optative</gram>
+    </gramGrp></entry>
     <entry>
     <form>pakaṭu</form>
     <def>bull</def>
@@ -95,97 +101,116 @@
     <entry>
     <form>pala</form>
     <def>many</def>
-    <gramGrp><gram type="role">neuter plural</gram></gramGrp>
-    </entry>
+    <gramGrp><gram type="role">neuter plural</gram>
+    </gramGrp></entry>
     <entry>
     <form>ciṟakka</form>
-    <def>excel</def>
-    <gramGrp><gram type="role">optative</gram></gramGrp>
-    </entry>
+    <def>may-they-excel</def>
+    <gramGrp><gram type="role">optative</gram>
+    </gramGrp></entry>
     <entry>
     <form><pc>~</pc>eṉa</form>
     <def>say</def>
-    <gramGrp><gram type="role">infinitive</gram></gramGrp>
-    </entry>
+    <gramGrp><gram type="role">infinitive</gram>
+    </gramGrp></entry>
     <entry>
-      <form>vēṭṭōḷ-ē</form>
-      <def>one-who-wants/one-who-wanted(​​​​​​participial noun perfective aspect feminine singular)</def>
-      <form type="simple">vēṭṭōḷ</form>
-      <gramGrp type="particle"><m>ē</m></gramGrp>
+    <form>vēṭṭōḷ-ē</form>
+    <def>one-who-wants/one-who-wanted</def>
+    <form type="simple">vēṭṭōḷ</form>
+    <gramGrp><gram type="role">participial noun</gram>
+    <gram type="role">perfective aspect</gram>
+    <gram type="role">singular</gram>
+    <gram type="role">feminine</gram>
+    </gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
     </entry>
     <entry>
     <form>yāy-ē</form>
     <def>our-mother</def>
     <form type="simple">yāy</form>
-    <gramGrp type="particle"><m>ē</m></gramGrp>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
     </entry>
     <entry>
     <form>yām-ē</form>
     <def>we</def>
     <form type="simple">yām</form>
-    <gramGrp type="particle"><m>ē</m></gramGrp>
+    <gramGrp><gram type="role">pronoun</gram>
+    <gram type="role">first person plural</gram>
+    </gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
     </entry>
     <entry>
     <form>vittiya</form>
     <def>sown</def>
-    <gramGrp><gram type="role">peyareccam perfective aspect</gram></gramGrp>
-    </entry>
+    <gramGrp><gram type="role">perfective aspect</gram>
+    <gram type="role">peyareccam</gram>
+    </gramGrp></entry>
     <entry>
     <form><pc>~</pc>uḻavar</form>
-    <def>ploughmen (3rd person honorific plural)</def>
-    </entry>
+    <def>ploughmen</def>
+    <gramGrp><gram type="role">plural</gram>
+    <gram type="role">honorific</gram>
+    <gram type="role">third person</gram>
+    </gramGrp></entry>
     <entry>
     <form>nelloṭu</form>
     <def>paddy</def>
-    <gramGrp><gram type="role">sociative</gram></gramGrp>
-    </entry>
+    <gramGrp><gram type="role">sociative</gram>
+    </gramGrp></entry>
     <entry>
     <form>peyarum</form>
     <def>returning</def>
-    <gramGrp><gram type="role">peyareccam imperfective aspect</gram></gramGrp>
-    </entry>
+    <gramGrp><gram type="role">imperfect aspect</gram>
+    <gram type="role">peyareccam</gram>
+    </gramGrp></entry>
     <entry>
     <form>pū<pc>+</pc></form>
     <def>flower</def>
-    </entry>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
     <entry>
     <form>kañal</form>
     <def>be-dense</def>
-    <gramGrp><gram type="role">verbal root as adjective</gram></gramGrp>
-    </entry>
+    <gramGrp><gram type="role">verbal root as adjective</gram>
+    </gramGrp></entry>
     <entry>
     <form>ūraṉ</form>
     <def>village</def>
-    <gramGrp><gram type="role">pronominalised noun masculine singular</gram></gramGrp>
-    </entry>
+    <gramGrp><gram type="role">pronominalised noun</gram>
+    <gram type="role">masculine singular</gram>
+    </gramGrp></entry>
     <entry>
     <form>taṉ</form>
     <def>self</def>
-    <gramGrp><gram type="role">oblique</gram></gramGrp>
-    </entry>
+    <gramGrp><gram type="role">oblique</gram>
+    </gramGrp></entry>
     <entry>
     <form>maṉai</form>
     <def>house</def>
-    </entry>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
     <entry>
     <form>vāḻkkai</form>
     <def>livelihood/life</def>
-    </entry>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
     <entry>
     <form>polika</form>
-    <def>flourish</def>
-    <gramGrp><gram type="role">optative</gram></gramGrp>
-    </entry>
+    <def>may-it-flourish</def>
+    <gramGrp><gram type="role">optative</gram>
+    </gramGrp></entry>
     <entry>
     <form><pc>~</pc>eṉa</form>
     <def>say</def>
-    <gramGrp><gram type="role">infinitive</gram></gramGrp>
-    </entry>
+    <gramGrp><gram type="role">infinitive</gram>
+    </gramGrp></entry>
     <entry>
     <form>vēṭṭēm-ē</form>
-    <def>we-wanted(​​perfective aspect 1st person plural)</def>
+    <def>we-wanted</def>
     <form type="simple">vēṭṭēm</form>
-    <gramGrp type="particle"><m>ē</m></gramGrp>
+    <gramGrp><gram type="role">perfective aspect</gram>
+    <gram type="role">plural</gram>
+    <gram type="role">first person</gram>
+    </gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
     </entry>
     </standOff>
 </TEI>
