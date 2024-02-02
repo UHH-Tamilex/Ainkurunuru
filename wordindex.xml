@@ -473,7 +473,7 @@
 <form type="sandhi">uḻappat</form><def xml:lang="en">act-of-bearing</def><cit><q corresp="#Aink27">yalla <hi>luḻappa te</hi>vaṉko laṉṉāy</q></cit></entry>
 <entry>
 <form type="standard">uḻavar</form>
-<form type="sandhi">vuḻavar</form><def xml:lang="en">ploughmen (3rd person honorific plural)</def><cit><q corresp="#Aink3">vittiya <hi>vuḻavar</hi> nelloṭu peyarum</q></cit></entry>
+<form type="sandhi">vuḻavar</form><def xml:lang="en">ploughmen</def><cit><q corresp="#Aink3">vittiya <hi>vuḻavar</hi> nelloṭu peyarum</q></cit></entry>
 <entry>
 <form type="standard">uḷai</form>
 <form type="sandhi">yuḷaip</form><form type="sandhi">ḷuḷai</form><def xml:lang="en">plume</def><def xml:lang="en">mane</def><cit><q corresp="#Aink7">yāmē <hi>yuḷaip</hi>pū marutattuk</q></cit><cit><q corresp="#Aink13">naṉmāṉ po<hi>ṅkuḷai</hi> yaṉṉa vaṭaikarai</q></cit><cit><q corresp="#Aink19">veṇpū veḷ<hi>ḷuḷai</hi> cīkku mūra</q></cit></entry>
@@ -524,7 +524,7 @@
 <form type="sandhi">vūrp</form><def xml:lang="en">rise</def><cit><q corresp="#Aink101">pācaṭumpu pariya<hi>vūr pi</hi>ḻipu neytaṉ</q></cit></entry>
 <entry>
 <form type="standard">ūṟuka</form>
-<form type="sandhi">vūṟuka</form><def xml:lang="en">trickle/ooze</def><cit><q corresp="#Aink3">pālpala <hi>vūṟuka</hi> pakaṭupala ciṟakka</q></cit></entry>
+<form type="sandhi">vūṟuka</form><def xml:lang="en">may-they-trickle/ooze</def><cit><q corresp="#Aink3">pālpala <hi>vūṟuka</hi> pakaṭupala ciṟakka</q></cit></entry>
 </div><div><head>e</head><entry>
 <form type="standard">ekkar</form>
 <def xml:lang="en">dune</def><cit><q corresp="#Aink19"> <hi>ekkar</hi> māattup putuppūm</q></cit></entry>
@@ -821,7 +821,7 @@
 <def xml:lang="en">few</def><cit><q corresp="#Aink20"> aṟu<hi>cil</hi> kāla vañciṟait</q></cit></entry>
 <entry>
 <form type="standard">ciṟakka</form>
-<def xml:lang="en">may-it-excel</def><def xml:lang="en">excel</def><cit><q corresp="#Aink1">poṉperitu <hi>ciṟakka</hi> veṉavēṭ ṭōḷē</q></cit><cit><q corresp="#Aink2">vaḻivaḻic <hi>ciṟakka</hi> veṉavēṭ ṭēmē</q></cit><cit><q corresp="#Aink3">pakaṭupala <hi>ciṟakka</hi> veṉavēṭ ṭōḷē</q></cit><cit><q corresp="#Aink7">yaṟanaṉi <hi>ciṟakka</hi> vallatu keṭuka</q></cit><cit><q corresp="#Aink9">naṉṟuperitu <hi>ciṟakka</hi> tītil lākuka</q></cit><cit><q corresp="#Aink10">vaḷanaṉi <hi>ciṟakka</hi> veṉavēṭ ṭōḷē</q></cit></entry>
+<def xml:lang="en">may-it-excel</def><def xml:lang="en">may-they-excel</def><def xml:lang="en">excel</def><cit><q corresp="#Aink1">poṉperitu <hi>ciṟakka</hi> veṉavēṭ ṭōḷē</q></cit><cit><q corresp="#Aink2">vaḻivaḻic <hi>ciṟakka</hi> veṉavēṭ ṭēmē</q></cit><cit><q corresp="#Aink3">pakaṭupala <hi>ciṟakka</hi> veṉavēṭ ṭōḷē</q></cit><cit><q corresp="#Aink7">yaṟanaṉi <hi>ciṟakka</hi> vallatu keṭuka</q></cit><cit><q corresp="#Aink9">naṉṟuperitu <hi>ciṟakka</hi> tītil lākuka</q></cit><cit><q corresp="#Aink10">vaḷanaṉi <hi>ciṟakka</hi> veṉavēṭ ṭōḷē</q></cit></entry>
 <entry>
 <form type="standard">ciṟappa</form>
 <def xml:lang="en">excel</def><cit><q corresp="#Aink42">makiḻmikac <hi>ciṟappa</hi> mayaṅkiṉaḷ kollō</q></cit></entry>
@@ -1517,7 +1517,7 @@
 <form type="sandhi">polan</form><def xml:lang="en">gold</def><cit><q corresp="#Aink24">makiḻnaṉ <hi>polan</hi>toṭi teḷirppa</q></cit></entry>
 <entry>
 <form type="standard">polika</form>
-<def xml:lang="en">may-they-flourish</def><def xml:lang="en">flourish</def><cit><q corresp="#Aink1">neṟpala <hi>polika</hi> poṉperitu ciṟakka</q></cit><cit><q corresp="#Aink3">vāḻkkai <hi>polika</hi> veṉavēṭ ṭēmē</q></cit></entry>
+<def xml:lang="en">may-they-flourish</def><def xml:lang="en">may-it-flourish</def><cit><q corresp="#Aink1">neṟpala <hi>polika</hi> poṉperitu ciṟakka</q></cit><cit><q corresp="#Aink3">vāḻkkai <hi>polika</hi> veṉavēṭ ṭēmē</q></cit></entry>
 <entry>
 <form type="standard">poḻil</form>
 <def xml:lang="en">grove</def><cit><q corresp="#Aink19">kamaḻun taṇ<hi>poḻil</hi> vēḻa veṇpū</q></cit></entry>
