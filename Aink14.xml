@@ -54,87 +54,110 @@
     <entry>
     <form>koṭi<pc>+</pc></form>
     <def>creeper</def>
-    </entry>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
     <entry>
     <form>pū</form>
     <def>flower</def>
-    </entry>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
     <entry>
     <form>vēḻam</form>
     <def>wild-cane</def>
-    </entry>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
     <entry>
     <form>tīṇṭi</form>
-    <def>coming-into-contact (?)</def>
-    <gramGrp><gram type="role">absolutive</gram></gramGrp>
-    </entry>
+    <def>touching</def>
+    <gramGrp><gram type="role">absolutive</gram>
+    </gramGrp></entry>
     <entry>
     <form><pc>~</pc>ayala</form>
-    <def>neighbourhood (adjective)</def>
-    </entry>
+    <def>neighbourhood</def>
+    <gramGrp><gram type="role">adjective</gram>
+    </gramGrp></entry>
     <entry>
     <form>vaṭu<pc>+</pc></form>
     <def>scar</def>
-    </entry>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
     <entry>
     <form>koḷ</form>
-    <def>take (verbal root as peyareccam perfective aspect)</def>
-    </entry>
+    <def>take</def>
+    <gramGrp><gram type="role">verbal root as peyareccam perfective aspect</gram>
+    </gramGrp></entry>
     <entry>
     <form>māattu</form>
-    <def>mango-tree (oblique)</def>
-    </entry>
+    <def>mango-tree</def>
+    <gramGrp><gram type="role">oblique</gram>
+    </gramGrp></entry>
     <entry>
     <form>val</form>
     <def>sharp</def>
-    </entry>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
     <entry>
     <form>taḷir</form>
     <def>sprout</def>
-    </entry>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
     <entry>
     <form>nuṭaṅkum</form>
-    <def>swaying (peyareccam imperfective aspect)</def>
-    </entry>
+    <def>swaying</def>
+    <gramGrp><gram type="role">imperfect aspect</gram>
+    <gram type="role">peyareccam</gram>
+    </gramGrp></entry>
     <entry>
     <form>aṇi<pc>+</pc></form>
-    <def>adorn (verbal root)</def>
-    </entry>
+    <def>adorn</def>
+    <gramGrp><gram type="role">verbal root as peyareccam perfective aspect</gram>
+    </gramGrp></entry>
     <entry>
     <form>tuṟai</form>
     <def>ghat</def>
-    </entry>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
     <entry>
     <form><pc>~</pc>ūraṉ</form>
-    <def>village (pronominalised noun masculine singular)</def>
-    </entry>
+    <def>man-from-the-village</def>
+    <gramGrp><gram type="role">pronominalised noun</gram>
+    <gram type="role">masculine singular</gram>
+    </gramGrp></entry>
     <entry>
     <form>mārp<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
     <def>chest</def>
     <form type="simple">mārpu</form>
-    <gramGrp type="particle"><m>ē</m></gramGrp>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
     </entry>
     <entry>
     <form>paṉi<pc>+</pc></form>
     <def>dew</def>
-    </entry>
+    <gramGrp><gram type="role">root noun</gram>
+    </gramGrp></entry>
     <entry>
     <form>tuyil</form>
     <def>sleep</def>
-    </entry>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
     <entry>
     <form>ceyyum</form>
-    <def>making (peyareccam imperfective aspect)</def>
-    </entry>
+    <def>producing</def>
+    <gramGrp><gram type="role">imperfect aspect</gram>
+    <gram type="role">peyareccam</gram>
+    </gramGrp></entry>
     <entry>
     <form>iṉ</form>
-    <def>sweet</def>
-    </entry>
+    <def>pleasing</def>
+    <gramGrp><gram type="role">adjective</gram>
+    </gramGrp></entry>
     <entry>
     <form>cāyaṟṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
-    <def>a-thing-which-has-grace(pronominalised noun neuter singular as predicate noun)</def>
+    <def>a-thing-with-grace</def>
     <form type="simple">cāyaṟṟu</form>
-    <gramGrp type="particle"><m>ē</m></gramGrp>
+    <gramGrp><gram type="role">pronominalised noun</gram>
+    <gram type="role">neuter singular</gram>
+    </gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
     </entry>
     </standOff>
 </TEI>
