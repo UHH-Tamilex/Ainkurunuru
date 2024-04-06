@@ -48,7 +48,7 @@
             those united </l>
           <l rend='indent2'> (under) the great, new-flowering branches of mango trees (growing) by
             the dunes,</l>
-          <l> Tears are shed from (my) eyes which are like blossoms in a shower.</l>
+          <l> Tears are shed from (my) eyes, which are like blossoms in a shower.</l>
 
 
         </lg>
@@ -60,7 +60,8 @@
     <entry>
     <form>ekkar</form>
     <def>dune</def>
-    </entry>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
     <entry>
     <form>māattu<pc>+</pc></form>
     <def>mango-tree</def>
@@ -69,88 +70,98 @@
     <entry>
     <form>putu<pc>+</pc></form>
     <def>new</def>
-    </entry>
+    <gramGrp><gram type="role">adjective</gram>
+    </gramGrp></entry>
     <entry>
     <form>pūm</form>
     <def>flower</def>
-    </entry>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
     <entry>
     <form>perum</form>
     <def>big</def>
-    </entry>
+    <gramGrp><gram type="role">adjective</gram>
+    </gramGrp></entry>
     <entry>
     <form>ciṉai</form>
     <def>branch</def>
-    </entry>
+    <gramGrp><gram type="role">root noun</gram>
+    </gramGrp></entry>
     <entry>
     <form>puṇarntōr</form>
     <def>ones-who-united</def>
     <gramGrp><gram type="role">participial noun</gram>
-      <gram type="role">third person</gram>
-      <gram type="role">honorific</gram>
-    <gram type="role">plural</gram>
-
+    <gram type="role">third person honorific plural</gram>
     </gramGrp></entry>
     <entry>
     <form>mey<pc>+</pc></form>
     <def>truth/body</def>
-    </entry>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
     <entry>
     <form>maṇam</form>
-    <def>union/fragrance</def>
-    </entry>
+    <def>union</def>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
     <entry>
     <form>kamaḻum</form>
     <def>being-fragrant</def>
-
-    <gram type="role">peyareccam</gram>
     <gramGrp><gram type="role">imperfect aspect</gram>
+    <gram type="role">peyareccam</gram>
     </gramGrp></entry>
     <entry>
     <form>taṇ</form>
     <def>cool</def>
-    </entry>
+    <gramGrp><gram type="role">adjective</gram>
+    </gramGrp></entry>
     <entry>
     <form>poḻil</form>
     <def>grove</def>
-    </entry>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
     <entry>
     <form>vēḻa<pc>(</pc>m<pc>)</pc></form>
     <def>wild-cane</def>
-    </entry>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
     <entry>
     <form>veḷ</form>
     <def>white</def>
-    </entry>
+    <gramGrp><gram type="role">adjective</gram>
+    </gramGrp></entry>
     <entry>
     <form>pū</form>
     <def>flower</def>
-    </entry>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
     <entry>
     <form>veḷ</form>
     <def>white</def>
-    </entry>
+    <gramGrp><gram type="role">adjective</gram>
+    </gramGrp></entry>
     <entry>
     <form><pc>+</pc>uḷai</form>
     <def>mane</def>
-    </entry>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
     <entry>
     <form>cīkkum</form>
     <def>sweeping</def>
-    <gram type="role">peyareccam</gram>
     <gramGrp><gram type="role">imperfect aspect</gram>
-  
+    <gram type="role">peyareccam</gram>
     </gramGrp></entry>
     <entry>
     <form>ūraṉ</form>
-    <def>village</def>
+    <def>man-from-the-village</def>
     <gramGrp><gram type="role">pronominalised noun</gram>
     <gram type="role">masculine singular</gram>
     </gramGrp></entry>
     <entry>
     <form>ākaliṉ</form>
     <def>because</def>
-    </entry>
+    <gramGrp><gram type="role">oblique</gram>
+    <gram type="role">verbal noun</gram>
+    </gramGrp></entry>
     <entry>
     <form>kalaṅki</form>
     <def>being-agitated</def>
@@ -159,20 +170,23 @@
     <entry>
     <form>māri</form>
     <def>shower</def>
-    </entry>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
     <entry>
     <form>malariṉ</form>
     <def>blossom</def>
-    <gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">comparative</gram></gramGrp></gramGrp>
-    </entry>
+    <gramGrp><gram type="role">comparative</gram>
+    </gramGrp></entry>
     <entry>
     <form>kaṇ</form>
     <def>eye</def>
-    </entry>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
     <entry>
     <form>paṉi</form>
     <def>dew</def>
-    </entry>
+    <gramGrp><gram type="role">root noun</gram>
+    </gramGrp></entry>
     <entry>
     <form><pc>~</pc>ukum-ē</form>
     <def>is-shed/will-be-shed</def>
