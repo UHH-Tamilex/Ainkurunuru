@@ -215,7 +215,7 @@
 <def xml:lang="en">unhappiness</def><cit><q corresp="#Aink27">cāa <hi>yalla lu</hi>ḻappa tevaṉko</q></cit></entry>
 <entry>
 <form type="standard">allaṉ</form>
-<form type="sandhi">allaṉṉ</form><form type="sandhi">yallaṉ</form><gram type="particle">ē</gram><gram type="particle">ō</gram><def xml:lang="en">he-is-not-so</def><def xml:lang="en">he-is/was-not-so</def><def xml:lang="en">not-he</def><cit><q corresp="#Aink11">yāmē <hi>yalla ṉe</hi>ṉṉumeṉ ṟaṭameṉ</q></cit><cit><q corresp="#Aink15">ṉāyiṉu mūra<hi>ṉal laṉṉē</hi></q></cit><cit><q corresp="#Aink18">pirintaṉa <hi>ṉallaṉō</hi> piriyale ṉeṉṟē</q></cit><cit><q corresp="#Aink250">viṟalvē <hi>ḷallaṉi</hi>vaḷ pūṇṭāṅ</q></cit></entry>
+<form type="sandhi">allaṉṉ</form><form type="sandhi">yallaṉ</form><gram type="particle">ē</gram><gram type="particle">ō</gram><def xml:lang="en">he-is-not-so</def><def xml:lang="en">he-is/was-not-such</def><def xml:lang="en">not-he</def><cit><q corresp="#Aink11">yāmē <hi>yalla ṉe</hi>ṉṉumeṉ ṟaṭameṉ</q></cit><cit><q corresp="#Aink15">ṉāyiṉu mūra<hi>ṉal laṉṉē</hi></q></cit><cit><q corresp="#Aink18">pirintaṉa <hi>ṉallaṉō</hi> piriyale ṉeṉṟē</q></cit><cit><q corresp="#Aink250">viṟalvē <hi>ḷallaṉi</hi>vaḷ pūṇṭāṅ</q></cit></entry>
 <entry>
 <form type="standard">avar</form>
 <form type="sandhi">vavar</form><gram type="particle">ō</gram><def xml:lang="en">his</def><def xml:lang="en">he</def><def xml:lang="en">they</def><cit><q corresp="#Aink102">viṉpuṟa vicaikku<hi>mavar</hi> tērmaṇik kural</q></cit><cit><q corresp="#Aink343"> <hi>avarō</hi> vārār tāṉvan</q></cit><cit><q corresp="#Aink401">miṉitu maṉṟa<hi>vavar</hi> kiṭakkai muṉiviṉṟi</q></cit></entry>
@@ -563,7 +563,7 @@
 <form type="sandhi">eṉṟat</form><def xml:lang="en">act-of-saying</def><cit><q corresp="#Aink22">nīyē <hi>ṉeṉṟa te</hi>vaṉko laṉṉāy</q></cit></entry>
 <entry>
 <form type="standard">eṉṟu</form>
-<form type="sandhi">eṉṟ</form><gram type="particle">ē</gram><def xml:lang="en">saying (quotative particle)</def><cit><q corresp="#Aink18">piriyale <hi>ṉeṉṟē</hi></q></cit></entry>
+<form type="sandhi">eṉṟ</form><gram type="particle">ē</gram><def xml:lang="en">saying</def><cit><q corresp="#Aink18">piriyale <hi>ṉeṉṟē</hi></q></cit></entry>
 <entry>
 <form type="standard">eṉṟum</form>
 <form type="sandhi">eṉṟun</form><def xml:lang="en">we-may-say</def><def xml:lang="en">always</def><cit><q corresp="#Aink11">nalla <hi>ṉeṉṟum</hi> yāmē yalla</q></cit><cit><q corresp="#Aink38">raṟiyala <hi>ṉeṉṟun</hi> taṇṭaḷir vauvu</q></cit></entry>
@@ -1364,7 +1364,7 @@
 <def xml:lang="en">doe</def><cit><q corresp="#Aink401">paṭutta māṉ<hi>piṇai</hi> pōlap putalva</q></cit></entry>
 <entry>
 <form type="standard">pirintaṉaṉ</form>
-<form type="sandhi">ppirintaṉa</form><def xml:lang="en">he-separated(perfective aspect masculine singular)</def><def xml:lang="en">he-left</def><cit><q corresp="#Aink18">kaṇṇaḻap <hi>pirintaṉa ṉa</hi>llaṉō piriyale</q></cit><cit><q corresp="#Aink39">paṇaittōṇ ñekiḻa<hi>p pirintaṉa</hi> ṉāyiṉum piriyalaṉ</q></cit></entry>
+<form type="sandhi">ppirintaṉa</form><def xml:lang="en">he-separated</def><def xml:lang="en">he-left</def><cit><q corresp="#Aink18">kaṇṇaḻap <hi>pirintaṉa ṉa</hi>llaṉō piriyale</q></cit><cit><q corresp="#Aink39">paṇaittōṇ ñekiḻa<hi>p pirintaṉa</hi> ṉāyiṉum piriyalaṉ</q></cit></entry>
 <entry>
 <form type="standard">pirintu</form>
 <form type="sandhi">pirint</form><gram type="particle">ē</gram><def xml:lang="en">separating/leaving</def><def xml:lang="en">separating</def><def xml:lang="en">separate</def><cit><q corresp="#Aink38">yāmaḻap <hi>pirintē</hi></q></cit><cit><q corresp="#Aink40">yāmaḻap <hi>pirintu</hi>taṉ peṇṭi</q></cit><cit><q corresp="#Aink307">yaṉṉaniṉ ṟuṇaip<hi>pirintu</hi> varum</q></cit></entry>
@@ -1373,7 +1373,7 @@
 <form type="sandhi">mpiriyalaṉmaṉ</form><gram type="particle">maṉṉē</gram><def xml:lang="en">he-did-not-leave</def><cit><q corresp="#Aink39">pirintaṉa ṉāyiṉu<hi>m piriyalaṉ maṉ</hi>ṉ</q></cit></entry>
 <entry>
 <form type="standard">piriyaleṉ</form>
-<def xml:lang="en">I-shall-not-separate(negative 1st person singular)</def><cit><q corresp="#Aink18">ṉallaṉō <hi>piriyale ṉe</hi>ṉṟē</q></cit></entry>
+<def xml:lang="en">I-shall-not-separate</def><cit><q corresp="#Aink18">ṉallaṉō <hi>piriyale ṉe</hi>ṉṟē</q></cit></entry>
 <entry>
 <form type="standard">piḷḷai</form>
 <def xml:lang="en">child</def><cit><q corresp="#Aink24">kaḷvaṉoṭu <hi>piḷḷai</hi> tiṉṉu mutalait</q></cit></entry>
@@ -1505,7 +1505,7 @@
 <def xml:lang="en">they-lied</def><cit><q corresp="#Aink37">vallaṉ <hi>poytta</hi> ṟēṟṟā ṉuṟṟa</q></cit></entry>
 <entry>
 <form type="standard">poruntu</form>
-<def xml:lang="en">be-suited</def><cit><q corresp="#Aink18">yūraṉ <hi>poruntu</hi>mala raṉṉaveṉ</q></cit></entry>
+<def xml:lang="en">being-suited</def><cit><q corresp="#Aink18">yūraṉ <hi>poruntu</hi>mala raṉṉaveṉ</q></cit></entry>
 <entry>
 <form type="standard">poruḷ</form>
 <gram type="particle">ē</gram><def xml:lang="en">wealth</def><cit><q corresp="#Aink307">koṇkaniṉ <hi>poruḷē</hi> pāvai yaṉṉaniṉ</q></cit></entry>
