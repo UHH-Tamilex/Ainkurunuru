@@ -55,8 +55,8 @@
     <interp type="alignment" select="0">13MG41MG31MG4MG9M,101MG</interp>
     <entry>
     <form>uṇ</form>
-    <def>eat/drink</def>
-    <gramGrp><gram type="role">verbal root as peyareccam</gram>
+    <def>eat</def>
+    <gramGrp><gram type="role">verbal root as peyareccam imperfective aspect</gram>
     </gramGrp></entry>
     <entry>
     <form>tuṟai</form>
@@ -65,17 +65,18 @@
     </gramGrp></entry>
     <entry>
     <form><pc>~</pc>aṇaṅk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
-    <def>evil spirit</def>
+    <def>demon/evil-spirit</def>
     <gramGrp><gram type="role">root noun</gram>
     </gramGrp></entry>
     <entry>
     <form>ivaḷ</form>
     <def>she</def>
-    <gramGrp></gramGrp></entry>
+    <gramGrp><gram type="role">pronoun</gram>
+    </gramGrp></entry>
     <entry>
     <form>uṟai</form>
     <def>stay</def>
-    <gramGrp><gram type="role">verbal root as peyareccam</gram>
+    <gramGrp><gram type="role">verbal root as peyareccam imperfective aspect</gram>
     </gramGrp></entry>
     <entry>
     <form>nōy</form>
@@ -99,18 +100,17 @@
     </gramGrp></entry>
     <entry>
     <form>kaḷvaṉ</form>
-    <def>crab</def>
-    <gramGrp><gram type="role">noun</gram>
-    </gramGrp></entry>
+    <def>crab(?)</def>
+    <gramGrp></gramGrp></entry>
     <entry>
     <form>varikkum</form>
-    <def>scratching</def>
+    <def>where-they-scratch</def>
     <gramGrp><gram type="role">imperfect aspect</gram>
     <gram type="role">peyareccam</gram>
     </gramGrp></entry>
     <entry>
     <form>ūraṟk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
-    <def>village</def>
+    <def>man-from-the-village</def>
     <gramGrp><gram type="role">pronominalised noun</gram>
     <gram type="role">masculine singular</gram>
     <gram type="role">dative</gram>
@@ -127,12 +127,12 @@
     </gramGrp></entry>
     <entry>
     <form>nekiḻa<pc>+</pc></form>
-    <def>become loose</def>
+    <def>become-loose</def>
     <gramGrp><gram type="role">infinitive</gram>
     </gramGrp></entry>
     <entry>
     <form>cāay</form>
-    <def>being exhausted</def>
+    <def>being-exhausted</def>
     <gramGrp><gram type="role">absolutive</gram>
     </gramGrp></entry>
     <entry>
@@ -154,7 +154,8 @@
     <form>evaṉ-kol</form>
     <def>what</def>
     <form type="simple">evaṉ</form>
-    <gramGrp type="particle"><m>kol</m></gramGrp>
+    <gramGrp><gram type="role">pronoun</gram>
+    </gramGrp><gramGrp type="particle"><m>kol</m></gramGrp>
     </entry>
     <entry>
     <form>aṉṉāy</form>
