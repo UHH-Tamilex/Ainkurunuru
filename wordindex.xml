@@ -224,7 +224,7 @@
 <def xml:lang="en">she</def><cit><q corresp="#Aink404">yūṭṭat tā<hi>ṉavaḷ</hi> ciṟupuṟaṅ kavaiyiṉa</q></cit></entry>
 <entry>
 <form type="standard">avaṉ</form>
-<form type="sandhi">vavaṉ</form><def xml:lang="en">his</def><cit><q corresp="#Aink24">mutalait <hi>tavaṉū</hi> reytiṉa</q></cit><cit><q corresp="#Aink32">ḷaḻupa veṉpa<hi>vavaṉ</hi> peṇṭir tīyuṟu</q></cit><cit><q corresp="#Aink41">poykait <hi>tavaṉū</hi> reṉpa</q></cit></entry>
+<form type="sandhi">vavaṉ</form><def xml:lang="en">he</def><def xml:lang="en">his</def><cit><q corresp="#Aink24">mutalait <hi>tavaṉū</hi> reytiṉa</q></cit><cit><q corresp="#Aink32">ḷaḻupa veṉpa<hi>vavaṉ</hi> peṇṭir tīyuṟu</q></cit><cit><q corresp="#Aink41">poykait <hi>tavaṉū</hi> reṉpa</q></cit></entry>
 <entry>
 <form type="standard">aviḻnta</form>
 <form type="sandhi">vaviḻnta</form><def xml:lang="en">opened</def><cit><q corresp="#Aink40">pāytara <hi>vaviḻnta</hi> vaṇṭupiṇi yāmpa</q></cit></entry>
@@ -680,7 +680,7 @@
 <def xml:lang="en">crab(?)</def><def xml:lang="en">crab</def><cit><q corresp="#Aink21">puḷḷik <hi>kaḷva ṉā</hi>mpa laṟukkun</q></cit><cit><q corresp="#Aink22">puḷḷik <hi>kaḷvaṉ</hi> muḷḷi vēraḷaic</q></cit><cit><q corresp="#Aink23">vēraḷaik <hi>kaḷva ṉā</hi>ṭṭip pūkkuṟ</q></cit><cit><q corresp="#Aink25">ceṅkoṭi <hi>kaḷva ṉa</hi>ṟukkuṅ kaḻaṉi</q></cit><cit><q corresp="#Aink26">ṟuṇaituṟantu <hi>kaḷvaṉ</hi> vaḷḷai meṉkā</q></cit><cit><q corresp="#Aink27">katirkoṇṭu <hi>kaḷvaṉ</hi> ṟaṇṇaka maṇṇaḷaic</q></cit><cit><q corresp="#Aink28">ṟaṇcēṟu <hi>kaḷvaṉ</hi> varikku mūraṟ</q></cit><cit><q corresp="#Aink29">veṇmuḷai <hi>kaḷva ṉa</hi>ṟukkuṅ kaḻaṉi</q></cit><cit><q corresp="#Aink30">neṭuṅkaṭ <hi>kaḷvaṉ</hi> ṟaṇṇaka maṇṇaḷai</q></cit></entry>
 <entry>
 <form type="standard">kaḷvaṉoṭu</form>
-<def xml:lang="en">crab</def><cit><q corresp="#Aink24">puḷḷik <hi>kaḷvaṉoṭu</hi> piḷḷai tiṉṉu</q></cit></entry>
+<def xml:lang="en">crab(?)</def><cit><q corresp="#Aink24">puḷḷik <hi>kaḷvaṉoṭu</hi> piḷḷai tiṉṉu</q></cit></entry>
 <entry>
 <form type="standard">kāñci</form>
 <form type="sandhi">kāñcic</form><def xml:lang="en">portia-tree</def><cit><q corresp="#Aink1">naṉaiya <hi>kāñcic</hi> ciṉaiya ciṟumīṉ</q></cit></entry>
@@ -1109,7 +1109,7 @@
 <form type="sandhi">naṉ</form><def xml:lang="en">good</def><cit><q corresp="#Aink13">pariyuṭai <hi>naṉ</hi>māṉ poṅkuḷai</q></cit></entry>
 <entry>
 <form type="standard">nalam</form>
-<form type="sandhi">nalaṅ</form><def xml:lang="en">goodness/beauty</def><cit><q corresp="#Aink24">muyaṅkiyavar <hi>nalaṅ</hi>koṇṭu tuṟappa</q></cit></entry>
+<form type="sandhi">nalaṅ</form><def xml:lang="en">goodness</def><cit><q corresp="#Aink24">muyaṅkiyavar <hi>nalaṅ</hi>koṇṭu tuṟappa</q></cit></entry>
 <entry>
 <form type="standard">nalla</form>
 <form type="sandhi">ṉalla</form><def xml:lang="en">good-things</def><cit><q corresp="#Aink22">mūra <hi>ṉalla</hi> colli maṇantiṉi</q></cit></entry>
