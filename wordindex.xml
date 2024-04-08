@@ -560,7 +560,7 @@
 <form type="sandhi">veṉpa</form><def xml:lang="en">they say</def><def xml:lang="en">say</def><def xml:lang="en">they-say</def><cit><q corresp="#Aink32">ḷaḻupa <hi>veṉpa</hi>vavaṉ peṇṭir</q></cit><cit><q corresp="#Aink33">ṭāṭu <hi>meṉpa</hi>taṉ ṟaṇṭā</q></cit><cit><q corresp="#Aink40">koṇṭaṉa <hi>ṉeṉpa</hi> keṇṭai pāytara</q></cit><cit><q corresp="#Aink41">tavaṉū <hi>reṉpa</hi> ataṉāṟ ṟaṉco</q></cit><cit><q corresp="#Aink204">ṇalla <hi>ḷeṉpa</hi> tīyēṉ ṟilla</q></cit></entry>
 <entry>
 <form type="standard">eṉṟatu</form>
-<form type="sandhi">eṉṟat</form><def xml:lang="en">act-of-saying</def><cit><q corresp="#Aink22">nīyē <hi>ṉeṉṟa te</hi>vaṉko laṉṉāy</q></cit></entry>
+<form type="sandhi">eṉṟat</form><def xml:lang="en">act-of-speaking</def><cit><q corresp="#Aink22">nīyē <hi>ṉeṉṟa te</hi>vaṉko laṉṉāy</q></cit></entry>
 <entry>
 <form type="standard">eṉṟu</form>
 <form type="sandhi">eṉṟ</form><gram type="particle">ē</gram><def xml:lang="en">saying</def><cit><q corresp="#Aink18">piriyale <hi>ṉeṉṟē</hi></q></cit></entry>
