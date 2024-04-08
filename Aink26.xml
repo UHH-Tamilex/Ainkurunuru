@@ -76,9 +76,8 @@
     </gramGrp></entry>
     <entry>
     <form>kaḷvaṉ</form>
-    <def>crab</def>
-    <gramGrp><gram type="role">noun</gram>
-    </gramGrp></entry>
+    <def>crab(?)</def>
+    <gramGrp></gramGrp></entry>
     <entry>
     <form>vaḷḷai</form>
     <def>bindweed</def>
@@ -96,13 +95,13 @@
     </gramGrp></entry>
     <entry>
     <form>aṟukkum</form>
-    <def>tearing off</def>
+    <def>tearing-off</def>
     <gramGrp><gram type="role">imperfect aspect</gram>
     <gram type="role">peyareccam</gram>
     </gramGrp></entry>
     <entry>
     <form>ūraṉ</form>
-    <def>village</def>
+    <def>man-from-the-village</def>
     <gramGrp><gram type="role">pronominalised noun</gram>
     <gram type="role">masculine singular</gram>
     </gramGrp></entry>
@@ -110,14 +109,15 @@
     <form>em-<pc>+</pc>um</form>
     <def>us</def>
     <form type="simple">em</form>
-    <gramGrp><gram type="role">oblique</gram>
+    <gramGrp><gram type="role">pronoun</gram>
+    <gram type="role">oblique</gram>
     <gram type="role">plural</gram>
     <gram type="role">first person</gram>
     </gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
     </entry>
     <entry>
     <form>piṟar-um</form>
-    <def>other people</def>
+    <def>other-people</def>
     <form type="simple">piṟar</form>
     <gramGrp><gram type="role">plural</gram>
     <gram type="role">honorific</gram>
@@ -126,14 +126,14 @@
     </entry>
     <entry>
     <form>aṟiyāṉ</form>
-    <def>one who doesn't know</def>
+    <def>one-who-doesn't-know</def>
     <gramGrp><gram type="role">participial noun</gram>
     <gram type="role">masculine singular</gram>
     <gram type="role">negative</gram>
     </gramGrp></entry>
     <entry>
     <form>iṉṉaṉ</form>
-    <def>one who is so</def>
+    <def>one-who-is-so</def>
     <gramGrp><gram type="role">pronominalised noun</gram>
     <gram type="role">masculine singular</gram>
     </gramGrp></entry>
@@ -146,7 +146,8 @@
     <form>evaṉ-kol</form>
     <def>what</def>
     <form type="simple">evaṉ</form>
-    <gramGrp type="particle"><m>kol</m></gramGrp>
+    <gramGrp><gram type="role">pronoun</gram>
+    </gramGrp><gramGrp type="particle"><m>kol</m></gramGrp>
     </entry>
     <entry>
     <form>aṉṉāy</form>
