@@ -43,7 +43,6 @@
 <l>          Alas, [my] friend!</l>
 <l>          They say his women have been crying for seven days [straight]  –</l>
 <l rend='indent2'>          rapidly becoming emaciated like wax melting in fire  –</l>
-<l rend='indent2'>          rapidly becoming emaciated like wax melting in fire  –</l>
 <l>          [all] because he –  the bringer of joy – came to our house</l> 
   <l rend='indent4'> for [just] one day!</l>
 
@@ -57,12 +56,10 @@
     <entry>
     <form>amma</form>
     <def>alas</def>
-    <gramGrp><gram type="role">particle of lament</gram>
-    </gramGrp>
     </entry>
     <entry>
     <form>vāḻi</form>
-    <def>may you live</def>
+    <def>may-you-live</def>
     <gramGrp><gram type="role">subjuntive</gram>
     <gram type="role">singular</gram>
     <gram type="role">second person</gram>
@@ -91,7 +88,8 @@
     <entry>
     <form>nam</form>
     <def>our</def>
-    <gramGrp><gram type="role">oblique</gram>
+    <gramGrp><gram type="role">pronoun</gram>
+    <gram type="role">oblique</gram>
     </gramGrp></entry>
     <entry>
     <form><pc>+</pc>il</form>
@@ -101,7 +99,8 @@
     <entry>
     <form>vantataṟk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
     <def>coming</def>
-    <gramGrp><gram type="role">verbal noun dative</gram>
+    <gramGrp><gram type="role">dative</gram>
+    <gram type="role">verbal noun</gram>
     </gramGrp></entry>
     <entry>
     <form>eḻu</form>
@@ -115,14 +114,14 @@
     </gramGrp></entry>
     <entry>
     <form>aḻupa</form>
-    <def>they cry</def>
+    <def>they-cry</def>
     <gramGrp><gram type="role">imperfect aspect</gram>
     <gram type="role">plural</gram>
     <gram type="role">third person</gram>
     </gramGrp></entry>
     <entry>
     <form><pc>~</pc>eṉpa</form>
-    <def>they say</def>
+    <def>they-say</def>
     <gramGrp><gram type="role">imperfect aspect</gram>
     <gram type="role">plural</gram>
     <gram type="role">third person</gram>
@@ -130,12 +129,14 @@
     <entry>
     <form><pc>~</pc>avaṉ</form>
     <def>his</def>
-    <gramGrp><gram type="role">oblique</gram>
+    <gramGrp><gram type="role">pronoun</gram>
+    <gram type="role">oblique</gram>
     </gramGrp></entry>
     <entry>
     <form>peṇṭir</form>
     <def>women</def>
-    <gramGrp><gram type="role">honorific plural</gram>
+    <gramGrp><gram type="role">plural</gram>
+    <gram type="role">honorific</gram>
     <gram type="role">third person</gram>
     </gramGrp></entry>
     <entry>
@@ -145,27 +146,29 @@
     </gramGrp></entry>
     <entry>
     <form><pc>~</pc>uṟu</form>
-    <def>touch/stay-in/be-damaged-by</def>
-    <gramGrp><gram type="role">verbal root as peyareccam</gram>
+    <def>touched/damaged-by</def>
+    <gramGrp><gram type="role">verbal root as peyareccam perfective aspect</gram>
     </gramGrp></entry>
     <entry>
     <form>meḻukiṉ</form>
     <def>wax</def>
-    <gramGrp><gram type="role">comparative oblique</gram>
+    <gramGrp><gram type="role">oblique</gram>
     </gramGrp></entry>
     <entry>
     <form>ñekiḻvaṉar</form>
-    <def>they become emaciated</def>
-    <gram type="role"> participal noun imperfective aspect</gram>
-    <gram type="role">third person</gram>
+    <def>ones-who-have-become-emaciated</def>
+    <gramGrp><gram type="role">participial noun</gram>
+    <gram type="role">imperfect aspect</gram>
+    <gram type="role">plural</gram>
     <gram type="role">honorific</gram>
-    <gramGrp><gram type="role">plural</gram>
+    <gram type="role">third person</gram>
     </gramGrp></entry>
     <entry>
     <form>viraint<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
     <def>hastening</def>
     <form type="simple">viraintu</form>
-    <gramGrp><gram type="role">absolutive as adverb</gram>
+    <gramGrp><gram type="role">absolutive</gram>
+    <gram type="role">adverb</gram>
     </gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
     </entry>
     </standOff>
