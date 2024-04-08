@@ -260,7 +260,7 @@
 <form type="sandhi">aṟiyāk</form><def xml:lang="en">know</def><cit><q corresp="#Aink250">poypaṭu <hi>paṟiyāk</hi> kaḻaṅkē meyyē</q></cit></entry>
 <entry>
 <form type="standard">aṟiyāṉ</form>
-<def xml:lang="en">one who doesn't know</def><cit><q corresp="#Aink26">piṟaru <hi>maṟiyā ṉi</hi>ṉṉa ṉāva</q></cit></entry>
+<def xml:lang="en">one-who-doesn't-know</def><cit><q corresp="#Aink26">piṟaru <hi>maṟiyā ṉi</hi>ṉṉa ṉāva</q></cit></entry>
 <entry>
 <form type="standard">aṟu</form>
 <def xml:lang="en">six</def><cit><q corresp="#Aink20"> <hi>aṟu</hi>cil kāla</q></cit></entry>
@@ -308,7 +308,7 @@
 <form type="sandhi">āvākuta</form><def xml:lang="en">becoming</def><cit><q corresp="#Aink36">pacalaik ko<hi>lkā vākuta</hi>l peṟiṉē</q></cit></entry>
 <entry>
 <form type="standard">ākum</form>
-<def xml:lang="en">become</def><cit><q corresp="#Aink25">cella <hi>lāku ma</hi>ṉṉāy</q></cit></entry>
+<def xml:lang="en">they-become</def><cit><q corresp="#Aink25">cella <hi>lāku ma</hi>ṉṉāy</q></cit></entry>
 <entry>
 <form type="standard">āṭiya</form>
 <def xml:lang="en">played</def><cit><q corresp="#Aink22">aḷḷa <hi>lāṭiya</hi> puḷḷik kaḷvaṉ</q></cit></entry>
@@ -425,7 +425,7 @@
 <def xml:lang="en">without</def><cit><q corresp="#Aink401">kiṭakkai muṉi<hi>viṉṟi</hi> nīṉiṟa viyalakaṅ</q></cit></entry>
 <entry>
 <form type="standard">iṉṉaṉ</form>
-<def xml:lang="en">one who is so</def><cit><q corresp="#Aink26">maṟiyā <hi>ṉiṉṉa ṉā</hi>va tevaṉko</q></cit></entry>
+<def xml:lang="en">one-who-is-so</def><cit><q corresp="#Aink26">maṟiyā <hi>ṉiṉṉa ṉā</hi>va tevaṉko</q></cit></entry>
 </div><div><head>ī</head><entry>
 <form type="standard">īṉ</form>
 <form type="sandhi">vīṉ</form><gram type="particle">um</gram><def xml:lang="en">this-world-</def><cit><q corresp="#Aink401">kavaiiya <hi>vīṉu mu</hi>mparum peṟalaruṅ</q></cit></entry>
@@ -1382,7 +1382,7 @@
 <def xml:lang="en">being-born</def><cit><q corresp="#Aink24">tāycāp <hi>piṟakkum</hi> puḷḷik kaḷvaṉoṭu</q></cit></entry>
 <entry>
 <form type="standard">piṟar</form>
-<gram type="particle">um</gram><def xml:lang="en">other people</def><cit><q corresp="#Aink26">ṉemmum <hi>piṟaru ma</hi>ṟiyā ṉiṉṉa</q></cit></entry>
+<gram type="particle">um</gram><def xml:lang="en">other-people</def><cit><q corresp="#Aink26">ṉemmum <hi>piṟaru ma</hi>ṟiyā ṉiṉṉa</q></cit></entry>
 <entry>
 <form type="standard">puṇar</form>
 <def xml:lang="en">united</def><cit><q corresp="#Aink15">makaḷirkkup <hi>puṇar</hi>tuṇai yutavum</q></cit></entry>
