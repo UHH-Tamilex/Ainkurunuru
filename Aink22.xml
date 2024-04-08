@@ -57,43 +57,47 @@
     <entry>
     <form>aḷḷal</form>
     <def>mire</def>
-    </entry>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
     <entry>
     <form>āṭiya</form>
     <def>played</def>
-    <gram type="role">peyareccam</gram>
     <gramGrp><gram type="role">perfective aspect</gram>
+    <gram type="role">peyareccam</gram>
     </gramGrp></entry>
     <entry>
     <form>puḷḷi<pc>+</pc></form>
     <def>dot</def>
-    </entry>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
     <entry>
     <form>kaḷvaṉ</form>
-    <def>crab</def>
-    </entry>
+    <def>crab(?)</def>
+    <gramGrp></gramGrp></entry>
     <entry>
     <form>muḷḷi</form>
     <def>Muḷḷi-plant</def>
-    </entry>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
     <entry>
     <form>vēr</form>
     <def>root</def>
-    </entry>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
     <entry>
     <form>aḷai<pc>+</pc></form>
     <def>hole</def>
-    </entry>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
     <entry>
     <form>cellum</form>
     <def>going</def>
-    <gram type="role">peyareccam</gram>
     <gramGrp><gram type="role">imperfect aspect</gram>
-
+    <gram type="role">peyareccam</gram>
     </gramGrp></entry>
     <entry>
     <form>ūraṉ</form>
-    <def>village</def>
+    <def>man-from-the-village</def>
     <gramGrp><gram type="role">pronominalised noun</gram>
     <gram type="role">masculine singular</gram>
     </gramGrp></entry>
@@ -116,28 +120,28 @@
     <entry>
     <form>iṉi</form>
     <def>now</def>
-    </entry>
+    <gramGrp><gram type="role">adverb</gram>
+    </gramGrp></entry>
     <entry>
     <form>nīyēṉ</form>
     <def>I-shall-not-leave</def>
     <gramGrp><gram type="role">negative</gram>
-      <gram type="role">first person</gram>
     <gram type="role">singular</gram>
-
+    <gram type="role">first person</gram>
     </gramGrp></entry>
     <entry>
     <form>eṉṟat<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
-    <def>act-of-saying</def>
-    <gramGrp><gram type="role">verbal noun</gram>
-      <gram type="role">perfective aspect</gram>
+    <def>act-of-speaking</def>
+    <gramGrp><gram type="role">participial noun</gram>
     <gram type="role">neuter singular</gram>
-
+    <gram type="role">perfective aspect</gram>
     </gramGrp></entry>
     <entry>
     <form>evaṉ-kol</form>
     <def>what</def>
     <form type="simple">evaṉ</form>
-    <gramGrp type="particle"><m>kol</m></gramGrp>
+    <gramGrp><gram type="role">pronoun</gram>
+    </gramGrp><gramGrp type="particle"><m>kol</m></gramGrp>
     </entry>
     <entry>
     <form>aṉṉāy</form>
