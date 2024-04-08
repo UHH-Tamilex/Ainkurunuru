@@ -272,7 +272,7 @@
 <form type="sandhi">aṉp</form><def xml:lang="en">love</def><cit><q corresp="#Aink41">tiṉṉu <hi>maṉpi</hi>ṉ mutalaiyoṭu</q></cit></entry>
 <entry>
 <form type="standard">aṉṟu</form>
-<form type="sandhi">aṉṟ</form><def xml:lang="en">it is not so</def><def xml:lang="en">besides</def><cit><q corresp="#Aink31">makiḻnaṉ kaṭa<hi>ṉaṉ ṟe</hi>ṉṉuṅ kollō</q></cit><cit><q corresp="#Aink103">taṉakkamain <hi>taṉṟi</hi>vaṇ māmaik</q></cit></entry>
+<form type="sandhi">aṉṟ</form><def xml:lang="en">it-is-not-so</def><def xml:lang="en">besides</def><cit><q corresp="#Aink31">makiḻnaṉ kaṭa<hi>ṉaṉ ṟe</hi>ṉṉuṅ kollō</q></cit><cit><q corresp="#Aink103">taṉakkamain <hi>taṉṟi</hi>vaṇ māmaik</q></cit></entry>
 <entry>
 <form type="standard">aṉṉa</form>
 <form type="sandhi">yaṉṉa</form><def xml:lang="en">like</def><cit><q corresp="#Aink13">poṅkuḷai <hi>yaṉṉa</hi> vaṭaikarai vēḻam</q></cit><cit><q corresp="#Aink18">iruñcā <hi>yaṉṉa</hi> ceruntiyoṭu vēḻaṅ</q></cit><cit><q corresp="#Aink18">poruntumala <hi>raṉṉa</hi>veṉ kaṇṇaḻap</q></cit><cit><q corresp="#Aink30">vēppunaṉai <hi>yaṉṉa</hi> neṭuṅkaṭ kaḷvaṉ</q></cit><cit><q corresp="#Aink42">malirniṟai <hi>yaṉṉa</hi>niṉ mārpunaṉi</q></cit><cit><q corresp="#Aink307">pāvai <hi>yaṉṉa</hi>niṉ ṟuṇaippirintu</q></cit></entry>
@@ -314,7 +314,7 @@
 <def xml:lang="en">played</def><cit><q corresp="#Aink22">aḷḷa <hi>lāṭiya</hi> puḷḷik kaḷvaṉ</q></cit></entry>
 <entry>
 <form type="standard">āṭu</form>
-<form type="sandhi">āṭ</form><def xml:lang="en">dancing</def><def xml:lang="en">bathing</def><def xml:lang="en">bathe</def><cit><q corresp="#Aink15"> maṇa<hi>lāṭu</hi> malirniṟai virumpiya</q></cit><cit><q corresp="#Aink15">voṇṭaḻaip puṉa<hi>lāṭu</hi> makaḷirkkup puṇartuṇai</q></cit><cit><q corresp="#Aink17">veṇpū vicu<hi>mpāṭu</hi> kurukiṟ ṟōṉṟu</q></cit><cit><q corresp="#Aink31">peruntuṟai yuṭa<hi>ṉā ṭā</hi>yamō ṭuṟṟa</q></cit></entry>
+<form type="sandhi">āṭ</form><def xml:lang="en">dancing</def><def xml:lang="en">bathing</def><cit><q corresp="#Aink15"> maṇa<hi>lāṭu</hi> malirniṟai virumpiya</q></cit><cit><q corresp="#Aink15">voṇṭaḻaip puṉa<hi>lāṭu</hi> makaḷirkkup puṇartuṇai</q></cit><cit><q corresp="#Aink17">veṇpū vicu<hi>mpāṭu</hi> kurukiṟ ṟōṉṟu</q></cit><cit><q corresp="#Aink31">peruntuṟai yuṭa<hi>ṉā ṭā</hi>yamō ṭuṟṟa</q></cit></entry>
 <entry>
 <form type="standard">āṭum</form>
 <def xml:lang="en">he-bathes</def><cit><q corresp="#Aink33">peṇṭirō <hi>ṭāṭu me</hi>ṉpataṉ ṟaṇṭā</q></cit></entry>
@@ -332,7 +332,7 @@
 <form type="sandhi">āmpaṟ</form><form type="sandhi">yāmpaṉ</form><def xml:lang="en">white-lotus</def><cit><q corresp="#Aink21">kaḷva <hi>ṉāmpa la</hi>ṟukkun taṇṭuṟai</q></cit><cit><q corresp="#Aink34">puḻaikkā <hi>lāmpaṟ</hi> ṟātēr vaṇṇaṅ</q></cit><cit><q corresp="#Aink35">poykai <hi>yāmpa ṉā</hi>ruri meṉkā</q></cit><cit><q corresp="#Aink40">vaṇṭupiṇi <hi>yāmpa ṉā</hi>ṭukiḻa vōṉē</q></cit></entry>
 <entry>
 <form type="standard">āyamōṭu</form>
-<form type="sandhi">āyamōṭ</form><def xml:lang="en">companion</def><cit><q corresp="#Aink31">yuṭaṉā <hi>ṭāyamō ṭu</hi>ṟṟa cūḷē</q></cit></entry>
+<form type="sandhi">āyamōṭ</form><def xml:lang="en">female-companions</def><cit><q corresp="#Aink31">yuṭaṉā <hi>ṭāyamō ṭu</hi>ṟṟa cūḷē</q></cit></entry>
 <entry>
 <form type="standard">āyiṉ</form>
 <form type="sandhi">āyiṟ</form><def xml:lang="en">if</def><cit><q corresp="#Aink28">ḷuṟainō <hi>yāyiṟ</hi> ṟaṇcēṟu kaḷvaṉ</q></cit><cit><q corresp="#Aink36">tamaikuva <hi>ṉāyi ṉā</hi>maṟan tuḷḷā</q></cit></entry>
@@ -500,7 +500,7 @@
 <form type="sandhi">vuṟaikkum</form><def xml:lang="en">dripping</def><cit><q corresp="#Aink30">ṉirumpū <hi>vuṟaikku mū</hi>raṟkivaḷ peruṅkavi</q></cit></entry>
 <entry>
 <form type="standard">uṟṟa</form>
-<def xml:lang="en">which-happened/occurred</def><def xml:lang="en">occurred</def><cit><q corresp="#Aink31">ṭāyamō <hi>ṭuṟṟa</hi> cūḷē</q></cit><cit><q corresp="#Aink37">ṟēṟṟā <hi>ṉuṟṟa</hi> cūḷvāyt tall</q></cit></entry>
+<def xml:lang="en">experienced</def><def xml:lang="en">occurred</def><cit><q corresp="#Aink31">ṭāyamō <hi>ṭuṟṟa</hi> cūḷē</q></cit><cit><q corresp="#Aink37">ṟēṟṟā <hi>ṉuṟṟa</hi> cūḷvāyt tall</q></cit></entry>
 </div><div><head>ū</head><entry>
 <form type="standard">ūṭṭa</form>
 <form type="sandhi">yūṭṭat</form><def xml:lang="en">nurse</def><cit><q corresp="#Aink404">makaṉmulai <hi>yūṭṭat</hi> tāṉavaḷ ciṟupuṟaṅ</q></cit></entry>
@@ -569,7 +569,7 @@
 <form type="sandhi">eṉṟun</form><def xml:lang="en">we-may-say</def><def xml:lang="en">always</def><cit><q corresp="#Aink11">nalla <hi>ṉeṉṟum</hi> yāmē yalla</q></cit><cit><q corresp="#Aink38">raṟiyala <hi>ṉeṉṟun</hi> taṇṭaḷir vauvu</q></cit></entry>
 <entry>
 <form type="standard">eṉṉum</form>
-<form type="sandhi">eṉṉuṅ</form><gram type="particle">kollō</gram><def xml:lang="en">say</def><def xml:lang="en">they say</def><cit><q corresp="#Aink11">yalla <hi>ṉeṉṉume</hi>ṉ ṟaṭameṉ</q></cit><cit><q corresp="#Aink31">kaṭaṉaṉ <hi>ṟeṉṉuṅ kollō</hi> nammūr muṭamutir</q></cit></entry>
+<form type="sandhi">eṉṉuṅ</form><gram type="particle">kollō</gram><def xml:lang="en">say</def><def xml:lang="en">it-says</def><cit><q corresp="#Aink11">yalla <hi>ṉeṉṉume</hi>ṉ ṟaṭameṉ</q></cit><cit><q corresp="#Aink31">kaṭaṉaṉ <hi>ṟeṉṉuṅ kollō</hi> nammūr muṭamutir</q></cit></entry>
 </div><div><head>ē</head><entry>
 <form type="standard">ētilāḷarkku</form>
 <form type="sandhi">vētilāḷarkkup</form><def xml:lang="en">stranger</def><cit><q corresp="#Aink34">koṇṭaṉa <hi>vētilā ḷarkkup</hi> pacantaveṉ kaṇṇē</q></cit></entry>
@@ -851,7 +851,7 @@
 <form type="sandhi">cuṟṟun</form><def xml:lang="en">surrounding</def><cit><q corresp="#Aink11">vēḻañ <hi>cuṟṟun</hi> tuṟaikē ḻūraṉ</q></cit></entry>
 <entry>
 <form type="standard">cūḷ</form>
-<gram type="particle">ē</gram><def xml:lang="en">oath</def><def xml:lang="en">vow</def><cit><q corresp="#Aink8">lūraṉ <hi>cūḷi</hi>vaṇ vāyppa</q></cit><cit><q corresp="#Aink31">ṭuṟṟa <hi>cūḷē</hi></q></cit><cit><q corresp="#Aink37">ṉuṟṟa <hi>cūḷ</hi>vāyt tall</q></cit></entry>
+<def xml:lang="en">oath</def><def xml:lang="en">vow</def><cit><q corresp="#Aink8">lūraṉ <hi>cūḷi</hi>vaṇ vāyppa</q></cit><cit><q corresp="#Aink31">ṭuṟṟa <hi>cūḷ</hi>ē</q></cit><cit><q corresp="#Aink37">ṉuṟṟa <hi>cūḷ</hi>vāyt tall</q></cit></entry>
 <entry>
 <form type="standard">cem</form>
 <form type="sandhi">cen</form><form type="sandhi">ceṅ</form><def xml:lang="en">red</def><cit><q corresp="#Aink25">vayalaic <hi>ceṅ</hi>koṭi kaḷva</q></cit><cit><q corresp="#Aink27"> <hi>cen</hi>nelañ ceṟuviṟ</q></cit></entry>
@@ -1595,7 +1595,7 @@
 <def xml:lang="en">set into</def><cit><q corresp="#Aink101">luṇkaṇ <hi>marīiya</hi> nōykkumarun tākiya</q></cit></entry>
 <entry>
 <form type="standard">marutattu</form>
-<form type="sandhi">marutattup</form><form type="sandhi">marutattuk</form><def xml:lang="en">myrobalan-tree</def><def xml:lang="en">myrobalan tree</def><cit><q corresp="#Aink7">yuḷaippū <hi>marutattuk</hi> kiḷaikkuru kirukkun</q></cit><cit><q corresp="#Aink31">muṭamutir <hi>marutattup</hi> peruntuṟai yuṭaṉā</q></cit></entry>
+<form type="sandhi">marutattup</form><form type="sandhi">marutattuk</form><def xml:lang="en">myrobalan-tree</def><cit><q corresp="#Aink7">yuḷaippū <hi>marutattuk</hi> kiḷaikkuru kirukkun</q></cit><cit><q corresp="#Aink31">muṭamutir <hi>marutattup</hi> peruntuṟai yuṭaṉā</q></cit></entry>
 <entry>
 <form type="standard">marutu</form>
 <form type="sandhi">marut</form><def xml:lang="en">myrobalan tree</def><cit><q corresp="#Aink33">makiḻnaṉ <hi>marutu</hi>yarn tōṅkiya</q></cit></entry>
@@ -1673,7 +1673,7 @@
 <def xml:lang="en">budded</def><cit><q corresp="#Aink6">poykai <hi>mukainta</hi> tāmarait taṇṭuṟai</q></cit></entry>
 <entry>
 <form type="standard">muṭa(m)</form>
-<form type="sandhi">muṭam</form><def xml:lang="en">bend</def><cit><q corresp="#Aink31">nammūr <hi>muṭamu</hi>tir marutattup</q></cit></entry>
+<form type="sandhi">muṭam</form><def xml:lang="en">state-of-being-bent/crooked</def><cit><q corresp="#Aink31">nammūr <hi>muṭamu</hi>tir marutattup</q></cit></entry>
 <entry>
 <form type="standard">mutalai</form>
 <form type="sandhi">mutalaip</form><def xml:lang="en">crocodile</def><cit><q corresp="#Aink5">yāmē <hi>mutalaip</hi> pōttu muḻumī</q></cit></entry>
@@ -1685,7 +1685,7 @@
 <def xml:lang="en">crocodile</def><cit><q corresp="#Aink41">maṉpiṉ <hi>mutalaiyoṭu</hi> veṇpūm poykait</q></cit></entry>
 <entry>
 <form type="standard">mutir</form>
-<form type="sandhi">utir</form><def xml:lang="en">mature</def><cit><q corresp="#Aink31">nammūr muṭam<hi>utir</hi> marutattup peruntuṟai</q></cit></entry>
+<form type="sandhi">utir</form><def xml:lang="en">be-mature</def><cit><q corresp="#Aink31">nammūr muṭam<hi>utir</hi> marutattup peruntuṟai</q></cit></entry>
 <entry>
 <form type="standard">mutu</form>
 <def xml:lang="en">old</def><cit><q corresp="#Aink21">nīṭiya <hi>mutu</hi>nī raṭaikaraip</q></cit></entry>
