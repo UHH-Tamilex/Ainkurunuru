@@ -41,10 +41,10 @@
         <lg type="translation" xml:lang="en">
 
           <l> Alas, [my] friend!</l>
-          <l> While the kajal-eyes of those who longed for the bringer of joy paled</l>
-           <l>[and] tears welled up,</l>
+          <l> While they paled and filled with tears–the kajal-eyes of those who yearned for the bringer of joy, </l> 
           <l> that big, strong man did not make clear</l>
-          <l> the [words of] the vow that had taken place, [even as they were] becoming true, were lies.</l>
+          <l> that the [words of] the vow that had taken place, [even as they were] becoming true,</l> 
+           <l>were lies.</l>
 
 
         </lg>
@@ -56,12 +56,13 @@
     <entry>
     <form>amma</form>
     <def>alas</def>
-    <gramGrp><gram type="role">particle of lament</gram></gramGrp>
     </entry>
     <entry>
     <form>vāḻi</form>
     <def>may-you-live</def>
-    <gramGrp><gram type="role">subjuntive second person singular</gram>
+    <gramGrp><gram type="role">subjuntive</gram>
+    <gram type="role">singular</gram>
+    <gram type="role">second person</gram>
     </gramGrp></entry>
     <entry>
     <form>tōḻi</form>
@@ -77,11 +78,11 @@
     <entry>
     <form>nayantōr</form>
     <def>ones-who-yearned</def>
-    <gram type="role">participial noun perfective aspect</gram>
-    <gram type="role">third person</gram>
-    <gramGrp><gram type="role">plural</gram>
+    <gramGrp><gram type="role">participial noun</gram>
+    <gram type="role">perfective aspect</gram>
+    <gram type="role">plural</gram>
     <gram type="role">honorific</gram>
-  
+    <gram type="role">third person</gram>
     </gramGrp></entry>
     <entry>
     <form>uṇ</form>
@@ -100,32 +101,31 @@
     </gramGrp></entry>
     <entry>
     <form>paṉi</form>
-    <def>dew</def>
+    <def>dew/tears</def>
     <gramGrp><gram type="role">root noun</gram>
     </gramGrp></entry>
     <entry>
     <form>malka</form>
-    <def>abound</def>
+    <def>abound/be-filled-with</def>
     <gramGrp><gram type="role">infinitive</gram>
     </gramGrp></entry>
     <entry>
     <form>vallaṉ</form>
-    <def>strong</def>
+    <def>strength</def>
     <gramGrp><gram type="role">pronominalised noun</gram>
     <gram type="role">masculine singular</gram>
     </gramGrp></entry>
     <entry>
     <form>vallaṉ</form>
-    <def>strong</def>
+    <def>strength</def>
     <gramGrp><gram type="role">pronominalised noun</gram>
     <gram type="role">masculine singular</gram>
     </gramGrp></entry>
     <entry>
     <form>poytta</form>
     <def>they-lied</def>
-    <gramGrp>
+    <gramGrp><gram type="role">neuter plural</gram>
     <gram type="role">perfective aspect</gram>
-    <gram type="role">neuter plural</gram>
     </gramGrp></entry>
     <entry>
     <form>tēṟṟāṉ</form>
@@ -146,7 +146,7 @@
     </gramGrp></entry>
     <entry>
     <form>vāyttal-<pc>+</pc>ē</form>
-    <def>reaching</def>
+    <def>coming-true</def>
     <form type="simple">vāyttal</form>
     <gramGrp><gram type="role">verbal noun</gram>
     </gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
