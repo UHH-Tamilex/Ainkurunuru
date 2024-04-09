@@ -1328,7 +1328,7 @@
 <def xml:lang="en">tank</def><cit><q corresp="#Aink4">mārpu <hi>paḻaṉamā</hi> kaṟka</q></cit></entry>
 <entry>
 <form type="standard">paṉi</form>
-<form type="sandhi">paṉit</form><def xml:lang="en">dew</def><cit><q corresp="#Aink14">mārpē <hi>paṉit</hi>tuyil ceyyu</q></cit><cit><q corresp="#Aink19">malariṟ kaṇ<hi>paṉi</hi> yukumē</q></cit><cit><q corresp="#Aink37">ruṇkaṇ pacantu<hi>paṉi</hi> malka vallaṉ</q></cit></entry>
+<form type="sandhi">paṉit</form><def xml:lang="en">dew</def><def xml:lang="en">dew/tears</def><cit><q corresp="#Aink14">mārpē <hi>paṉit</hi>tuyil ceyyu</q></cit><cit><q corresp="#Aink19">malariṟ kaṇ<hi>paṉi</hi> yukumē</q></cit><cit><q corresp="#Aink37">ruṇkaṇ pacantu<hi>paṉi</hi> malka vallaṉ</q></cit></entry>
 <entry>
 <form type="standard">pākattu</form>
 <form type="sandhi">pākatt</form><def xml:lang="en">part</def><cit><q corresp="#Aink0">vāliḻai <hi>pākat to</hi>ruva ṉirutā</q></cit></entry>
@@ -1619,7 +1619,7 @@
 <def xml:lang="en">mountain</def><cit><q corresp="#Aink204">ṟilla <hi>malai</hi>kiḻa vōṟk</q></cit></entry>
 <entry>
 <form type="standard">malka</form>
-<def xml:lang="en">abound</def><cit><q corresp="#Aink37">pacantupaṉi <hi>malka</hi> vallaṉ vallaṉ</q></cit></entry>
+<def xml:lang="en">abound/be-filled-with</def><cit><q corresp="#Aink37">pacantupaṉi <hi>malka</hi> vallaṉ vallaṉ</q></cit></entry>
 <entry>
 <form type="standard">maṟantu</form>
 <form type="sandhi">maṟant</form><def xml:lang="en">forgetting</def><cit><q corresp="#Aink36">yūra ṉam<hi>maṟan ta</hi>maikuva ṉāyi</q></cit><cit><q corresp="#Aink36">ṉāyi ṉā<hi>maṟan tu</hi>ḷḷā tamaitalu</q></cit></entry>
@@ -1817,7 +1817,7 @@
 <form type="sandhi">vaṇ</form><def xml:lang="en">sharp</def><cit><q corresp="#Aink14">māattu <hi>vaṇ</hi>ṭaḷir nuṭaṅku</q></cit></entry>
 <entry>
 <form type="standard">vallaṉ</form>
-<def xml:lang="en">strong</def><cit><q corresp="#Aink37">malka <hi>vallaṉ</hi> vallaṉ poytta</q></cit><cit><q corresp="#Aink37">vallaṉ <hi>vallaṉ</hi> poytta ṟēṟṟā</q></cit></entry>
+<def xml:lang="en">strength</def><cit><q corresp="#Aink37">malka <hi>vallaṉ</hi> vallaṉ poytta</q></cit><cit><q corresp="#Aink37">vallaṉ <hi>vallaṉ</hi> poytta ṟēṟṟā</q></cit></entry>
 <entry>
 <form type="standard">vaḻi</form>
 <form type="sandhi">vaḻic</form><def xml:lang="en">way</def><cit><q corresp="#Aink2">kēṇmai <hi>vaḻi</hi>vaḻic ciṟakka</q></cit><cit><q corresp="#Aink2">kēṇmai vaḻi<hi>vaḻic</hi> ciṟakka veṉavēṭ</q></cit></entry>
@@ -1844,7 +1844,7 @@
 <def xml:lang="en">may-it-reach</def><cit><q corresp="#Aink10">māri <hi>vāykka</hi> vaḷanaṉi ciṟakka</q></cit></entry>
 <entry>
 <form type="standard">vāyttal</form>
-<form type="sandhi">vāyttall</form><gram type="particle">ē</gram><def xml:lang="en">reaching</def><cit><q corresp="#Aink37">ṉuṟṟa cūḷ<hi>vāyt tall</hi></q></cit></entry>
+<form type="sandhi">vāyttall</form><gram type="particle">ē</gram><def xml:lang="en">coming-true</def><cit><q corresp="#Aink37">ṉuṟṟa cūḷ<hi>vāyt tall</hi></q></cit></entry>
 <entry>
 <form type="standard">vāyppatu</form>
 <form type="sandhi">vāyppat</form><def xml:lang="en">that-which-flourishes</def><cit><q corresp="#Aink8">cūḷivaṇ <hi>vāyppa tā</hi>ka veṉavēṭ</q></cit></entry>
