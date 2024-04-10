@@ -41,9 +41,10 @@
         <lg type="translation" xml:lang="en">
 
           <l> Alas, [my] friend!</l>
-          <l>The bringer of joy–that big, strong man,</l>
-          <l>as the kajal-eyes of those who yearned for him paled and filled with tears, </l>  
-          <l>did not admit that the [words of] the vow that had taken place, [even as they were] becoming true,</l> 
+          <l>The bringer of joy</l>
+          <l>that big, strong man</l>
+          <l>[even ]as the kajal-eyes of the women who yearn for him grow dim and fill with dew-like tears, </l>  
+          <l>does not admit that the [words of] the vow that had taken place, [even as they were] becoming true,</l> 
            <l>were lies.</l>
 
 
@@ -129,7 +130,7 @@
     </gramGrp></entry>
     <entry>
     <form>tēṟṟāṉ</form>
-    <def>he-did-not-make-clear</def>
+    <def>he-did/does/will-not-make-clear</def>
     <gramGrp><gram type="role">masculine singular</gram>
     <gram type="role">negative</gram>
     </gramGrp></entry>
