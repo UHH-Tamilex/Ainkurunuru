@@ -443,7 +443,7 @@
 <form type="sandhi">yuṭaiyum</form><def xml:lang="en">break</def><cit><q corresp="#Aink343">koḻumukai <hi>yuṭaiyum</hi> poḻut</q></cit></entry>
 <entry>
 <form type="standard">uṇ</form>
-<form type="sandhi">vuṇ</form><def xml:lang="en">kajal</def><def xml:lang="en">eat</def><def xml:lang="en">kohl</def><cit><q corresp="#Aink16">pūppō <hi>luṇ</hi>kaṇ poṉpōrt</q></cit><cit><q corresp="#Aink21">ṟeḷippavu <hi>muṇ</hi>kaṇ pacappa</q></cit><cit><q corresp="#Aink28"> <hi>uṇ</hi>ṭuṟai yaṇaṅkiva</q></cit><cit><q corresp="#Aink36">karutiya <hi>vuṇ</hi>kaṇ pacalaik</q></cit><cit><q corresp="#Aink37">ṉayantō <hi>ruṇ</hi>kaṇ pacantupaṉi</q></cit><cit><q corresp="#Aink101">pūppō <hi>luṇ</hi>kaṇ marīiya</q></cit></entry>
+<form type="sandhi">vuṇ</form><def xml:lang="en">kajal</def><def xml:lang="en">drinking-/where-people-drink</def><def xml:lang="en">kohl</def><cit><q corresp="#Aink16">pūppō <hi>luṇ</hi>kaṇ poṉpōrt</q></cit><cit><q corresp="#Aink21">ṟeḷippavu <hi>muṇ</hi>kaṇ pacappa</q></cit><cit><q corresp="#Aink28"> <hi>uṇ</hi>ṭuṟai yaṇaṅkiva</q></cit><cit><q corresp="#Aink36">karutiya <hi>vuṇ</hi>kaṇ pacalaik</q></cit><cit><q corresp="#Aink37">ṉayantō <hi>ruṇ</hi>kaṇ pacantupaṉi</q></cit><cit><q corresp="#Aink101">pūppō <hi>luṇ</hi>kaṇ marīiya</q></cit></entry>
 <entry>
 <form type="standard">uṇarntōr</form>
 <def xml:lang="en">ones-who-perceived</def><def xml:lang="en">those-who-perceived</def><cit><q corresp="#Aink38">ṟaṉco <hi>luṇarntō ra</hi>ṟiyala ṉeṉṟun</q></cit><cit><q corresp="#Aink41">ṟaṉco <hi>luṇarntōr</hi> mēṉi poṉpōṟ</q></cit></entry>
@@ -1055,7 +1055,7 @@
 <form type="sandhi">ṟēṟṟañ</form><def xml:lang="en">clarity</def><cit><q corresp="#Aink23">yūraṉ <hi>ṟēṟṟañ</hi> ceytunap puṇarntiṉit</q></cit></entry>
 <entry>
 <form type="standard">tēṟṟāṉ</form>
-<form type="sandhi">ṟēṟṟāṉ</form><def xml:lang="en">he-did-not-make-clear</def><cit><q corresp="#Aink37">poytta <hi>ṟēṟṟā ṉu</hi>ṟṟa cūḷvāyt</q></cit></entry>
+<form type="sandhi">ṟēṟṟāṉ</form><def xml:lang="en">he-did/does/will-not-make-clear</def><cit><q corresp="#Aink37">poytta <hi>ṟēṟṟā ṉu</hi>ṟṟa cūḷvāyt</q></cit></entry>
 <entry>
 <form type="standard">toṭaṅkiyōḷ</form>
 <form type="sandhi">ṟoṭaṅkiyōḷ</form><gram type="particle">ē</gram><def xml:lang="en">she-began</def><cit><q corresp="#Aink42">vilakka <hi>ṟoṭaṅki yōḷē</hi></q></cit></entry>
