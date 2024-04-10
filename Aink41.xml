@@ -39,11 +39,12 @@
           <l>poṉpōṟ ceyyu mūrkiḻa vōṉē.</l>
         </lg>
         <lg type="translation" xml:lang="en">
-          <l>They say his village has ponds with white flowers [in them]</l>
-          <l>and heartless crocodiles that eat their [own] young. Because of that</l>
-          <l>the lord of the village turns </l>
-          <l>the bodies of those who heard his words</l>
-          <l>[pale] as gold.</l>
+          <l>There is a pond in his village with white flowers [in it]</l>
+          <l>and crocodiles without hearts that eat their own young, they say.</l>
+          <l>That is why he,</l>
+          <l>the lord of the village,</l>
+          <l>turns to gold </l>
+          <l>the bodies of those women who perceived his words (OR took his words to heart).</l>
 
 
         </lg>
@@ -53,127 +54,156 @@
   <standOff type="wordsplit" corresp="#Aink41">
     <interp type="alignment" select="0">19MG27MG55MG2M,105MG</interp>
     <entry>
-    <form>taṉ</form>
-    <def>self</def>
-    <gramGrp><gram type="role">oblique</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>pārppu<pc>+</pc></form>
-    <def>young</def>
-    <gramGrp><gram type="role">noun</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>tiṉṉum</form>
-    <def>eating</def>
-    <gramGrp><gram type="role">imperfect aspect</gram>
-    <gram type="role">peyareccam</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>aṉp<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
-    <def>love</def>
-    <gramGrp><gram type="role">noun</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>il</form>
-    <def>not</def>
-    <gramGrp><gram type="role">verbal root</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>mutalaiyoṭu</form>
-    <def>crocodile</def>
-    <gramGrp><gram type="role">sociative</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>veḷ</form>
-    <def>white</def>
-    <gramGrp><gram type="role">adjective</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>pūm</form>
-    <def>flower</def>
-    <gramGrp><gram type="role">noun</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>poykaitt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
-    <def>pond</def>
-    <gramGrp><gram type="role">pronominalised noun</gram>
-    <gram type="role">neuter singular</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>avaṉ</form>
-    <def>his</def>
-    <gramGrp><gram type="role">pronoun</gram>
-    </gramGrp>
+      <form>taṉ</form>
+      <def>their-own</def>
+      <gramGrp><gram type="role">pronoun</gram>
+    <gram type="role">oblique</gram>
+      </gramGrp>
     </entry>
     <entry>
-    <form>ūr</form>
-    <def>village</def>
-    <gramGrp><gram type="role">noun</gram>
-    </gramGrp></entry>
+      <form>pārppu<pc>+</pc></form>
+      <def>young</def>
+      <gramGrp><gram type="role">noun</gram>
+      </gramGrp>
+    </entry>
     <entry>
-    <form>eṉpa</form>
-    <def>they-say</def>
-    <gramGrp><gram type="role">imperfect aspect</gram>
-      <gram type="role">third person</gram>
+      <form>tiṉṉum</form>
+      <def>eating</def>
+      <gramGrp><gram type="role">imperfect aspect</gram>
+    <gram type="role">peyareccam</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>aṉp<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+      <def>love</def>
+      <gramGrp><gram type="role">noun</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>il</form>
+      <def>who-do-not-have/without</def>
+      <gramGrp><gram type="role">verbal root as peyareccam imperfective aspect</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>mutalaiyoṭu</form>
+      <def>crocodile</def>
+      <gramGrp><gram type="role">sociative</gram>
+    <gram type="role">noun</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>veḷ</form>
+      <def>white</def>
+      <gramGrp><gram type="role">adjective</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>pūm</form>
+      <def>flower</def>
+      <gramGrp><gram type="role">noun</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>poykaitt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+      <def>pond</def>
+      <gramGrp><gram type="role">pronominalised noun</gram>
+    <gram type="role">neuter singular</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>avaṉ</form>
+      <def>his</def>
+      <gramGrp><gram type="role">pronoun</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>ūr</form>
+      <def>village</def>
+      <gramGrp><gram type="role">noun</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>eṉpa</form>
+      <def>they-say</def>
+      <gramGrp><gram type="role">imperfect aspect</gram>
     <gram type="role">plural</gram>
-    <gram type="role">honorific</gram>
-  
-    </gramGrp></entry>
+    <gram
+          type="role">honorific</gram>
+    <gram type="role">third person</gram>
+      </gramGrp>
+    </entry>
     <entry>
-    <form>ataṉāl</form>
-    <def>because-of-that</def>
-    <gramGrp><gram type="role">pronoun instrumental</gram>
-    </gramGrp></entry>
+      <form>ataṉāl</form>
+      <def>therefore/because-of-that</def>
+      <gramGrp><gram type="role">instrumental</gram>
+    <gram type="role">pronoun</gram>
+      </gramGrp>
+    </entry>
     <entry>
-    <form>taṉ</form>
-    <def>self</def>
-    <gramGrp><gram type="role">oblique</gram>
-    </gramGrp></entry>
+      <form>taṉ</form>
+      <def>his</def>
+      <gramGrp><gram type="role">pronoun</gram>
+    <gram type="role">oblique</gram>
+      </gramGrp>
+    </entry>
     <entry>
-    <form>col</form>
-    <def>word</def>
-    <gramGrp><gram type="role">noun</gram>
-    </gramGrp></entry>
+      <form>col</form>
+      <def>word</def>
+      <gramGrp><gram type="role">noun</gram>
+      </gramGrp>
+    </entry>
     <entry>
-    <form>uṇarntōr</form>
-    <def>those-who-perceived</def>
-    <gramGrp><gram type="role">perfective aspect</gram>
-    <gram type="role">plural</gram>
+      <form>uṇarntōr</form>
+      <def>those-who-perceived</def>
+      <gramGrp><gram type="role">participial noun</gram>
+    <gram type="role">perfective aspect</gram>
+    <gram
+          type="role">plural</gram>
     <gram type="role">honorific</gram>
     <gram type="role">third person</gram>
-    <gram type="role">noun</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>mēṉi</form>
-    <def>body</def>
-    <gramGrp><gram type="role">noun</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>poṉ</form>
-    <def>gold</def>
-    <gramGrp><gram type="role">noun</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>pōl</form>
-    <def>be-similar</def>
-    <gramGrp><gram type="role">verbal root</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>ceyyum</form>
-    <def>he-makes</def>
-    <gramGrp><gram type="role">habitual future</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>ūr</form>
-    <def>village</def>
-    <gramGrp><gram type="role">noun</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>kiḻavōṉ-ē</form>
-    <def>lord</def>
-    <form type="simple">kiḻavōṉ</form>
-    <gramGrp><gram type="role">noun</gram>
-    </gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+      </gramGrp>
     </entry>
-    </standOff>
+    <entry>
+      <form>mēṉi</form>
+      <def>body</def>
+      <gramGrp><gram type="role">noun</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>poṉ</form>
+      <def>gold</def>
+      <gramGrp><gram type="role">noun</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>pōl</form>
+      <def>be-similar</def>
+      <gramGrp><gram type="role">comparative</gram>
+    <gram type="role">postposition</gram>
+    <gram
+          type="role">verbal root</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>ceyyum</form>
+      <def>he-makes</def>
+      <gramGrp><gram type="role">habitual future</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>ūr</form>
+      <def>village</def>
+      <gramGrp><gram type="role">noun</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>kiḻavōṉ-ē</form>
+      <def>lord</def>
+      <form type="simple">kiḻavōṉ</form>
+      <gramGrp><gram type="role">noun</gram>
+      </gramGrp>
+      <gramGrp type="particle"><m>ē</m></gramGrp>
+    </entry>
+  </standOff>
 </TEI>
