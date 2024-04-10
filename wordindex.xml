@@ -149,7 +149,7 @@
 <def xml:lang="en">adorned</def><cit><q corresp="#Aink404">taṇpuṟa <hi>vaṇinta</hi> kuṟumpal poṟaiya</q></cit></entry>
 <entry>
 <form type="standard">ataṉāl</form>
-<form type="sandhi">ataṉāṟ</form><def xml:lang="en">because-of-that</def><cit><q corresp="#Aink41">reṉpa <hi>ataṉāṟ</hi> ṟaṉco luṇarntōr</q></cit></entry>
+<form type="sandhi">ataṉāṟ</form><def xml:lang="en">therefore/because-of-that</def><cit><q corresp="#Aink41">reṉpa <hi>ataṉāṟ</hi> ṟaṉco luṇarntōr</q></cit></entry>
 <entry>
 <form type="standard">am</form>
 <form type="sandhi">an</form><form type="sandhi">vañ</form><def xml:lang="en">pretty</def><cit><q corresp="#Aink20">kāla <hi>vañ</hi>ciṟait tumpi</q></cit><cit><q corresp="#Aink103">pūkkun ta<hi>ṇṇan</hi> tuṟaiva ṉivaṭkamain</q></cit></entry>
@@ -383,7 +383,7 @@
 <form type="sandhi">iruñ</form><def xml:lang="en">big/dark</def><def xml:lang="en">dark/big</def><cit><q corresp="#Aink18"> <hi>iruñ</hi>cā yaṉṉa</q></cit><cit><q corresp="#Aink30">nelli <hi>ṉirum</hi>pū vuṟaikku</q></cit></entry>
 <entry>
 <form type="standard">il</form>
-<form type="sandhi">iṉ</form><form type="sandhi">mil</form><form type="sandhi">yil</form><def xml:lang="en">not</def><def xml:lang="en">non-existence</def><def xml:lang="en">house</def><cit><q corresp="#Aink5">yaviṉi paci<hi>yil</hi> lākuka piṇicē</q></cit><cit><q corresp="#Aink8">ceyka kaḷa<hi>vil</hi> lākuka veṉavēṭ</q></cit><cit><q corresp="#Aink9">ciṟakka tī<hi>til</hi> lākuka veṉavēṭ</q></cit><cit><q corresp="#Aink32">ṉorunā ṇam<hi>mil</hi> vantataṟ keḻunā</q></cit><cit><q corresp="#Aink41">tiṉṉu ma<hi>ṉpiṉ</hi> mutalaiyoṭu veṇpūm</q></cit><cit><q corresp="#Aink307">taṉaiyē na<hi>ṉṟil</hi> koṇkaniṉ poruḷē</q></cit></entry>
+<form type="sandhi">iṉ</form><form type="sandhi">mil</form><form type="sandhi">yil</form><def xml:lang="en">not</def><def xml:lang="en">non-existence</def><def xml:lang="en">house</def><def xml:lang="en">who-do-not-have/without</def><cit><q corresp="#Aink5">yaviṉi paci<hi>yil</hi> lākuka piṇicē</q></cit><cit><q corresp="#Aink8">ceyka kaḷa<hi>vil</hi> lākuka veṉavēṭ</q></cit><cit><q corresp="#Aink9">ciṟakka tī<hi>til</hi> lākuka veṉavēṭ</q></cit><cit><q corresp="#Aink32">ṉorunā ṇam<hi>mil</hi> vantataṟ keḻunā</q></cit><cit><q corresp="#Aink41">tiṉṉu ma<hi>ṉpiṉ</hi> mutalaiyoṭu veṇpūm</q></cit><cit><q corresp="#Aink307">taṉaiyē na<hi>ṉṟil</hi> koṇkaniṉ poruḷē</q></cit></entry>
 <entry>
 <form type="standard">ivaṭku</form>
 <form type="sandhi">ivaṭk</form><def xml:lang="en">she</def><cit><q corresp="#Aink103">tuṟaiva <hi>ṉivaṭka</hi>main taṉaṉāṟ</q></cit></entry>
@@ -950,7 +950,7 @@
 <form type="sandhi">ṭaḷir</form><def xml:lang="en">sprout</def><cit><q corresp="#Aink14">māattu vaṇ<hi>ṭaḷir</hi> nuṭaṅku maṇittuṟai</q></cit><cit><q corresp="#Aink38">ṉeṉṟun taṇ<hi>ṭaḷir</hi> vauvu mēṉi</q></cit></entry>
 <entry>
 <form type="standard">taṉ</form>
-<form type="sandhi">ṟaṉ</form><def xml:lang="en">self</def><def xml:lang="en">his</def><cit><q corresp="#Aink3">lūraṉ <hi>ṟaṉ</hi>maṉai vāḻkkai</q></cit><cit><q corresp="#Aink7">yūraṉ <hi>ṟaṉ</hi>ṉūrk koṇṭaṉaṉ</q></cit><cit><q corresp="#Aink33">ṭāṭu meṉpa<hi>taṉ</hi> ṟaṇṭā rakalan</q></cit><cit><q corresp="#Aink38">makiḻnaṉ <hi>ṟaṉ</hi>co luṇarntō</q></cit><cit><q corresp="#Aink40">yāmaḻap pirintu<hi>taṉ</hi> peṇṭi rūriṟai</q></cit><cit><q corresp="#Aink41"> <hi>taṉ</hi>pārpput tiṉṉu</q></cit><cit><q corresp="#Aink41">ataṉāṟ <hi>ṟaṉ</hi>co luṇarntōr</q></cit></entry>
+<form type="sandhi">ṟaṉ</form><def xml:lang="en">self</def><def xml:lang="en">his</def><def xml:lang="en">their-own</def><cit><q corresp="#Aink3">lūraṉ <hi>ṟaṉ</hi>maṉai vāḻkkai</q></cit><cit><q corresp="#Aink7">yūraṉ <hi>ṟaṉ</hi>ṉūrk koṇṭaṉaṉ</q></cit><cit><q corresp="#Aink33">ṭāṭu meṉpa<hi>taṉ</hi> ṟaṇṭā rakalan</q></cit><cit><q corresp="#Aink38">makiḻnaṉ <hi>ṟaṉ</hi>co luṇarntō</q></cit><cit><q corresp="#Aink40">yāmaḻap pirintu<hi>taṉ</hi> peṇṭi rūriṟai</q></cit><cit><q corresp="#Aink41"> <hi>taṉ</hi>pārpput tiṉṉu</q></cit><cit><q corresp="#Aink41">ataṉāṟ <hi>ṟaṉ</hi>co luṇarntōr</q></cit></entry>
 <entry>
 <form type="standard">taṉakku</form>
 <form type="sandhi">taṉakk</form><def xml:lang="en">self</def><cit><q corresp="#Aink103">ṟāṉē <hi>taṉakka</hi>main taṉṟivaṇ</q></cit></entry>
