@@ -41,25 +41,26 @@
         <lg type="translation" xml:lang="en">
 
           <l> Alas, [my] friend!</l>
-          <l> There is for sure  a shining brighter than the colour</l>
+          <l> There is indeed a shining [brighter] than the colour</l>
           <l> of the soft stems stripped of bark(?) of the white lotus in the pond</l>
-          <l> by our village.</l>
-          <l> My dark beauty has now paled.</l>
+          <l> in our village.</l>
+          <l> Now my dark beauty has paled.</l>
         </lg>
       </div>
     </body>
   </text>
   <standOff type="wordsplit" corresp="#Aink35">
-    <interp type="alignment" select="0">31ML11ML8MR10MG3MG16MG13MGM,100M</interp>
+    <interp type="alignment" select="0">31ML11ML8MR10MG19MG13MGM,99M</interp>
     <entry>
     <form>amma</form>
     <def>alas</def>
-    <gramGrp><gram type="role">particle of lament</gram></gramGrp>
     </entry>
     <entry>
     <form>vāḻi</form>
     <def>may-you-live</def>
-    <gramGrp><gram type="role">subjuntive second person singular</gram>
+    <gramGrp><gram type="role">subjuntive</gram>
+    <gram type="role">singular</gram>
+    <gram type="role">second person</gram>
     </gramGrp></entry>
     <entry>
     <form>tōḻi</form>
@@ -69,7 +70,8 @@
     <entry>
     <form>nam</form>
     <def>our</def>
-    <gramGrp><gram type="role">oblique</gram>
+    <gramGrp><gram type="role">pronoun</gram>
+    <gram type="role">oblique</gram>
     </gramGrp></entry>
     <entry>
     <form><pc>+</pc>ūr<pc>+</pc></form>
@@ -88,13 +90,12 @@
     </gramGrp></entry>
     <entry>
     <form>nār</form>
-    <def>bark</def>
-    <gramGrp><gram type="role">noun</gram>
-    </gramGrp></entry>
+    <def>bark(?)</def>
+    <gramGrp></gramGrp></entry>
     <entry>
     <form>uri</form>
     <def>stripped</def>
-    <gramGrp><gram type="role">verbal root as peyareccam</gram>
+    <gramGrp><gram type="role">verbal root as peyareccam perfective aspect</gram>
     </gramGrp></entry>
     <entry>
     <form>mel</form>
@@ -103,28 +104,27 @@
     </gramGrp></entry>
     <entry>
     <form>kāl</form>
-    <def>stem</def>
+    <def>stalk</def>
     <gramGrp><gram type="role">noun</gram>
     </gramGrp></entry>
     <entry>
     <form>niṟattiṉum</form>
     <def>colour</def>
-    <gramGrp><gram type="role">comparative suffix -iṉum</gram>
+    <gramGrp><gram type="role">comparative</gram>
+    <gram type="role">suffix</gram>
     </gramGrp></entry>
     <entry>
-    <form>niḻaṟṟutal<pc>-</pc>maṉṉē</form>
+    <form>niḻaṟṟutal-maṉṉē</form>
     <def>shining</def>
     <form type="simple">niḻaṟṟutal</form>
     <gramGrp><gram type="role">verbal noun</gram>
-    </gramGrp>
-    <gramGrp type="particle"><m>maṉṉē</m></gramGrp>
-    <note>Verbal noun as predicate!</note>
+    </gramGrp><gramGrp type="particle"><m>maṉṉē</m></gramGrp>
     </entry>
     <entry>
     <form><pc>~</pc>iṉi<pc>+</pc></form>
     <def>now</def>
-    <gramGrp><gram type="role">adverb</gram></gramGrp>
-    </entry>
+    <gramGrp><gram type="role">adverb</gram>
+    </gramGrp></entry>
     <entry>
     <form>pacantaṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
     <def>it-has-paled</def>
@@ -134,11 +134,12 @@
     <entry>
     <form>eṉ</form>
     <def>my</def>
-    <gramGrp><gram type="role">oblique</gram>
+    <gramGrp><gram type="role">pronoun</gram>
+    <gram type="role">oblique</gram>
     </gramGrp></entry>
     <entry>
     <form>māmai<pc>+</pc></form>
-    <def>darkness</def>
+    <def>dark</def>
     <gramGrp><gram type="role">noun</gram>
     </gramGrp></entry>
     <entry>

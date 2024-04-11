@@ -42,12 +42,12 @@
         </lg>
         <lg type="translation" xml:lang="en">
           <l> Alas, [my] friend! </l>
-          <l> The bringer of delight,</l>
-          <l> having left [us], with bright bracelets on [our] forearms, to cry,</l>
-            <l>  has taken [his] seat in the village of his women.</l>
-          <l> [He is] the lord of the land of white lotus</l>
-            <l> whose outer petals [covered with] bees</l>
-          <l> open, while Keṇṭai fish leap.</l>
+          <l> The bringer of delight</l>
+          <l> has left [us], with bright bracelets on [our] forearms, to cry.</l>
+            <l> They say has taken to tarrying in his wife's village.</l>
+          <l>  [But he is] lord of the land of white lotuses</l>
+            <l> with bees in [their] buds</l>
+          <l> that open while keṇṭai fish leap uncontrollably towards them.</l>
 
 
         </lg>
@@ -59,7 +59,6 @@
     <entry>
     <form>amma</form>
     <def>alas</def>
-    <gramGrp><gram type="role">particle of lament</gram></gramGrp>
     </entry>
     <entry>
     <form>vāḻi</form>
@@ -96,8 +95,8 @@
     </gramGrp></entry>
     <entry>
     <form>yām</form>
-    <def>we (exclusive)</def>
-    <gramGrp><gram type="role">personal pronoun</gram>
+    <def>we</def>
+    <gramGrp><gram type="role">pronoun</gram>
     <gram type="role">first person plural</gram>
     </gramGrp></entry>
     <entry>
@@ -112,13 +111,14 @@
     </gramGrp></entry>
     <entry>
     <form>taṉ</form>
-    <def>self</def>
-    <gramGrp><gram type="role">oblique</gram>
+    <def>his</def>
+    <gramGrp><gram type="role">pronoun</gram>
+    <gram type="role">oblique</gram>
     </gramGrp></entry>
     <entry>
     <form>peṇṭir</form>
     <def>women</def>
-    <gramGrp><gram type="role">plural</gram>
+    <gramGrp><gram type="role">honorific plural</gram>
     <gram type="role">noun</gram>
     </gramGrp></entry>
     <entry>
@@ -128,7 +128,7 @@
     </gramGrp></entry>
     <entry>
     <form>iṟai</form>
-    <def>seat</def>
+    <def>seat/staying/tarrying</def>
     <gramGrp><gram type="role">noun</gram>
     </gramGrp></entry>
     <entry>
@@ -146,7 +146,7 @@
     </gramGrp></entry>
     <entry>
     <form>keṇṭai</form>
-    <def>Keṇṭai-fish</def>
+    <def>keṇṭai-fish</def>
     <gramGrp><gram type="role">noun</gram>
     </gramGrp></entry>
     <entry>
@@ -167,7 +167,7 @@
     </gramGrp></entry>
     <entry>
     <form>piṇi</form>
-    <def>bud</def>
+    <def>fetter/plait/bud</def>
     <gramGrp><gram type="role">root noun</gram>
     </gramGrp></entry>
     <entry>

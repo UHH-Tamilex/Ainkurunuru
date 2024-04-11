@@ -42,7 +42,7 @@
           <l> The man from the village </l>
           <l rend='indent2'> where the dark paddy flowers drip [pollen]</l>
           <l rend='indent2'> so that the cool interior earth holes of crabs</l>
-          <l rend='indent2'>– whose eyes are as large as neem buds– </l>
+          <l rend='indent2'>whose eyes are as large as neem buds </l>
           <l rend='indent2'>become full:</l>
           <l> What about the fact that she is losing [her] great beauty because of him, mother?</l>
 
@@ -81,9 +81,8 @@
     </gramGrp></entry>
     <entry>
     <form>kaḷvaṉ</form>
-    <def>crab</def>
-    <gramGrp><gram type="role">noun</gram>
-    </gramGrp></entry>
+    <def>crab(?)</def>
+    <gramGrp></gramGrp></entry>
     <entry>
     <form>taṇ</form>
     <def>cool</def>
@@ -132,7 +131,7 @@
     </gramGrp></entry>
     <entry>
     <form>ūraṟk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
-    <def>village</def>
+    <def>man-from-the-village</def>
     <gramGrp><gram type="role">pronominalised noun</gram>
     <gram type="role">masculine singular</gram>
     <gram type="role">dative</gram>
@@ -161,7 +160,8 @@
     <form>evaṉ-kol</form>
     <def>what</def>
     <form type="simple">evaṉ</form>
-    <gramGrp type="particle"><m>kol</m></gramGrp>
+    <gramGrp><gram type="role">pronoun</gram>
+    </gramGrp><gramGrp type="particle"><m>kol</m></gramGrp>
     </entry>
     <entry>
     <form>aṉṉāy</form>

@@ -42,8 +42,8 @@
           <l> Alas, [my] friend!</l>
           <l> My eyes that went pale for a stranger</l>
           <l> have taken on a colour like the pollen </l>
-          <l> of the hollow-stalked white lotus in the pond of our village,</l>
-          <l>when it flowers. </l>
+          <l> of the hollow-stalked white lotus that flowered in the pond</l> 
+          <l> in our village.</l>
          
 
 
@@ -54,120 +54,103 @@
   <standOff type="wordsplit" corresp="#Aink34">
     <interp type="alignment" select="0">48MG41MG3M,93MG</interp>
     <entry>
-      <form>amma</form>
-      <def>alas</def>
-      <gramGrp><gram type="role">particle of lament</gram></gramGrp>
+    <form>amma</form>
+    <def>alas</def>
     </entry>
     <entry>
-      <form>vāḻi</form>
-      <def>may-you-live</def>
-      <gramGrp><gram type="role">subjuntive</gram>
-      </gramGrp>
-    </entry>
+    <form>vāḻi</form>
+    <def>may-you-live</def>
+    <gramGrp><gram type="role">subjuntive</gram>
+    <gram type="role">singular</gram>
+    <gram type="role">second person</gram>
+    </gramGrp></entry>
     <entry>
-      <form>tōḻi</form>
-      <def>friend</def>
-      <gramGrp><gram type="role">vocative</gram>
-      </gramGrp>
-    </entry>
+    <form>tōḻi</form>
+    <def>friend</def>
+    <gramGrp><gram type="role">vocative</gram>
+    </gramGrp></entry>
     <entry>
-      <form>nam</form>
-      <def>our</def>
-      <gramGrp><gram type="role">oblique</gram>
-      </gramGrp>
-    </entry>
+    <form>nam</form>
+    <def>our</def>
+    <gramGrp><gram type="role">pronoun</gram>
+    <gram type="role">oblique</gram>
+    </gramGrp></entry>
     <entry>
-      <form><pc>+</pc>ūr<pc>+</pc></form>
-      <def>village</def>
-      <gramGrp><gram type="role">noun</gram>
-      </gramGrp>
-    </entry>
+    <form><pc>+</pc>ūr<pc>+</pc></form>
+    <def>village</def>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
     <entry>
-      <form>poykai<pc>+</pc></form>
-      <def>pond</def>
-      <gramGrp><gram type="role">noun</gram>
-      </gramGrp>
-    </entry>
+    <form>poykai<pc>+</pc></form>
+    <def>pond</def>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
     <entry>
-      <form>pūtta</form>
-      <def>flowered</def>
-      <gramGrp><gram type="role">perfective aspect</gram>
+    <form>pūtta</form>
+    <def>flowered</def>
+    <gramGrp><gram type="role">perfective aspect</gram>
     <gram type="role">peyareccam</gram>
-      </gramGrp>
-    </entry>
+    </gramGrp></entry>
     <entry>
-      <form>puḻai<pc>+</pc></form>
-      <def>hole</def>
-      <gramGrp><gram type="role">noun</gram>
-      </gramGrp>
-    </entry>
+    <form>puḻai<pc>+</pc></form>
+    <def>hole</def>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
     <entry>
-      <form>kāl</form>
-      <def>stalk</def>
-      <gramGrp><gram type="role">noun</gram>
-      </gramGrp>
-    </entry>
+    <form>kāl</form>
+    <def>stalk</def>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
     <entry>
-      <form>āmpal</form>
-      <def>white-lotus</def>
-      <gramGrp><gram type="role">noun</gram>
-      </gramGrp>
-    </entry>
+    <form>āmpal</form>
+    <def>white-lotus</def>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
     <entry>
-      <form>tāt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
-      <def>pollen</def>
-      <gramGrp><gram type="role">noun</gram>
-      </gramGrp>
-    </entry>
+    <form>tāt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>pollen</def>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
     <entry>
-      <form>ēr</form>
-      <def>resemble</def>
-      <gramGrp><gram type="role">verbal root as peyareccam</gram>
-      </gramGrp>
-    </entry>
+    <form>ēr</form>
+    <def>resemble</def>
+    <gramGrp><gram type="role">verbal root as peyareccam imperfective aspect</gram>
+    </gramGrp></entry>
     <entry>
-      <form>vaṇṇam</form>
-      <def>colour</def>
-      <gramGrp><gram type="role">noun</gram>
-      </gramGrp>
-    </entry>
+    <form>vaṇṇam</form>
+    <def>colour</def>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
     <entry>
-      <form>koṇṭaṉa</form>
-      <def>they-have-taken</def>
-      <gramGrp><gram type="role">neuter plural</gram>
+    <form>koṇṭaṉa</form>
+    <def>they-have-taken</def>
+    <gramGrp><gram type="role">neuter plural</gram>
     <gram type="role">perfective aspect</gram>
-
-      </gramGrp>
-    </entry>
+    </gramGrp></entry>
     <entry>
-      <form><pc>~</pc>ētilāḷarkku<pc>+</pc></form>
-      <def>stranger</def>
-      <gramGrp><gram type="role">dative</gram>
-    <gram type="role">plural</gram>
-    <gram type="role">
-        honorific</gram>
-      </gramGrp>
-    </entry>
+    <form><pc>~</pc>ētilāḷarkku<pc>+</pc></form>
+    <def>stranger</def>
+    <gramGrp><gram type="role">dative</gram>
+    <gram type="role">honorific</gram>
+    </gramGrp></entry>
     <entry>
-      <form>pacanta</form>
-      <def>paled</def>
-      <gramGrp><gram type="role">perfective aspect</gram>
+    <form>pacanta</form>
+    <def>paled</def>
+    <gramGrp><gram type="role">perfective aspect</gram>
     <gram type="role">peyareccam</gram>
-      </gramGrp>
-    </entry>
+    </gramGrp></entry>
     <entry>
-      <form><pc>~</pc>eṉ</form>
-      <def>my</def>
-      <gramGrp><gram type="role">oblique</gram>
-      </gramGrp>
-    </entry>
+    <form><pc>~</pc>eṉ</form>
+    <def>my</def>
+    <gramGrp><gram type="role">pronoun</gram>
+    <gram type="role">oblique</gram>
+    </gramGrp></entry>
     <entry>
-      <form>kaṇ-<pc>+</pc>ē</form>
-      <def>eye</def>
-      <form type="simple">kaṇ</form>
-      <gramGrp><gram type="role">noun</gram>
-      </gramGrp>
-      <gramGrp type="particle"><m>ē</m></gramGrp>
+    <form>kaṇ-<pc>+</pc>ē</form>
+    <def>eye</def>
+    <form type="simple">kaṇ</form>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
     </entry>
-  </standOff>
+    </standOff>
 </TEI>

@@ -56,7 +56,8 @@
     <entry>
     <form>ayal</form>
     <def>neighbourhood</def>
-    </entry>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
     <entry>
     <form>puṟantanta</form>
     <def>protected</def>
@@ -66,8 +67,9 @@
     <entry>
     <form>puṉiṟṟu</form>
     <def>newly-born-thing</def>
-    <gramGrp><gram type="role">obl.</gram>
-   
+    <gramGrp><gram type="role">participial noun</gram>
+    <gram type="role">neuter singular</gram>
+    <gram type="role">perfective aspect</gram>
     </gramGrp></entry>
     <entry>
     <form>vaḷar</form>
@@ -77,27 +79,32 @@
     <entry>
     <form>paim</form>
     <def>fresh</def>
-    </entry>
+    <gramGrp><gram type="role">adjective</gram>
+    </gramGrp></entry>
     <entry>
     <form>kāy</form>
     <def>unripe-fruit</def>
-    </entry>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
     <entry>
     <form>vayalai<pc>+</pc></form>
     <def>purslane</def>
-    </entry>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
     <entry>
     <form>cem</form>
     <def>red</def>
-    </entry>
+    <gramGrp><gram type="role">adjective</gram>
+    </gramGrp></entry>
     <entry>
     <form>koṭi</form>
     <def>creeper</def>
-    </entry>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
     <entry>
     <form>kaḷvaṉ</form>
-    <def>crab</def>
-    </entry>
+    <def>crab(?)</def>
+    <gramGrp></gramGrp></entry>
     <entry>
     <form>aṟukkum</form>
     <def>tearing-off</def>
@@ -107,17 +114,19 @@
     <entry>
     <form>kaḻaṉi</form>
     <def>paddy-field</def>
-    </entry>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
     <entry>
     <form><pc>~</pc>ūraṉ</form>
-    <def>village</def>
+    <def>man-from-the-village</def>
     <gramGrp><gram type="role">pronominalised noun</gram>
     <gram type="role">masculine singular</gram>
     </gramGrp></entry>
     <entry>
     <form>mārpu</form>
     <def>chest</def>
-    </entry>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
     <entry>
     <form>palarkk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
     <def>many</def>
@@ -128,11 +137,12 @@
     <entry>
     <form>iḻai</form>
     <def>jewel</def>
-    </entry>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
     <entry>
     <form>nekiḻ</form>
     <def>become-loose</def>
-    <gramGrp><gram type="role">verbal root as absolutive</gram>
+    <gramGrp><gram type="role">verbal root as peyareccam perfective aspect</gram>
     </gramGrp></entry>
     <entry>
     <form>cellal</form>
@@ -141,7 +151,7 @@
     </gramGrp></entry>
     <entry>
     <form>ākum</form>
-    <def>it-is</def>
+    <def>they-become</def>
     <gramGrp><gram type="role">habitual future</gram>
     </gramGrp></entry>
     <entry>

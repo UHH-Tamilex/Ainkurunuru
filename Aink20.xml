@@ -58,28 +58,33 @@
     <entry>
     <form>aṟu</form>
     <def>six</def>
-    </entry>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
     <entry>
     <form>cil</form>
     <def>few</def>
-    </entry>
+    <gramGrp><gram type="role">adjective</gram>
+    </gramGrp></entry>
     <entry>
     <form>kāla</form>
-    <def>leg (adjectival suffix -a)</def>
-
-    </entry>
+    <def>leg</def>
+    <gramGrp><gram type="role">adjective</gram>
+    </gramGrp></entry>
     <entry>
     <form><pc>~</pc>am</form>
     <def>pretty</def>
-    </entry>
+    <gramGrp><gram type="role">adjective</gram>
+    </gramGrp></entry>
     <entry>
     <form>ciṟai<pc>+</pc></form>
     <def>wing</def>
-    </entry>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
     <entry>
     <form>tumpi</form>
     <def>bee</def>
-    </entry>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
     <entry>
     <form>nūṟṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
     <def>hundred</def>
@@ -88,31 +93,34 @@
     <entry>
     <form>itaḻ<pc>+</pc></form>
     <def>petal</def>
-    </entry>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
     <entry>
     <form>tāmarai<pc>+</pc></form>
     <def>lotus</def>
-    </entry>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
     <entry>
     <form>pū<pc>+</pc></form>
     <def>flower</def>
-    <gram type="role">verbal root</gram>
-    </entry>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
     <entry>
     <form>ciṉai</form>
     <def>branch</def>
-    </entry>
+    <gramGrp><gram type="role">root noun</gram>
+    </gramGrp></entry>
     <entry>
     <form>cīkkum</form>
     <def>sweeping</def>
-  
-    <gram type="role">peyareccam</gram>
     <gramGrp><gram type="role">imperfect aspect</gram>
+    <gram type="role">peyareccam</gram>
     </gramGrp></entry>
     <entry>
     <form>kāmpu</form>
     <def>shaft</def>
-    </entry>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
     <entry>
     <form>kaṇṭaṉṉa</form>
     <def>seen-like</def>
@@ -122,7 +130,8 @@
     <entry>
     <form>tūmp<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
     <def>tube</def>
-    </entry>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
     <entry>
     <form>uṭai</form>
     <def>possessing</def>
@@ -130,19 +139,22 @@
     </gramGrp></entry>
     <entry>
     <form>vēḻattu<pc>+</pc></form>
-    <def>wild-cane (oblique) </def>
-    </entry>
+    <def>wild-cane</def>
+    <gramGrp><gram type="role">oblique</gram>
+    </gramGrp></entry>
     <entry>
     <form>tuṟai</form>
     <def>ghat</def>
-    </entry>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
     <entry>
     <form>naṇi</form>
     <def>nearness</def>
-    </entry>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
     <entry>
     <form><pc>~</pc>ūraṉai</form>
-    <def>village</def>
+    <def>man-from-the-village</def>
     <gramGrp><gram type="role">pronominalised noun</gram>
     <gram type="role">masculine singular</gram>
     <gram type="role">accusative</gram>
@@ -159,24 +171,29 @@
     </gramGrp></entry>
     <entry>
     <form><pc>+</pc>iṟai</form>
-    <def>joint</def>
-    </entry>
+    <def>joint-of-the-body</def>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
     <entry>
     <form><pc>~</pc>ēr</form>
     <def>fine</def>
-    </entry>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
     <entry>
     <form>el</form>
-    <def>lustre/splendour</def>
-    </entry>
+    <def>bright</def>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
     <entry>
     <form>vaḷai</form>
     <def>bangle</def>
-    </entry>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
     <entry>
     <form>nekiḻp<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
-    <def>becoming-loose (absolutive)</def>
-    <gramGrp></gramGrp></entry>
+    <def>having-become-loose</def>
+    <gramGrp><gram type="role">absolutive</gram>
+    </gramGrp></entry>
     <entry>
     <form>ōṭum-<pc>+</pc>ē</form>
     <def>they-run</def>

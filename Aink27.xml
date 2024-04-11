@@ -40,8 +40,8 @@
 
         </lg>
         <lg type="translation" xml:lang="en">
-          <l> The fact that [we] are unhappy</l>
-          <l> and so exhausted that [our] bright bangles become loose </l>
+          <l> The fact that [we] bear unhappiness,</l>
+          <l> being so exhausted that [our] bright bangles become loose </l>
             <l>because of the man from the village</l>
           <l rend='indent2'> where the crab, having taken ears from the red paddy field, </l>
           <l rend='indent2'> goes into [its] cool interior earth hole:</l>
@@ -81,9 +81,8 @@
     </gramGrp></entry>
     <entry>
     <form>kaḷvaṉ</form>
-    <def>crab</def>
-    <gramGrp><gram type="role">noun</gram>
-    </gramGrp></entry>
+    <def>crab(?)</def>
+    <gramGrp></gramGrp></entry>
     <entry>
     <form>taṇ</form>
     <def>cool</def>
@@ -112,7 +111,7 @@
     </gramGrp></entry>
     <entry>
     <form>ūraṟk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
-    <def>village</def>
+    <def>man-from-the-village</def>
     <gramGrp><gram type="role">pronominalised noun</gram>
     <gram type="role">masculine singular</gram>
     <gram type="role">dative</gram>
@@ -151,7 +150,8 @@
     <form>evaṉ-kol</form>
     <def>what</def>
     <form type="simple">evaṉ</form>
-    <gramGrp type="particle"><m>kol</m></gramGrp>
+    <gramGrp><gram type="role">pronoun</gram>
+    </gramGrp><gramGrp type="particle"><m>kol</m></gramGrp>
     </entry>
     <entry>
     <form>aṉṉāy</form>

@@ -58,7 +58,8 @@
     <entry>
     <form>tāy</form>
     <def>mother</def>
-    </entry>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
     <entry>
     <form>cā<pc>+</pc></form>
     <def>die</def>
@@ -73,16 +74,18 @@
     <entry>
     <form>puḷḷi<pc>+</pc></form>
     <def>dot</def>
-    </entry>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
     <entry>
     <form>kaḷvaṉoṭu</form>
-    <def>crab</def>
+    <def>crab(?)</def>
     <gramGrp><gram type="role">sociative</gram>
     </gramGrp></entry>
     <entry>
     <form>piḷḷai</form>
     <def>child</def>
-    </entry>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
     <entry>
     <form>tiṉṉum</form>
     <def>eating</def>
@@ -97,13 +100,15 @@
     </gramGrp></entry>
     <entry>
     <form>avaṉ</form>
-    <def>his</def>
-    <gramGrp><gram type="role">oblique</gram>
+    <def>he</def>
+    <gramGrp><gram type="role">pronoun</gram>
+    <gram type="role">oblique</gram>
     </gramGrp></entry>
     <entry>
     <form>ūr</form>
     <def>village</def>
-    </entry>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
     <entry>
     <form>eytiṉaṉ</form>
     <def>one-who-reached</def>
@@ -128,11 +133,13 @@
     <entry>
     <form>polam</form>
     <def>gold</def>
-    </entry>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
     <entry>
     <form>toṭi</form>
     <def>bracelet</def>
-    </entry>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
     <entry>
     <form>teḷirppa</form>
     <def>sparkle</def>
@@ -148,8 +155,9 @@
     </gramGrp></entry>
     <entry>
     <form>nalam</form>
-    <def>goodness/beauty</def>
-    </entry>
+    <def>goodness</def>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
     <entry>
     <form>koṇṭu</form>
     <def>taking</def>
@@ -158,7 +166,7 @@
     <entry>
     <form>tuṟappat<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
     <def>act-of-abandoning</def>
-    <gramGrp><gram type="role">verbal noun</gram>
+    <gramGrp><gram type="role">participial noun</gram>
     <gram type="role">neuter singular</gram>
     <gram type="role">imperfect aspect</gram>
     </gramGrp></entry>
@@ -166,7 +174,8 @@
     <form>evaṉ-kol</form>
     <def>what</def>
     <form type="simple">evaṉ</form>
-    <gramGrp type="particle"><m>kol</m></gramGrp>
+    <gramGrp><gram type="role">pronoun</gram>
+    </gramGrp><gramGrp type="particle"><m>kol</m></gramGrp>
     </entry>
     <entry>
     <form>aṉṉāy</form>
@@ -174,5 +183,4 @@
     <gramGrp><gram type="role">vocative</gram>
     </gramGrp></entry>
     </standOff>
-  
 </TEI>

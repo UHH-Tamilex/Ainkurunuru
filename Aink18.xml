@@ -59,92 +59,107 @@
     <entry>
     <form>irum</form>
     <def>big/dark</def>
-    </entry>
+    <gramGrp><gram type="role">adjective</gram>
+    </gramGrp></entry>
     <entry>
     <form>cāy</form>
     <def>sedge</def>
-    </entry>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
     <entry>
     <form>aṉṉa</form>
     <def>like</def>
-    <gramGrp><gram type="role">postposition</gram></gramGrp>
-    </entry>
+    <gramGrp><gram type="role">postposition</gram>
+    </gramGrp></entry>
     <entry>
     <form>ceruntiyoṭu</form>
     <def>pear-tree</def>
-    <gramGrp type="affix"><m>oṭu</m><gramGrp><gram type="role">sociative</gram></gramGrp></gramGrp>
-    </entry>
+    <gramGrp><gram type="role">sociative</gram>
+    <gram type="role">noun</gram>
+    </gramGrp></entry>
     <entry>
     <form>vēḻam</form>
     <def>wild-cane</def>
-    </entry>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
     <entry>
     <form>karumpiṉ</form>
     <def>sugarcane</def>
-    <gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-    </entry>
+    <gramGrp><gram type="role">oblique</gram>
+    </gramGrp></entry>
     <entry>
     <form>alamarum</form>
     <def>whirling</def>
-    <gramGrp><gram type="role">peyareccam imperfective aspect</gram></gramGrp>
-    </entry>
+    <gramGrp><gram type="role">imperfect aspect</gram>
+    <gram type="role">peyareccam</gram>
+    </gramGrp></entry>
     <entry>
     <form>kaḻaṉi</form>
     <def>field</def>
-    </entry>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
     <entry>
     <form><pc>~</pc>ūraṉ</form>
-    <def>village</def>
-    <gramGrp><gram type="role">pronominalised noun masculine singular</gram></gramGrp>
-    </entry>
+    <def>man-from-the-village</def>
+    <gramGrp><gram type="role">pronominalised noun</gram>
+    <gram type="role">masculine singular</gram>
+    </gramGrp></entry>
     <entry>
     <form>poruntu</form>
-    <def>be-suited</def>
-    <gramGrp><gram type="role">verbal root as peyareccam imperfective aspect</gram></gramGrp>
-    </entry>
+    <def>being-suited</def>
+    <gramGrp><gram type="role">verbal root as peyareccam imperfective aspect</gram>
+    </gramGrp></entry>
     <entry>
     <form>malar</form>
     <def>blossom</def>
-    </entry>
+    <gramGrp><gram type="role">root noun</gram>
+    </gramGrp></entry>
     <entry>
     <form>aṉṉa</form>
     <def>like</def>
-    <gramGrp><gram type="role">postposition</gram></gramGrp>
-    </entry>
+    <gramGrp><gram type="role">postposition</gram>
+    </gramGrp></entry>
     <entry>
     <form><pc>~</pc>eṉ</form>
     <def>my</def>
-    <gramGrp><gram type="role">oblique</gram></gramGrp>
-    </entry>
+    <gramGrp><gram type="role">oblique</gram>
+    </gramGrp></entry>
     <entry>
     <form>kaṇ</form>
     <def>eye</def>
-    </entry>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
     <entry>
     <form><pc>+</pc>aḻa<pc>+</pc></form>
     <def>cry</def>
-    <gramGrp><gram type="role">infinitive</gram></gramGrp>
-    </entry>
+    <gramGrp><gram type="role">infinitive</gram>
+    </gramGrp></entry>
     <entry>
     <form>pirintaṉaṉ</form>
-    <def>he-separated(perfective aspect masculine singular)</def>
-    </entry>
+    <def>he-separated</def>
+    <gramGrp><gram type="role">masculine singular</gram>
+    <gram type="role">perfective aspect</gram>
+    </gramGrp></entry>
     <entry>
     <form>allaṉ-ō</form>
     <def>he-is/was-not-so</def>
     <form type="simple">allaṉ</form>
-    <gramGrp><gram type="role">finite verb masculine singular</gram></gramGrp>
-    <gramGrp type="particle"><m>ō</m></gramGrp>
+    <gramGrp><gram type="role">masculine singular</gram>
+    </gramGrp><gramGrp type="particle"><m>ō</m></gramGrp>
     </entry>
     <entry>
     <form>piriyaleṉ</form>
-    <def>I-shall-not-separate(negative 1st person singular)</def>
-    </entry>
+    <def>I-shall-not-separate</def>
+    <gramGrp><gram type="role">negative</gram>
+    <gram type="role">singular</gram>
+    <gram type="role">first person</gram>
+    </gramGrp></entry>
     <entry>
     <form>eṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
-    <def>saying (quotative particle)</def>
+    <def>saying</def>
     <form type="simple">eṉṟu</form>
-    <gramGrp type="particle"><m>ē</m></gramGrp>
+    <gramGrp><gram type="role">absolutive</gram>
+    </gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
     </entry>
     </standOff>
 </TEI>

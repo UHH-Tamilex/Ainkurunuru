@@ -55,19 +55,22 @@
     <entry>
     <form>muḷḷi</form>
     <def>Muḷḷi-plant</def>
-    </entry>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
     <entry>
     <form>vēr</form>
     <def>root</def>
-    </entry>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
     <entry>
     <form>aḷai<pc>+</pc></form>
     <def>hole</def>
-    </entry>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
     <entry>
     <form>kaḷvaṉ</form>
-    <def>crab</def>
-    </entry>
+    <def>crab(?)</def>
+    <gramGrp></gramGrp></entry>
     <entry>
     <form>āṭṭi<pc>+</pc></form>
     <def>chasing</def>
@@ -76,7 +79,8 @@
     <entry>
     <form>pū<pc>+</pc></form>
     <def>flower</def>
-    </entry>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
     <entry>
     <form>kuṟṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
     <def>plucking</def>
@@ -91,7 +95,8 @@
     <entry>
     <form>puṉal</form>
     <def>flood</def>
-    </entry>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
     <entry>
     <form>aṇi</form>
     <def>adorn</def>
@@ -99,14 +104,15 @@
     </gramGrp></entry>
     <entry>
     <form><pc>~</pc>ūraṉ</form>
-    <def>village</def>
+    <def>man-from-the-village</def>
     <gramGrp><gram type="role">pronominalised noun</gram>
     <gram type="role">masculine singular</gram>
     </gramGrp></entry>
     <entry>
     <form>tēṟṟam</form>
     <def>clarity</def>
-    </entry>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
     <entry>
     <form>ceytu</form>
     <def>making</def>
@@ -115,7 +121,8 @@
     <entry>
     <form>na<pc>+</pc></form>
     <def>us</def>
-    <gramGrp><gram type="role">oblique</gram>
+    <gramGrp><gram type="role">pronoun</gram>
+    <gram type="role">oblique</gram>
     </gramGrp></entry>
     <entry>
     <form>puṇarnt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
@@ -125,7 +132,8 @@
     <entry>
     <form>iṉi<pc>+</pc></form>
     <def>now</def>
-    </entry>
+    <gramGrp><gram type="role">adverb</gram>
+    </gramGrp></entry>
     <entry>
     <form>tākk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
     <def>attack</def>
@@ -134,11 +142,12 @@
     <entry>
     <form>aṇaṅk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
     <def>torment</def>
-    </entry>
+    <gramGrp><gram type="role">root noun</gram>
+    </gramGrp></entry>
     <entry>
     <form>āvat<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
     <def>act-of-becoming</def>
-    <gramGrp><gram type="role">verbal noun</gram>
+    <gramGrp><gram type="role">participial noun</gram>
     <gram type="role">neuter singular</gram>
     <gram type="role">imperfect aspect</gram>
     </gramGrp></entry>
@@ -146,7 +155,8 @@
     <form>evaṉ-kol</form>
     <def>what</def>
     <form type="simple">evaṉ</form>
-    <gramGrp type="particle"><m>kol</m></gramGrp>
+    <gramGrp><gram type="role">pronoun</gram>
+    </gramGrp><gramGrp type="particle"><m>kol</m></gramGrp>
     </entry>
     <entry>
     <form>aṉṉāy</form>

@@ -41,10 +41,12 @@
 
         </lg>
         <lg type="translation" xml:lang="en">
-          <l> Alas, [my] friend! </l>
-          <l> They say that a man who delights cannot be virtuous, do they not?</l>
-          <l> [Remember] the oath that was sworn, in front of [our] friends when we were bathing together</l>
-          <l> at the big ghat in our village with its crooked, old myrobalan trees?</l>
+         <l> Alas, friend!</l> 
+         <l>Does the oath that we, when bathing together with [our] girlfriends, were witness to</l>
+         <l>at the big ghat of crooked mature myrobalan trees</l>
+         <l>in our village, say, “There is no virtue</l> 
+         <l>in the delightful man”?</l> 
+
 
 
         </lg>
@@ -52,16 +54,14 @@
     </body>
   </text>
   <standOff type="wordsplit" corresp="#Aink31">
-    <interp type="alignment" select="0">28MG5MG15MGM2G31MG6MG7MG2M,102MG</interp>
+    <interp type="alignment" select="0">28MG5MG15MGM2G31MG6MG7MG2M,103M</interp>
     <entry>
     <form>amma</form>
     <def>alas</def>
-    <gramGrp><gram type="role">particle of lament</gram>
-    </gramGrp>
     </entry>
     <entry>
     <form>vāḻi</form>
-    <def>may you live</def>
+    <def>may-you-live</def>
     <gramGrp><gram type="role">subjuntive</gram>
     <gram type="role">singular</gram>
     <gram type="role">second person</gram>
@@ -84,22 +84,22 @@
     </gramGrp></entry>
     <entry>
     <form>aṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
-    <def>it is not so</def>
-    <gramGrp><gram type="role">singular</gram>
+    <def>it-is-not-so</def>
+    <gramGrp><gram type="role"> neuter singular</gram>
     <gram type="role">third person</gram>
-    <gram type="role">neuter</gram>
     </gramGrp></entry>
     <entry>
     <form>eṉṉum-kollō</form>
-    <def>they say</def>
+    <def>it-says</def>
     <form type="simple">eṉṉum</form>
-    <gram type="role">habitual future</gram>
-    <gramGrp type="particle"><m>kollō</m></gramGrp>
+    <gramGrp><gram type="role">habitual future</gram>
+    </gramGrp><gramGrp type="particle"><m>kollō</m></gramGrp>
     </entry>
     <entry>
     <form>nam</form>
     <def>our</def>
-    <gramGrp><gram type="role">oblique</gram>
+    <gramGrp><gram type="role">pronoun</gram>
+    <gram type="role">oblique</gram>
     </gramGrp></entry>
     <entry>
     <form><pc>+</pc>ūr</form>
@@ -108,17 +108,17 @@
     </gramGrp></entry>
     <entry>
     <form>muṭa<pc>(</pc>m<pc>)</pc></form>
-    <def>bend</def>
+    <def>state-of-being-bent/crooked</def>
     <gramGrp><gram type="role">noun</gram>
     </gramGrp></entry>
     <entry>
     <form>mutir</form>
-    <def>mature</def>
+    <def>be-mature</def>
     <gramGrp><gram type="role">verbal root</gram>
     </gramGrp></entry>
     <entry>
     <form>marutattu<pc>+</pc></form>
-    <def>myrobalan tree</def>
+    <def>myrobalan-tree</def>
     <gramGrp><gram type="role">oblique</gram>
     </gramGrp></entry>
     <entry>
@@ -138,26 +138,24 @@
     </gramGrp></entry>
     <entry>
     <form>āṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
-    <def>bathe</def>
-    <gramGrp><gram type="role">verbal root</gram>
+    <def>bathing</def>
+    <gramGrp><gram type="role">verbal root as peyareccam imperfective aspect</gram>
     </gramGrp></entry>
     <entry>
     <form>āyamōṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
-    <def>companion</def>
+    <def>female-companions</def>
     <gramGrp><gram type="role">sociative</gram>
     </gramGrp></entry>
     <entry>
     <form>uṟṟa</form>
-    <def>which-happened/occurred</def>
+    <def>experienced</def>
     <gramGrp><gram type="role">perfective aspect</gram>
     <gram type="role">peyareccam</gram>
     </gramGrp></entry>
     <entry>
-    <form>cūḷ-ē</form>
+    <form>cūḷ</form>
     <def>vow</def>
-    <form type="simple">cūḷ</form>
     <gramGrp><gram type="role">noun</gram>
-    </gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
-    </entry>
+    </gramGrp></entry>
     </standOff>
 </TEI>

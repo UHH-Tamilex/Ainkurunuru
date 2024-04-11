@@ -57,7 +57,8 @@
     <entry>
     <form>muḷḷi</form>
     <def>Muḷḷi-plant</def>
-    </entry>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
     <entry>
     <form>nīṭiya</form>
     <def>grown-long</def>
@@ -67,11 +68,13 @@
     <entry>
     <form>mutu</form>
     <def>old</def>
-    </entry>
+    <gramGrp><gram type="role">adjective</gram>
+    </gramGrp></entry>
     <entry>
     <form>nīr</form>
     <def>water</def>
-    </entry>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
     <entry>
     <form>aṭai</form>
     <def>settle</def>
@@ -80,20 +83,22 @@
     <entry>
     <form>karai<pc>+</pc></form>
     <def>shore</def>
-    </entry>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
     <entry>
     <form>puḷḷi<pc>+</pc></form>
     <def>dot</def>
-    </entry>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
     <entry>
     <form>kaḷvaṉ</form>
-    <def>crab</def>
-    <note>The meaning 'crab' is uncertain. Thus TL for this passage.</note>
-    </entry>
+    <def>crab(?)</def>
+    <gramGrp></gramGrp></entry>
     <entry>
     <form>āmpal</form>
     <def>white-lotus</def>
-    </entry>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
     <entry>
     <form>aṟukkum</form>
     <def>tearing-off</def>
@@ -103,14 +108,16 @@
     <entry>
     <form>taṇ</form>
     <def>cool</def>
-    </entry>
+    <gramGrp><gram type="role">adjective</gram>
+    </gramGrp></entry>
     <entry>
     <form>tuṟai</form>
     <def>ghat</def>
-    </entry>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
     <entry>
     <form><pc>~</pc>ūraṉ</form>
-    <def>village</def>
+    <def>man-from-the-village</def>
     <gramGrp><gram type="role">pronominalised noun</gram>
     <gram type="role">masculine singular</gram>
     </gramGrp></entry>
@@ -124,11 +131,14 @@
     <entry>
     <form>uṇ</form>
     <def>kajal</def>
-    </entry>
+    <gramGrp>
+    <gram type="role">noun</gram>
+    </gramGrp></entry>
     <entry>
     <form>kaṇ</form>
     <def>eye</def>
-    </entry>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
     <entry>
     <form>pacappat<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
     <def>act-of-fading</def>
@@ -140,7 +150,8 @@
     <form>evaṉ-kol</form>
     <def>what</def>
     <form type="simple">evaṉ</form>
-    <gramGrp type="particle"><m>kol</m></gramGrp>
+    <gramGrp><gram type="role">pronoun</gram>
+    </gramGrp><gramGrp type="particle"><m>kol</m></gramGrp>
     </entry>
     <entry>
     <form>aṉṉāy</form>
