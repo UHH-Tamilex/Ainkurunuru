@@ -117,6 +117,7 @@ const dbSchema = {
                        'verbal root as gerundive',
                        'verbal root as imperative',
                        'verbal root as infinitive',
+                       'verbal root as peyareccam',
                        'verbal root as peyareccam imperfective aspect',
                        'verbal root as peyareccam perfective aspect'])
 };
