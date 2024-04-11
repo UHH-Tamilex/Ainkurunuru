@@ -27,9 +27,8 @@ const go = () => {
 
     for(const row of rows) {
         const forms = db.prepare('SELECT DISTINCT form FROM dictionary WHERE fromlemma = ? ORDER BY formsort ASC').all(row.lemma);
-        const formstr = forms.map(f => `<hr><details class="dict"><summary class="dict-heading">${f.form}</summary><div class="spinner"></div></details>`).join('\n');
-        //const outstr = `<hr>\n<details data-entry="${row.lemma}" ${row.recognized ? 'id="' + row.lemma + '"' : ''} class="dict">
-        const outstr = `<hr>\n<details data-entry="${row.lemma}" ${row.recognized === 'TRUE' ? 'id="' + row.lemma + '"' : ''} class="dict">
+        const formstr = forms.map(f => `<hr><details class="dict" data-entry="${f.form}"><summary class="dict-heading">${f.form}</summary><div class="spinner"></div></details>`).join('\n');
+        const outstr = `<hr>\n<details data-entry="${row.form}" ${row.recognized === 'TRUE' ? 'id="' + row.lemma + '"' : ''} class="dict">
             <summary class="dict-heading">${row.form}</summary>
             <div class="spinner"></div>
             ${formstr}

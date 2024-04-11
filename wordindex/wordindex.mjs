@@ -1,6 +1,17 @@
 import { Transliterate } from '../lib/js/transliterate.mjs';
 import createSqlWorker from './sqlWorker.mjs';
 
+const init = () => {
+    const loc = window.location.hash;
+    if(loc) {
+        const word = decodeURI(loc.replace(/^#/,''));
+        const details = document.querySelector(`details[data-entry='${word}']`);
+        details.scrollIntoView({behavior: 'smooth', block: 'center'});
+        details.open = true;
+        docClick({target: details});
+    }
+};
+
 const formatCitations = (citations) => {
     return citations.map(c =>
         `<div><span class="msid" lang="en"><a href="../${c.filename}">${c.siglum}</a></span> <q lang="ta">${c.context}</q></div>`).join('\n');
@@ -32,7 +43,7 @@ const getEntry = async (targ) => {
     }
     else {
         const lemma = targ.closest('details[id]')?.id;
-        const form = targ.querySelector('summary').textContent.replaceAll(/\u00AD/g,'');
+        const form = targ.querySelector('summary').dataset.entry;
         if(lemma)
             results = await workers.local.db.query('SELECT def, type, number, gender, nouncase, person, aspect, mood, proclitic, enclitic, context, citation, filename FROM dictionary WHERE form = ? AND fromlemma = ?',[form,lemma]);
         else
@@ -84,3 +95,4 @@ ${formatCitations(entry.citations)}
 };
 
 document.addEventListener('click',docClick);
+window.addEventListener('load',init);
