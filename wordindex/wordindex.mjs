@@ -8,6 +8,8 @@ const init = () => {
         const details = document.querySelector(`details[data-entry='${word}']`);
         details.scrollIntoView({behavior: 'smooth', block: 'center'});
         details.open = true;
+        pardetails = details.parentNode.closest('details');
+        if(pardetails) pardetails.open = true;
         docClick({target: details});
     }
 };
@@ -43,7 +45,7 @@ const getEntry = async (targ) => {
     }
     else {
         const lemma = targ.closest('details[id]')?.id;
-        const form = targ.querySelector('summary').dataset.entry;
+        const form = targ.closest('details').dataset.entry;
         if(lemma)
             results = await workers.local.db.query('SELECT def, type, number, gender, nouncase, person, aspect, mood, proclitic, enclitic, context, citation, filename FROM dictionary WHERE form = ? AND fromlemma = ?',[form,lemma]);
         else
