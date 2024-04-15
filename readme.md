@@ -112,16 +112,16 @@
 - `(r.n.)` - root noun
 - `(sg.)` - singular
 - `(soc.)` - sociative
-- `(sub.)` - subjuntive
-    - `(sub.2.sg.)` - subjuntive 2nd person singular
-    - `(sub.2.pl.)` - subjuntive 2nd person plural
+- `(sub.)` - subjunctive
+    - `(sub.2.sg.)` - subjunctive 2nd person singular
+    - `(sub.2.pl.)` - subjunctive 2nd person plural
     - ...etc.
 - `(suff.)` - suffix
 - `(v.n.)` - verbal noun
 - `(v.r.)` - verbal root
     - `(v.r.adj.)` - verbal root as adjective
     - `(v.r.ger.)` - verbal root as gerundive
-    - `(v.r.imp.)` - verbal root as imperative
+    - `(v.r.ipt.)` - verbal root as imperative
     - `(v.r.inf.)` - verbal root as infinitive
     - `(v.r.pey.)` - verbal root as peyareccam
     - `(v.r.pey.p.a.)` - verbal root as peyareccam perfective aspect
