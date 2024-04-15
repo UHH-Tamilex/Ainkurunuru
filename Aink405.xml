@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <title xml:lang="ta">Aiṅkuṟunūṟu</title> 405.<persName xml:lang="ta"> Pēyaṉār.</persName></title>
+        <editor role="translator">Leo Nelson-Jones</editor>
+      </titleStmt>
+      <publicationStmt>
+        <p />
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>
+              <p></p>
+            </summary>
+          </msContents>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change />
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="ta">
+    <body>
+      <div xml:id="Aink405">
+        <lg type="edition">
+          <l>oṇcuṭarp pāṇṭiṟ ceñcuṭar pōla</l>
+          <l>maṉaikkuviḷak kāyiṉaṇ maṉṟa kaṉaippeyaṟ</l>
+          <l>pūppala vaṇinta vaippiṟ</l>
+          <l>puṟavaṇi nāṭaṉ putalvaṉ ṟāyē</l>
+        </lg>
+        <p type="translation" xml:lang="en">
+          She certainly is a light for the house, just like the red flame in the bright shining lamp
+          bowl, the mother of the son of the man from the land with beautiful forests where the
+          heavy rains decorate the land with many flowers.
+        </p>
+      </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#Aink405">
+    <interp type="alignment" select="0">40MG48MG20M,110M</interp>
+    <entry>
+      <form>oṇ</form>
+      <def>bright</def>
+      <gramGrp>
+        <gram type="role">adjective</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>cuṭar<pc>+</pc></form>
+      <def>light</def>
+      <gramGrp>
+        <gram type="role">root noun</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>pāṇṭil</form>
+      <def>lamp bowl</def>
+      <gramGrp>
+        <gram type="role">noun</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>cem</form>
+      <def>red</def>
+      <gramGrp>
+        <gram type="role">adjective</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>cuṭar</form>
+      <def>flame</def>
+      <gramGrp>
+        <gram type="role">root noun</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>pōla</form>
+      <def>resemble</def>
+      <gramGrp>
+        <gram type="role">infinitive</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>maṉaikku</form>
+      <def>house</def>
+      <gramGrp>
+        <gram type="role">dative</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>viḷakk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+      <def>light</def>
+      <gramGrp>
+        <gram type="role">noun</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>āyiṉaḷ</form>
+      <def>is</def>
+      <gramGrp>
+        <gram type="role">feminine singular</gram>
+        <gram type="role">perfective aspect</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>maṉṟa</form>
+      <def></def>
+      <gramGrp type="particle">
+        <m>maṉṟa</m>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>kaṉai<pc>+</pc></form>
+      <def>intense</def>
+      <gramGrp>
+        <gram type="role">verbal root as adjective</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>peyal</form>
+      <def>rain</def>
+      <gramGrp>
+        <gram type="role">verbal noun</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>pū<pc>+</pc></form>
+      <def>flower</def>
+      <gramGrp>
+        <gram type="role">noun</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>pala</form>
+      <def>many</def>
+      <gramGrp>
+        <gram type="role">pronominalised noun</gram>
+        <gram type="role">neuter plural</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form><pc>~</pc>aṇinta</form>
+      <def>decorated</def>
+      <gramGrp>
+        <gram type="role">perfective aspect</gram>
+        <gram type="role">peyareccam</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>vaippiṉ</form>
+      <def>region</def>
+      <gramGrp>
+        <gram type="role">oblique</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>puṟav<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+      <def>forest</def>
+      <gramGrp>
+        <gram type="role">noun</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>aṇi</form>
+      <def>beautiful</def>
+      <gramGrp>
+        <gram type="role">verbal root as adjective</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>nāṭaṉ</form>
+      <def>land</def>
+      <gramGrp>
+        <gram type="role">pronominalised noun</gram>
+        <gram type="role">masculine singular</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>putalvaṉ</form>
+      <def>son</def>
+      <gramGrp>
+        <gram type="role">noun</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>tāyē</form>
+      <def>mother</def>
+      <form type="simple">tāy</form>
+      <gramGrp>
+        <gram type="role">noun</gram>
+      </gramGrp>
+      <gramGrp type="particle">
+        <m>ē</m>
+      </gramGrp>
+    </entry>
+  </standOff>
+</TEI>
