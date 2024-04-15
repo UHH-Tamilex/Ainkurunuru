@@ -48,7 +48,7 @@
     </body>
   </text>
   <standOff type="wordsplit" corresp="#Aink201">
-    <interp type="alignment" select="0">13MG16ML13M2G31MG12MG13MG3M,108M</interp>
+    <interp type="alignment" select="0">13MG16ML13M2G31MG12MG14MG2M,108M</interp>
     <entry>
       <form>aṉṉāy</form>
       <def>mother</def>
@@ -183,7 +183,7 @@
       </gramGrp>
     </entry>
     <entry>
-      <form>a-<pc>+</pc><pc>~</pc>ē</form>
+      <form>a<pc>+</pc>-<pc>~</pc>ē</form>
       <def>they</def>
       <form type="simple">a</form>
       <gramGrp>
