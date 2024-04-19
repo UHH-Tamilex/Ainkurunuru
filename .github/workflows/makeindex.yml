@@ -25,11 +25,10 @@ jobs:
 
       - name: build word index
         run: |
-          cd _indexer
+          cd lib/_indexer
           yarn pageindex
-          cd ../wordindex/_src
-          yarn todb
-          yarn dbtohtml
+          yarn todb Aink
+          yarn dbtohtml Aiṅkuṟunūṟu
           git pull
 
       - uses: stefanzweifel/git-auto-commit-action@v4
