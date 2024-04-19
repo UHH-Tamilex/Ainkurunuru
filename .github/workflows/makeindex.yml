@@ -26,6 +26,7 @@ jobs:
       - name: build word index
         run: |
           cd lib/_indexer
+          yarn install
           yarn pageindex
           yarn todb Aink
           yarn dbtohtml Aiṅkuṟunūṟu
