@@ -55,6 +55,98 @@
       </div>
     </body>
   </text>
-
+  <standOff type="wordsplit" corresp="#Aink43"><interp type="alignment" select="0">8MG55MG24MG2M,91MG</interp>
+    <entry>
+    <form>ampaṇatt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>a measure of grain</def>
+    <gramGrp><gram type="role">oblique</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>aṉṉa</form>
+    <def>like</def>
+    <gramGrp><gram type="role">comparative</gram>
+    <gram type="role">postposition</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>yāmai</form>
+    <def>tortoise</def>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
+    <entry>
+    <form><pc>~</pc>ēṟi<pc>+</pc></form>
+    <def>mounting</def>
+    <gramGrp><gram type="role">absolutive</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>cempiṉ</form>
+    <def>copper</def>
+    </entry>
+    <entry>
+    <form>aṉṉa</form>
+    <def>like</def>
+    <gramGrp><gram type="role">comparative</gram>
+    <gram type="role">postposition</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>pārppu<pc>+</pc></form>
+    <def>young</def>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>pala</form>
+    <def>many</def>
+    <gramGrp><gram type="role">neuter plural</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>tuñcum</form>
+    <def>sleeping</def>
+    <gramGrp><gram type="role">imperfect aspect</gram>
+    <gram type="role">peyareccam</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>yāṇar</form>
+    <def>fertility</def>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>ūra</form>
+    <def>man from the village</def>
+    <gramGrp><gram type="role">pronominalised noun</gram>
+    <gram type="role">masculine singular</gram>
+    <gram type="role">vocative</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>niṉṉiṉ-um</form>
+    <def>you</def>
+    <form type="simple">niṉṉiṉ</form>
+    <gramGrp><gram type="role">comparative</gram>
+    <gram type="role">oblique</gram>
+    </gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
+    </entry>
+    <entry>
+    <form>pāṇaṉ</form>
+    <def>bard</def>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>poyyaṉ</form>
+    <def>liar</def>
+    <gramGrp><gram type="role">pronominalised noun</gram>
+    <gram type="role">masculine singular</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>pala</form>
+    <def>many</def>
+    <gramGrp><gram type="role">neuter plural</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>cūḷiṉaṉ-ē</form>
+    <def>he vowed</def>
+    <form type="simple">cūḷiṉaṉ</form>
+    <gramGrp><gram type="role">participial noun</gram>
+    <gram type="role">masculine singular</gram>
+    <gram type="role">perfective aspect</gram>
+    </gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+    </entry></standOff>
 
 </TEI>
