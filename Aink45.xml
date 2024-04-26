@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <title xml:lang="ta">Aiṅkuṟunūṟu</title> 45. <persName xml:lang="ta">Ōrampōkiyār</persName>
+        </title>
+        <editor role="translator">Eva Wilden</editor>
+      </titleStmt>
+      <publicationStmt>
+        <p />
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>
+              <p></p>
+            </summary>
+          </msContents>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change />
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="ta">
+    <body>
+      <div xml:id="Aink45-kilavi">
+        <p type="edition">neṭunāḷ parattaiyariṭattaṉāy oḻukiya talaimakaṉ maṉaivayiṟ ceṉṟuḻit tōḻi
+          colliyatu.</p>
+        <p type="translation" xml:lang="en"> </p>
+      </div>
+      <div xml:id="Aink45">
+        <lg type="edition">
+          <l>kūti rāyiṟ ṟaṇkaliḻ tantu</l>
+          <l>vēṉi lāyiṉ maṇiniṟaṅ koḷḷum</l>
+          <l>yāṟaṇin taṉṟuniṉ ṉūrē</l>
+          <l>pacappaṇin taṉavāṉ makiḻnaveṉ kaṇṇē.</l>
+        </lg>
+        <lg type="translation" xml:lang="en">
+
+<l>           Your village is adorned with a river</l> 
+<l>           that produces cool, muddy water in winter</l> 
+<l>           [and] adopts the [clear blue] colour of sapphire in summer.</l> 
+<l>           [But] my eyes, o delightful man, are adorned only with pallor. </l> 
+          
+
+
+        </lg>
+      </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#Aink45">
+    <interp type="alignment" select="0">49MG15MG7MG8MG16MG3M,102MG</interp>
+    <entry>
+      <form>kūtir</form>
+      <def>cold season</def>
+      <gramGrp>
+        <gram type="role">noun</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>āyiṉ</form>
+      <def>when</def>
+      <gramGrp>
+        <gram type="role">conditional</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>taṇ</form>
+      <def>cool</def>
+      <gramGrp>
+        <gram type="role">adjective</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>kaliḻ</form>
+      <def>muddy water</def>
+      <gramGrp>
+        <gram type="role">root noun</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>tantu</form>
+      <def>producing</def>
+      <gramGrp>
+        <gram type="role">absolutive</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>vēṉil</form>
+      <def>summer</def>
+      <gramGrp>
+        <gram type="role">noun</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>āyiṉ</form>
+      <def>when</def>
+      <gramGrp>
+        <gram type="role">conditional</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>maṇi</form>
+      <def>sapphire</def>
+      <gramGrp>
+        <gram type="role">noun</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>niṟam</form>
+      <def>colour</def>
+      <gramGrp>
+        <gram type="role">noun</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>koḷḷum</form>
+      <def>taking on/ adopting</def>
+      <gramGrp>
+        <gram type="role">imperfect aspect</gram>
+        <gram type="role">peyareccam</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>yāṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+      <def>river</def>
+      <gramGrp>
+        <gram type="role">noun</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>aṇintaṉṟu</form>
+      <def>it is adorned</def>
+      <gramGrp>
+        <gram type="role">neuter singular</gram>
+        <gram type="role">perfective aspect</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>niṉ</form>
+      <def>your</def>
+      <gramGrp>
+        <gram type="role">pronoun</gram>
+        <gram type="role">oblique</gram>
+        <gram type="role">singular</gram>
+        <gram type="role">second person</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form><pc>+</pc>ūr-ē</form>
+      <def>village</def>
+      <form type="simple">ūr</form>
+      <gramGrp>
+        <gram type="role">noun</gram>
+      </gramGrp>
+      <gramGrp type="particle">
+        <m>ē</m>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>pacapp<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+      <def>pallor</def>
+      <gramGrp>
+        <gram type="role">noun</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>aṇintaṉa-<pc>~</pc>āl</form>
+      <def>they are adorned</def>
+      <form type="simple">aṇintaṉa</form>
+      <gramGrp>
+        <gram type="role">neuter plural</gram>
+        <gram type="role">perfective aspect</gram>
+      </gramGrp>
+      <gramGrp type="particle">
+        <m>āl</m>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>makiḻna</form>
+      <def>delight</def>
+      <gramGrp>
+        <gram type="role">pronominalised noun</gram>
+        <gram type="role">masculine singular</gram>
+        <gram type="role">vocative</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form><pc>~</pc>eṉ</form>
+      <def>my</def>
+      <gramGrp>
+        <gram type="role">oblique</gram>
+        <gram type="role">singular</gram>
+        <gram type="role">pronoun</gram>
+        <gram type="role">first person</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>kaṇ-<pc>+</pc>ē</form>
+      <def>eye</def>
+      <form type="simple">kaṇ</form>
+      <gramGrp>
+        <gram type="role">noun</gram>
+      </gramGrp>
+      <gramGrp type="particle">
+        <m>ē</m>
+      </gramGrp>
+    </entry>
+  </standOff>
+</TEI>
