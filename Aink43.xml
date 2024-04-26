@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <title xml:lang="ta">Aiṅkuṟunūṟu</title> 43. <persName xml:lang="ta">Ōrampōkiyār</persName>
+        </title>
+        <editor role="translator">Eva Wilden</editor>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc />
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <div xml:id="Aink43-kilavi">
+        <p type="edition">pāṉaṉ vāyilākap pukuntu teḷippa maṟutta talaimakaḷ pāṇaṉōṭu talaivaṉ
+          pukuntu teḷittuḻic colliyatu.</p>
+        <p type="translation" xml:lang="en"> </p>
+      </div>
+
+      <div xml:id="Aink43">
+        <lg type="edition">
+          <l> ampaṇat taṉṉa yāmai yēṟic</l>
+          <l> cempi ṉaṉṉa pārppuppala tuñcum</l>
+          <l> yāṇa rūra niṉṉiṉum</l>
+          <l> pāṇaṉ poyyaṉ palacū ḷiṉaṉē.</l>
+        </lg>
+        <lg type="translation" xml:lang="en">
+
+          <l> O man from the fertile village! </l>
+          <l rend="indent2"> Where many young [tortoises] </l>
+          <l rend="indent2"> clambering onto the [mother] tortoise's [back]</l>
+          <l rend="indent2"> resembling a grain measure </l>
+          <l rend="indent2"> sleep</l>
+          <l rend="indent2"> resembling copper [bowls]</l>
+          <l> </l>
+          <l> Compared with you, [your bard] is the [better] liar, </l>
+          <l> He who has made so many vows. </l>
+
+
+        </lg>
+      </div>
+    </body>
+  </text>
+
+
+</TEI>
