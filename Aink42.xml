@@ -54,13 +54,14 @@
     <interp type="alignment" select="0">27MG71ML9MG2M,111MG</interp>
     <entry>
     <form>makiḻ</form>
-    <def>delight</def>
+    <def>delight/intoxication</def>
     <gramGrp><gram type="role">root noun</gram>
     </gramGrp></entry>
     <entry>
     <form>mika<pc>+</pc></form>
-    <def>be-much</def>
-    <gramGrp><gram type="role">infinitive</gram>
+    <def>much/very</def>
+    <gramGrp><gram type="role">adverb</gram>
+    <gram type="role">infinitive</gram>
     </gramGrp></entry>
     <entry>
     <form>ciṟappa</form>
@@ -83,7 +84,7 @@
     </gramGrp></entry>
     <entry>
     <form>ūra</form>
-    <def>village</def>
+    <def>man-from-the-village</def>
     <gramGrp><gram type="role">pronominalised noun</gram>
     <gram type="role">masculine singular</gram>
     <gram type="role">vocative</gram>
@@ -91,13 +92,13 @@
     <entry>
     <form>niṉ</form>
     <def>your</def>
-    <gramGrp><gram type="role">oblique</gram>
+    <gramGrp><gram type="role">pronoun</gram>
+    <gram type="role">oblique</gram>
     </gramGrp></entry>
     <entry>
     <form>māṇ</form>
-    <def>be-glorious</def>
-    <gramGrp><gram type="role">accusative</gram>
-    <gram type="role">noun</gram>
+    <def>glory/spendour</def>
+    <gramGrp><gram type="role">noun</gram>
     </gramGrp></entry>
     <entry>
     <form>iḻai</form>
@@ -116,8 +117,10 @@
     </gramGrp></entry>
     <entry>
     <form>malir</form>
-    <def>flood</def>
-    <gramGrp><gram type="role">verbal root</gram>
+    <def>flooding</def>
+    <gramGrp><gram type="role">imperfect aspect</gram>
+    <gram type="role">peyareccam</gram>
+    <gram type="role">verbal root</gram>
     </gramGrp></entry>
     <entry>
     <form>niṟai</form>
@@ -128,6 +131,7 @@
     <form><pc>~</pc>aṉṉa</form>
     <def>like</def>
     <gramGrp><gram type="role">neuter plural</gram>
+    <gram type="role">noun</gram>
     </gramGrp></entry>
     <entry>
     <form>niṉ</form>
@@ -141,19 +145,20 @@
     </gramGrp></entry>
     <entry>
     <form>naṉi</form>
-    <def>much</def>
+    <def>much/very</def>
     <gramGrp><gram type="role">adverb</gram>
     </gramGrp></entry>
     <entry>
     <form>vilakkal</form>
-    <def>obstructing</def>
+    <def>obstructing/damming</def>
     <gramGrp><gram type="role">verbal noun</gram>
     </gramGrp></entry>
     <entry>
     <form>toṭaṅkiyōḷ-ē</form>
     <def>she-began</def>
     <form type="simple">toṭaṅkiyōḷ</form>
-    <gramGrp><gram type="role">perfective aspect</gram>
+    <gramGrp><gram type="role">participial noun</gram>
+    <gram type="role">perfective aspect</gram>
     <gram type="role">singular</gram>
     <gram type="role">feminine</gram>
     </gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
