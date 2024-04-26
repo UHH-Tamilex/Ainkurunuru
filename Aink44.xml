@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <title xml:lang="ta">Aiṅkuṟunūṟu</title> 44. <persName xml:lang="ta">Ōrampōkiyār</persName>
+        </title>
+        <editor role="translator">Eva Wilden</editor>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc />
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <div xml:id="Aink44-kilavi">
+        <p type="edition">parattaiyar maṉaikkaṇṇē paṉṉāḷ taṅkit taṉmaṉaikkaṇṇē vanta talaimakaṟkut
+          tōḻi kūṟiyatu.</p>
+        <p type="translation" xml:lang="en"> </p>
+      </div>
+
+      <div xml:id="Aink44">
+        <lg type="edition">
+          <l> tīmperum poykai yāmai yiḷampārpput</l>
+          <l> tāymuka nōkki vaḷarntici ṉāaṅ</l>
+          <l> katuvē yaiyaniṉ mārpē</l>
+          <l> yaṟintaṉai yoḻukumati yaṟaṉumā ratuvē.</l>
+        </lg>
+        <lg type="translation" xml:lang="en">
+
+          <l> In the big, sweet pond </l>
+          <l> the tender young of the tortoise </l>
+          <l> growing by gazing into the faces of [their] mothers–</l>
+          <l> That's exactly what your chest is like, o lord! </l>
+          <l> You who know [this], act lawfully! That indeed is [your] duty. </l>
+
+
+        </lg>
+      </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#Aink44"><interp type="alignment" select="0">38MR20MG3MG14M2G33MG3M,116MG</interp>
+    <entry>
+    <form>tīm</form>
+    <def>sweet</def>
+    <gramGrp><gram type="role">adjective</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>perum</form>
+    <def>big</def>
+    <gramGrp><gram type="role">adjective</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>poykai</form>
+    <def>pond</def>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>yāmai</form>
+    <def>tortoise</def>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
+    <entry>
+    <form><pc>~</pc>iḷam</form>
+    <def>young</def>
+    <gramGrp><gram type="role">adjective</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>pārppu<pc>+</pc></form>
+    <def>young</def>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>tāy</form>
+    <def>mother</def>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>mukam</form>
+    <def>face</def>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>nōkki</form>
+    <def>looking at</def>
+    <gramGrp><gram type="role">absolutive</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>vaḷarnticiṉāaṅk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>like having grown</def>
+    <gramGrp><gram type="role">comparative</gram>
+    <gram type="role">absolutive</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>atu-<pc>~</pc>ē</form>
+    <def>that</def>
+    <form type="simple">atu</form>
+    <gramGrp><gram type="role">neuter singular</gram>
+    <gram type="role">pronoun</gram>
+    </gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+    </entry>
+    <entry>
+    <form><pc>~</pc>aiya</form>
+    <def>lord</def>
+    <gramGrp><gram type="role">masculine singular</gram>
+    <gram type="role">vocative</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>niṉ</form>
+    <def>your</def>
+    <gramGrp><gram type="role">oblique</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>mārp<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
+    <def>chest</def>
+    <form type="simple">mārpu</form>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+    </entry>
+    <entry>
+    <form><pc>~</pc>aṟintaṉai</form>
+    <def>you who know</def>
+    <gramGrp><gram type="role">participial noun</gram>
+    <gram type="role">perfective aspect</gram>
+    <gram type="role">singular</gram>
+    <gram type="role">second person</gram>
+    </gramGrp></entry>
+    <entry>
+    <form><pc>~</pc>oḻukumati</form>
+    <def>act lawfully</def>
+    <gramGrp><gram type="role">imperative</gram>
+    <gram type="role">plural</gram>
+    <gram type="role">second person</gram>
+    </gramGrp></entry>
+    <entry>
+    <form><pc>~</pc>aṟaṉumār</form>
+    <def>duty</def>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>atu-<pc>~</pc>ē</form>
+    <def>that</def>
+    <form type="simple">atu</form>
+    <gramGrp><gram type="role">neuter singular</gram>
+    <gram type="role">pronoun</gram>
+    </gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+    </entry></standOff>
+
+</TEI>
