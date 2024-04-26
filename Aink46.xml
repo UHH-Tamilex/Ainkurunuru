@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <title xml:lang="ta">Aiṅkuṟunūṟu</title> 46. <persName xml:lang="ta">Ōrampōkiyār</persName>
+        </title>
+        <editor role="translator">Eva Wilden</editor>
+      </titleStmt>
+      <publicationStmt><p/></publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc><change/></revisionDesc>
+  </teiHeader>
+<text xml:lang="ta">
+  <body>
+    <div xml:id="Aink46-kilavi">
+      <p type="edition">maṉaikkaṇ varutal parattai vilakka vilaṅkip piṉpu ulakiyalpaṟṟi avaḷ kuṟippiṉōṭum vantamai aṟinta tōḻi talaimakaṉaip pulantu colliyatu.</p>
+      <p type="translation" xml:lang="en"> </p>
+    </div>
+    <div xml:id="Aink46">
+      <lg type="edition">
+<l>niṉakkē yaṉṟaḵ temakkumā riṉitē</l>
+<l>niṉmārpu nayanta naṉṉuta larivai</l>
+<l>vēṇṭiya kuṟippiṉai yāki</l>
+<l>yīṇṭunī yaruḷā tāṇṭuṟai tallē.</l>
+</lg>
+<lg type="translation" xml:lang="en">
+
+
+<l>   It is [sweet] not only for you, [but] for us too it is sweet</l> 
+<l>   – [your] staying there, [since] you cannot be considerate here, </l> 
+<l>   since you've got it into your head to lust after</l> 
+<l>   the young woman with a fine forehead who yearns for your chest.</l> 
+  
+            
+  
+  
+          </lg>
+    </div>
+  </body>
+</text>
+<standOff type="wordsplit" corresp="#Aink46"><interp type="alignment" select="0">6M2G5MG3MG5M2G8M2G65MG3MG7MG3M,115MG</interp>
+<entry>
+<form>niṉakk<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
+<def>you</def>
+<form type="simple">niṉakku</form>
+<gramGrp><gram type="role">pronoun</gram>
+<gram type="role">dative</gram>
+<gram type="role">singular</gram>
+<gram type="role">second person</gram>
+</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+</entry>
+<entry>
+<form><pc>~</pc>aṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>it is not so</def>
+<gramGrp><gram type="role">neuter singular</gram>
+</gramGrp></entry>
+<entry>
+<form>aḵt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>that</def>
+<gramGrp><gram type="role">neuter singular</gram>
+<gram type="role">pronoun</gram>
+</gramGrp></entry>
+<entry>
+<form>emakk<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-umār</form>
+<def>us</def>
+<form type="simple">emakku</form>
+<gramGrp><gram type="role">pronoun</gram>
+<gram type="role">dative</gram>
+<gram type="role">plural</gram>
+<gram type="role">first person</gram>
+</gramGrp><gramGrp type="particle"><m>umār</m></gramGrp>
+</entry>
+<entry>
+<form>iṉit<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
+<def>it is sweet</def>
+<form type="simple">iṉitu</form>
+<gramGrp><gram type="role">pronominalised noun</gram>
+<gram type="role">neuter singular</gram>
+</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+</entry>
+<entry>
+<form>niṉ</form>
+<def>your</def>
+<gramGrp><gram type="role">pronoun</gram>
+<gram type="role">oblique</gram>
+<gram type="role">singular</gram>
+<gram type="role">second person</gram>
+</gramGrp></entry>
+<entry>
+<form>mārpu</form>
+<def>chest</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>nayanta</form>
+<def>yearning</def>
+<gramGrp><gram type="role">perfective aspect</gram>
+<gram type="role">peyareccam</gram>
+</gramGrp></entry>
+<entry>
+<form>nal</form>
+<def>good</def>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
+<entry>
+<form>nutal</form>
+<def>forehead</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>arivai</form>
+<def>young woman</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>vēṇṭiya</form>
+<def>wanting</def>
+<gramGrp><gram type="role">perfective aspect</gram>
+<gram type="role">peyareccam</gram>
+</gramGrp></entry>
+<entry>
+<form>kuṟippiṉai</form>
+<def>you having an intention</def>
+<gramGrp><gram type="role">pronominalised noun</gram>
+<gram type="role">singular</gram>
+<gram type="role">second person</gram>
+</gramGrp></entry>
+<entry>
+<form><pc>~</pc>āki</form>
+<def>becoming</def>
+<gramGrp><gram type="role">absolutive</gram>
+</gramGrp></entry>
+<entry>
+<form><pc>~</pc>īṇṭu</form>
+<def>here</def>
+<gramGrp><gram type="role">adverb</gram>
+</gramGrp></entry>
+<entry>
+<form>nī</form>
+<def>you</def>
+<gramGrp><gram type="role">pronoun</gram>
+<gram type="role">singular</gram>
+<gram type="role">second person</gram>
+</gramGrp></entry>
+<entry>
+<form><pc>~</pc>aruḷāt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>not being considerate</def>
+<gramGrp><gram type="role">absolutive</gram>
+<gram type="role">negative</gram>
+</gramGrp></entry>
+<entry>
+<form>āṇṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>there</def>
+<gramGrp><gram type="role">adverb</gram>
+</gramGrp></entry>
+<entry>
+<form>uṟaital-<pc>+</pc>ē</form>
+<def>staying</def>
+<form type="simple">uṟaital</form>
+<gramGrp><gram type="role">verbal noun</gram>
+</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+</entry></standOff>
+</TEI>
