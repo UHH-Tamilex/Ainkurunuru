@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -10,7 +8,7 @@
         <editor role="translator">Eva Wilden</editor>
       </titleStmt>
       <publicationStmt>
-        <p />
+        <p/>
       </publicationStmt>
       <sourceDesc>
         <msDesc xml:lang="en">
@@ -18,14 +16,14 @@
           </msIdentifier>
           <msContents>
             <summary>
-              <p></p>
+              <p/>
             </summary>
           </msContents>
         </msDesc>
       </sourceDesc>
     </fileDesc>
     <revisionDesc>
-      <change />
+      <change/>
     </revisionDesc>
   </teiHeader>
   <text xml:lang="ta">
@@ -60,160 +58,160 @@
     </body>
   </text>
   <standOff type="wordsplit" corresp="#Aink48"><interp type="alignment" select="0">30ML22MG26ML50MG11MG2M,145MG</interp>
-    <entry>
-    <form>valai</form>
-    <def>net</def>
-    <gramGrp><gram type="role">noun</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>val</form>
-    <def>strong/quick</def>
-    <gramGrp><gram type="role">noun</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>pāṇ</form>
-    <def>bard</def>
-    <gramGrp><gram type="role">noun</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>makaṉ</form>
-    <def>son</def>
-    <gramGrp><gram type="role">noun</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>vāl</form>
-    <def>pure/young/white</def>
-    <gramGrp><gram type="role">noun</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>eyiṟṟu</form>
-    <def>tooth</def>
-    <gramGrp><gram type="role">oblique</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>maṭam</form>
-    <def>innocence</def>
-    <gramGrp><gram type="role">noun</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>makaḷ</form>
-    <def>daughter</def>
-    <gramGrp><gram type="role">noun</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>varāal</form>
-    <def>Varāal-fish</def>
-    <gramGrp><gram type="role">noun</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>corinta</form>
-    <def>having poured out/emptied</def>
-    <gramGrp><gram type="role">perfective aspect</gram>
-    <gram type="role">peyareccam</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>vaṭṭi-<pc>~</pc>uḷ</form>
-    <def>basket</def>
-    <gramGrp><gram type="role">locative</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>maṉaiyōḷ</form>
-    <def>housewife</def>
-    <gramGrp><gram type="role">pronominalised noun</gram>
-    <gram type="role">feminine singular</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>yāṇṭu</form>
-    <def>year</def>
-    <gramGrp><gram type="role">noun</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>kaḻi</form>
-    <def>passed</def>
-    <gramGrp><gram type="role">verbal root as peyareccam perfective aspect</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>veḷ</form>
-    <def>white</def>
-    <gramGrp><gram type="role">adjective</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>nel</form>
-    <def>paddy</def>
-    <gramGrp><gram type="role">noun</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>niṟaikkum</form>
-    <def>filling</def>
-    <gramGrp><gram type="role">imperfect aspect</gram>
-    <gram type="role">peyareccam</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>ūra</form>
-    <def>man from the village</def>
-    <gramGrp><gram type="role">pronominalised noun</gram>
-    <gram type="role">masculine singular</gram>
-    <gram type="role">vocative</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>vēṇṭēm</form>
-    <def>we do not want</def>
-    <gramGrp><gram type="role">negative</gram>
-    <gram type="role">plural</gram>
-    <gram type="role">first person</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>peruma</form>
-    <def>big-man</def>
-    <gramGrp><gram type="role">pronominalised noun</gram>
-    <gram type="role">masculine singular</gram>
-    <gram type="role">vocative</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>niṉ</form>
-    <def>your</def>
-    <gramGrp><gram type="role">pronoun</gram>
-    <gram type="role">oblique</gram>
-    <gram type="role">singular</gram>
-    <gram type="role">second person</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>parattai</form>
-    <def>other woman/mistress</def>
-    <gramGrp><gram type="role">noun</gram>
-    </gramGrp></entry>
-    <entry>
-    <form><pc>~</pc>āṇṭu<pc>+</pc></form>
-    <def>there</def>
-    <gramGrp><gram type="role">adverb</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>cey</form>
-    <def>made</def>
-    <gramGrp><gram type="role">verbal root as peyareccam perfective aspect</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>kuṟiyōṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
-    <def>sign/mark</def>
-    <gramGrp><gram type="role">sociative</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>īṇṭu</form>
-    <def>here</def>
-    <gramGrp><gram type="role">adverb</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>nī</form>
-    <def>you</def>
-    <gramGrp><gram type="role">pronoun</gram>
-    <gram type="role">singular</gram>
-    <gram type="role">second person</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>varal-ē</form>
-    <def>coming</def>
-    <form type="simple">varal</form>
-    <gramGrp><gram type="role">verbal noun</gram>
-    </gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
-    </entry></standOff>
+<entry>
+<form>valai</form>
+<def>net</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>val</form>
+<def>strong/quick</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>pāṇ</form>
+<def>bard</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>makaṉ</form>
+<def>son</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>vāl</form>
+<def>pure/young/white</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>eyiṟṟu</form>
+<def>tooth</def>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
+<entry>
+<form>maṭam</form>
+<def>innocence</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>makaḷ</form>
+<def>daughter</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>varāal</form>
+<def>Varāal-fish</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>corinta</form>
+<def>poured out/emptied</def>
+<gramGrp><gram type="role">perfective aspect</gram>
+<gram type="role">peyareccam</gram>
+</gramGrp></entry>
+<entry>
+<form>vaṭṭi-<pc>~</pc>uḷ</form>
+<def>basket</def>
+<gramGrp><gram type="role">locative</gram>
+</gramGrp></entry>
+<entry>
+<form>maṉaiyōḷ</form>
+<def>housewife</def>
+<gramGrp><gram type="role">pronominalised noun</gram>
+<gram type="role">feminine singular</gram>
+</gramGrp></entry>
+<entry>
+<form>yāṇṭu</form>
+<def>year</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>kaḻi</form>
+<def>passed</def>
+<gramGrp><gram type="role">verbal root as peyareccam perfective aspect</gram>
+</gramGrp></entry>
+<entry>
+<form>veḷ</form>
+<def>white</def>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
+<entry>
+<form>nel</form>
+<def>paddy</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>niṟaikkum</form>
+<def>filling</def>
+<gramGrp><gram type="role">imperfect aspect</gram>
+<gram type="role">peyareccam</gram>
+</gramGrp></entry>
+<entry>
+<form>ūra</form>
+<def>man from the village</def>
+<gramGrp><gram type="role">pronominalised noun</gram>
+<gram type="role">masculine singular</gram>
+<gram type="role">vocative</gram>
+</gramGrp></entry>
+<entry>
+<form>vēṇṭēm</form>
+<def>we do not want</def>
+<gramGrp><gram type="role">negative</gram>
+<gram type="role">plural</gram>
+<gram type="role">first person</gram>
+</gramGrp></entry>
+<entry>
+<form>peruma</form>
+<def>big-man</def>
+<gramGrp><gram type="role">pronominalised noun</gram>
+<gram type="role">masculine singular</gram>
+<gram type="role">vocative</gram>
+</gramGrp></entry>
+<entry>
+<form>niṉ</form>
+<def>your</def>
+<gramGrp><gram type="role">pronoun</gram>
+<gram type="role">oblique</gram>
+<gram type="role">singular</gram>
+<gram type="role">second person</gram>
+</gramGrp></entry>
+<entry>
+<form>parattai</form>
+<def>other woman/mistress</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form><pc>~</pc>āṇṭu<pc>+</pc></form>
+<def>there</def>
+<gramGrp><gram type="role">adverb</gram>
+</gramGrp></entry>
+<entry>
+<form>cey</form>
+<def>made</def>
+<gramGrp><gram type="role">verbal root as peyareccam perfective aspect</gram>
+</gramGrp></entry>
+<entry>
+<form>kuṟiyōṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>sign/mark</def>
+<gramGrp><gram type="role">sociative</gram>
+</gramGrp></entry>
+<entry>
+<form>īṇṭu</form>
+<def>here</def>
+<gramGrp><gram type="role">adverb</gram>
+</gramGrp></entry>
+<entry>
+<form>nī</form>
+<def>you</def>
+<gramGrp><gram type="role">pronoun</gram>
+<gram type="role">singular</gram>
+<gram type="role">second person</gram>
+</gramGrp></entry>
+<entry>
+<form>varal-ē</form>
+<def>coming</def>
+<form type="simple">varal</form>
+<gramGrp><gram type="role">verbal noun</gram>
+</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+</entry></standOff>
 </TEI>
