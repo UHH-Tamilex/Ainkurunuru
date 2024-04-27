@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <title xml:lang="ta">Aiṅkuṟunūṟu</title> 50. <persName xml:lang="ta">Ōrampōkiyār</persName>
+        </title>
+        <editor role="translator">Eva Wilden</editor>
+      </titleStmt>
+      <publicationStmt><p/></publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc><change/></revisionDesc>
+  </teiHeader>
+<text xml:lang="ta">
+  <body>
+    <div xml:id="Aink50-kilavi">
+      <p type="edition">maṉaiyiṉ nīṅkip parattaiyiṭattup paṉṉāḷ taṅkivanta talaimakaṟkut tōḻi colliyatu.</p>
+      <p type="translation" xml:lang="en"> </p>
+    </div>
+    <div xml:id="Aink50">
+      <lg type="edition">
+<l>tuṇaiyōr celvamum yāmum varuntutum</l>
+<l>vañci yōṅkiya yāṇa rūra</l>
+<l>tañca maruḷāy nīyēniṉ</l>
+<l>neñcam peṟṟa vivaḷumā raḻumē.</l>
+</lg>
+<lg type="translation" xml:lang="en">
+ 
+<l> O man from a fertile village </l> 
+<l rend="indent2"> where the Mahua trees have grown tall! </l> 
+<l> We are suffering – my wealth of girlfriends and I. </l> 
+<l> You have been a trifle inconsiderate. </l> 
+<l> The girl who won </l> 
+<l> your heart – </l> 
+<l> she too is weeping. </l> 
+
+
+
+</lg>
+    </div>
+  </body>
+</text>
+<standOff type="wordsplit" corresp="#Aink50"><interp type="alignment" select="0">14MG5MG46MG21MG8MG2M,100MG</interp>
+<entry>
+<form>tuṇaiyōr</form>
+<def>companions</def>
+<gramGrp><gram type="role">pronominalised noun</gram>
+<gram type="role">plural</gram>
+<gram type="role">honorific</gram>
+</gramGrp></entry>
+<entry>
+<form>celvam-um</form>
+<def>beauty/wealth</def>
+<form type="simple">celvam</form>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
+</entry>
+<entry>
+<form>yām-um</form>
+<def>we</def>
+<form type="simple">yām</form>
+<gramGrp><gram type="role">pronoun</gram>
+<gram type="role">plural</gram>
+<gram type="role">first person</gram>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
+</entry>
+<entry>
+<form>varuntutum</form>
+<def>we suffer</def>
+<gramGrp><gram type="role">subjunctive</gram>
+<gram type="role">plural</gram>
+<gram type="role">first person</gram>
+</gramGrp></entry>
+<entry>
+<form>vañci</form>
+<def>Mahua tree</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form><pc>~</pc>ōṅkiya</form>
+<def>become-high</def>
+<gramGrp><gram type="role">perfective aspect</gram>
+<gram type="role">peyareccam</gram>
+</gramGrp></entry>
+<entry>
+<form>yāṇar</form>
+<def>fertility</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>ūra</form>
+<def>man from the village</def>
+<gramGrp><gram type="role">pronominalised noun</gram>
+<gram type="role">masculine singular</gram>
+<gram type="role">vocative</gram>
+</gramGrp></entry>
+<entry>
+<form>tañcam</form>
+<def>negligible matter</def>
+<gramGrp><gram type="role">adverb</gram>
+<gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>aruḷāy</form>
+<def>you are not considerate</def>
+<gramGrp><gram type="role">negative</gram>
+<gram type="role">singular</gram>
+<gram type="role">second person</gram>
+</gramGrp></entry>
+<entry>
+<form>nī-<pc>~</pc>ē</form>
+<def>you</def>
+<form type="simple">nī</form>
+<gramGrp><gram type="role">pronoun</gram>
+<gram type="role">singular</gram>
+<gram type="role">second person</gram>
+</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+</entry>
+<entry>
+<form>niṉ</form>
+<def>your</def>
+<gramGrp><gram type="role">pronoun</gram>
+<gram type="role">oblique</gram>
+<gram type="role">singular</gram>
+<gram type="role">second person</gram>
+</gramGrp></entry>
+<entry>
+<form>neñcam</form>
+<def>heart</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>peṟṟa</form>
+<def>obtained</def>
+<gramGrp><gram type="role">perfective aspect</gram>
+<gram type="role">peyareccam</gram>
+</gramGrp></entry>
+<entry>
+<form><pc>~</pc>ivaḷ-umār</form>
+<def>she</def>
+<form type="simple">ivaḷ</form>
+<gramGrp><gram type="role">feminine singular</gram>
+<gram type="role">pronoun</gram>
+</gramGrp><gramGrp type="particle"><m>umār</m></gramGrp>
+</entry>
+<entry>
+<form>aḻum-ē</form>
+<def>she is crying</def>
+<form type="simple">aḻum</form>
+<gramGrp><gram type="role">habitual future</gram>
+</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+</entry></standOff>
+</TEI>
