@@ -33,7 +33,7 @@
           talaimakaṟkut tōḻi maṟuttatu.</p>
         <p type="translation" xml:lang="en"> </p>
       </div>
-      <div xml:id="poemXX">
+      <div xml:id="Aink51">
         <lg type="edition">
           <l>nīruṟai kōḻi nīlac cēval</l>
           <l>kūrukirp pēṭai vayāa mūra</l>
@@ -55,7 +55,7 @@
       </div>
     </body>
   </text>
-  <standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">59MG19MG14M2G2M,97MG</interp>
+  <standOff type="wordsplit" corresp="#Aink51"><interp type="alignment" select="0">59MG19MG14M2G2M,97MG</interp>
 <entry>
 <form>nīr</form>
 <def>water</def>
