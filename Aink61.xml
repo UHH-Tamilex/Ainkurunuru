@@ -1,0 +1,195 @@
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <title xml:lang="ta">Aiṅkuṟunūṟu</title> 61. <persName xml:lang="ta">Ōrampōkiyār</persName>
+        </title>
+        <editor role="translator">Eva Wilden</editor>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>
+              <p/>
+            </summary>
+          </msContents>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change/>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="ta">
+    <body>
+      <div xml:id="Aink61-kilavi">
+        <p type="edition">vatuvaiyayarntāḷ oru parattaiyaic ciṉṉāḷil viṭṭu maṟṟoru parattaiyai
+          vatuvaiyayarntāṉ ‘eṉpatu aṟinta talaimakaḷ avaṉ maṉaivayiṟ pukkuḻip pulantāḷāka, ‘itu
+          maṟaittaṟku aritu’ eṉa uṭaṉpaṭṭu, iṉi eṉṉiṭattu ivvāṟu nikaḻātu’ eṉṟāṟku avaḷ colliyatu.
+        </p>
+        <p type="translation" xml:lang="en"> </p>
+      </div>
+      <div xml:id="Aink61">
+        <lg type="edition">
+          <l>naṟuvaṭi māattu viḷaintuku tīmpaḻa</l>
+          <l>neṭunīrp poykait tuṭumeṉa viḻūuṅ</l>
+          <l>kaivaṇ matti kaḻāa raṉṉa</l>
+          <l>nallōr nallōr nāṭi</l>
+          <l>vatuvai yayara virumputi nīyē.</l>
+        </lg>
+        <lg type="translation" xml:lang="en">
+
+
+          <l> These good women like Kaḻār,</l>
+          <l rend="indent2"> [the city] of Matti, the liberal of hand, </l>
+          <l rend="indent4"> where sweet fruit, ripened </l>
+          <l rend="indent4"> and shed by the mango tree </l>
+          <l rend="indent6">with its fragrant, tender green fruit</l> 
+          <l rend="indent8"> fall into the deep pond with a splash – </l>
+          <p/>
+          <l> picking through them one after another, </l>
+          <l> you want to marry them [all]. </l>
+
+
+        </lg>
+      </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#Aink61"><interp type="alignment" select="0">21MG10MR90MG3M,126MG</interp>
+<entry>
+<form>naṟu</form>
+<def>fragrant</def>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
+<entry>
+<form>vaṭi</form>
+<def>tender green mango</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>māattu</form>
+<def>mango-tree</def>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
+<entry>
+<form>viḷaint<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>having ripened</def>
+<gramGrp><gram type="role">absolutive</gram>
+</gramGrp></entry>
+<entry>
+<form>uku</form>
+<def>having been shed</def>
+<gramGrp><gram type="role">verbal root as peyareccam perfective aspect</gram>
+</gramGrp></entry>
+<entry>
+<form>tīm</form>
+<def>sweet</def>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
+<entry>
+<form>paḻam</form>
+<def>fruit</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>neṭu</form>
+<def>long</def>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
+<entry>
+<form>nīr<pc>+</pc></form>
+<def>water</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>poykai<pc>+</pc></form>
+<def>pond</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>tuṭumeṉa</form>
+<def>‘tuṭum’-say</def>
+<gramGrp><gram type="role">infinitive</gram>
+<gram type="role">ideophone</gram>
+</gramGrp></entry>
+<entry>
+<form>viḻūum</form>
+<def>falling</def>
+<gramGrp><gram type="role">imperfect aspect</gram>
+<gram type="role">peyareccam</gram>
+</gramGrp></entry>
+<entry>
+<form>kai</form>
+<def>hand</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>vaḷ</form>
+<def>fertile/large/strong</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>matti</form>
+<def>Matti</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>kaḻāar</form>
+<def>Kaḻār</def>
+<gramGrp><gram type="role">proper name</gram>
+</gramGrp></entry>
+<entry>
+<form>aṉṉa</form>
+<def>like</def>
+<gramGrp><gram type="role">comparative</gram>
+</gramGrp></entry>
+<entry>
+<form>nallōr</form>
+<def>good people</def>
+<gramGrp><gram type="role">plural</gram>
+<gram type="role">honorific</gram>
+</gramGrp></entry>
+<entry>
+<form>nallōr</form>
+<def>good people</def>
+<gramGrp><gram type="role">plural</gram>
+<gram type="role">honorific</gram>
+</gramGrp></entry>
+<entry>
+<form>nāṭi</form>
+<def>seeking/examining/desiring</def>
+<gramGrp><gram type="role">absolutive</gram>
+</gramGrp></entry>
+<entry>
+<form>vatuvai</form>
+<def>wedding</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form><pc>~</pc>ayara</form>
+<def>prepare</def>
+<gramGrp><gram type="role">infinitive</gram>
+</gramGrp></entry>
+<entry>
+<form>virumputi</form>
+<def>you want</def>
+<gramGrp><gram type="role">subjunctive</gram>
+<gram type="role">singular</gram>
+<gram type="role">second person</gram>
+</gramGrp></entry>
+<entry>
+<form>nī-<pc>~</pc>ē</form>
+<def>you</def>
+<form type="simple">nī</form>
+<gramGrp><gram type="role">pronoun</gram>
+<gram type="role">singular</gram>
+<gram type="role">second person</gram>
+</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+</entry></standOff>
+</TEI>
