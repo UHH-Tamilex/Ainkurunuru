@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -10,7 +8,7 @@
         <editor role="translator">Eva Wilden</editor>
       </titleStmt>
       <publicationStmt>
-        <p />
+        <p/>
       </publicationStmt>
       <sourceDesc>
         <msDesc xml:lang="en">
@@ -18,14 +16,14 @@
           </msIdentifier>
           <msContents>
             <summary>
-              <p></p>
+              <p/>
             </summary>
           </msContents>
         </msDesc>
       </sourceDesc>
     </fileDesc>
     <revisionDesc>
-      <change />
+      <change/>
     </revisionDesc>
   </teiHeader>
   <text xml:lang="ta">
@@ -64,233 +62,169 @@
       </div>
     </body>
   </text>
-  <standOff type="wordsplit" corresp="#Aink54">
-    <interp type="alignment" select="0">15ML6MG46ML57MG7MG17MGM,155M</interp>
-    <entry>
-      <form>tiṇ</form>
-      <def>strong/robust</def>
-      <gramGrp>
-        <gram type="role">noun</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>tēr<pc>+</pc></form>
-      <def>chariot</def>
-      <gramGrp>
-        <gram type="role">noun</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>teṉṉavaṉ</form>
-      <def>man from the south</def>
-      <gramGrp>
-        <gram type="role">pronominalised noun</gram>
-        <gram type="role">masculine singular</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>nal</form>
-      <def>good</def>
-      <gramGrp>
-        <gram type="role">adjective</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>nāṭṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
-      <def>land</def>
-      <gramGrp>
-        <gram type="role">oblique</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>uḷḷatai</form>
-      <def>that which exists</def>
-      <gramGrp>
-        <gram type="role">participial noun</gram>
-        <gram type="role">neuter singular</gram>
-        <gram type="role">accusative</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>vēṉil</form>
-      <def>summer</def>
-      <gramGrp>
-        <gram type="role">noun</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>āyiṉum</form>
-      <def>even if/although</def>
-      <gramGrp>
-        <gram type="role">concessive</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>taṇ</form>
-      <def>cool</def>
-      <gramGrp>
-        <gram type="role">adjective</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>puṉal</form>
-      <def>flood</def>
-      <gramGrp>
-        <gram type="role">noun</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>oḻukum</form>
-      <def>flowing</def>
-      <gramGrp>
-        <gram type="role">imperfect aspect</gram>
-        <gram type="role">peyareccam</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>tēṉūr</form>
-      <def>Tēṉūr</def>
-      <gramGrp>
-        <gram type="role">noun</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>aṉṉa</form>
-      <def>like</def>
-      <gramGrp>
-        <gram type="role">comparative</gram>
-        <gram type="role">postposition</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form><pc>~</pc>ivaḷ</form>
-      <def>her</def>
-      <gramGrp>
-        <gram type="role">feminine singular</gram>
-        <gram type="role">pronoun</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>teri</form>
-      <def>be clear i.e. shining</def>
-      <gramGrp>
-        <gram type="role">verbal root as peyareccam imperfective aspect</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>vaḷai</form>
-      <def>bangle</def>
-      <gramGrp>
-        <gram type="role">noun</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>nekiḻa</form>
-      <def>become loose</def>
-      <gramGrp>
-        <gram type="role">infinitive</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form><pc>~</pc>ūriṉ</form>
-      <def>if [you] mount</def>
-      <gramGrp>
-        <gram type="role">conditional</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>ūraṉai</form>
-      <def>man from the village</def>
-      <gramGrp>
-        <gram type="role">pronominalised noun</gram>
-        <gram type="role">masculine singular</gram>
-        <gram type="role">accusative</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>nī</form>
-      <def>you</def>
-      <gramGrp>
-        <gram type="role">pronoun</gram>
-        <gram type="role">singular</gram>
-        <gram type="role">second person</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>tara</form>
-      <def>give</def>
-      <gramGrp>
-        <gram type="role">infinitive</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>vanta</form>
-      <def>having come</def>
-      <gramGrp>
-        <gram type="role">perfective aspect</gram>
-        <gram type="role">peyareccam</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>pañcāy<pc>+</pc></form>
-      <def>Pañcāy grass</def>
-      <gramGrp>
-        <gram type="role">noun</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>kōtai</form>
-      <def>garland</def>
-      <gramGrp>
-        <gram type="role">noun</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>makaḷirkk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
-      <def>women</def>
-      <gramGrp>
-        <gram type="role">dative</gram>
-        <gram type="role">plural</gram>
-        <gram type="role">honorific</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>añcuval-amma</form>
-      <def>I fear</def>
-      <form type="simple">añcuval</form>
-      <gramGrp>
-        <gram type="role">imperfect aspect</gram>
-        <gram type="role">singular</gram>
-        <gram type="role">first person</gram>
-      </gramGrp>
-      <gramGrp type="particle">
-        <m>amma</m>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form><pc>~</pc>a<pc>+</pc></form>
-      <def>that</def>
-      <gramGrp>
-        <gram type="role">pronoun</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>muṟai</form>
-      <def>way/turn</def>
-      <gramGrp>
-        <gram type="role">noun</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>variṉ-ē</form>
-      <def>if [you] come</def>
-      <form type="simple">variṉ</form>
-      <gramGrp>
-        <gram type="role">conditional</gram>
-      </gramGrp>
-      <gramGrp type="particle">
-        <m>ē</m>
-      </gramGrp>
-    </entry>
-  </standOff>
+  <standOff type="wordsplit" corresp="#Aink54"><interp type="alignment" select="0">15ML6MG46ML57MG7MG17MGM,155M</interp>
+<entry>
+<form>tiṇ</form>
+<def>strong/robust</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>tēr<pc>+</pc></form>
+<def>chariot</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>teṉṉavaṉ</form>
+<def>man from the south i.e. Pāṇṭiyaṉ king, as ruler of the south</def>
+<gramGrp><gram type="role">pronominalised noun</gram>
+<gram type="role">masculine singular</gram>
+</gramGrp></entry>
+<entry>
+<form>nal</form>
+<def>good</def>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
+<entry>
+<form>nāṭṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>land</def>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
+<entry>
+<form>uḷḷatai</form>
+<def>that which exists</def>
+<gramGrp><gram type="role">participial noun</gram>
+<gram type="role">neuter singular</gram>
+<gram type="role">accusative</gram>
+</gramGrp></entry>
+<entry>
+<form>vēṉil</form>
+<def>summer</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>āyiṉum</form>
+<def>even if/although</def>
+<gramGrp><gram type="role">concessive</gram>
+</gramGrp></entry>
+<entry>
+<form>taṇ</form>
+<def>cool</def>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
+<entry>
+<form>puṉal</form>
+<def>flood</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>oḻukum</form>
+<def>flowing</def>
+<gramGrp><gram type="role">imperfect aspect</gram>
+<gram type="role">peyareccam</gram>
+</gramGrp></entry>
+<entry>
+<form>tēṉūr</form>
+<def>Tēṉūr</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>aṉṉa</form>
+<def>like</def>
+<gramGrp><gram type="role">comparative</gram>
+<gram type="role">postposition</gram>
+</gramGrp></entry>
+<entry>
+<form><pc>~</pc>ivaḷ</form>
+<def>her</def>
+<gramGrp><gram type="role">feminine singular</gram>
+<gram type="role">pronoun</gram>
+</gramGrp></entry>
+<entry>
+<form>teri</form>
+<def>be clear i.e. shining</def>
+<gramGrp><gram type="role">verbal root as peyareccam imperfective aspect</gram>
+</gramGrp></entry>
+<entry>
+<form>vaḷai</form>
+<def>bangle</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>nekiḻa</form>
+<def>become loose</def>
+<gramGrp><gram type="role">infinitive</gram>
+</gramGrp></entry>
+<entry>
+<form><pc>~</pc>ūriṉ</form>
+<def>if [you] mount</def>
+<gramGrp><gram type="role">conditional</gram>
+</gramGrp></entry>
+<entry>
+<form>ūraṉai</form>
+<def>man from the village</def>
+<gramGrp><gram type="role">pronominalised noun</gram>
+<gram type="role">masculine singular</gram>
+<gram type="role">accusative</gram>
+</gramGrp></entry>
+<entry>
+<form>nī</form>
+<def>you</def>
+<gramGrp><gram type="role">pronoun</gram>
+<gram type="role">singular</gram>
+<gram type="role">second person</gram>
+</gramGrp></entry>
+<entry>
+<form>tara</form>
+<def>give</def>
+<gramGrp><gram type="role">infinitive</gram>
+</gramGrp></entry>
+<entry>
+<form>vanta</form>
+<def>having come</def>
+<gramGrp><gram type="role">perfective aspect</gram>
+<gram type="role">peyareccam</gram>
+</gramGrp></entry>
+<entry>
+<form>pañcāy<pc>+</pc></form>
+<def>Pañcāy grass</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>kōtai</form>
+<def>garland</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>makaḷirkk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>women</def>
+<gramGrp><gram type="role">dative</gram>
+<gram type="role">plural</gram>
+<gram type="role">honorific</gram>
+</gramGrp></entry>
+<entry>
+<form>añcuval-amma</form>
+<def>I fear</def>
+<form type="simple">añcuval</form>
+<gramGrp><gram type="role">imperfect aspect</gram>
+<gram type="role">singular</gram>
+<gram type="role">first person</gram>
+</gramGrp><gramGrp type="particle"><m>amma</m></gramGrp>
+</entry>
+<entry>
+<form><pc>~</pc>a<pc>+</pc></form>
+<def>that</def>
+<gramGrp><gram type="role">pronoun</gram>
+</gramGrp></entry>
+<entry>
+<form>muṟai</form>
+<def>way/turn</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>variṉ-ē</form>
+<def>if [you] come</def>
+<form type="simple">variṉ</form>
+<gramGrp><gram type="role">conditional</gram>
+</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+</entry></standOff>
 </TEI>
