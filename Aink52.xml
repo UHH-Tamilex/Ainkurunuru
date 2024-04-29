@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <title xml:lang="ta">Aiṅkuṟunūṟu</title> 52. <persName xml:lang="ta">Ōrampōkiyār</persName>
+        </title>
+        <editor role="translator">Eva Wilden</editor>
+      </titleStmt>
+      <publicationStmt>
+        <p />
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>
+              <p></p>
+            </summary>
+          </msContents>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change />
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="ta">
+    <body>
+      <div xml:id="Aink52-kilavi">
+        <p type="edition">vāyil peṟṟuk kūṭiyirunta talaimakaṟkut tōḻi nakaiyāṭic colliyatu.</p>
+        <p type="translation" xml:lang="en"> </p>
+      </div>
+      <div xml:id="Aink52">
+        <lg type="edition">
+          <l>vayalaic ceṅkoṭip piṇaiya ṟaiic</l>
+          <l>cevviral civanta cēyari maḻaikkaṭ</l>
+          <l>cevvāyk kuṟumaka ḷiṉaiya</l>
+          <l>vevvāy muṉṉiṉṟu makiḻnaniṉ ṟērē.</l>
+        </lg>
+        <lg type="translation" xml:lang="en">
+
+
+          <l> While a little woman with a red mouth despairs, </l>
+          <l rend="indent2"> her raining eyes streaked with red </l>
+          <l rend="indent2"> her fingers stained red </l>
+          <l rend="indent2"> from stringing a wreath of red purslane creepers–</l>
+          <l> Which place, o delightful man, did your chariot stop before (this)? </l>
+          <l> OR: before which place, o delightful man, has your chariot been standing? </l>
+
+
+        </lg>
+      </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#Aink52">
+    <interp type="alignment" select="0">24ML83MG2M,110MG</interp>
+    <entry>
+      <form>vayalai<pc>+</pc></form>
+      <def>Purslane</def>
+      <gramGrp>
+        <gram type="role">noun</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>cem</form>
+      <def>red</def>
+      <gramGrp>
+        <gram type="role">adjective</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>koṭi<pc>+</pc></form>
+      <def>creeper</def>
+      <gramGrp>
+        <gram type="role">noun</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>piṇaiyal</form>
+      <def>flower garland/wreath</def>
+      <gramGrp>
+        <gram type="role">verbal noun</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>taii<pc>+</pc></form>
+      <def>stringing/plaiting</def>
+      <gramGrp>
+        <gram type="role">absolutive</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>cem</form>
+      <def>red</def>
+      <gramGrp>
+        <gram type="role">adjective</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>viral</form>
+      <def>finger</def>
+      <gramGrp>
+        <gram type="role">noun</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>civanta</form>
+      <def>reddened</def>
+      <gramGrp>
+        <gram type="role">perfective aspect</gram>
+        <gram type="role">peyareccam</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>cē</form>
+      <def>red</def>
+      <gramGrp>
+        <gram type="role">adjective</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form><pc>~</pc>ari</form>
+      <def>streak</def>
+      <gramGrp>
+        <gram type="role">noun</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>maḻai<pc>+</pc></form>
+      <def>rain</def>
+      <gramGrp>
+        <gram type="role">noun</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>kaṇ</form>
+      <def>eye</def>
+      <gramGrp>
+        <gram type="role">noun</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>cem</form>
+      <def>red</def>
+      <gramGrp>
+        <gram type="role">adjective</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>vāy<pc>+</pc></form>
+      <def>mouth</def>
+      <gramGrp>
+        <gram type="role">noun</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>kuṟu</form>
+      <def>short</def>
+      <gramGrp>
+        <gram type="role">adjective</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>makaḷ</form>
+      <def>daughter/woman</def>
+      <gramGrp>
+        <gram type="role">noun</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>iṉaiya</form>
+      <def>be in agony of despair/grieve</def>
+      <gramGrp>
+        <gram type="role">infinitive</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form><pc>~</pc>e<pc>+</pc></form>
+      <def>which</def>
+      <gramGrp>
+        <gram type="role">pronoun</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>vāy</form>
+      <def>place</def>
+      <gramGrp>
+        <gram type="role">noun</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>muṉ</form>
+      <def>before/in front of</def>
+      <gramGrp>
+        <gram type="role">adverb</gram>
+      </gramGrp>
+    </entry>
+    <superEntry type="ambiguous">
+      <entry>
+        <entry>
+          <form>niṉṟu</form>
+          <def>it stood</def>
+          <gramGrp>
+            <gram type="role">neuter singular</gram>
+            <gram type="role">perfective aspect</gram>
+          </gramGrp>
+        </entry>
+      </entry>
+      <entry>
+        <entry>
+          <form>niṉṟu</form>
+          <def>standing</def>
+          <gramGrp>
+            <gram type="role">verbal noun</gram>
+          </gramGrp>
+        </entry>
+      </entry>
+    </superEntry>
+    <entry>
+      <form>makiḻna</form>
+      <def>delightful man</def>
+      <gramGrp>
+        <gram type="role">pronominalised noun</gram>
+        <gram type="role">masculine singular</gram>
+        <gram type="role">vocative</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>niṉ</form>
+      <def>your</def>
+      <gramGrp>
+        <gram type="role">pronoun</gram>
+        <gram type="role">oblique</gram>
+        <gram type="role">singular</gram>
+        <gram type="role">second person</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>tēr-ē</form>
+      <def>chariot</def>
+      <form type="simple">tēr</form>
+      <gramGrp>
+        <gram type="role">noun</gram>
+      </gramGrp>
+      <gramGrp type="particle">
+        <m>ē</m>
+      </gramGrp>
+    </entry>
+  </standOff>
+</TEI>
