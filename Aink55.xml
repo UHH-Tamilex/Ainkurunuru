@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <title xml:lang="ta">Aiṅkuṟunūṟu</title> 55. <persName xml:lang="ta">Ōrampōkiyār</persName>
+        </title>
+        <editor role="translator">Eva Wilden</editor>
+      </titleStmt>
+      <publicationStmt><p/></publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc><change/></revisionDesc>
+  </teiHeader>
+<text xml:lang="ta">
+  <body>
+    <div xml:id="Aink55-kilavi">
+      <p type="edition">varainta aṇimaik kaṇṇē puṟattoḻukkam oḻuki vāyil vēṇṭivantu taṉ melivu kūṟiya talaimakaṉait tōḻi neruṅkic colliyatu.
+      </p>
+      <p type="translation" xml:lang="en"> </p>
+    </div>
+    <div xml:id="Aink55">
+      <lg type="edition">
+<l>karumpi ṉentiraṅ kaḷiṟṟetir piḷiṟṟun</l>
+<l>tērvaṇ kōmāṉ ṟēṉū raṉṉaviva</l>
+<l>ṇallaṇi nayantunī tuṟattaliṟ</l>
+<l>pallō raṟiyap pacantaṉṟu nutalē.</l>
+</lg>
+
+<lg type="translation" xml:lang="en">
+
+
+
+<l>   The girl who is like Tēṉūr, </l> 
+<l rend="indent2"> [that city] of a king rich in chariots,</l> 
+<l rend="indent2"> where the sugarcane press thunders </l>
+  <l> in competition with the elephant bulls – </l> 
+<l> Because you abandoned [her],</l> 
+<l rend="indent2"> after covetting [her] good beauty/ after longing to get close [to her],   </l> 
+<l> [her] forehead has paled </l> 
+<l> for all to see. </l> 
+
+
+
+</lg>
+    </div>
+  </body>
+</text>
+<standOff type="wordsplit" corresp="#Aink55"><interp type="alignment" select="0">21MG37ML52MG2M,114MG</interp>
+<entry>
+<form>karumpiṉ</form>
+<def>sugarcane</def>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
+<entry>
+<form>entiram</form>
+<def>sugar cane press</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>kaḷiṟṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>elephant-bull</def>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
+<entry>
+<form>etir</form>
+<def>against/in opposition to</def>
+<gramGrp><gram type="role">postposition</gram>
+</gramGrp></entry>
+<entry>
+<form>piḷiṟṟum</form>
+<def>trumpeting</def>
+<gramGrp><gram type="role">imperfect aspect</gram>
+<gram type="role">peyareccam</gram>
+</gramGrp></entry>
+<entry>
+<form>tēr</form>
+<def>chariot</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>vaḷ</form>
+<def>fertile/large/strong</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>kōmāṉ</form>
+<def>king</def>
+<gramGrp><gram type="role">masculine singular</gram>
+<gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>tēṉūr</form>
+<def>Tēṉūr</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>aṉṉa</form>
+<def>like</def>
+<gramGrp><gram type="role">postposition</gram>
+</gramGrp></entry>
+<entry>
+<form><pc>~</pc>ivaḷ</form>
+<def>she</def>
+<gramGrp><gram type="role">feminine singular</gram>
+<gram type="role">pronoun</gram>
+</gramGrp></entry>
+<entry>
+<form>nal</form>
+<def>good</def>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
+<entry>
+<form><pc>+</pc>aṇi</form>
+<def>beauty/goodness/love</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>nayantu</form>
+<def>longing for</def>
+<gramGrp><gram type="role">absolutive</gram>
+</gramGrp></entry>
+<entry>
+<form>nī</form>
+<def>you</def>
+<gramGrp><gram type="role">pronoun</gram>
+<gram type="role">singular</gram>
+<gram type="role">second person</gram>
+</gramGrp></entry>
+<entry>
+<form>tuṟattaliṉ</form>
+<def>abandoning</def>
+<gramGrp><gram type="role">oblique</gram>
+<gram type="role">verbal noun</gram>
+</gramGrp></entry>
+<entry>
+<form>pallōr</form>
+<def>many people</def>
+<gramGrp><gram type="role">plural</gram>
+<gram type="role">honorific</gram>
+</gramGrp></entry>
+<entry>
+<form>aṟiya<pc>+</pc></form>
+<def>know</def>
+<gramGrp><gram type="role">infinitive</gram>
+</gramGrp></entry>
+<entry>
+<form>pacantaṉṟu</form>
+<def>it paled</def>
+<gramGrp><gram type="role">neuter singular</gram>
+<gram type="role">perfective aspect</gram>
+</gramGrp></entry>
+<entry>
+<form>nutal-ē</form>
+<def>forehead</def>
+<form type="simple">nutal</form>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+</entry></standOff>
+</TEI>
