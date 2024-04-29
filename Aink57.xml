@@ -1,0 +1,166 @@
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <title xml:lang="ta">Aiṅkuṟunūṟu</title> 57. <persName xml:lang="ta">Ōrampōkiyār</persName>
+        </title>
+        <editor role="translator">Eva Wilden</editor>
+      </titleStmt>
+      <publicationStmt><p/></publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p/>
+            </summary>
+          </msContents>    
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc><change/></revisionDesc>
+  </teiHeader>
+<text xml:lang="ta">
+  <body>
+    <div xml:id="Aink57-kilavi">
+      <p type="edition">talaimakaṟkup puṟattoḻukkam uḷatāyiṟṟu eṉpatu kēṭṭa tōḻi avaṉai viṉāyatu.
+      </p>
+      <p type="translation" xml:lang="en"> </p>
+    </div>
+    <div xml:id="Aink57">
+      <lg type="edition">
+<l>pakaliṟ ṟōṉṟum palkatirt tīyi</l>
+<l>ṉāmpalañ ceṟuviṟ ṟēṉū raṉṉa</l>
+<l>vivaṇalam pulampap piriya</l>
+<l>vaṉainala muṭaiyaḷō makiḻnaniṉ peṇṭē.</l>
+</lg>
+<lg type="translation" xml:lang="en">
+
+
+  
+  
+<l>   Is your [new] girlfriend really a woman of such beauty, o delightful man, </l> 
+<l>   that you'd leave lonely the beauty of this girl  </l> 
+<l>   who is like Tēṉūr </l> 
+<l rend="indent2">   with its white-lotus fields </l> 
+<l rend="indent2">   like many-rayed fires </l> 
+<l rend="indent2">   that shine bright as day? </l> 
+  
+    
+    
+    </lg>
+    </div>
+  </body>
+</text>
+<standOff type="wordsplit" corresp="#Aink57"><interp type="alignment" select="0">55ML35MG15M2G2M,110MG</interp>
+<entry>
+<form>pakaliṉ</form>
+<def>day</def>
+<gramGrp><gram type="role">comparative</gram>
+<gram type="role">oblique</gram>
+</gramGrp></entry>
+<entry>
+<form>tōṉṟum</form>
+<def>appearing</def>
+<gramGrp><gram type="role">imperfect aspect</gram>
+<gram type="role">peyareccam</gram>
+</gramGrp></entry>
+<entry>
+<form>pal</form>
+<def>many</def>
+<gramGrp><gram type="role">pronoun</gram>
+</gramGrp></entry>
+<entry>
+<form>katir<pc>+</pc></form>
+<def>ray</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>tīyiṉ</form>
+<def>fire</def>
+<gramGrp><gram type="role">comparative</gram>
+<gram type="role">oblique</gram>
+</gramGrp></entry>
+<entry>
+<form>āmpalam</form>
+<def>white lotus</def>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
+<entry>
+<form>ceṟuviṉ</form>
+<def>field</def>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
+<entry>
+<form>tēṉūr</form>
+<def>Tēṉūr</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>aṉṉa</form>
+<def>like</def>
+<gramGrp><gram type="role">comparative</gram>
+</gramGrp></entry>
+<entry>
+<form><pc>~</pc>ivaḷ</form>
+<def>her</def>
+<gramGrp><gram type="role">feminine singular</gram>
+<gram type="role">pronoun</gram>
+</gramGrp></entry>
+<entry>
+<form>nalam</form>
+<def>goodness/beauty</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>pulampa<pc>+</pc></form>
+<def>become lonely</def>
+<gramGrp><gram type="role">infinitive</gram>
+</gramGrp></entry>
+<entry>
+<form>piriya</form>
+<def>separate</def>
+<gramGrp><gram type="role">infinitive</gram>
+</gramGrp></entry>
+<entry>
+<form><pc>~</pc>aṉai</form>
+<def>such</def>
+<gramGrp><gram type="role">pronoun</gram>
+</gramGrp></entry>
+<entry>
+<form>nalam</form>
+<def>goodness/beauty</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>uṭaiyaḷ-ō</form>
+<def>she who has</def>
+<form type="simple">uṭaiyaḷ</form>
+<gramGrp><gram type="role">pronominalised noun</gram>
+<gram type="role">feminine singular</gram>
+</gramGrp><gramGrp type="particle"><m>ō</m></gramGrp>
+</entry>
+<entry>
+<form>makiḻna</form>
+<def>delightful man</def>
+<gramGrp><gram type="role">pronominalised noun</gram>
+<gram type="role">masculine singular</gram>
+<gram type="role">vocative</gram>
+</gramGrp></entry>
+<entry>
+<form>niṉ</form>
+<def>your</def>
+<gramGrp><gram type="role">pronoun</gram>
+<gram type="role">oblique</gram>
+<gram type="role">singular</gram>
+<gram type="role">second person</gram>
+</gramGrp></entry>
+<entry>
+<form>peṇṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
+<def>woman</def>
+<form type="simple">peṇṭu</form>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+</entry></standOff>
+</TEI>
