@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <title xml:lang="ta">Aiṅkuṟunūṟu</title> 71. <persName xml:lang="ta">Ōrampōkiyār</persName>
+        </title>
+        <editor role="translator">Eva Wilden</editor>
+      </titleStmt>
+      <publicationStmt>
+        <p />
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>
+              <p></p>
+            </summary>
+          </msContents>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change />
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="ta">
+    <body>
+      <div xml:id="Aink71-kilavi">
+        <p type="edition">parattaiyarōṭu puṉalāṭiṉāṉ eṉak kēṭṭup pulanta talaimakaḷ talaimakaṉ
+          ataṉai illai eṉṟu maṟaittuḻic colliyatu.
+        </p>
+        <p type="translation" xml:lang="en"> </p>
+      </div>
+      <div xml:id="Aink71">
+        <lg type="edition">
+          <l>cūtār kuṟuntoṭic cūramai nuṭakkattu</l>
+          <l>niṉveṅ kātali taḻīi nerunai</l>
+          <l>yāṭiṉai yeṉpa puṉalē yalarē</l>
+          <l>maṟaitta lollumō makiḻna</l>
+          <l>putaitta lollumō ñāyiṟṟa toḷiyē.</l>
+        </lg>
+
+        <lg type="translation" xml:lang="en">
+
+          <l> They're saying that you bathed in the flood yesterday, </l>
+          <l rend="indent2"> embracing your libidinous lover,</l>
+          <l rend="indent4"> with a terrifying swinging of [her] small, circular bracelets – </l>
+          <l> O delightful man! Can gossip be concealed? </l>
+          <l> Can the sun's radiance be covered up? </l>
+
+
+        </lg>
+      </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#Aink71">
+    <interp type="alignment" select="0">3MG70MG6MG15MG22MG9MG3MG3M,137MG</interp>
+    <entry>
+      <form>cūt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+      <def>tube</def>
+      <gramGrp>
+        <gram type="role">noun</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>ār</form>
+      <def>full of</def>
+      <gramGrp>
+        <gram type="role">verbal root as adjective</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>kuṟum</form>
+      <def>short</def>
+      <gramGrp>
+        <gram type="role">adjective</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>toṭi<pc>+</pc></form>
+      <def>bracelet</def>
+      <gramGrp>
+        <gram type="role">noun</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>cūr</form>
+      <def>fear</def>
+      <gramGrp>
+        <gram type="role">noun</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>amai</form>
+      <def>creating</def>
+      <gramGrp>
+        <gram type="role">verbal root as peyareccam imperfective aspect</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>nuṭakkattu</form>
+      <def>shaking/swaying</def>
+      <gramGrp>
+        <gram type="role">oblique</gram>
+        <gram type="role">verbal noun</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>niṉ</form>
+      <def>your</def>
+      <gramGrp>
+        <gram type="role">pronoun</gram>
+        <gram type="role">oblique</gram>
+        <gram type="role">singular</gram>
+        <gram type="role">second person</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>vem</form>
+      <def>hot, lustful</def>
+      <gramGrp>
+        <gram type="role">adjective</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>kātali</form>
+      <def>lover</def>
+      <gramGrp>
+        <gram type="role">feminine</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>taḻīi</form>
+      <def>embracing</def>
+      <gramGrp>
+        <gram type="role">absolutive</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>nerunai</form>
+      <def>yesterday</def>
+      <gramGrp>
+        <gram type="role">adverb</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form><pc>~</pc>āṭiṉai</form>
+      <def>you bathed</def>
+      <gramGrp>
+        <gram type="role">perfective aspect</gram>
+        <gram type="role">singular</gram>
+        <gram type="role">second person</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form><pc>~</pc>eṉpa</form>
+      <def>they say</def>
+      <gramGrp>
+        <gram type="role">imperfect aspect</gram>
+        <gram type="role">plural</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>puṉal-ē</form>
+      <def>flood</def>
+      <form type="simple">puṉal</form>
+      <gramGrp>
+        <gram type="role">noun</gram>
+      </gramGrp>
+      <gramGrp type="particle">
+        <m>ē</m>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form><pc>~</pc>alar-ē</form>
+      <def>gossip</def>
+      <form type="simple">alar</form>
+      <gramGrp>
+        <gram type="role">noun</gram>
+      </gramGrp>
+      <gramGrp type="particle">
+        <m>ē</m>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>maṟaittal</form>
+      <def>hiding/concealing</def>
+      <gramGrp>
+        <gram type="role">verbal noun</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>ollum-ō</form>
+      <def>it is possible</def>
+      <form type="simple">ollum</form>
+      <gramGrp>
+        <gram type="role">habitual future</gram>
+      </gramGrp>
+      <gramGrp type="particle">
+        <m>ō</m>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>makiḻna</form>
+      <def>delightful man</def>
+      <gramGrp>
+        <gram type="role">pronominalised noun</gram>
+        <gram type="role">masculine singular</gram>
+        <gram type="role">vocative</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>putaittal</form>
+      <def>burying/covering</def>
+      <gramGrp>
+        <gram type="role">verbal noun</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>ollum-ō</form>
+      <def>it is possible</def>
+      <form type="simple">ollum</form>
+      <gramGrp>
+        <gram type="role">habitual future</gram>
+      </gramGrp>
+      <gramGrp type="particle">
+        <m>ō</m>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>ñāyiṟṟat<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+      <def>of the sun</def>
+      <gramGrp>
+        <gram type="role">pronominalised noun</gram>
+        <gram type="role">neuter singular</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>oḷi-<pc>~</pc>ē</form>
+      <def>brightness</def>
+      <form type="simple">oḷi</form>
+      <gramGrp>
+        <gram type="role">noun</gram>
+      </gramGrp>
+      <gramGrp type="particle">
+        <m>ē</m>
+      </gramGrp>
+    </entry>
+  </standOff>
+</TEI>
