@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <title xml:lang="ta">Aiṅkuṟunūṟu</title> 70. <persName xml:lang="ta">Ōrampōkiyār</persName>
+        </title>
+        <editor role="translator">Eva Wilden</editor>
+      </titleStmt>
+      <publicationStmt>
+        <p />
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>
+              <p></p>
+            </summary>
+          </msContents>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change />
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="ta">
+    <body>
+      <div xml:id="Aink70-kilavi">
+        <p type="edition">parattaiyarōṭu poḻutupōkki neṭitu tuyttuvanta talaimakaṉōṭu
+          talaimakaḷpulantu colliyatu.
+        </p>
+        <p type="translation" xml:lang="en"> </p>
+      </div>
+      <div xml:id="Aink70">
+        <lg type="edition">
+          <l>paḻaṉap paṉmī ṉarunta nārai</l>
+          <l>kaḻaṉi marutiṉ ceṉṉic cēkku</l>
+          <l>mānīrp poykai yāṇa rūra</l>
+          <l>tūyar naṟiyarniṉ peṇṭir</l>
+          <l>pēe yaṉaiyamiyāñ cēypayan taṉamē.</l>
+        </lg>
+
+        <lg type="translation" xml:lang="en">
+
+          <l> O man from a fertile village with ponds of great water!</l>
+          <l rend="indent2"> Where the crane, after eating many fish in the tank,</l>
+          <l rend="indent4"> rests on the top of the Myrobalan tree by the paddy field – </l>
+          <l> Pure [and] fragrant are your women.</l>
+          <l> [But] we are like demonesses: we have born your child.</l>
+
+        </lg>
+      </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#Aink70">
+    <interp type="alignment" select="0">49MG51MGMG16MG2M,122MG</interp>
+    <entry>
+      <form>paḻaṉa<pc>+</pc></form>
+      <def>tank</def>
+      <gramGrp>
+        <gram type="role">noun</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>pal</form>
+      <def>many</def>
+      <gramGrp>
+        <gram type="role">pronoun</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>mīṉ</form>
+      <def>fish</def>
+      <gramGrp>
+        <gram type="role">noun</gram>
+      </gramGrp>
+    </entry>
+    <superEntry type="ambiguous">
+      <entry>
+        <entry>
+          <form>arunta</form>
+          <def>eat</def>
+          <gramGrp>
+            <gram type="role">infinitive</gram>
+          </gramGrp>
+        </entry>
+      </entry>
+      <entry>
+        <entry>
+          <form>arunta</form>
+          <def>having eaten</def>
+          <gramGrp>
+            <gram type="role">perfective aspect</gram>
+            <gram type="role">peyareccam</gram>
+          </gramGrp>
+        </entry>
+      </entry>
+    </superEntry>
+    <entry>
+      <form>nārai</form>
+      <def>crane</def>
+      <gramGrp>
+        <gram type="role">noun</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>kaḻaṉi</form>
+      <def>paddy field</def>
+      <gramGrp>
+        <gram type="role">noun</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>marutiṉ</form>
+      <def>Myrobalan tree</def>
+      <gramGrp>
+        <gram type="role">oblique</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>ceṉṉi<pc>+</pc></form>
+      <def>top</def>
+      <gramGrp>
+        <gram type="role">noun</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>cēkkum</form>
+      <def>resting</def>
+      <gramGrp>
+        <gram type="role">imperfect aspect</gram>
+        <gram type="role">peyareccam</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>mā</form>
+      <def>big/dark</def>
+      <gramGrp>
+        <gram type="role">adjective</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>nīr<pc>+</pc></form>
+      <def>water</def>
+      <gramGrp>
+        <gram type="role">noun</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>poykai</form>
+      <def>pond</def>
+      <gramGrp>
+        <gram type="role">noun</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>yāṇar</form>
+      <def>fertility</def>
+      <gramGrp>
+        <gram type="role">noun</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>ūra</form>
+      <def>man from the village</def>
+      <gramGrp>
+        <gram type="role">pronominalised noun</gram>
+        <gram type="role">masculine singular</gram>
+        <gram type="role">vocative</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>tūyar</form>
+      <def>pure people</def>
+      <gramGrp>
+        <gram type="role">pronominalised noun</gram>
+        <gram type="role">plural</gram>
+        <gram type="role">honorific</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>naṟiyar</form>
+      <def>fragrant people</def>
+      <gramGrp>
+        <gram type="role">pronominalised noun</gram>
+        <gram type="role">plural</gram>
+        <gram type="role">honorific</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>niṉ</form>
+      <def>your</def>
+      <gramGrp>
+        <gram type="role">pronoun</gram>
+        <gram type="role">oblique</gram>
+        <gram type="role">singular</gram>
+        <gram type="role">second person</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>peṇṭir</form>
+      <def>women</def>
+      <gramGrp>
+        <gram type="role">plural</gram>
+        <gram type="role">honorific</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>pēey</form>
+      <def>female demon</def>
+      <gramGrp>
+        <gram type="role">noun</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>aṉaiyam</form>
+      <def>we are such</def>
+      <gramGrp>
+        <gram type="role">pronominalised noun</gram>
+        <gram type="role">plural</gram>
+        <gram type="role">first person</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form><pc>(</pc>i<pc>)</pc>yām</form>
+      <def>we</def>
+      <gramGrp>
+        <gram type="role">pronoun</gram>
+        <gram type="role">plural</gram>
+        <gram type="role">first person</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>cēy</form>
+      <def>son/child [?]</def>
+      <gramGrp>
+        <gram type="role">noun</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>payantaṉam-ē</form>
+      <def>we have given birth to</def>
+      <form type="simple">payantaṉam</form>
+      <gramGrp>
+        <gram type="role">perfective aspect</gram>
+        <gram type="role">plural</gram>
+        <gram type="role">first person</gram>
+      </gramGrp>
+      <gramGrp type="particle">
+        <m>ē</m>
+      </gramGrp>
+    </entry>
+  </standOff>
+</TEI>
