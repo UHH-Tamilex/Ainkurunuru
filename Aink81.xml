@@ -1,0 +1,217 @@
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <title xml:lang="ta">Aiṅkuṟunūṟu</title> 81. <persName xml:lang="ta">Ōrampōkiyār</persName>
+        </title>
+        <editor role="translator">Eva Wilden</editor>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>
+              <p/>
+            </summary>
+          </msContents>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change/>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="ta">
+    <body>
+      <div xml:id="Aink81-kilavi">
+        <p type="edition">taṉṉaik koṭumai kūṟiṉāḷ talaimakaḷ eṉpatu kēṭṭa parattai talaimakaṉ vantu
+          taṉmēl aṉpuṭamai kuṟiṉāṉāka avaṭkup pāṅkāyiṉār kēṭpac colliyatu.
+        </p>
+        <p type="translation" xml:lang="en"> </p>
+      </div>
+      <div xml:id="Aink81">
+        <lg type="edition">
+          <l>kurukuṭait tuṇṭa veḷḷakaṭ ṭiyāmai</l>
+          <l>yarippaṟai viṉaiña ralkumicaik kūṭṭu</l>
+          <l>malaraṇi vāyiṟ poykai yūranī</l>
+          <l>yeṉṉai nayantaṉe ṉeṉṟiniṉ</l>
+          <l>maṉaiyōḷ kēṭkiṉ varuntuvaḷ peritē.</l>
+        </lg>
+  
+      <lg type="translation" xml:lang="en">
+
+<l>         O man from a village with a pond </l> 
+<l rend="indent4">         whose mouth is adorned with flowers</l> 
+<l rend="indent4">               [and] where labourers working [to the sound] of the drum at harvest time</l> 
+<l rend="indent4">               bring to the hill where they are staying </l> 
+<l rend="indent4">                   tortoises whose white bellies </l> 
+<l rend="indent4">                   have already been smashed and eaten by a heron! </l> 
+<p/>
+<l>       If your wife hears </l> 
+<l>       that you've said you want me, </l> 
+<l>       she will suffer greatly. </l> 
+
+
+      </lg>
+
+    </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#Aink81"><interp type="alignment" select="0">5MG6MG53ML76M2G2M,146MG</interp>
+<entry>
+<form>kuruk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>heron</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>uṭaitt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>breaking</def>
+<gramGrp><gram type="role">absolutive</gram>
+</gramGrp></entry>
+<entry>
+<form>uṇṭa</form>
+<def>eaten</def>
+<gramGrp><gram type="role">perfective aspect</gram>
+<gram type="role">peyareccam</gram>
+</gramGrp></entry>
+<entry>
+<form>veḷ</form>
+<def>white</def>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
+<entry>
+<form><pc>+</pc>akaṭṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>belly</def>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
+<entry>
+<form>yāmai</form>
+<def>tortoise</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form><pc>~</pc>ari<pc>+</pc></form>
+<def>cutting i.e. harvest</def>
+<gramGrp><gram type="role">verbal root as peyareccam imperfective aspect</gram>
+</gramGrp></entry>
+<entry>
+<form>paṟai</form>
+<def>drum</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>viṉaiñar</form>
+<def>workers</def>
+<gramGrp><gram type="role">plural</gram>
+<gram type="role">honorific</gram>
+</gramGrp></entry>
+<entry>
+<form>alku</form>
+<def>staying</def>
+<gramGrp><gram type="role">imperfect aspect</gram>
+<gram type="role">peyareccam</gram>
+</gramGrp></entry>
+<entry>
+<form>micai<pc>+</pc></form>
+<def>hill</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>kūṭṭum</form>
+<def>bringing together</def>
+<gramGrp><gram type="role">imperfect aspect</gram>
+<gram type="role">peyareccam</gram>
+</gramGrp></entry>
+<entry>
+<form>malar</form>
+<def>blossom</def>
+<gramGrp><gram type="role">root noun</gram>
+</gramGrp></entry>
+<entry>
+<form>aṇi</form>
+<def>adorned</def>
+<gramGrp><gram type="role">verbal root as peyareccam perfective aspect</gram>
+</gramGrp></entry>
+<entry>
+<form>vāyiṉ</form>
+<def>mouth</def>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
+<entry>
+<form>poykai</form>
+<def>pond</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form><pc>~</pc>ūra</form>
+<def>man from the village</def>
+<gramGrp><gram type="role">pronominalised noun</gram>
+<gram type="role">masculine singular</gram>
+<gram type="role">vocative</gram>
+</gramGrp></entry>
+<entry>
+<form>nī</form>
+<def>you</def>
+<gramGrp><gram type="role">pronoun</gram>
+<gram type="role">singular</gram>
+<gram type="role">second person</gram>
+</gramGrp></entry>
+<entry>
+<form><pc>~</pc>eṉṉai</form>
+<def>me</def>
+<gramGrp><gram type="role">pronoun</gram>
+<gram type="role">accusative</gram>
+<gram type="role">singular</gram>
+<gram type="role">first person</gram>
+</gramGrp></entry>
+<entry>
+<form>nayantaṉeṉ</form>
+<def>I yearned for</def>
+<gramGrp><gram type="role">perfective aspect</gram>
+<gram type="role">singular</gram>
+<gram type="role">first person</gram>
+</gramGrp></entry>
+<entry>
+<form>eṉṟi</form>
+<def>you may say</def>
+<gramGrp><gram type="role">subjunctive</gram>
+<gram type="role">singular</gram>
+<gram type="role">second person</gram>
+</gramGrp></entry>
+<entry>
+<form>niṉ</form>
+<def>your</def>
+<gramGrp><gram type="role">pronoun</gram>
+<gram type="role">oblique</gram>
+<gram type="role">singular</gram>
+<gram type="role">second person</gram>
+</gramGrp></entry>
+<entry>
+<form>maṉaiyōḷ</form>
+<def>woman of the house, wife</def>
+<gramGrp><gram type="role">pronominalised noun</gram>
+<gram type="role">feminine singular</gram>
+</gramGrp></entry>
+<entry>
+<form>kēṭkiṉ</form>
+<def>if she hears(conditional)</def>
+<gramGrp/></entry>
+<entry>
+<form>varuntuvaḷ</form>
+<def>she will suffer</def>
+<gramGrp><gram type="role">feminine singular</gram>
+<gram type="role">imperfect aspect</gram>
+</gramGrp></entry>
+<entry>
+<form>perit<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
+<def>greatly</def>
+<form type="simple">peritu</form>
+<gramGrp><gram type="role">adverb</gram>
+</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+</entry></standOff>
+</TEI>
