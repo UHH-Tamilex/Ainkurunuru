@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <title xml:lang="ta">Aiṅkuṟunūṟu</title> 73. <persName xml:lang="ta">Ōrampōkiyār</persName>
+        </title>
+        <editor role="translator">Eva Wilden</editor>
+      </titleStmt>
+      <publicationStmt><p/></publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc><change/></revisionDesc>
+  </teiHeader>
+<text xml:lang="ta">
+  <body>
+    <div xml:id="Aink73-kilavi">
+      <p type="edition">ituvumatu.
+      </p>
+      <p type="translation" xml:lang="en"> </p>
+    </div>
+    <div xml:id="Aink73">
+      <lg type="edition">
+<l>vaṇṇa voṇṭaḻai nuṭaṅka vāliḻai</l>
+<l>yoṇṇuta larivai paṇṇai pāynteṉak</l>
+<l>kaṇṇaṟuṅ kuvaḷai nāṟit</l>
+<l>taṇṇeṉ ṟiciṉē peruntuṟaip puṉalē.</l>
+
+</lg>
+<lg type="translation" xml:lang="en">
+
+
+<l> Because the young woman with bright forehead [and] choice jewels</l> 
+<l> jumped into the tank(?), so that [her] colourful bright leaf[-skirt] swung: </l> 
+<l> May waterlilies fragrant with nectar be fragrant! </l> 
+<l> May the flood at the big ghat be cool! </l> 
+
+
+
+
+</lg>
+    </div>
+  </body>
+</text>
+<standOff type="wordsplit" corresp="#Aink73"><interp type="alignment" select="0">52MG35MG17MG2M,108MG</interp>
+<entry>
+<form>vaṇṇa</form>
+<def>colour</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form><pc>~</pc>oḷ</form>
+<def>bright</def>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
+<entry>
+<form>taḻai</form>
+<def>foliage</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>nuṭaṅka</form>
+<def>sway</def>
+<gramGrp><gram type="role">infinitive</gram>
+</gramGrp></entry>
+<entry>
+<form>vāl</form>
+<def>pure</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>iḻai</form>
+<def>jewel</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form><pc>~</pc>oḷ</form>
+<def>bright</def>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
+<entry>
+<form>nutal</form>
+<def>forehead</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>arivai</form>
+<def>young woman</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>paṇṇai</form>
+<def>agricultural land</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>pāynt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>leaping</def>
+<gramGrp><gram type="role">absolutive</gram>
+</gramGrp></entry>
+<entry>
+<form>eṉa<pc>+</pc></form>
+<def>because</def>
+<gramGrp><gram type="role">postposition</gram>
+<gram type="role">infinitive</gram>
+</gramGrp></entry>
+<entry>
+<form>kaḷ</form>
+<def>nectar</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>naṟum</form>
+<def>fragrant</def>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
+<entry>
+<form>kuvaḷai</form>
+<def>waterlily</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>nāṟi<pc>+</pc></form>
+<def>being fragrant</def>
+<gramGrp><gram type="role">absolutive</gram>
+</gramGrp></entry>
+<entry>
+<form>taṇ<pc>+</pc></form>
+<def>cool</def>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
+<entry>
+<form>eṉṟiciṉ-ē</form>
+<def>may you say [!!!]</def>
+<form type="simple">eṉṟiciṉ</form>
+<gramGrp><gram type="role">optative</gram>
+</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+</entry>
+<entry>
+<form>perum</form>
+<def>big</def>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
+<entry>
+<form>tuṟai<pc>+</pc></form>
+<def>ghat</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>puṉal-ē</form>
+<def>flood</def>
+<form type="simple">puṉal</form>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+</entry></standOff>
+</TEI>
