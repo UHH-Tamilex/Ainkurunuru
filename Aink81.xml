@@ -199,8 +199,9 @@
 </gramGrp></entry>
 <entry>
 <form>kēṭkiṉ</form>
-<def>if she hears(conditional)</def>
-<gramGrp/></entry>
+<def>if she hears</def>
+<gramGrp><gram type="role">conditional</gram>
+</gramGrp></entry>
 <entry>
 <form>varuntuvaḷ</form>
 <def>she will suffer</def>
