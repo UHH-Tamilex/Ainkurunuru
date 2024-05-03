@@ -5,7 +5,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-          <title xml:lang="ta">Aiṅkuṟunūṟu</title> 96. <persName xml:lang="ta">Ōrampōkiyār</persName>
+          <title xml:lang="ta">Aiṅkuṟunūṟu</title> 97. <persName xml:lang="ta">Ōrampōkiyār</persName>
         </title>
         <editor role="translator">Eva Wilden</editor>
       </titleStmt>
@@ -30,109 +30,108 @@
   </teiHeader>
   <text xml:lang="ta">
     <body>
-      <div xml:id="Aink96-kilavi">
-        <p type="edition">parattaiyar palarōṭum oḻukutal kaṇṭu poṟātirunta talaimakaḷ talaimakaṉ
-          maṉaikkaṭ pukuntuḻi uṭaṉpaṭutal kaṇṭa vāyilkaḷ tammuḷḷē colliyatu.
+      <div xml:id="Aink97-kilavi">
+        <p type="edition">puṟattoḻukkam iṉṟiyē irukkavum uḷateṉṟu pulanta talaimakaḷaip pulavi
+          nīkkiya talaimakaṉ puṇarcciyatu iṟutikkaṇ taṉṉuḷḷē colliyatu.
         </p>
         <p type="translation" xml:lang="en"> </p>
       </div>
-      <div xml:id="Aink96">
+      <div xml:id="Aink97">
         <lg type="edition">
-          <l>aṇinaṭai yerumai yāṭiya vaḷḷaṉ</l>
-          <l>maṇiniṟa neyta lāmpaloṭu kalikkuṅ</l>
-          <l>kaḻaṉi yūraṉ makaḷivaḷ</l>
-          <l>paḻaṉa vūraṉ pāyaliṉ ṟuṇaiyē.</l>
+          <l>pakaṉṟai vāṉmalar miṭainta kōṭṭaik</l>
+          <l>karuntā ḷerumaik kaṉṟu verūum</l>
+          <l>poykai yūraṉ makaḷivaḷ</l>
+          <l>poykaip pūviṉu naṟuntaṇ ṇiyaḷē.</l>
         </lg>
 
         <lg type="translation" xml:lang="en">
 
-          <l> She is the girl (lit. daughter) of the man from the village by the paddy fields,</l>
-          <l rend="indent2"> where sapphire-coloured waterlilies along with white lotus swell</l>
-          <l rend="indent4"> in the mire where a buffalo with elegant gait has bathed – </l>
-          <l> a sweet bed-fellow for the man from the village by the tank. </l>
-
+          <l> This is the girl (lit. daughter) of the man from a village with ponds</l>
+          <l rend="indent2"> where the calf of the black-legged buffalo takes fright</l>
+          <l rend="indent4"> from [his] horns piled high with white Jalap blossoms – </l>
+          <l> she is cooler [and] more fragrant than the flowers in [that] pond.</l>
 
         </lg>
       </div>
     </body>
   </text>
-  <standOff type="wordsplit" corresp="#Aink96">
-    <interp type="alignment" select="0">35MR65MG3M,104MG</interp>
+  <standOff type="wordsplit" corresp="#Aink97">
+    <interp type="alignment" select="0">90MR13MG2M,106MG</interp>
     <entry>
-      <form>aṇi</form>
-      <def>adorn/be beautiful</def>
-      <gramGrp>
-        <gram type="role">verbal root as adjective</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>naṭai</form>
-      <def>gait</def>
+      <form>pakaṉṟai</form>
+      <def>Jalap plant</def>
       <gramGrp>
         <gram type="role">noun</gram>
       </gramGrp>
     </entry>
     <entry>
-      <form><pc>~</pc>erumai</form>
-      <def>buffalo</def>
+      <form>vāl</form>
+      <def>pure</def>
       <gramGrp>
         <gram type="role">noun</gram>
       </gramGrp>
     </entry>
     <entry>
-      <form><pc>~</pc>āṭiya</form>
-      <def>bathed</def>
+      <form>malar</form>
+      <def>blossom</def>
+      <gramGrp>
+        <gram type="role">root noun</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>miṭainta</form>
+      <def>crowded/woven with</def>
       <gramGrp>
         <gram type="role">perfective aspect</gram>
         <gram type="role">peyareccam</gram>
       </gramGrp>
     </entry>
     <entry>
-      <form><pc>~</pc>aḷḷal</form>
-      <def>mire</def>
+      <form>kōṭṭai<pc>+</pc></form>
+      <def>horn</def>
+      <gramGrp>
+        <gram type="role">accusative</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>karum</form>
+      <def>black</def>
+      <gramGrp>
+        <gram type="role">adjective</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>tāḷ</form>
+      <def>leg</def>
       <gramGrp>
         <gram type="role">noun</gram>
       </gramGrp>
     </entry>
     <entry>
-      <form>maṇi</form>
-      <def>sapphire</def>
+      <form>erumai<pc>+</pc></form>
+      <def>buffalo</def>
       <gramGrp>
         <gram type="role">noun</gram>
       </gramGrp>
     </entry>
     <entry>
-      <form>niṟam</form>
-      <def>colour</def>
+      <form>kaṉṟu</form>
+      <def>calf</def>
       <gramGrp>
         <gram type="role">noun</gram>
       </gramGrp>
     </entry>
     <entry>
-      <form>neytal</form>
-      <def>blue waterlily</def>
-      <gramGrp>
-        <gram type="role">noun</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>āmpaloṭu</form>
-      <def>white lotus</def>
-      <gramGrp>
-        <gram type="role">sociative</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>kalikkum</form>
-      <def>swelling</def>
+      <form>verūum</form>
+      <def>being frightened</def>
       <gramGrp>
         <gram type="role">imperfect aspect</gram>
         <gram type="role">peyareccam</gram>
       </gramGrp>
     </entry>
     <entry>
-      <form>kaḻaṉi</form>
-      <def>paddy field</def>
+      <form>poykai</form>
+      <def>pond</def>
       <gramGrp>
         <gram type="role">noun</gram>
       </gramGrp>
@@ -147,7 +146,7 @@
     </entry>
     <entry>
       <form>makaḷ</form>
-      <def>daughter/girl</def>
+      <def>daughter</def>
       <gramGrp>
         <gram type="role">noun</gram>
       </gramGrp>
@@ -161,40 +160,33 @@
       </gramGrp>
     </entry>
     <entry>
-      <form>paḻaṉa</form>
-      <def>paddy field/tank</def>
+      <form>poykai<pc>+</pc></form>
+      <def>pond</def>
       <gramGrp>
         <gram type="role">noun</gram>
       </gramGrp>
     </entry>
     <entry>
-      <form><pc>~</pc>ūraṉ</form>
-      <def>man from the village</def>
+      <form>pūviṉum</form>
+      <def>flower</def>
       <gramGrp>
-        <gram type="role">pronominalised noun</gram>
-        <gram type="role">masculine singular</gram>
+        <gram type="role">comparative</gram>
       </gramGrp>
     </entry>
     <entry>
-      <form>pāyal</form>
-      <def>bed</def>
-      <gramGrp>
-        <gram type="role">noun</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>iṉ</form>
-      <def>sweet/pleasing</def>
+      <form>naṟum</form>
+      <def>fragrant</def>
       <gramGrp>
         <gram type="role">adjective</gram>
       </gramGrp>
     </entry>
     <entry>
-      <form>tuṇai-<pc>~</pc>ē</form>
-      <def>mate/friend</def>
-      <form type="simple">tuṇai</form>
+      <form>taṇṇiyaḷ-ē</form>
+      <def>she is cool</def>
+      <form type="simple">taṇṇiyaḷ</form>
       <gramGrp>
-        <gram type="role">noun</gram>
+        <gram type="role">pronominalised noun</gram>
+        <gram type="role">feminine singular</gram>
       </gramGrp>
       <gramGrp type="particle">
         <m>ē</m>
