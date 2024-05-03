@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <title xml:lang="ta">Aiṅkuṟunūṟu</title> 96. <persName xml:lang="ta">Ōrampōkiyār</persName>
+        </title>
+        <editor role="translator">Eva Wilden</editor>
+      </titleStmt>
+      <publicationStmt>
+        <p />
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>
+              <p></p>
+            </summary>
+          </msContents>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change />
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="ta">
+    <body>
+      <div xml:id="Aink95-kilavi">
+        <p type="edition">parattaiyar palarōṭum oḻukutal kaṇṭu poṟātirunta talaimakaḷ talaimakaṉ
+          maṉaikkaṭ pukuntuḻi uṭaṉpaṭutal kaṇṭa vāyilkaḷ tammuḷḷē colliyatu.
+        </p>
+        <p type="translation" xml:lang="en"> </p>
+      </div>
+      <div xml:id="Aink96">
+        <lg type="edition">
+          <l>aṇinaṭai yerumai yāṭiya vaḷḷaṉ</l>
+          <l>maṇiniṟa neyta lāmpaloṭu kalikkuṅ</l>
+          <l>kaḻaṉi yūraṉ makaḷivaḷ</l>
+          <l>paḻaṉa vūraṉ pāyaliṉ ṟuṇaiyē.</l>
+        </lg>
+
+        <lg type="translation" xml:lang="en">
+
+          <l> She is the girl (lit. daughter) of the man from the village by the paddy fields,</l>
+          <l rend="indent2"> where sapphire-coloured waterlilies along with white lotus swell</l>
+          <l rend="indent4"> in the mire where a buffalo with elegant gait has bathed – </l>
+          <l> a sweet bed-fellow for the man from the village by the tank. </l>
+
+
+        </lg>
+      </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#Aink96">
+    <interp type="alignment" select="0">35MR65MG3M,104MG</interp>
+    <entry>
+      <form>aṇi</form>
+      <def>adorn/be beautiful</def>
+      <gramGrp>
+        <gram type="role">verbal root as adjective</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>naṭai</form>
+      <def>gait</def>
+      <gramGrp>
+        <gram type="role">noun</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form><pc>~</pc>erumai</form>
+      <def>buffalo</def>
+      <gramGrp>
+        <gram type="role">noun</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form><pc>~</pc>āṭiya</form>
+      <def>bathed</def>
+      <gramGrp>
+        <gram type="role">perfective aspect</gram>
+        <gram type="role">peyareccam</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form><pc>~</pc>aḷḷal</form>
+      <def>mire</def>
+      <gramGrp>
+        <gram type="role">noun</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>maṇi</form>
+      <def>sapphire</def>
+      <gramGrp>
+        <gram type="role">noun</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>niṟam</form>
+      <def>colour</def>
+      <gramGrp>
+        <gram type="role">noun</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>neytal</form>
+      <def>blue waterlily</def>
+      <gramGrp>
+        <gram type="role">noun</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>āmpaloṭu</form>
+      <def>white lotus</def>
+      <gramGrp>
+        <gram type="role">sociative</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>kalikkum</form>
+      <def>swelling</def>
+      <gramGrp>
+        <gram type="role">imperfect aspect</gram>
+        <gram type="role">peyareccam</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>kaḻaṉi</form>
+      <def>paddy field</def>
+      <gramGrp>
+        <gram type="role">noun</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form><pc>~</pc>ūraṉ</form>
+      <def>man from the village</def>
+      <gramGrp>
+        <gram type="role">pronominalised noun</gram>
+        <gram type="role">masculine singular</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>makaḷ</form>
+      <def>daughter/girl</def>
+      <gramGrp>
+        <gram type="role">noun</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>ivaḷ</form>
+      <def>she</def>
+      <gramGrp>
+        <gram type="role">feminine singular</gram>
+        <gram type="role">pronoun</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>paḻaṉa</form>
+      <def>paddy field/tank</def>
+      <gramGrp>
+        <gram type="role">noun</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form><pc>~</pc>ūraṉ</form>
+      <def>man from the village</def>
+      <gramGrp>
+        <gram type="role">pronominalised noun</gram>
+        <gram type="role">masculine singular</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>pāyal</form>
+      <def>bed</def>
+      <gramGrp>
+        <gram type="role">noun</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>iṉ</form>
+      <def>sweet/pleasing</def>
+      <gramGrp>
+        <gram type="role">adjective</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>tuṇai-<pc>~</pc>ē</form>
+      <def>mate/friend</def>
+      <form type="simple">tuṇai</form>
+      <gramGrp>
+        <gram type="role">noun</gram>
+      </gramGrp>
+      <gramGrp type="particle">
+        <m>ē</m>
+      </gramGrp>
+    </entry>
+  </standOff>
+</TEI>
