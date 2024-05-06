@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <title xml:lang="ta">Aiṅkuṟunūṟu</title> 93. <persName xml:lang="ta">Ōrampōkiyār</persName>
+        </title>
+        <editor role="translator">Eva Wilden</editor>
+      </titleStmt>
+      <publicationStmt>
+        <p />
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>
+              <p></p>
+            </summary>
+          </msContents>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change />
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="ta">
+    <body>
+      <div xml:id="Aink93-kilavi">
+        <p type="edition">muyakkam peṟṟavaḻip piṟanta veṟi nāṟṟattāl paṇṭaiyaḷavaṉṟi vaṇṭukaḷ
+          moyttaṉavāka, ‘itaṟkuk kāraṇam eṉ’ eṉṟu viṉāviya cevilittāykkuk kūṟuvāḷ pōṉṟu talaimakaṉ
+          ciṟaipuṟattāṉākat tōḻi colliyatu.
+        </p>
+        <p type="translation" xml:lang="en"> </p>
+      </div>
+      <div xml:id="Aink93">
+        <lg type="edition">
+          <l>erumainal lēṟṟiṉa mēya larunteṉap</l>
+          <l>pacumō rōṭamō ṭāmpa lollā</l>
+          <l>ceyta viṉaiya maṉṟa palpoḻiṟ</l>
+          <l>ṟātuṇ veṟukkaiya vākiyivaḷ</l>
+          <l>pōtaviḻ mucci yūtum vaṇṭē.</l>
+        </lg>
+        <lg type="translation" xml:lang="en">
+
+<l>           The bees, rejecting white lotus and green Catechu plants, </l> 
+<l rend="indent2">           because those have [already] been fed on </l> 
+<l rend="indent4">           by the herds of good buffalo bulls as they grazed,  </l> 
+<l>         are ones whose work has truly already been done [for them]: </l> 
+<p></p>
+<l>         They feed themselves on the crown of this girl's head, </l> 
+<l>         on its opening flower buds, </l> 
+<l>         and thus become rich by eating pollen from many groves. </l> 
+
+
+        </lg>
+      </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#Aink93">
+    <interp type="alignment" select="0">13MG4ML9MG17MG21MG16MG24MG18M2G2M,132MG</interp>
+    <entry>
+      <form>erumai</form>
+      <def>buffalo</def>
+      <gramGrp>
+        <gram type="role">noun</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>nal</form>
+      <def>good</def>
+      <gramGrp>
+        <gram type="role">adjective</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form><pc>+</pc>ēṟṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+      <def>bull</def>
+      <gramGrp>
+        <gram type="role">oblique</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>iṉam</form>
+      <def>herd</def>
+      <gramGrp>
+        <gram type="role">noun</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>mēyal</form>
+      <def>grazing</def>
+      <gramGrp>
+        <gram type="role">verbal noun</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>arunt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+      <def>eat</def>
+      <gramGrp>
+        <gram type="role">verbal root</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>eṉa<pc>+</pc></form>
+      <def>because</def>
+      <gramGrp>
+        <gram type="role">postposition</gram>
+        <gram type="role">infinitive</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>pacu</form>
+      <def>green/fresh/tender</def>
+      <gramGrp>
+        <gram type="role">adjective</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>mōrōṭamōṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+      <def>[Red] Catechu plant</def>
+      <gramGrp>
+        <gram type="role">sociative</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>āmpal</form>
+      <def>white lotus</def>
+      <gramGrp>
+        <gram type="role">noun</gram>
+      </gramGrp>
+    </entry>
+    <superEntry type="ambiguous">
+      <entry>
+        <entry>
+          <form>ollā</form>
+          <def>not agreeing with or not tolerating</def>
+          <gramGrp>
+            <gram type="role">negative</gram>
+            <gram type="role">peyareccam</gram>
+          </gramGrp>
+        </entry>
+      </entry>
+      <entry>
+        <entry>
+          <form>ollā</form>
+          <def>not agreeing with or not tolerating</def>
+          <gramGrp>
+            <gram type="role">absolutive</gram>
+            <gram type="role">negative</gram>
+          </gramGrp>
+        </entry>
+      </entry>
+    </superEntry>
+    <entry>
+      <form>ceyta</form>
+      <def>having been done</def>
+      <gramGrp>
+        <gram type="role">perfective aspect</gram>
+        <gram type="role">peyareccam</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>viṉaiya-maṉṟa</form>
+      <def>ones with work</def>
+      <form type="simple">viṉaiya</form>
+      <gramGrp>
+        <gram type="role">pronominalised noun</gram>
+        <gram type="role">neuter plural</gram>
+      </gramGrp>
+      <gramGrp type="particle">
+        <m>maṉṟa</m>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>pal</form>
+      <def>many</def>
+      <gramGrp>
+        <gram type="role">pronoun</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>poḻil</form>
+      <def>grove</def>
+      <gramGrp>
+        <gram type="role">noun</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>tāt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+      <def>pollen</def>
+      <gramGrp>
+        <gram type="role">noun</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>uṇ</form>
+      <def>eating</def>
+      <gramGrp>
+        <gram type="role">verbal root as peyareccam</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>veṟukkaiya</form>
+      <def>ones with wealth</def>
+      <gramGrp>
+        <gram type="role">pronominalised noun</gram>
+        <gram type="role">neuter plural</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form><pc>~</pc>āki</form>
+      <def>becoming</def>
+      <gramGrp>
+        <gram type="role">absolutive</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form><pc>~</pc>ivaḷ</form>
+      <def>her</def>
+      <gramGrp>
+        <gram type="role">feminine singular</gram>
+        <gram type="role">pronoun</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>pōt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+      <def>flower bud</def>
+      <gramGrp>
+        <gram type="role">noun</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>aviḻ</form>
+      <def>opening</def>
+      <gramGrp>
+        <gram type="role">imperfect aspect</gram>
+        <gram type="role">peyareccam</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>mucci</form>
+      <def>crown of the head/tuft of hair</def>
+      <gramGrp>
+        <gram type="role">noun</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form><pc>~</pc>ūtum</form>
+      <def>they feed on</def>
+      <gramGrp>
+        <gram type="role">habitual future</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>vaṇṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
+      <def>bee</def>
+      <form type="simple">vaṇṭu</form>
+      <gramGrp>
+        <gram type="role">noun</gram>
+      </gramGrp>
+      <gramGrp type="particle">
+        <m>ē</m>
+      </gramGrp>
+    </entry>
+  </standOff>
+</TEI>

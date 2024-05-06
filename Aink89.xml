@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <title xml:lang="ta">Aiṅkuṟunūṟu</title> 89. <persName xml:lang="ta">Ōrampōkiyār</persName>
+        </title>
+        <editor role="translator">Eva Wilden</editor>
+      </titleStmt>
+      <publicationStmt><p/></publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc><change/></revisionDesc>
+  </teiHeader>
+<text xml:lang="ta">
+  <body>
+    <div xml:id="Aink89-kilavi">
+      <p type="edition">talaimakaṉ talaimakaḷaip pōṟṟi oḻukāniṉṟāṉ eṉpatu kēṭṭa kātaṟparattai avaṉ pāṇaṉukkuc colluvāḷāy avaṭkup pāṅkāyiṉār kēṭpac colliyatu.
+      </p>
+      <p type="translation" xml:lang="en"> </p>
+    </div>
+    <div xml:id="Aink89">
+      <lg type="edition">
+<l>amma vāḻi pāṇa vevvaik</l>
+<l>kevaṉperi taḷikku meṉpa paḻaṉattu</l>
+<l>vaṇṭutā tūtu mūraṉ</l>
+<l>peṇṭeṉa virumpiṉ ṟavaṭaṉ paṇpē.</l>
+</lg>
+
+<lg type="translation" xml:lang="en">
+
+
+<l>   Ah, long life to you, o bard! </l> 
+<l>   They ask why the man from the village </l> 
+<l rend="indent2">       where bees feed on pollen at the tank</l> 
+<l>   cares so much for our sister: </l> 
+<l>   He wants her because of her qualities as a woman. </l> 
+
+  
+            
+  
+          </lg>
+    </div>
+  </body>
+</text>
+<standOff type="wordsplit" corresp="#Aink89"><interp type="alignment" select="0">20MG9MG28MG12MG12MG4ML6M2G2M,100MG</interp>
+<entry>
+<form>amma</form>
+<def>alas</def>
+</entry>
+<entry>
+<form>vāḻi</form>
+<def>may you live</def>
+<gramGrp><gram type="role">subjunctive</gram>
+<gram type="role">singular</gram>
+<gram type="role">second person</gram>
+</gramGrp></entry>
+<entry>
+<form>pāṇa</form>
+<def>bard</def>
+<gramGrp><gram type="role">vocative</gram>
+</gramGrp></entry>
+<entry>
+<form><pc>~</pc>evvaikk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>our sister</def>
+<gramGrp><gram type="role">dative</gram>
+</gramGrp></entry>
+<entry>
+<form>evaṉ</form>
+<def>what/why</def>
+<gramGrp><gram type="role">pronoun</gram>
+</gramGrp></entry>
+<entry>
+<form>perit<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>very much</def>
+<gramGrp><gram type="role">adverb</gram>
+</gramGrp></entry>
+<entry>
+<form>aḷikkum</form>
+<def>he cares</def>
+<gramGrp><gram type="role">habitual future</gram>
+</gramGrp></entry>
+<entry>
+<form>eṉpa</form>
+<def>they say</def>
+<gramGrp><gram type="role">imperfect aspect</gram>
+<gram type="role">plural</gram>
+<gram type="role">third person</gram>
+</gramGrp></entry>
+<entry>
+<form>paḻaṉattu</form>
+<def>tank</def>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
+<entry>
+<form>vaṇṭu</form>
+<def>bee</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>tāt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>pollen</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>ūtum</form>
+<def>feeding on</def>
+<gramGrp><gram type="role">imperfect aspect</gram>
+<gram type="role">peyareccam</gram>
+</gramGrp></entry>
+<entry>
+<form>ūraṉ</form>
+<def>man from the village</def>
+<gramGrp><gram type="role">pronominalised noun</gram>
+<gram type="role">masculine singular</gram>
+</gramGrp></entry>
+<entry>
+<form>peṇṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>woman</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>eṉa</form>
+<def>because</def>
+<gramGrp><gram type="role">postposition</gram>
+<gram type="role">infinitive</gram>
+</gramGrp></entry>
+<entry>
+<form>virumpiṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>it was desired</def>
+<gramGrp><gram type="role">neuter singular</gram>
+<gram type="role">perfective aspect</gram>
+</gramGrp></entry>
+<entry>
+<form>avaḷ</form>
+<def>her</def>
+<gramGrp><gram type="role">feminine singular</gram>
+<gram type="role">pronoun</gram>
+</gramGrp></entry>
+<entry>
+<form>taṉ</form>
+<def>her</def>
+<gramGrp><gram type="role">pronoun</gram>
+<gram type="role">oblique</gram>
+</gramGrp></entry>
+<entry>
+<form>paṇp<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
+<def>quality</def>
+<form type="simple">paṇpu</form>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+</entry></standOff>
+</TEI>

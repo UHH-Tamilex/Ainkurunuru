@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <title xml:lang="ta">Aiṅkuṟunūṟu</title> 85. <persName xml:lang="ta">Ōrampōkiyār</persName>
+        </title>
+        <editor role="translator">Eva Wilden</editor>
+      </titleStmt>
+      <publicationStmt><p/></publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc><change/></revisionDesc>
+  </teiHeader>
+<text xml:lang="ta">
+  <body>
+    <div xml:id="Aink85-kilavi">
+      <p type="edition">talaimakaṉ parattaiyar mēl kātalkūrntu neṭittuc celvuḻi maṉaiyakam pukuntāṉākat talaivi kūṟiyatu.
+      </p>
+      <p type="translation" xml:lang="en"> </p>
+    </div>
+    <div xml:id="poemXX">
+      <lg type="edition">
+<l>veṇṇutaṟ kampu ḷarikkuraṟ pēṭai</l>
+<l>taṇṇaṟum paḻaṉattuk kiḷaiyō ṭālu</l>
+<l>maṟivil yāṇar malikē ḻūranī</l>
+<l>ciṟuvari ṉiṉaiya ceyti</l>
+<l>nakārō perumaniṟ kaṇṭici ṉōrē.</l>
+</lg>
+<lg type="translation" xml:lang="en">
+
+<l>   O man from a lustruous village rich in unknowable(?) fertiilty, </l> 
+<l rend="indent4"> 	where the white-browed female water-fowl with grating voice</l> 
+<l rend="indent4"> 	keens with her brood </l> 
+<l rend="indent4"> 	in the cool fragrant tank – </l> 
+<l> You're acting like a child. </l> 
+<l> O big man, won't they laugh, the people who saw you? </l> 
+
+
+
+</lg>
+    </div>
+  </body>
+</text>
+<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">54MG8MG44MG20MG2M,131MG</interp>
+<entry>
+<form>veḷ</form>
+<def>white</def>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
+<entry>
+<form>nutal</form>
+<def>forehead</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>kampuḷ</form>
+<def>water-fowl</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>ari<pc>+</pc></form>
+<def>cutting i.e. grating</def>
+<gramGrp><gram type="role">verbal root as peyareccam imperfective aspect</gram>
+</gramGrp></entry>
+<entry>
+<form>kural</form>
+<def>voice</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>pēṭai</form>
+<def>female bird/hen</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>taṇ</form>
+<def>cool</def>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
+<entry>
+<form>naṟum</form>
+<def>fragrant</def>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
+<entry>
+<form>paḻaṉattu<pc>+</pc></form>
+<def>tank</def>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
+<entry>
+<form>kiḷaiyōṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>relative</def>
+<gramGrp><gram type="role">sociative</gram>
+</gramGrp></entry>
+<entry>
+<form>ālum</form>
+<def>calling</def>
+<gramGrp><gram type="role">imperfect aspect</gram>
+<gram type="role">peyareccam</gram>
+</gramGrp></entry>
+<entry>
+<form>aṟiv<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>knowledge</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>il</form>
+<def>without</def>
+<gramGrp><gram type="role">verbal root as peyareccam imperfective aspect</gram>
+</gramGrp></entry>
+<entry>
+<form>yāṇar</form>
+<def>fertility</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>mali</form>
+<def>abounding in</def>
+<gramGrp><gram type="role">verbal root as peyareccam imperfective aspect</gram>
+</gramGrp></entry>
+<entry>
+<form>kēḻ</form>
+<def>lustre</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>ūra</form>
+<def>man from the village</def>
+<gramGrp><gram type="role">pronominalised noun</gram>
+<gram type="role">masculine singular</gram>
+<gram type="role">vocative</gram>
+</gramGrp></entry>
+<entry>
+<form>nī</form>
+<def>you</def>
+<gramGrp><gram type="role">pronoun</gram>
+<gram type="role">singular</gram>
+<gram type="role">second person</gram>
+</gramGrp></entry>
+<entry>
+<form>ciṟuvariṉ</form>
+<def>little ones</def>
+<gramGrp><gram type="role">oblique</gram>
+<gram type="role">plural</gram>
+<gram type="role">honorific</gram>
+</gramGrp></entry>
+<entry>
+<form>iṉaiya</form>
+<def>such things</def>
+<gramGrp><gram type="role">pronominalised noun</gram>
+<gram type="role">neuter plural</gram>
+</gramGrp></entry>
+<entry>
+<form>ceyti</form>
+<def>you may do</def>
+<gramGrp><gram type="role">subjunctive</gram>
+<gram type="role">singular</gram>
+<gram type="role">second person</gram>
+</gramGrp></entry>
+<entry>
+<form>nakār-ō</form>
+<def>they will not laugh</def>
+<form type="simple">nakār</form>
+<gramGrp><gram type="role">negative</gram>
+<gram type="role">plural</gram>
+<gram type="role">honorific</gram>
+</gramGrp><gramGrp type="particle"><m>ō</m></gramGrp>
+</entry>
+<entry>
+<form>peruma</form>
+<def>big man</def>
+<gramGrp><gram type="role">pronominalised noun</gram>
+<gram type="role">masculine singular</gram>
+<gram type="role">vocative</gram>
+</gramGrp></entry>
+<entry>
+<form>niṉ</form>
+<def>you</def>
+<gramGrp><gram type="role">pronoun</gram>
+<gram type="role">oblique</gram>
+<gram type="role">singular</gram>
+<gram type="role">second person</gram>
+</gramGrp></entry>
+<entry>
+<form>kaṇṭiciṉōr-ē</form>
+<def>they who saw</def>
+<form type="simple">kaṇṭiciṉōr</form>
+<gramGrp><gram type="role">participial noun</gram>
+<gram type="role">perfective aspect</gram>
+<gram type="role">plural</gram>
+<gram type="role">honorific</gram>
+</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+</entry></standOff>
+</TEI>

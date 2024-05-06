@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <title xml:lang="ta">Aiṅkuṟunūṟu</title> 95. <persName xml:lang="ta">Ōrampōkiyār</persName>
+        </title>
+        <editor role="translator">Eva Wilden</editor>
+      </titleStmt>
+      <publicationStmt>
+        <p />
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>
+              <p></p>
+            </summary>
+          </msContents>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change />
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="ta">
+    <body>
+      <div xml:id="Aink95-kilavi">
+        <p type="edition">uṇṭik kālattu maṉaikkaṇ varutaluñ curuṅkip parattaiyiṭattaṉāyt talaimakaṉ
+          oḻukiyavaḻi avaṟku vāyilāy vantārkkut talaimakaḷ colliyatu.
+        </p>
+        <p type="translation" xml:lang="en"> </p>
+      </div>
+      <div xml:id="Aink95">
+        <lg type="edition">
+          <l>karuṅkōṭ ṭerumai kayiṟu parintacaii</l>
+          <l>neṭuṅkatir nelli ṉāṇmēya lārum</l>
+          <l>puṉaṉmuṟ ṟūraṉ pakalum</l>
+          <l>paṭarmali yarunōy ceytaṉa ṉemakkē.</l>
+        </lg>
+
+        <lg type="translation" xml:lang="en">
+
+          <l> The man from the village surrounded by floods, </l>
+          <l rend="indent4"> where the black-horned buffalo, after breaking and shaking off [its] rope,</l>
+          <l rend="indent4"> gorges itself from grazing all day on long-eared paddy,</l>
+          <l> has caused us agonising, unbearable pain every day. </l>
+
+
+        </lg>
+      </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#Aink95">
+    <interp type="alignment" select="0">9MG18MG21ML20MG9MG31M2G2M,116MG</interp>
+    <entry>
+      <form>karum</form>
+      <def>black</def>
+      <gramGrp>
+        <gram type="role">adjective</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>kōṭṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+      <def>horn</def>
+      <gramGrp>
+        <gram type="role">oblique</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>erumai</form>
+      <def>buffalo</def>
+      <gramGrp>
+        <gram type="role">noun</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>kayiṟu</form>
+      <def>rope</def>
+      <gramGrp>
+        <gram type="role">noun</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>parint<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+      <def>breaking</def>
+      <gramGrp>
+        <gram type="role">absolutive</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>acaii</form>
+      <def>shaking</def>
+      <gramGrp>
+        <gram type="role">absolutive</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>neṭum</form>
+      <def>long</def>
+      <gramGrp>
+        <gram type="role">adjective</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>katir</form>
+      <def>ear</def>
+      <gramGrp>
+        <gram type="role">noun</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>nelliṉ</form>
+      <def>paddy</def>
+      <gramGrp>
+        <gram type="role">oblique</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>nāḷ</form>
+      <def>day</def>
+      <gramGrp>
+        <gram type="role">noun</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>mēyal</form>
+      <def>grazing</def>
+      <gramGrp>
+        <gram type="role">verbal noun</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>ārum</form>
+      <def>becoming full</def>
+      <gramGrp>
+        <gram type="role">imperfect aspect</gram>
+        <gram type="role">peyareccam</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>puṉal</form>
+      <def>flood</def>
+      <gramGrp>
+        <gram type="role">noun</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>muṟṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+      <def>being complete/surrounded by</def>
+      <gramGrp>
+        <gram type="role">verbal root as peyareccam</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>ūraṉ</form>
+      <def>man from the village</def>
+      <gramGrp>
+        <gram type="role">pronominalised noun</gram>
+        <gram type="role">masculine singular</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>pakal-um</form>
+      <def>day</def>
+      <form type="simple">pakal</form>
+      <gramGrp>
+        <gram type="role">noun</gram>
+      </gramGrp>
+      <gramGrp type="particle">
+        <m>um</m>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>paṭar</form>
+      <def>affliction</def>
+      <gramGrp>
+        <gram type="role">noun</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>mali</form>
+      <def>abounding in</def>
+      <gramGrp>
+        <gram type="role">verbal root as peyareccam imperfective aspect</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form><pc>~</pc>aru</form>
+      <def>difficult</def>
+      <gramGrp>
+        <gram type="role">adjective</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>nōy</form>
+      <def>pain</def>
+      <gramGrp>
+        <gram type="role">noun</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>ceytaṉaṉ</form>
+      <def>he has made/caused</def>
+      <gramGrp>
+        <gram type="role">masculine singular</gram>
+        <gram type="role">perfective aspect</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>emakk<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
+      <def>to us</def>
+      <form type="simple">emakku</form>
+      <gramGrp>
+        <gram type="role">pronoun</gram>
+        <gram type="role">dative</gram>
+        <gram type="role">plural</gram>
+        <gram type="role">first person</gram>
+      </gramGrp>
+      <gramGrp type="particle">
+        <m>ē</m>
+      </gramGrp>
+    </entry>
+  </standOff>
+</TEI>

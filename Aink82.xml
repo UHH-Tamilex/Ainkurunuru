@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <title xml:lang="ta">Aiṅkuṟunūṟu</title> 82. <persName xml:lang="ta">Ōrampōkiyār</persName>
+        </title>
+        <editor role="translator">Eva Wilden</editor>
+      </titleStmt>
+      <publicationStmt><p/></publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc><change/></revisionDesc>
+  </teiHeader>
+<text xml:lang="ta">
+  <body>
+    <div xml:id="Aink82-kilavi">
+      <p type="edition">maṉaivayiṟ pukunta pāṇaṟkut talaimakaṉ kēṭkumāṟṟāl talaimakaḷ colliyatu.
+      </p>
+      <p type="translation" xml:lang="en"> </p>
+    </div>
+    <div xml:id="Aink82">
+      <lg type="edition">
+<l>vekuṇṭaṉa ḷeṉpa pāṇaniṉ ṟalaimakaṇ</l>
+<l>makiḻnaṉ mārpi ṉaviḻiṇar naṟuntārt</l>
+<l>tātuṇ paṟavai vantem</l>
+<l>pōtār kūnta liruntaṉa veṉavē.</l>
+</lg>
+<lg type="translation" xml:lang="en">
+
+<l>   O bard! </l> 
+<l> They say your mistress was furious </l> 
+<l> [when she heard] that the bees that suck pollen </l> 
+<l> from the fragrant garland with its opening clusters </l> 
+<l> on the chest of the delightful man, </l> 
+<l> came and sat on our hair,</l> 
+<l> full of buds. </l> 
+
+  
+  
+        </lg>
+    </div>
+  </body>
+</text>
+<standOff type="wordsplit" corresp="#Aink82"><interp type="alignment" select="0">65MG13MG5MG20MG3M,109MG</interp>
+<entry>
+<form>vekuṇṭaṉaḷ</form>
+<def>she was furious</def>
+<gramGrp><gram type="role">feminine singular</gram>
+<gram type="role">perfective aspect</gram>
+</gramGrp></entry>
+<entry>
+<form>eṉpa</form>
+<def>they say</def>
+<gramGrp><gram type="role">imperfect aspect</gram>
+<gram type="role">plural</gram>
+</gramGrp></entry>
+<entry>
+<form>pāṇa</form>
+<def>bard</def>
+<gramGrp><gram type="role">vocative</gram>
+</gramGrp></entry>
+<entry>
+<form>niṉ</form>
+<def>your</def>
+<gramGrp><gram type="role">pronoun</gram>
+<gram type="role">oblique</gram>
+<gram type="role">singular</gram>
+<gram type="role">second person</gram>
+</gramGrp></entry>
+<entry>
+<form>talaimakaḷ</form>
+<def>lady/mistress</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>makiḻnaṉ</form>
+<def>delightful man</def>
+<gramGrp><gram type="role">pronominalised noun</gram>
+<gram type="role">masculine singular</gram>
+</gramGrp></entry>
+<entry>
+<form>mārpiṉ</form>
+<def>chest</def>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
+<entry>
+<form>aviḻ</form>
+<def>opening</def>
+<gramGrp><gram type="role">verbal root as peyareccam imperfective aspect</gram>
+</gramGrp></entry>
+<entry>
+<form>iṇar</form>
+<def>cluster</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>naṟum</form>
+<def>fragrant</def>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
+<entry>
+<form>tār<pc>+</pc></form>
+<def>garland</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>tāt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>pollen</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>uṇ</form>
+<def>eating</def>
+<gramGrp><gram type="role">verbal root as peyareccam imperfective aspect</gram>
+</gramGrp></entry>
+<entry>
+<form>paṟavai</form>
+<def>bee</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>vant<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>having come</def>
+<gramGrp><gram type="role">absolutive</gram>
+</gramGrp></entry>
+<entry>
+<form>em</form>
+<def>our</def>
+<gramGrp><gram type="role">pronoun</gram>
+<gram type="role">oblique</gram>
+<gram type="role">plural</gram>
+<gram type="role">first person</gram>
+</gramGrp></entry>
+<entry>
+<form>pōt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>bud</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>ār</form>
+<def>full of</def>
+<gramGrp><gram type="role">verbal root as peyareccam perfective aspect</gram>
+</gramGrp></entry>
+<entry>
+<form>kūntal</form>
+<def>tresses</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>iruntaṉa</form>
+<def>they sat</def>
+<gramGrp><gram type="role">neuter plural</gram>
+<gram type="role">perfective aspect</gram>
+</gramGrp></entry>
+<entry>
+<form><pc>~</pc>eṉa-<pc>~</pc>ē</form>
+<def>say</def>
+<form type="simple">eṉa</form>
+<gramGrp><gram type="role">infinitive</gram>
+</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+</entry></standOff>
+</TEI>
