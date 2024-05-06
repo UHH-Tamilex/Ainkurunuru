@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <title xml:lang="ta">Aiṅkuṟunūṟu</title> 98. <persName xml:lang="ta">Ōrampōkiyār</persName>
+        </title>
+        <editor role="translator">Eva Wilden</editor>
+      </titleStmt>
+      <publicationStmt>
+        <p />
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>
+              <p></p>
+            </summary>
+          </msContents>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change />
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="ta">
+    <body>
+      <div xml:id="Aink98-kilavi">
+        <p type="edition">puṟattoḻukkam uḷatākiya tuṇaiyāṉē pulantu vāyil nērāt talaimakaḷ koṭumai
+          talaimakaṉ kūṟak kēṭṭa tōḻi avaṟkuc colliyatu.
+        </p>
+        <p type="translation" xml:lang="en"> </p>
+      </div>
+      <div xml:id="Aink98">
+        <lg type="edition">
+          <l>taṇpuṉa lāṭun taṭaṅkōṭ ṭerumai</l>
+          <l>tiṇpiṇi yampiyiṟ ṟōṉṟu mūra</l>
+          <l>voṇṭoṭi maṭamaka ḷivaḷiṉu</l>
+          <l>nuntaiyum yāyuṅ kaṭiyarō niṉṉē.</l>
+        </lg>
+        <lg type="translation" xml:lang="en">
+
+
+          <l> O man from a village </l>
+          <l rend="indent2"> where the broad-horned buffalo that bathes in the cool flood </l>
+          <l rend="indent4"> appears like a firmly tied little boat! </l>
+          <l> Will your father and my mother be more of a protection [against] you </l>
+          <l> than this innocent girl with the bright bracelets? / </l>
+          <l> Will your father and my mother chide/denounce you more </l>
+          <l> than this innocent girl with the bright bracelets? </l>
+
+
+        </lg>
+      </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#Aink98">
+    <interp type="alignment" select="0">21MG42ML11MR6MG6MG9MG4MG3M,108MG</interp>
+    <entry>
+      <form>taṇ</form>
+      <def>cool</def>
+      <gramGrp>
+        <gram type="role">adjective</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>puṉal</form>
+      <def>flood</def>
+      <gramGrp>
+        <gram type="role">noun</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>āṭum</form>
+      <def>bathing</def>
+      <gramGrp>
+        <gram type="role">imperfect aspect</gram>
+        <gram type="role">peyareccam</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>taṭam</form>
+      <def>broad</def>
+      <gramGrp>
+        <gram type="role">adjective</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>kōṭṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+      <def>horn</def>
+      <gramGrp>
+        <gram type="role">oblique</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>erumai</form>
+      <def>buffalo</def>
+      <gramGrp>
+        <gram type="role">noun</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>tiṇ</form>
+      <def>firm</def>
+      <gramGrp>
+        <gram type="role">adjective</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>piṇi</form>
+      <def>fetter</def>
+      <gramGrp>
+        <gram type="role">root noun</gram>
+        <gram type="role">noun</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form><pc>~</pc>ampiyiṉ</form>
+      <def>small boat/raft</def>
+      <gramGrp>
+        <gram type="role">oblique</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>tōṉṟum</form>
+      <def>appearing</def>
+      <gramGrp>
+        <gram type="role">imperfect aspect</gram>
+        <gram type="role">peyareccam</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>ūra</form>
+      <def>man from the village</def>
+      <gramGrp>
+        <gram type="role">pronominalised noun</gram>
+        <gram type="role">masculine singular</gram>
+        <gram type="role">vocative</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form><pc>~</pc>oḷ</form>
+      <def>bright</def>
+      <gramGrp>
+        <gram type="role">adjective</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>toṭi</form>
+      <def>bracelet</def>
+      <gramGrp>
+        <gram type="role">noun</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>maṭam</form>
+      <def>innocence</def>
+      <gramGrp>
+        <gram type="role">noun</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>makaḷ</form>
+      <def>daughter</def>
+      <gramGrp>
+        <gram type="role">noun</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>ivaḷiṉum</form>
+      <def>she</def>
+      <gramGrp>
+        <gram type="role">comparative</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>nuntai-<pc>~</pc>um</form>
+      <def>your father</def>
+      <form type="simple">nuntai</form>
+      <gramGrp>
+        <gram type="role">noun</gram>
+      </gramGrp>
+      <gramGrp type="particle">
+        <m>um</m>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>yāy-um</form>
+      <def>my mother</def>
+      <form type="simple">yāy</form>
+      <gramGrp>
+        <gram type="role">noun</gram>
+      </gramGrp>
+      <gramGrp type="particle">
+        <m>um</m>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>kaṭiyar-ō</form>
+      <def>they are/will be protection</def>
+      <form type="simple">kaṭiyar</form>
+      <gramGrp>
+        <gram type="role">pronominalised noun</gram>
+        <gram type="role">plural</gram>
+        <gram type="role">honorific</gram>
+      </gramGrp>
+      <gramGrp type="particle">
+        <m>ō</m>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>niṉ-<pc>+</pc>ē</form>
+      <def>you</def>
+      <form type="simple">niṉ</form>
+      <gramGrp>
+        <gram type="role">pronoun</gram>
+        <gram type="role">oblique</gram>
+        <gram type="role">singular</gram>
+        <gram type="role">second person</gram>
+      </gramGrp>
+      <gramGrp type="particle">
+        <m>ē</m>
+      </gramGrp>
+    </entry>
+  </standOff>
+</TEI>
