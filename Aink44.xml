@@ -51,111 +51,136 @@
       </div>
     </body>
   </text>
-  <standOff type="wordsplit" corresp="#Aink44"><interp type="alignment" select="0">38MR20MG3MG14M2G33MG3M,116MG</interp>
+  <standOff type="wordsplit" corresp="#Aink44">
+    <interp type="alignment" select="0">38MR20MG3MG14M2G33MG3M,116MG</interp>
     <entry>
-    <form>tīm</form>
-    <def>sweet</def>
-    <gramGrp><gram type="role">adjective</gram>
-    </gramGrp></entry>
+      <form>tīm</form>
+      <def>sweet</def>
+      <gramGrp><gram type="role">adjective</gram>
+      </gramGrp>
+    </entry>
     <entry>
-    <form>perum</form>
-    <def>big</def>
-    <gramGrp><gram type="role">adjective</gram>
-    </gramGrp></entry>
+      <form>perum</form>
+      <def>big</def>
+      <gramGrp><gram type="role">adjective</gram>
+      </gramGrp>
+    </entry>
     <entry>
-    <form>poykai</form>
-    <def>pond</def>
-    <gramGrp><gram type="role">noun</gram>
-    </gramGrp></entry>
+      <form>poykai</form>
+      <def>pond</def>
+      <gramGrp><gram type="role">noun</gram>
+      </gramGrp>
+    </entry>
     <entry>
-    <form>yāmai</form>
-    <def>tortoise</def>
-    <gramGrp><gram type="role">noun</gram>
-    </gramGrp></entry>
+      <form>yāmai</form>
+      <def>tortoise</def>
+      <gramGrp><gram type="role">noun</gram>
+      </gramGrp>
+    </entry>
     <entry>
-    <form><pc>~</pc>iḷam</form>
-    <def>young</def>
-    <gramGrp><gram type="role">adjective</gram>
-    </gramGrp></entry>
+      <form><pc>~</pc>iḷam</form>
+      <def>young</def>
+      <gramGrp><gram type="role">adjective</gram>
+      </gramGrp>
+    </entry>
     <entry>
-    <form>pārppu<pc>+</pc></form>
-    <def>young</def>
-    <gramGrp><gram type="role">noun</gram>
-    </gramGrp></entry>
+      <form>pārppu<pc>+</pc></form>
+      <def>young</def>
+      <gramGrp><gram type="role">noun</gram>
+      </gramGrp>
+    </entry>
     <entry>
-    <form>tāy</form>
-    <def>mother</def>
-    <gramGrp><gram type="role">noun</gram>
-    </gramGrp></entry>
+      <form>tāy</form>
+      <def>mother</def>
+      <gramGrp><gram type="role">noun</gram>
+      </gramGrp>
+    </entry>
     <entry>
-    <form>mukam</form>
-    <def>face</def>
-    <gramGrp><gram type="role">noun</gram>
-    </gramGrp></entry>
+      <form>mukam</form>
+      <def>face</def>
+      <gramGrp><gram type="role">noun</gram>
+      </gramGrp>
+    </entry>
     <entry>
-    <form>nōkki</form>
-    <def>looking at</def>
-    <gramGrp><gram type="role">absolutive</gram>
-    </gramGrp></entry>
+      <form>nōkki</form>
+      <def>looking at</def>
+      <gramGrp><gram type="role">absolutive</gram>
+      </gramGrp>
+    </entry>
     <entry>
-    <form>vaḷarnticiṉāaṅk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
-    <def>like having grown</def>
-    <gramGrp><gram type="role">comparative</gram>
+      <form>vaḷarnticiṉāaṅk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+      <note>!!! This is a very unusual form. Looks like comparative absolutive vaḷarntu + empty
+        morph iciṉ + āṅku. </note>
+      <def>like having grown</def>
+
+      <gramGrp><gram type="role">comparative</gram>
     <gram type="role">absolutive</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>atu-<pc>~</pc>ē</form>
-    <def>that</def>
-    <form type="simple">atu</form>
-    <gramGrp><gram type="role">neuter singular</gram>
-    <gram type="role">pronoun</gram>
-    </gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+      </gramGrp>
     </entry>
     <entry>
-    <form><pc>~</pc>aiya</form>
-    <def>lord</def>
-    <gramGrp><gram type="role">masculine singular</gram>
+      <form>atu-<pc>~</pc>ē</form>
+      <def>that</def>
+      <form type="simple">atu</form>
+      <gramGrp><gram type="role">neuter singular</gram>
+    <gram type="role">pronoun</gram>
+      </gramGrp>
+      <gramGrp type="particle"><m>ē</m></gramGrp>
+    </entry>
+    <entry>
+      <form><pc>~</pc>aiya</form>
+      <def>lord</def>
+      <gramGrp><gram type="role">masculine singular</gram>
     <gram type="role">vocative</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>niṉ</form>
-    <def>your</def>
-    <gramGrp><gram type="role">oblique</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>mārp<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
-    <def>chest</def>
-    <form type="simple">mārpu</form>
-    <gramGrp><gram type="role">noun</gram>
-    </gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+      </gramGrp>
     </entry>
     <entry>
-    <form><pc>~</pc>aṟintaṉai</form>
-    <def>you who know</def>
-    <gramGrp><gram type="role">participial noun</gram>
+      <form>niṉ</form>
+      <def>your</def>
+      <gramGrp><gram type="role">oblique</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>mārp<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
+      <def>chest</def>
+      <form type="simple">mārpu</form>
+      <gramGrp><gram type="role">noun</gram>
+      </gramGrp>
+      <gramGrp type="particle"><m>ē</m></gramGrp>
+    </entry>
+    <entry>
+      <form><pc>~</pc>aṟintaṉai</form>
+      <def>you who know</def>
+      <gramGrp><gram type="role">participial noun</gram>
     <gram type="role">perfective aspect</gram>
-    <gram type="role">singular</gram>
+    <gram
+          type="role">singular</gram>
     <gram type="role">second person</gram>
-    </gramGrp></entry>
+      </gramGrp>
+    </entry>
     <entry>
-    <form><pc>~</pc>oḻukumati</form>
-    <def>act lawfully</def>
-    <gramGrp><gram type="role">imperative</gram>
+      <form><pc>~</pc>oḻukumati</form>
+      <def>act lawfully</def>
+      <gramGrp><gram type="role">imperative</gram>
     <gram type="role">plural</gram>
-    <gram type="role">second person</gram>
-    </gramGrp></entry>
+    <gram type="role">second
+        person</gram>
+      </gramGrp>
+    </entry>
     <entry>
-    <form><pc>~</pc>aṟaṉumār</form>
-    <def>duty</def>
-    <gramGrp><gram type="role">noun</gram>
-    </gramGrp></entry>
+      <form><pc>~</pc>aṟaṉumār</form>
+      <def>duty</def>
+      <gramGrp><gram type="role">noun</gram>
+      </gramGrp>
+    </entry>
     <entry>
-    <form>atu-<pc>~</pc>ē</form>
-    <def>that</def>
-    <form type="simple">atu</form>
-    <gramGrp><gram type="role">neuter singular</gram>
+      <form>atu-<pc>~</pc>ē</form>
+      <def>that</def>
+      <form type="simple">atu</form>
+      <gramGrp><gram type="role">neuter singular</gram>
     <gram type="role">pronoun</gram>
-    </gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
-    </entry></standOff>
+      </gramGrp>
+      <gramGrp type="particle"><m>ē</m></gramGrp>
+    </entry>
+  </standOff>
 
 </TEI>
