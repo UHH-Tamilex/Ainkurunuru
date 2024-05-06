@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -15,13 +12,13 @@
           <msIdentifier>
           </msIdentifier>
           <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>
         </msDesc>
       </sourceDesc>
     </fileDesc>
-    <revisionDesc />
+    <revisionDesc/>
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
@@ -41,8 +38,8 @@
         </lg>
         <lg type="translation" xml:lang="en">
           <l> The man from the town, the old town with wild cane,</l>
-          <l rend='indent2'> who helps [his] consort united with the women bathing in the flood</l>
-          <l rend='indent2'> [all wearing] bright foliage, they who'd desired the fullness of the
+          <l rend="indent2"> who helps [his] consort united with the women bathing in the flood</l>
+          <l rend="indent2"> [all wearing] bright foliage, they who'd desired the fullness of the
             flood dancing in the sand,</l>
           <l> Even though he is a man from the town, he is not a man of the town.</l>
 
@@ -51,123 +48,119 @@
       </div>
     </body>
   </text>
-  <standOff type="wordsplit" corresp="#Aink15">
-    <interp type="alignment" select="0">77ML2MG25MG3M,109MG</interp>
-    <entry>
-    <form>maṇal</form>
-    <def>sand</def>
-    <gramGrp><gram type="role">noun</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>āṭu</form>
-    <def>dancing</def>
-    <gramGrp><gram type="role">verbal root as peyareccam imperfective aspect</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>malir</form>
-    <def>flood</def>
-    <gramGrp><gram type="role">root noun</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>niṟai</form>
-    <def>fullness</def>
-    <gramGrp><gram type="role">noun</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>virumpiya</form>
-    <def>desired</def>
-    <gramGrp><gram type="role">perfective aspect</gram>
-    <gram type="role">peyareccam</gram>
-    </gramGrp></entry>
-    <entry>
-    <form><pc>~</pc>oḷ</form>
-    <def>bright</def>
-    <gramGrp><gram type="role">adjective</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>taḻai<pc>+</pc></form>
-    <def>foliage</def>
-    <gramGrp><gram type="role">noun</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>puṉal</form>
-    <def>flood</def>
-    <gramGrp><gram type="role">noun</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>āṭu</form>
-    <def>bathing</def>
-    <gramGrp><gram type="role">verbal root as peyareccam imperfective aspect</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>makaḷirkku<pc>+</pc></form>
-    <def>women(dat.pl.hon.3.)</def>
-    <gramGrp><gram type="role">dative</gram>
-    <gram type="role">plural</gram>
-    <gram type="role">third person</gram>
-    <gram type="role">noun</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>puṇar</form>
-    <def>united</def>
-    <gramGrp><gram type="role">verbal root as peyareccam perfective aspect</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>tuṇai</form>
-    <def>companion</def>
-    <gramGrp><gram type="role">root noun</gram>
-    </gramGrp></entry>
-    <entry>
-    <form><pc>~</pc>utavum</form>
-    <def>helping</def>
-    <gramGrp><gram type="role">imperfect aspect</gram>
-    <gram type="role">peyareccam</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>vēḻam</form>
-    <def>wild-cane</def>
-    <gramGrp><gram type="role">noun</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>mūt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
-    <def>old</def>
-    <gramGrp><gram type="role">adjective</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>ūr</form>
-    <def>village</def>
-    <gramGrp><gram type="role">noun</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>ūraṉ</form>
-    <def>man-from-the-village</def>
-    <gramGrp><gram type="role">pronominalised noun</gram>
-    <gram type="role">masculine singular</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>ūraṉ</form>
-    <def>man-from-the-village</def>
-    <gramGrp><gram type="role">pronominalised noun</gram>
-    <gram type="role">masculine singular</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>āyiṉum</form>
-    <def>although</def>
-    <gramGrp><gram type="role">concessive</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>ūraṉ</form>
-    <def>man-from-the-village</def>
-    <gramGrp><gram type="role">pronominalised noun</gram>
-    <gram type="role">masculine singular</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>allaṉ-<pc>+</pc>ē</form>
-    <def>he-is-not-so</def>
-    <form type="simple">allaṉ</form>
-    <gramGrp><gram type="role">masculine singular</gram>
-    <gram type="role">finite verb</gram>
-    </gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
-    </entry>
-    </standOff>
+  <standOff type="wordsplit" corresp="#Aink15"><interp type="alignment" select="0">77ML2MG25MG3M,109MG</interp>
+<entry>
+<form>maṇal</form>
+<def>sand</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>āṭu</form>
+<def>dancing</def>
+<gramGrp><gram type="role">verbal root as peyareccam imperfective aspect</gram>
+</gramGrp></entry>
+<entry>
+<form>malir</form>
+<def>flood</def>
+<gramGrp><gram type="role">root noun</gram>
+</gramGrp></entry>
+<entry>
+<form>niṟai</form>
+<def>fullness</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>virumpiya</form>
+<def>desired</def>
+<gramGrp><gram type="role">perfective aspect</gram>
+<gram type="role">peyareccam</gram>
+</gramGrp></entry>
+<entry>
+<form><pc>~</pc>oḷ</form>
+<def>bright</def>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
+<entry>
+<form>taḻai<pc>+</pc></form>
+<def>foliage</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>puṉal</form>
+<def>flood</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>āṭu</form>
+<def>bathing</def>
+<gramGrp><gram type="role">verbal root as peyareccam imperfective aspect</gram>
+</gramGrp></entry>
+<entry>
+<form>makaḷirkku<pc>+</pc></form>
+<def>women</def>
+<gramGrp><gram type="role">dative</gram>
+<gram type="role">plural</gram>
+<gram type="role">honorific</gram>
+</gramGrp></entry>
+<entry>
+<form>puṇar</form>
+<def>united</def>
+<gramGrp><gram type="role">verbal root as peyareccam perfective aspect</gram>
+</gramGrp></entry>
+<entry>
+<form>tuṇai</form>
+<def>companion</def>
+<gramGrp><gram type="role">root noun</gram>
+</gramGrp></entry>
+<entry>
+<form><pc>~</pc>utavum</form>
+<def>helping</def>
+<gramGrp><gram type="role">imperfect aspect</gram>
+<gram type="role">peyareccam</gram>
+</gramGrp></entry>
+<entry>
+<form>vēḻam</form>
+<def>wild cane</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>mūt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>old</def>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
+<entry>
+<form>ūr</form>
+<def>village</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>ūraṉ</form>
+<def>man-from-the-village</def>
+<gramGrp><gram type="role">pronominalised noun</gram>
+<gram type="role">masculine singular</gram>
+</gramGrp></entry>
+<entry>
+<form>ūraṉ</form>
+<def>man-from-the-village</def>
+<gramGrp><gram type="role">pronominalised noun</gram>
+<gram type="role">masculine singular</gram>
+</gramGrp></entry>
+<entry>
+<form>āyiṉum</form>
+<def>although</def>
+<gramGrp><gram type="role">concessive</gram>
+</gramGrp></entry>
+<entry>
+<form>ūraṉ</form>
+<def>man-from-the-village</def>
+<gramGrp><gram type="role">pronominalised noun</gram>
+<gram type="role">masculine singular</gram>
+</gramGrp></entry>
+<entry>
+<form>allaṉ-<pc>+</pc>ē</form>
+<def>he-is-not-so</def>
+<form type="simple">allaṉ</form>
+<gramGrp><gram type="role">masculine singular</gram>
+</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+</entry></standOff>
 </TEI>

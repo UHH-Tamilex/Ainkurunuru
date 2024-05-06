@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -15,13 +12,13 @@
           <msIdentifier>
           </msIdentifier>
           <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>
         </msDesc>
       </sourceDesc>
     </fileDesc>
-    <revisionDesc />
+    <revisionDesc/>
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
@@ -54,168 +51,165 @@
       </div>
     </body>
   </text>
-  <standOff type="wordsplit" corresp="#Aink1">
-    <interp type="alignment" select="0">58MG4MG4MG47MG17MG2M,136MG</interp>
-    <entry>
-    <form>vāḻi</form>
-    <def>may-you-live</def>
-    <gramGrp><gram type="role">subjuntive</gram>
-    <gram type="role">singular</gram>
-    <gram type="role">second person</gram>
-    </gramGrp></entry>
-    <entry>
-    <form><pc>~</pc>ātaṉ</form>
-    <def>Ātaṉ</def>
-    <gramGrp><gram type="role">proper name</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>vāḻi</form>
-    <def>may-you-live</def>
-    <gramGrp><gram type="role">subjuntive</gram>
-    <gram type="role">singular</gram>
-    <gram type="role">second person</gram>
-    </gramGrp></entry>
-    <entry>
-    <form><pc>~</pc>aviṉi</form>
-    <def>Aviṉi</def>
-    </entry>
-    <entry>
-    <form>nel</form>
-    <def>paddy</def>
-    <gramGrp><gram type="role">noun</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>pala</form>
-    <def>many</def>
-    <gramGrp><gram type="role">neuter plural</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>polika</form>
-    <def>may-they-flourish</def>
-    <gramGrp><gram type="role">optative</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>poṉ</form>
-    <def>gold</def>
-    <gramGrp><gram type="role">noun</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>peritu</form>
-    <def>greatly</def>
-    <gramGrp><gram type="role">adverb</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>ciṟakka</form>
-    <def>may-it-excel</def>
-    <gramGrp><gram type="role">optative</gram>
-    </gramGrp></entry>
-    <entry>
-    <form><pc>~</pc>eṉa</form>
-    <def>say</def>
-    <gramGrp><gram type="role">infinitive</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>vēṭṭōḷ-ē</form>
-    <def>one-who-wants/one-who-wanted</def>
-    <form type="simple">vēṭṭōḷ</form>
-    <gramGrp><gram type="role">participial noun</gram>
-    <gram type="role">perfective aspect</gram>
-    <gram type="role">singular</gram>
-    <gram type="role">feminine</gram>
-    </gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
-    </entry>
-    <entry>
-    <form>yāy-ē</form>
-    <def>our-mother</def>
-    <form type="simple">yāy</form>
-    <gramGrp><gram type="role">noun</gram>
-    </gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
-    </entry>
-    <entry>
-    <form>yām-ē</form>
-    <def>we</def>
-    <form type="simple">yām</form>
-    <gramGrp><gram type="role">pronoun</gram>
-    <gram type="role">first person plural</gram>
-    </gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
-    </entry>
-    <entry>
-    <form>naṉaiya</form>
-    <def>bud</def>
-    <gramGrp><gram type="role">pronominalised noun</gram>
-    <gram type="role">neuter plural</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>kāñci<pc>+</pc></form>
-    <def>portia-tree</def>
-    <gramGrp><gram type="role">noun</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>ciṉaiya</form>
-    <def>egg</def>
-    <gramGrp><gram type="role">pronominalised noun</gram>
-    <gram type="role">neuter plural</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>ciṟu</form>
-    <def>little</def>
-    <gramGrp><gram type="role">adjective</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>mīṉ</form>
-    <def>fish</def>
-    <gramGrp><gram type="role">noun</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>yāṇar</form>
-    <def>fertile</def>
-    <gramGrp><gram type="role">noun</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>ūraṉ</form>
-    <def>man-from-the-village</def>
-    <gramGrp><gram type="role">pronominalised noun</gram>
-    <gram type="role">masculine singular</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>vāḻka</form>
-    <def>may-he-live</def>
-    <gramGrp><gram type="role">optative</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>pāṇaṉ-um</form>
-    <def>bard</def>
-    <form type="simple">pāṇaṉ</form>
-    <gramGrp><gram type="role">noun</gram>
-    </gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
-    </entry>
-    <entry>
-    <form>vāḻka</form>
-    <def>may-he-live</def>
-    <gramGrp><gram type="role">optative</gram>
-    </gramGrp></entry>
-    <entry>
-    <form><pc>~</pc>eṉa</form>
-    <def>say</def>
-    <gramGrp><gram type="role">infinitive</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>vēṭṭēm-ē</form>
-    <def>we-wanted</def>
-    <form type="simple">vēṭṭēm</form>
-    <gramGrp><gram type="role">perfective aspect</gram>
-    <gram type="role">plural</gram>
-    <gram type="role">first person</gram>
-    </gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
-    <note>The poet appears to make a deliberate distinction between the participial noun in line 3
+  <standOff type="wordsplit" corresp="#Aink1"><interp type="alignment" select="0">58MG4MG4MG47MG17MG2M,136MG</interp>
+<entry>
+<form>vāḻi</form>
+<def>may-you-live</def>
+<gramGrp><gram type="role">subjunctive</gram>
+<gram type="role">singular</gram>
+<gram type="role">second person</gram>
+</gramGrp></entry>
+<entry>
+<form><pc>~</pc>ātaṉ</form>
+<def>Ātaṉ</def>
+<gramGrp><gram type="role">proper name</gram>
+</gramGrp></entry>
+<entry>
+<form>vāḻi</form>
+<def>may-you-live</def>
+<gramGrp><gram type="role">subjunctive</gram>
+<gram type="role">singular</gram>
+<gram type="role">second person</gram>
+</gramGrp></entry>
+<entry>
+<form><pc>~</pc>aviṉi</form>
+<def>Aviṉi</def>
+<gramGrp><gram type="role">proper name</gram>
+</gramGrp></entry>
+<entry>
+<form>nel</form>
+<def>paddy</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>pala</form>
+<def>many</def>
+<gramGrp><gram type="role">neuter plural</gram>
+</gramGrp></entry>
+<entry>
+<form>polika</form>
+<def>may-they-flourish</def>
+<gramGrp><gram type="role">optative</gram>
+</gramGrp></entry>
+<entry>
+<form>poṉ</form>
+<def>gold</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>peritu</form>
+<def>greatly</def>
+<gramGrp><gram type="role">adverb</gram>
+</gramGrp></entry>
+<entry>
+<form>ciṟakka</form>
+<def>may-it-excel</def>
+<gramGrp><gram type="role">optative</gram>
+</gramGrp></entry>
+<entry>
+<form><pc>~</pc>eṉa</form>
+<def>say</def>
+<gramGrp><gram type="role">infinitive</gram>
+</gramGrp></entry>
+<entry>
+<form>vēṭṭōḷ-ē</form>
+<def>one-who-wants/one-who-wanted</def>
+<form type="simple">vēṭṭōḷ</form>
+<gramGrp><gram type="role">participial noun</gram>
+<gram type="role">perfective aspect</gram>
+<gram type="role">singular</gram>
+<gram type="role">feminine</gram>
+</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+</entry>
+<entry>
+<form>yāy-ē</form>
+<def>our-mother</def>
+<form type="simple">yāy</form>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+</entry>
+<entry>
+<form>yām-ē</form>
+<def>we</def>
+<form type="simple">yām</form>
+<gramGrp><gram type="role">pronoun</gram>
+</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+</entry>
+<entry>
+<form>naṉaiya</form>
+<def>bud</def>
+<gramGrp><gram type="role">pronominalised noun</gram>
+<gram type="role">neuter plural</gram>
+</gramGrp></entry>
+<entry>
+<form>kāñci<pc>+</pc></form>
+<def>Portia tree</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>ciṉaiya</form>
+<def>egg</def>
+<gramGrp><gram type="role">pronominalised noun</gram>
+<gram type="role">neuter plural</gram>
+</gramGrp></entry>
+<entry>
+<form>ciṟu</form>
+<def>little</def>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
+<entry>
+<form>mīṉ</form>
+<def>fish</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>yāṇar</form>
+<def>fertile</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>ūraṉ</form>
+<def>man-from-the-village</def>
+<gramGrp><gram type="role">pronominalised noun</gram>
+<gram type="role">masculine singular</gram>
+</gramGrp></entry>
+<entry>
+<form>vāḻka</form>
+<def>may-he-live</def>
+<gramGrp><gram type="role">optative</gram>
+</gramGrp></entry>
+<entry>
+<form>pāṇaṉ-um</form>
+<def>bard</def>
+<form type="simple">pāṇaṉ</form>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
+</entry>
+<entry>
+<form>vāḻka</form>
+<def>may-he-live</def>
+<gramGrp><gram type="role">optative</gram>
+</gramGrp></entry>
+<entry>
+<form><pc>~</pc>eṉa</form>
+<def>say</def>
+<gramGrp><gram type="role">infinitive</gram>
+</gramGrp></entry>
+<entry>
+<form>vēṭṭēm-ē</form>
+<def>we-wanted</def>
+<form type="simple">vēṭṭēm</form>
+<gramGrp><gram type="role">perfective aspect</gram>
+<gram type="role">plural</gram>
+<gram type="role">first person</gram>
+</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+
+<note xmlns="http://www.tei-c.org/ns/1.0">The poet appears to make a deliberate distinction between the participial noun in line 3
       (vēṭṭō­ḷ) and the finite form in line 6 (vēṭṭēm-ē). The perfective participial noun (vēṭṭōḷ) suggests a mother who
       'one who has the habit of wanting' (i.e. she has wanted in the past and will continue to do so). Vēṭṭēm (not vēṭṭōm, which would have been possible)
       is as an ambiguous form (either participial noun or finite verb). EW takes it as a finite here, and as a perfective in the sense of an aorist:
       "we started to wish" for something else, i.e. the event with the hero has changed "our" views from the ones normal in the community
       as represented by the mother. On the otherhand, the difference could simply be due to dialectical variations of finite forms. 
-      </note>
-    </entry>
-    
-    </standOff>
+      </note></entry></standOff>
 
 </TEI>
