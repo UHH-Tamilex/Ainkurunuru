@@ -63,18 +63,19 @@
 </gramGrp></entry>
 <entry>
 <form>pākatt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
-<def>part</def>
+<def>share/portion/part/half</def>
 <gramGrp><gram type="role">oblique</gram>
 </gramGrp></entry>
 <entry>
 <form>oruvaṉ</form>
-<def>one</def>
+<def>one man</def>
 <gramGrp><gram type="role">masculine singular</gram>
+<gram type="role">pronoun</gram>
 </gramGrp></entry>
 <entry>
 <form>iru</form>
 <def>two</def>
-<gramGrp><gram type="role">masculine</gram>
+<gramGrp><gram type="role">noun</gram>
 </gramGrp></entry>
 <entry>
 <form>tāḷ</form>
@@ -98,7 +99,7 @@
 </gramGrp></entry>
 <entry>
 <form>vakai</form>
-<def>kind</def>
+<def>kind/type</def>
 <gramGrp><gram type="role">noun</gram>
 </gramGrp></entry>
 <entry>
@@ -116,7 +117,7 @@
 </gramGrp></entry>
 <entry>
 <form>muṟai-<pc>~</pc>ē</form>
-<def>order</def>
+<def>manner/way/order</def>
 <form type="simple">muṟai</form>
 <gramGrp><gram type="role">noun</gram>
 </gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
