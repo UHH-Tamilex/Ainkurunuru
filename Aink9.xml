@@ -67,6 +67,7 @@
 <form>vāḻi</form>
 <def>may-you-live</def>
 <gramGrp><gram type="role">singular</gram>
+<gram type="role">subjunctive</gram>
 <gram type="role">second person</gram>
 </gramGrp></entry>
 <entry>
@@ -85,6 +86,7 @@
 <def>greatly</def>
 <gramGrp><gram type="role">pronominalised noun</gram>
 <gram type="role">neuter singular</gram>
+<gram type="role">adverb</gram>
 </gramGrp></entry>
 <entry>
 <form>ciṟakka</form>
@@ -144,8 +146,8 @@
 </gramGrp></entry>
 <entry>
 <form>ār</form>
-<def>becoming-full</def>
-<gramGrp><gram type="role">verbal root</gram>
+<def>becoming full of/eating</def>
+<gramGrp><gram type="role">verbal root as peyareccam imperfective aspect</gram>
 </gramGrp></entry>
 <entry>
 <form>nārai</form>
