@@ -56,6 +56,7 @@
 <form>vāḻi</form>
 <def>may-you-live</def>
 <gramGrp><gram type="role">singular</gram>
+<gram type="role">subjunctive</gram>
 <gram type="role">second person</gram>
 </gramGrp></entry>
 <entry>
@@ -67,12 +68,14 @@
 <form>vāḻi</form>
 <def>may-you-live</def>
 <gramGrp><gram type="role">singular</gram>
+<gram type="role">subjunctive</gram>
 <gram type="role">second person</gram>
 </gramGrp></entry>
 <entry>
 <form><pc>~</pc>aviṉi</form>
 <def>Aviṉi</def>
-</entry>
+<gramGrp><gram type="role">proper name</gram>
+</gramGrp></entry>
 <entry>
 <form>vēntu</form>
 <def>king</def>
