@@ -60,7 +60,7 @@
   <standOff type="wordsplit" corresp="#Aink1"><interp type="alignment" select="0">58MG4MG4MG47MG17MG2M,136MG</interp>
 <entry>
 <form>vāḻi</form>
-<def>may you live</def>
+<def>live-you</def>
 <gramGrp><gram type="role">subjunctive</gram>
 <gram type="role">singular</gram>
 <gram type="role">second person</gram>
@@ -72,7 +72,7 @@
 </gramGrp></entry>
 <entry>
 <form>vāḻi</form>
-<def>may you live</def>
+<def>live-you</def>
 <gramGrp><gram type="role">subjunctive</gram>
 <gram type="role">singular</gram>
 <gram type="role">second person</gram>
@@ -84,7 +84,7 @@
 </gramGrp></entry>
 <entry>
 <form>nel</form>
-<def>rice plant/grain of paddy</def>
+<def>paddy</def>
 <gramGrp><gram type="role">noun</gram>
 </gramGrp></entry>
 <entry>
@@ -94,7 +94,7 @@
 </gramGrp></entry>
 <entry>
 <form>polika</form>
-<def>may they flourish/abound/multiply</def>
+<def>may flourish</def>
 <gramGrp><gram type="role">optative</gram>
 </gramGrp></entry>
 <entry>
@@ -105,11 +105,13 @@
 <entry>
 <form>peritu</form>
 <def>greatly</def>
-<gramGrp><gram type="role">adverb</gram>
+<gramGrp><gram type="role">pronominalised noun</gram>
+<gram type="role">neuter singular</gram>
+<gram type="role">adverb</gram>
 </gramGrp></entry>
 <entry>
 <form>ciṟakka</form>
-<def>may it excel/surpass/be abundant</def>
+<def>may excel</def>
 <gramGrp><gram type="role">optative</gram>
 </gramGrp></entry>
 <entry>
@@ -119,7 +121,7 @@
 </gramGrp></entry>
 <entry>
 <form>vēṭṭōḷ-ē</form>
-<def>woman who wants/woman who wanted</def>
+<def>she who wants</def>
 <form type="simple">vēṭṭōḷ</form>
 <gramGrp><gram type="role">participial noun</gram>
 <gram type="role">perfective aspect</gram>
@@ -140,6 +142,7 @@
 <form type="simple">yām</form>
 <gramGrp><gram type="role">pronoun</gram>
 <gram type="role">plural</gram>
+<gram type="role">first person</gram>
 </gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
 </entry>
 <entry>
@@ -171,18 +174,18 @@
 </gramGrp></entry>
 <entry>
 <form>yāṇar</form>
-<def>fertile</def>
+<def>fertility</def>
 <gramGrp><gram type="role">noun</gram>
 </gramGrp></entry>
 <entry>
 <form>ūraṉ</form>
-<def>man from the village</def>
+<def>village-he</def>
 <gramGrp><gram type="role">pronominalised noun</gram>
 <gram type="role">masculine singular</gram>
 </gramGrp></entry>
 <entry>
 <form>vāḻka</form>
-<def>may he live</def>
+<def>may live</def>
 <gramGrp><gram type="role">optative</gram>
 </gramGrp></entry>
 <entry>
@@ -194,7 +197,7 @@
 </entry>
 <entry>
 <form>vāḻka</form>
-<def>may he live</def>
+<def>may live</def>
 <gramGrp><gram type="role">optative</gram>
 </gramGrp></entry>
 <entry>
@@ -204,7 +207,7 @@
 </gramGrp></entry>
 <entry>
 <form>vēṭṭēm-ē</form>
-<def>we wanted</def>
+<def>we have been wanting</def>
 <form type="simple">vēṭṭēm</form>
 <gramGrp><gram type="role">perfective aspect</gram>
 <gram type="role">plural</gram>
