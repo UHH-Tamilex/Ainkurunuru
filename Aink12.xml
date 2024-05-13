@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -15,7 +13,7 @@
           <msIdentifier>
           </msIdentifier>
           <msContents>
-            <summary><p></p>
+            <summary><p />
             </summary>
           </msContents>
         </msDesc>
@@ -40,9 +38,10 @@
           <l> tōṟka tillaveṉ ṟaṭameṉ ṟōḷē.</l>
         </lg>
         <lg type="translation" xml:lang="en">
-          <l> May we bear well</l>
+          <l> May we bear well also</l>
           <l>the cruelty of the man from the village that has a ghat</l>
-          <l> where the wild cane that joins the shore flowers amongst the sugarcane!</l>
+          <l rend="indent2"> where the wild cane, that joins the shore,</l>
+          <l>flowers amongst the sugarcane!</l>
           <l> May my broad soft shoulders be defeated!</l>
 
 
@@ -53,105 +52,129 @@
   <standOff type="wordsplit" corresp="#Aink12">
     <interp type="alignment" select="0">50M2G8MG8MG6MG18MG2M,97MG</interp>
     <entry>
-    <form>karai</form>
-    <def>bank</def>
-    <gramGrp><gram type="role">noun</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>cēr</form>
-    <def>join</def>
-    <gramGrp><gram type="role">verbal root as imperfective aspect peyareccam</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>vēḻam</form>
-    <def>wild-cane</def>
-    <gramGrp><gram type="role">noun</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>karumpiṉ</form>
-    <def>sugarcane</def>
-    <gramGrp><gram type="role">oblique</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>pūkkum</form>
-    <def>flowering</def>
-    <gramGrp><gram type="role">perfective aspect</gram>
-    <gram type="role">peyareccam</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>tuṟai</form>
-    <def>ghat</def>
-    <gramGrp><gram type="role">noun</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>kēḻ</form>
-    <def>having</def>
-    <gramGrp><gram type="role">postposition</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>ūraṉ</form>
-    <def>man-from-the-village</def>
-    <gramGrp><gram type="role">pronominalised noun</gram>
-    <gram type="role">masculine singular</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>koṭumai</form>
-    <def>cruelty</def>
-    <gramGrp><gram type="role">noun</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>naṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-um</form>
-    <def>well</def>
-    <form type="simple">naṉṟu</form>
-    <gramGrp><gram type="role">pronominalised noun</gram>
-    <gram type="role">neuter singular</gram>
-    </gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
+      <form>karai</form>
+      <def>bank</def>
+      <gramGrp><gram type="role">noun</gram>
+      </gramGrp>
     </entry>
     <entry>
-    <form>āṟṟuka-tilla</form>
-    <def>may-we-bear</def>
-    <form type="simple">āṟṟuka</form>
-    <gramGrp><gram type="role">optative</gram>
-    </gramGrp><gramGrp type="particle"><m>tilla</m></gramGrp>
+      <form>cēr</form>
+      <def>join</def>
+      <gramGrp><gram type="role">verbal root</gram>
+      </gramGrp>
     </entry>
     <entry>
-    <form>yām-ē</form>
-    <def>we</def>
-    <form type="simple">yām</form>
-    <gramGrp><gram type="role">pronoun</gram>
-    <gram type="role">first person plural</gram>
-    </gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+      <form>vēḻam</form>
+      <def>wild cane</def>
+      <gramGrp><gram type="role">noun</gram>
+      </gramGrp>
     </entry>
     <entry>
-    <form>tōṟka-tilla</form>
-    <def>may-they-be-defeated</def>
-    <form type="simple">tōṟka</form>
-    <gramGrp><gram type="role">optative</gram>
-    </gramGrp><gramGrp type="particle"><m>tilla</m></gramGrp>
+      <form>karumpiṉ</form>
+      <def>sugarcane</def>
+      <gramGrp><gram type="role">oblique</gram>
+      </gramGrp>
     </entry>
     <entry>
-    <form><pc>~</pc>eṉ</form>
-    <def>my</def>
-    <gramGrp><gram type="role">pronoun</gram>
-    <gram type="role">oblique</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>taṭa</form>
-    <def>broad</def>
-    <gramGrp><gram type="role">adjective</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>mel</form>
-    <def>soft</def>
-    <gramGrp><gram type="role">adjective</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>tōḷ-ē</form>
-    <def>shoulder</def>
-    <form type="simple">tōḷ</form>
-    <gramGrp><gram type="role">noun</gram>
-    </gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+      <form>pūkkum</form>
+      <def>flowering-</def>
+      <gramGrp><gram type="role">perfective aspect</gram>
+<gram type="role">peyareccam</gram>
+      </gramGrp>
     </entry>
-    </standOff>
- 
+    <entry>
+      <form>tuṟai</form>
+      <def>ghat</def>
+      <gramGrp><gram type="role">noun</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>kēḻ</form>
+      <def>having</def>
+      <gramGrp><gram type="role">postposition</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>ūraṉ</form>
+      <def>village-he</def>
+      <gramGrp><gram type="role">pronominalised noun</gram>
+<gram type="role">masculine singular</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>koṭumai</form>
+      <def>cruelty</def>
+      <gramGrp><gram type="role">noun</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>naṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-um</form>
+      <def>well</def>
+      <form type="simple">naṉṟu</form>
+      <gramGrp><gram type="role">pronominalised noun</gram>
+<gram type="role">neuter singular</gram>
+<gram
+          type="role">adverb</gram>
+      </gramGrp>
+      <gramGrp type="particle"><m>um</m></gramGrp>
+    </entry>
+    <entry>
+      <form>āṟṟuka-tilla</form>
+      <def>may bear</def>
+      <form type="simple">āṟṟuka</form>
+      <gramGrp><gram type="role">optative</gram>
+      </gramGrp>
+      <gramGrp type="particle"><m>tilla</m></gramGrp>
+    </entry>
+    <entry>
+      <form>yām-ē</form>
+      <def>we</def>
+      <form type="simple">yām</form>
+      <gramGrp><gram type="role">pronoun</gram>
+<gram type="role">plural</gram>
+<gram type="role">first
+        person</gram>
+      </gramGrp>
+      <gramGrp type="particle"><m>ē</m></gramGrp>
+    </entry>
+    <entry>
+      <form>tōṟka-tilla</form>
+      <def>may be defeated</def>
+      <form type="simple">tōṟka</form>
+      <gramGrp><gram type="role">optative</gram>
+      </gramGrp>
+      <gramGrp type="particle"><m>tilla</m></gramGrp>
+    </entry>
+    <entry>
+      <form><pc>~</pc>eṉ</form>
+      <def>my</def>
+      <gramGrp><gram type="role">pronoun</gram>
+<gram type="role">oblique</gram>
+<gram type="role">
+        singular</gram>
+<gram type="role">first person</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>taṭa</form>
+      <def>broad</def>
+      <gramGrp><gram type="role">adjective</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>mel</form>
+      <def>soft</def>
+      <gramGrp><gram type="role">adjective</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>tōḷ-ē</form>
+      <def>shoulder</def>
+      <form type="simple">tōḷ</form>
+      <gramGrp><gram type="role">noun</gram>
+      </gramGrp>
+      <gramGrp type="particle"><m>ē</m></gramGrp>
+    </entry>
+  </standOff>
+
 </TEI>
