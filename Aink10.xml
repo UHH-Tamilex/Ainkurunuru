@@ -54,7 +54,7 @@
   <standOff type="wordsplit" corresp="#Aink10"><interp type="alignment" select="0">33MR21MG4MG4MG70MG2M,138MG</interp>
 <entry>
 <form>vāḻi</form>
-<def>may-you-live</def>
+<def>live-you</def>
 <gramGrp><gram type="role">singular</gram>
 <gram type="role">subjunctive</gram>
 <gram type="role">second person</gram>
@@ -66,7 +66,7 @@
 </gramGrp></entry>
 <entry>
 <form>vāḻi</form>
-<def>may-you-live</def>
+<def>live-you</def>
 <gramGrp><gram type="role">singular</gram>
 <gram type="role">subjunctive</gram>
 <gram type="role">second person</gram>
@@ -83,7 +83,7 @@
 </gramGrp></entry>
 <entry>
 <form>vāykka</form>
-<def>may-it-reach</def>
+<def>may reach</def>
 <gramGrp><gram type="role">optative</gram>
 </gramGrp></entry>
 <entry>
@@ -93,12 +93,12 @@
 </gramGrp></entry>
 <entry>
 <form>naṉi</form>
-<def>well</def>
+<def>much</def>
 <gramGrp><gram type="role">adverb</gram>
 </gramGrp></entry>
 <entry>
 <form>ciṟakka</form>
-<def>may-it-excel</def>
+<def>may excel</def>
 <gramGrp><gram type="role">optative</gram>
 </gramGrp></entry>
 <entry>
@@ -108,7 +108,7 @@
 </gramGrp></entry>
 <entry>
 <form>vēṭṭōḷ-ē</form>
-<def>one-who-wants/one-who-wanted</def>
+<def>wanted-she</def>
 <form type="simple">vēṭṭōḷ</form>
 <gramGrp><gram type="role">participial noun</gram>
 <gram type="role">perfective aspect</gram>
@@ -118,7 +118,7 @@
 </entry>
 <entry>
 <form>yāy-ē</form>
-<def>our-mother</def>
+<def>our mother</def>
 <form type="simple">yāy</form>
 <gramGrp><gram type="role">noun</gram>
 </gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
@@ -140,7 +140,7 @@
 </gramGrp></entry>
 <entry>
 <form>māattu<pc>+</pc></form>
-<def>mango-tree</def>
+<def>mango tree</def>
 <gramGrp><gram type="role">oblique</gram>
 </gramGrp></entry>
 <entry>
@@ -170,25 +170,28 @@
 </gramGrp></entry>
 <entry>
 <form><pc>~</pc>ūraṉ</form>
-<def>man-from-the-village</def>
+<def>village-he</def>
 <gramGrp><gram type="role">pronominalised noun</gram>
 <gram type="role">masculine singular</gram>
 </gramGrp></entry>
 <entry>
 <form>taṉṉoṭu</form>
-<def>with him</def>
-<gramGrp><gram type="role">sociative</gram>
+<def>him</def>
+<gramGrp><gram type="role">pronoun</gram>
+<gram type="role">sociative</gram>
+<gram type="role">singular</gram>
+<gram type="role">third person</gram>
 </gramGrp></entry>
 <entry>
 <form>koṇṭaṉaṉ</form>
-<def>one-who-has-taken</def>
+<def>he took</def>
 <gramGrp><gram type="role">masculine singular</gram>
 <gram type="role">muṟṟeccam</gram>
 <gram type="role">perfective aspect</gram>
 </gramGrp></entry>
 <entry>
 <form>celka</form>
-<def>may-he-go</def>
+<def>may go</def>
 <gramGrp><gram type="role">optative</gram>
 </gramGrp></entry>
 <entry>
@@ -198,7 +201,7 @@
 </gramGrp></entry>
 <entry>
 <form>vēṭṭēm-ē</form>
-<def>we-wanted</def>
+<def>we wanted</def>
 <form type="simple">vēṭṭēm</form>
 <gramGrp><gram type="role">perfective aspect</gram>
 <gram type="role">plural</gram>
