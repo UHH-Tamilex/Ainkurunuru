@@ -38,10 +38,10 @@
         </lg>
         <lg type="translation" xml:lang="en">
 <l>          'Long live Ātan! Long live Aviṉi! </l>
-<l>          May Dharma greatly prevail! Down with Non-Dharma!' </l>
+<l>          May Dharma greatly prevail! Down with Non[-Dharma]!' </l>
 <l>          That's what our mother wants. As for us: </l>
-<l>          'The man from the village by the cool ghat,</l>
-<l>          where a heron perches on the branches of the myrobalan tree with its feathery flowers: </l>
+<l>          'The man from the village by the cool ghat</l>
+<l>          where egrets perch on the branches of the Myrobalan tree with its feathery flowers: </l>
 <l>          May he go as one who takes me to his village!' — that's what we have been wanting.</l>
           
           
@@ -54,7 +54,7 @@
   <standOff type="wordsplit" corresp="#Aink7"><interp type="alignment" select="0">23MR34MG4MG4MG30MG50MG2M,152MG</interp>
 <entry>
 <form>vāḻi</form>
-<def>may-you-live</def>
+<def>live-you</def>
 <gramGrp><gram type="role">subjunctive</gram>
 <gram type="role">singular</gram>
 <gram type="role">second person</gram>
@@ -66,7 +66,7 @@
 </gramGrp></entry>
 <entry>
 <form>vāḻi</form>
-<def>may-you-live</def>
+<def>live-you</def>
 <gramGrp><gram type="role">subjunctive</gram>
 <gram type="role">singular</gram>
 <gram type="role">second person</gram>
@@ -88,18 +88,18 @@
 </gramGrp></entry>
 <entry>
 <form>ciṟakka</form>
-<def>may-it-excel</def>
+<def>may excel</def>
 <gramGrp><gram type="role">optative</gram>
 </gramGrp></entry>
 <entry>
 <form><pc>~</pc>allatu</form>
-<def>that-which-is-not-so</def>
+<def>that which is not so</def>
 <gramGrp><gram type="role">pronominalised noun</gram>
 <gram type="role">neuter singular</gram>
 </gramGrp></entry>
 <entry>
 <form>keṭuka</form>
-<def>may-it-get-lost</def>
+<def>may get lost</def>
 <gramGrp><gram type="role">optative</gram>
 </gramGrp></entry>
 <entry>
@@ -109,7 +109,7 @@
 </gramGrp></entry>
 <entry>
 <form>vēṭṭōḷ-ē</form>
-<def>one-who-wants/one-who-wanted</def>
+<def>wanted-she</def>
 <form type="simple">vēṭṭōḷ</form>
 <gramGrp><gram type="role">participial noun</gram>
 <gram type="role">perfective aspect</gram>
@@ -119,7 +119,7 @@
 </entry>
 <entry>
 <form>yāy-ē</form>
-<def>our-mother</def>
+<def>our mother</def>
 <form type="simple">yāy</form>
 <gramGrp><gram type="role">noun</gram>
 </gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
@@ -147,7 +147,6 @@
 <form>marutattu<pc>+</pc></form>
 <def>Myrobalan tree</def>
 <gramGrp><gram type="role">oblique</gram>
-<gram type="role">noun</gram>
 </gramGrp></entry>
 <entry>
 <form>kiḷai<pc>+</pc></form>
@@ -156,12 +155,12 @@
 </gramGrp></entry>
 <entry>
 <form>kuruk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
-<def>heron</def>
+<def>wader</def>
 <gramGrp><gram type="role">noun</gram>
 </gramGrp></entry>
 <entry>
 <form>irukkum</form>
-<def>perching</def>
+<def>perching-</def>
 <gramGrp><gram type="role">imperfect aspect</gram>
 <gram type="role">peyareccam</gram>
 </gramGrp></entry>
@@ -177,14 +176,17 @@
 </gramGrp></entry>
 <entry>
 <form><pc>~</pc>ūraṉ</form>
-<def>man-from-the-village</def>
+<def>village-he</def>
 <gramGrp><gram type="role">pronominalised noun</gram>
 <gram type="role">masculine singular</gram>
 </gramGrp></entry>
 <entry>
 <form>taṉ</form>
 <def>his</def>
-<gramGrp><gram type="role">oblique</gram>
+<gramGrp><gram type="role">pronoun</gram>
+<gram type="role">oblique</gram>
+<gram type="role">singular</gram>
+<gram type="role">third person</gram>
 </gramGrp></entry>
 <entry>
 <form><pc>+</pc>ūr<pc>+</pc></form>
@@ -193,14 +195,13 @@
 </gramGrp></entry>
 <entry>
 <form>koṇṭaṉaṉ</form>
-<def>one-who-has-taken</def>
-<gramGrp><gram type="role">participial noun</gram>
-<gram type="role">masculine singular</gram>
+<def>he took</def>
+<gramGrp><gram type="role">masculine singular</gram>
 <gram type="role">perfective aspect</gram>
 </gramGrp></entry>
 <entry>
 <form>celka</form>
-<def>may-he-go</def>
+<def>may go</def>
 <gramGrp><gram type="role">optative</gram>
 </gramGrp></entry>
 <entry>
@@ -210,7 +211,7 @@
 </gramGrp></entry>
 <entry>
 <form>vēṭṭēm-ē</form>
-<def>we-wanted</def>
+<def>we wanted</def>
 <form type="simple">vēṭṭēm</form>
 <gramGrp><gram type="role">perfective aspect</gram>
 <gram type="role">plural</gram>
