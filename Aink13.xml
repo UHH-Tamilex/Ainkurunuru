@@ -134,8 +134,7 @@
 <entry>
 <form>peṇṭir</form>
 <def>women</def>
-<gramGrp><gram type="role">plural</gram>
-<gram type="role">honorific</gram>
+<gramGrp><gram type="role">honorific</gram>
 <gram type="role">third person</gram>
 </gramGrp></entry>
 <entry>
@@ -165,7 +164,6 @@
 <def>know-not-they</def>
 <form type="simple">aṟiyalar</form>
 <gramGrp><gram type="role">negative</gram>
-<gram type="role">plural</gram>
 <gram type="role">honorific</gram>
 <gram type="role">third person</gram>
 </gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
