@@ -42,7 +42,7 @@
 <l>          That's what our mother wanted. As for us: </l>
 <l>          '[My] bond with the man from the village by the cool ghat,</l>
 <l>          where cranes, who gorge on carp, nest on grain-heaps: </l>
-<l>          May it not become [the subject of] gossip!' — that's what we have been wanting.</l>
+<l>          May it not become a scandal!' — that's what we have been wanting.</l>
           
 
 
@@ -53,7 +53,7 @@
   <standOff type="wordsplit" corresp="#Aink9"><interp type="alignment" select="0">40MG18MG4MG4MG66MG2M,138MG</interp>
 <entry>
 <form>vāḻi</form>
-<def>may-you-live</def>
+<def>live-you</def>
 <gramGrp><gram type="role">singular</gram>
 <gram type="role">subjunctive</gram>
 <gram type="role">second person</gram>
@@ -65,7 +65,7 @@
 </gramGrp></entry>
 <entry>
 <form>vāḻi</form>
-<def>may-you-live</def>
+<def>live-you</def>
 <gramGrp><gram type="role">singular</gram>
 <gram type="role">subjunctive</gram>
 <gram type="role">second person</gram>
@@ -77,7 +77,7 @@
 </gramGrp></entry>
 <entry>
 <form>naṉṟu</form>
-<def>goodness</def>
+<def>that which is good</def>
 <gramGrp><gram type="role">pronominalised noun</gram>
 <gram type="role">neuter singular</gram>
 </gramGrp></entry>
@@ -90,7 +90,7 @@
 </gramGrp></entry>
 <entry>
 <form>ciṟakka</form>
-<def>may-it-excel</def>
+<def>may excel</def>
 <gramGrp><gram type="role">optative</gram>
 </gramGrp></entry>
 <entry>
@@ -100,12 +100,12 @@
 </gramGrp></entry>
 <entry>
 <form>il</form>
-<def>non-existence</def>
-<gramGrp><gram type="role">noun</gram>
+<def>be not</def>
+<gramGrp><gram type="role">verbal root</gram>
 </gramGrp></entry>
 <entry>
 <form><pc>+</pc>ākuka</form>
-<def>may-it-become</def>
+<def>may become</def>
 <gramGrp><gram type="role">optative</gram>
 </gramGrp></entry>
 <entry>
@@ -115,7 +115,7 @@
 </gramGrp></entry>
 <entry>
 <form>vēṭṭōḷ-ē</form>
-<def>one-who-wants/one-who-wanted</def>
+<def>wanted-she</def>
 <form type="simple">vēṭṭōḷ</form>
 <gramGrp><gram type="role">participial noun</gram>
 <gram type="role">perfective aspect</gram>
@@ -125,7 +125,7 @@
 </entry>
 <entry>
 <form>yāy-ē</form>
-<def>our-mother</def>
+<def>our mother</def>
 <form type="simple">yāy</form>
 <gramGrp><gram type="role">noun</gram>
 </gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
@@ -146,12 +146,12 @@
 </gramGrp></entry>
 <entry>
 <form>ār</form>
-<def>becoming full of/eating</def>
-<gramGrp><gram type="role">verbal root as peyareccam imperfective aspect</gram>
+<def>become full of</def>
+<gramGrp><gram type="role">verbal root</gram>
 </gramGrp></entry>
 <entry>
 <form>nārai</form>
-<def>crane</def>
+<def>wader</def>
 <gramGrp><gram type="role">noun</gram>
 </gramGrp></entry>
 <entry>
@@ -161,7 +161,7 @@
 </gramGrp></entry>
 <entry>
 <form>cēkkum</form>
-<def>dwelling</def>
+<def>dwelling-</def>
 <gramGrp><gram type="role">imperfect aspect</gram>
 <gram type="role">peyareccam</gram>
 </gramGrp></entry>
@@ -177,7 +177,7 @@
 </gramGrp></entry>
 <entry>
 <form><pc>~</pc>ūraṉ</form>
-<def>man-from-the-village</def>
+<def>village-he</def>
 <gramGrp><gram type="role">pronominalised noun</gram>
 <gram type="role">masculine singular</gram>
 </gramGrp></entry>
@@ -188,12 +188,12 @@
 </gramGrp></entry>
 <entry>
 <form><pc>~</pc>ampal</form>
-<def>rumour</def>
+<def>scandal</def>
 <gramGrp><gram type="role">noun</gram>
 </gramGrp></entry>
 <entry>
 <form>ākaṟka</form>
-<def>may-it-not-become</def>
+<def>may not become</def>
 <gramGrp><gram type="role">optative</gram>
 </gramGrp></entry>
 <entry>
@@ -203,7 +203,7 @@
 </gramGrp></entry>
 <entry>
 <form>vēṭṭēm-ē</form>
-<def>we-wanted</def>
+<def>we wanted</def>
 <form type="simple">vēṭṭēm</form>
 <gramGrp><gram type="role">perfective aspect</gram>
 <gram type="role">plural</gram>
