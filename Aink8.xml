@@ -40,9 +40,9 @@
 <l>          'Long live Ātan! Long live Aviṉi! </l>
 <l>          May the king deliver justice! May there be no theft!' </l>
 <l>          That's what our mother wants. As for us: </l>
-<l>          'The promises of the man from the village teeming with flowers,</l>
-<l>          where picturesque peacocks perch in the mango trees with swaying branches: </l>
-<l>          May they come true here!' — that's what we have been wanting.</l>
+<l>          'The oath of the man from a village teeming with flowers</l>
+<l >          where ornamental peacocks perch in the mango trees with swaying branches: </l>
+<l>          May it come true here!' — that's what we have been wanting.</l>
           
           
 
@@ -54,7 +54,7 @@
   <standOff type="wordsplit" corresp="#Aink8"><interp type="alignment" select="0">40MG18MG4MG4MG18MG41MG13MG2M,146MG</interp>
 <entry>
 <form>vāḻi</form>
-<def>may-you-live</def>
+<def>live-you</def>
 <gramGrp><gram type="role">singular</gram>
 <gram type="role">subjunctive</gram>
 <gram type="role">second person</gram>
@@ -66,7 +66,7 @@
 </gramGrp></entry>
 <entry>
 <form>vāḻi</form>
-<def>may-you-live</def>
+<def>live-you</def>
 <gramGrp><gram type="role">singular</gram>
 <gram type="role">subjunctive</gram>
 <gram type="role">second person</gram>
@@ -88,7 +88,7 @@
 </gramGrp></entry>
 <entry>
 <form>ceyka</form>
-<def>may-he-make</def>
+<def>may make</def>
 <gramGrp><gram type="role">optative</gram>
 </gramGrp></entry>
 <entry>
@@ -98,12 +98,12 @@
 </gramGrp></entry>
 <entry>
 <form>il</form>
-<def>non-existence</def>
-<gramGrp><gram type="role">noun</gram>
+<def>be not</def>
+<gramGrp><gram type="role">verbal root</gram>
 </gramGrp></entry>
 <entry>
 <form><pc>+</pc>ākuka</form>
-<def>may-it-become</def>
+<def>may become</def>
 <gramGrp><gram type="role">optative</gram>
 </gramGrp></entry>
 <entry>
@@ -113,7 +113,7 @@
 </gramGrp></entry>
 <entry>
 <form>vēṭṭōḷ-ē</form>
-<def>one-who-wants/one-who-wanted</def>
+<def>wanted-she</def>
 <form type="simple">vēṭṭōḷ</form>
 <gramGrp><gram type="role">participial noun</gram>
 <gram type="role">perfective aspect</gram>
@@ -123,7 +123,7 @@
 </entry>
 <entry>
 <form>yāy-ē</form>
-<def>our-mother</def>
+<def>our mother</def>
 <form type="simple">yāy</form>
 <gramGrp><gram type="role">noun</gram>
 </gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
@@ -140,7 +140,7 @@
 <entry>
 <form><pc>~</pc>alaṅku</form>
 <def>sway</def>
-<gramGrp><gram type="role">verbal root as peyareccam</gram>
+<gramGrp><gram type="role">verbal root</gram>
 </gramGrp></entry>
 <entry>
 <form>ciṉai</form>
@@ -149,13 +149,13 @@
 </gramGrp></entry>
 <entry>
 <form>māatt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
-<def>mango-tree</def>
+<def>mango tree</def>
 <gramGrp><gram type="role">oblique</gram>
 </gramGrp></entry>
 <entry>
 <form>aṇi</form>
 <def>adorn</def>
-<gramGrp><gram type="role">verbal root as peyareccam</gram>
+<gramGrp><gram type="role">verbal root</gram>
 </gramGrp></entry>
 <entry>
 <form>mayil</form>
@@ -164,7 +164,7 @@
 </gramGrp></entry>
 <entry>
 <form>irukkum</form>
-<def>perching</def>
+<def>perching-</def>
 <gramGrp><gram type="role">imperfect aspect</gram>
 <gram type="role">peyareccam</gram>
 </gramGrp></entry>
@@ -175,12 +175,12 @@
 </gramGrp></entry>
 <entry>
 <form>kañal</form>
-<def>being dense</def>
-<gramGrp><gram type="role">verbal root as peyareccam</gram>
+<def>be dense</def>
+<gramGrp><gram type="role">verbal root</gram>
 </gramGrp></entry>
 <entry>
 <form>ūraṉ</form>
-<def>man-from-the-village</def>
+<def>village-he</def>
 <gramGrp><gram type="role">pronominalised noun</gram>
 <gram type="role">masculine singular</gram>
 </gramGrp></entry>
@@ -191,19 +191,19 @@
 </gramGrp></entry>
 <entry>
 <form>ivaṇ</form>
-<def>this-place</def>
-<gramGrp><gram type="role">noun</gram>
+<def>here</def>
+<gramGrp><gram type="role">adverb</gram>
 </gramGrp></entry>
 <entry>
 <form>vāyppat<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
-<def>that-which-flourishes</def>
+<def>that which flourishes</def>
 <gramGrp><gram type="role">participial noun</gram>
 <gram type="role">neuter singular</gram>
 <gram type="role">imperfect aspect</gram>
 </gramGrp></entry>
 <entry>
 <form>āka</form>
-<def>may-they-become</def>
+<def>may become</def>
 <gramGrp><gram type="role">optative</gram>
 </gramGrp></entry>
 <entry>
@@ -213,7 +213,7 @@
 </gramGrp></entry>
 <entry>
 <form>vēṭṭēm-ē</form>
-<def>we-wanted</def>
+<def>we wanted</def>
 <form type="simple">vēṭṭēm</form>
 <gramGrp><gram type="role">perfective aspect</gram>
 <gram type="role">plural</gram>
