@@ -44,8 +44,8 @@
 <l>          That's what mother our wants. As for us: </l>
 <l>          'The man from the village by the cool ghat,</l>
 <l>          where lotuses have formed buds in the blooming pond: </l>
-<l>          May he propose marriage! </l>
-<l>          And may our father give [his consent]!' — that's what we want.</l>
+<l>          May he marry [me]! </l>
+<l>          And may our father give [his consent]!' — that's what we have been wanting.</l>
           
         </lg>
       </div>
@@ -54,7 +54,7 @@
   <standOff type="wordsplit" corresp="#Aink6"><interp type="alignment" select="0">61MG4MG4MG57MG20MG2M,152MG</interp>
 <entry>
 <form>vāḻi</form>
-<def>live-you</def>
+<def>may-you-live</def>
 <gramGrp><gram type="role">singular</gram>
 <gram type="role">subjunctive</gram>
 <gram type="role">second person</gram>
@@ -66,7 +66,7 @@
 </gramGrp></entry>
 <entry>
 <form>vāḻi</form>
-<def>live-you</def>
+<def>may-you-live</def>
 <gramGrp><gram type="role">singular</gram>
 <gram type="role">subjunctive</gram>
 <gram type="role">second person</gram>
@@ -88,7 +88,7 @@
 </gramGrp></entry>
 <entry>
 <form>taṇika</form>
-<def>may cool down</def>
+<def>may-they-cool-down</def>
 <gramGrp><gram type="role">optative</gram>
 </gramGrp></entry>
 <entry>
@@ -103,7 +103,7 @@
 </gramGrp></entry>
 <entry>
 <form>nantuka</form>
-<def>may flourish</def>
+<def>may-he-flourish</def>
 <gramGrp><gram type="role">optative</gram>
 </gramGrp></entry>
 <entry>
@@ -113,7 +113,7 @@
 </gramGrp></entry>
 <entry>
 <form>vēṭṭōḷ-ē</form>
-<def>wanted-she</def>
+<def>one-who-wants/one-who-wanted</def>
 <form type="simple">vēṭṭōḷ</form>
 <gramGrp><gram type="role">participial noun</gram>
 <gram type="role">perfective aspect</gram>
@@ -123,7 +123,7 @@
 </entry>
 <entry>
 <form>yāy-ē</form>
-<def>our mother</def>
+<def>our-mother</def>
 <form type="simple">yāy</form>
 <gramGrp><gram type="role">noun</gram>
 </gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
@@ -133,8 +133,6 @@
 <def>we</def>
 <form type="simple">yām</form>
 <gramGrp><gram type="role">pronoun</gram>
-<gram type="role">plural</gram>
-<gram type="role">first person</gram>
 </gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
 </entry>
 <entry>
@@ -171,25 +169,25 @@
 </gramGrp></entry>
 <entry>
 <form><pc>~</pc>ūraṉ</form>
-<def>village-he</def>
+<def>man-from-the-village</def>
 <gramGrp><gram type="role">pronominalised noun</gram>
 <gram type="role">masculine singular</gram>
 </gramGrp></entry>
 <entry>
 <form>varaika</form>
-<def>may marry</def>
+<def>may-he-marry</def>
 <gramGrp><gram type="role">optative</gram>
 </gramGrp></entry>
 <entry>
 <form><pc>~</pc>entai-<pc>~</pc>um</form>
-<def>my father</def>
+<def>my-father</def>
 <form type="simple">entai</form>
 <gramGrp><gram type="role">noun</gram>
 </gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
 </entry>
 <entry>
 <form>koṭukka</form>
-<def>may give</def>
+<def>may-he-give</def>
 <gramGrp><gram type="role">optative</gram>
 </gramGrp></entry>
 <entry>
@@ -199,7 +197,7 @@
 </gramGrp></entry>
 <entry>
 <form>vēṭṭēm-ē</form>
-<def>we wanted</def>
+<def>we-wanted</def>
 <form type="simple">vēṭṭēm</form>
 <gramGrp><gram type="role">perfective aspect</gram>
 <gram type="role">plural</gram>
