@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -15,13 +12,13 @@
           <msIdentifier>
           </msIdentifier>
           <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>
         </msDesc>
       </sourceDesc>
     </fileDesc>
-    <revisionDesc />
+    <revisionDesc/>
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
@@ -43,9 +40,9 @@
         </lg>
         <lg type="translation" xml:lang="en">
           <l> Remembering the man from the village near the ghat</l>
-          <l rend='indent2'> where the hollow wild-cane that looks like [bamboo] shafts [grows],</l>
-          <l rend='indent2'> where pretty-winged bees with six little(?) legs</l>
-          <l rend='indent2'> sweep the hundred-petalled lotus [and its] flowering branches,</l>
+          <l rend="indent2"> where the hollow wild-cane that looks like [bamboo] shafts [grows],</l>
+          <l rend="indent2"> where pretty-winged bees with six little(?) legs</l>
+          <l rend="indent2"> sweep the hundred-petalled lotus [and its] flowering branches,</l>
           <l> [My] fine lustrous bangles, having become loose, run over my wrists.</l>
 
 
@@ -53,153 +50,153 @@
       </div>
     </body>
   </text>
-  <standOff type="wordsplit" corresp="#Aink20">
-    <interp type="alignment" select="0">28MG44MG57MG4MG3M,139MG</interp>
-    <entry>
-    <form>aṟu</form>
-    <def>six</def>
-    <gramGrp><gram type="role">noun</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>cil</form>
-    <def>few</def>
-    <gramGrp><gram type="role">adjective</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>kāla</form>
-    <def>leg</def>
-    <gramGrp><gram type="role">adjective</gram>
-    </gramGrp></entry>
-    <entry>
-    <form><pc>~</pc>am</form>
-    <def>pretty</def>
-    <gramGrp><gram type="role">adjective</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>ciṟai<pc>+</pc></form>
-    <def>wing</def>
-    <gramGrp><gram type="role">noun</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>tumpi</form>
-    <def>bee</def>
-    <gramGrp><gram type="role">noun</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>nūṟṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
-    <def>hundred</def>
-    <gramGrp><gram type="role">oblique</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>itaḻ<pc>+</pc></form>
-    <def>petal</def>
-    <gramGrp><gram type="role">noun</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>tāmarai<pc>+</pc></form>
-    <def>lotus</def>
-    <gramGrp><gram type="role">noun</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>pū<pc>+</pc></form>
-    <def>flower</def>
-    <gramGrp><gram type="role">noun</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>ciṉai</form>
-    <def>branch</def>
-    <gramGrp><gram type="role">root noun</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>cīkkum</form>
-    <def>sweeping</def>
-    <gramGrp><gram type="role">imperfect aspect</gram>
-    <gram type="role">peyareccam</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>kāmpu</form>
-    <def>shaft</def>
-    <gramGrp><gram type="role">noun</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>kaṇṭaṉṉa</form>
-    <def>seen-like</def>
-    <gramGrp><gram type="role">comparative</gram>
-    <gram type="role">peyareccam</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>tūmp<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
-    <def>tube</def>
-    <gramGrp><gram type="role">noun</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>uṭai</form>
-    <def>possessing</def>
-    <gramGrp><gram type="role">postposition</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>vēḻattu<pc>+</pc></form>
-    <def>wild-cane</def>
-    <gramGrp><gram type="role">oblique</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>tuṟai</form>
-    <def>ghat</def>
-    <gramGrp><gram type="role">noun</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>naṇi</form>
-    <def>nearness</def>
-    <gramGrp><gram type="role">noun</gram>
-    </gramGrp></entry>
-    <entry>
-    <form><pc>~</pc>ūraṉai</form>
-    <def>man-from-the-village</def>
-    <gramGrp><gram type="role">pronominalised noun</gram>
-    <gram type="role">masculine singular</gram>
-    <gram type="role">accusative</gram>
-    </gramGrp></entry>
-    <entry>
-    <form><pc>~</pc>uḷḷi</form>
-    <def>remembering</def>
-    <gramGrp><gram type="role">absolutive</gram>
-    </gramGrp></entry>
-    <entry>
-    <form><pc>~</pc>eṉ</form>
-    <def>my</def>
-    <gramGrp><gram type="role">oblique</gram>
-    </gramGrp></entry>
-    <entry>
-    <form><pc>+</pc>iṟai</form>
-    <def>joint-of-the-body</def>
-    <gramGrp><gram type="role">noun</gram>
-    </gramGrp></entry>
-    <entry>
-    <form><pc>~</pc>ēr</form>
-    <def>fine</def>
-    <gramGrp><gram type="role">noun</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>el</form>
-    <def>bright</def>
-    <gramGrp><gram type="role">noun</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>vaḷai</form>
-    <def>bangle</def>
-    <gramGrp><gram type="role">noun</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>nekiḻp<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
-    <def>having-become-loose</def>
-    <gramGrp><gram type="role">absolutive</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>ōṭum-<pc>+</pc>ē</form>
-    <def>they-run</def>
-    <form type="simple">ōṭum</form>
-    <gramGrp><gram type="role">habitual future</gram>
-    </gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
-    </entry>
-    </standOff>
+  <standOff type="wordsplit" corresp="#Aink20"><interp type="alignment" select="0">28MG44MG57MG4MG3M,139MG</interp>
+<entry>
+<form>aṟu</form>
+<def>six</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>cil</form>
+<def>few</def>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
+<entry>
+<form>kāla</form>
+<def>leg</def>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
+<entry>
+<form><pc>~</pc>am</form>
+<def>pretty</def>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
+<entry>
+<form>ciṟai<pc>+</pc></form>
+<def>wing</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>tumpi</form>
+<def>bee</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>nūṟṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>hundred</def>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
+<entry>
+<form>itaḻ<pc>+</pc></form>
+<def>petal</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>tāmarai<pc>+</pc></form>
+<def>lotus</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>pū<pc>+</pc></form>
+<def>flower</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>ciṉai</form>
+<def>branch</def>
+<gramGrp><gram type="role">root noun</gram>
+</gramGrp></entry>
+<entry>
+<form>cīkkum</form>
+<def>sweeping-</def>
+<gramGrp><gram type="role">imperfect aspect</gram>
+<gram type="role">peyareccam</gram>
+</gramGrp></entry>
+<entry>
+<form>kāmpu</form>
+<def>shaft</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>kaṇṭaṉṉa</form>
+<def>seen-like</def>
+<gramGrp><gram type="role">comparative</gram>
+<gram type="role">peyareccam</gram>
+</gramGrp></entry>
+<entry>
+<form>tūmp<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>tube</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>uṭai</form>
+<def>possessing</def>
+<gramGrp><gram type="role">postposition</gram>
+</gramGrp></entry>
+<entry>
+<form>vēḻattu<pc>+</pc></form>
+<def>wild cane</def>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
+<entry>
+<form>tuṟai</form>
+<def>ghat</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>naṇi</form>
+<def>nearness</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form><pc>~</pc>ūraṉai</form>
+<def>village-he</def>
+<gramGrp><gram type="role">pronominalised noun</gram>
+<gram type="role">masculine singular</gram>
+<gram type="role">accusative</gram>
+</gramGrp></entry>
+<entry>
+<form><pc>~</pc>uḷḷi</form>
+<def>remembering</def>
+<gramGrp><gram type="role">absolutive</gram>
+</gramGrp></entry>
+<entry>
+<form><pc>~</pc>eṉ</form>
+<def>my</def>
+<gramGrp><gram type="role">pronoun</gram>
+<gram type="role">oblique</gram>
+<gram type="role">first person</gram>
+</gramGrp></entry>
+<entry>
+<form><pc>+</pc>iṟai</form>
+<def>joint of the body</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form><pc>~</pc>ēr</form>
+<def>fine</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>el</form>
+<def>bright</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>vaḷai</form>
+<def>bangle</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>nekiḻp<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>having become loose</def>
+<gramGrp><gram type="role">absolutive</gram>
+</gramGrp></entry>
+<entry>
+<form>ōṭum-<pc>+</pc>ē</form>
+<def>run</def>
+<form type="simple">ōṭum</form>
+<gramGrp><gram type="role">habitual future</gram>
+</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+</entry></standOff>
 </TEI>
