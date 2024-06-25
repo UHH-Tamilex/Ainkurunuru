@@ -93,8 +93,8 @@
 </gramGrp></entry>
 <entry>
 <form>kurukiṉ</form>
-<def>egret</def>
-<gramGrp><gram type="role">oblique</gram>
+<def>wader</def>
+<gramGrp><gram type="role">comparative</gram>
 </gramGrp></entry>
 <entry>
 <form>tōṉṟum</form>
@@ -129,7 +129,7 @@
 </gramGrp></entry>
 <entry>
 <form>vaṟit<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
-<def>empty thing</def>
+<def>empty-it</def>
 <gramGrp><gram type="role">pronominalised noun</gram>
 <gram type="role">neuter singular</gram>
 </gramGrp></entry>
@@ -154,7 +154,7 @@
 </gramGrp></entry>
 <entry>
 <form>keḻu</form>
-<def>having</def>
+<def>have</def>
 <gramGrp><gram type="role">postposition</gram>
 </gramGrp></entry>
 <entry>

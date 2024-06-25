@@ -1,4 +1,6 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -42,7 +44,7 @@
           <l> May the paddy fields ripen! May the beggars come!' </l>
           <l> That's what our mother wants. As for us: </l>
           <l> 'The bond [I have] with the man from the village by the cool ghat</l>
-          <l  rend="indent2"> where waterlilies rival many-petalled lotuses:</l>
+          <l rend="indent2"> where waterlilies rival many-petalled lotuses:</l>
           <l> May it grow step by step!' — that's what we have been wanting. </l>
 
 
