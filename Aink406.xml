@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -16,7 +14,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>    
         </msDesc>
@@ -35,9 +33,9 @@
 </lg>
 <lg type="translation" xml:lang="en">
   <l>As [their] son with the beautiful kohl-lined eyes played,</l>
-<l>he embraced his wife and sat there sweetly</l>
+<l>he embraced his beloved and sat [there] sweetly</l>
 <l>- [that] lord of the woodland full of flowers</l>
-<l>around which bees buzz, growing full on their honey.</l>
+<l>around which bees buzz, growing full on [their[ honey.</l>
 </lg>
     </div>
   </body>
@@ -49,8 +47,12 @@
 <gramGrp><gram type="role">noun</gram>
 </gramGrp></entry>
 <entry>
-<form>uṇkaṇ</form>
-<def>kohl eyes</def>
+<form>uṇ</form>
+<def>kohl</def>
+</entry>
+<entry>
+<form>kaṇ</form>
+<def>eyes</def>
 </entry>
 <entry>
 <form>makaṉ</form>
