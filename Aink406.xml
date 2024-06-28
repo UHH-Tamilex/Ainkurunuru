@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+            <title xml:lang="ta">Aiṅkuṟunūṟu</title> 406.
+            <persName xml:lang="ta">Pēyaṉār.</persName>
+        </title>     
+        <editor role="translator">Leo Nelson-Jones</editor>
+      </titleStmt>
+      <publicationStmt><p/></publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc><change/></revisionDesc>
+  </teiHeader>
+<text xml:lang="ta">
+  <body>
+    <div xml:id="Aink406">
+      <lg type="edition">
+<l>māta ruṇkaṇ makaṉviḷai yāṭak</l>
+<l>kātalit taḻīi yiṉitirun taṉaṉē</l>
+<l>tātār piraca mūtum</l>
+<l>pōtār puṟavi ṉāṭukiḻa vōṉē</l>
+</lg>
+<lg type="translation" xml:lang="en">
+  <l>As [their] son with the beautiful kohl-lined eyes played,</l>
+<l>he embraced his wife and sat there sweetly</l>
+<l>- [that] lord of the woodland full of flowers</l>
+<l>around which bees buzz, growing full on their honey.</l>
+</lg>
+    </div>
+  </body>
+</text>
+<standOff type="wordsplit" corresp="#Aink406"><interp type="alignment" select="0">42MG9MG4MG16MG9ML10MGM,97M</interp>
+<entry>
+<form>mātar</form>
+<def>beauty</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>uṇkaṇ</form>
+<def>kohl eyes</def>
+</entry>
+<entry>
+<form>makaṉ</form>
+<def>son</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>viḷaiyāṭa<pc>+</pc></form>
+<def>play</def>
+<gramGrp><gram type="role">infinitive</gram>
+</gramGrp></entry>
+<entry>
+<form>kātali<pc>+</pc></form>
+<def>beloved</def>
+<gramGrp><gram type="role">pronominalised noun</gram>
+<gram type="role">feminine singular</gram>
+</gramGrp></entry>
+<entry>
+<form>taḻīi</form>
+<def>embraced</def>
+<gramGrp><gram type="role">absolutive</gram>
+</gramGrp></entry>
+<entry>
+<form><pc>~</pc>iṉit<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>sweet</def>
+<gramGrp><gram type="role">pronominalised noun</gram>
+<gram type="role">neuter singular</gram>
+</gramGrp></entry>
+<entry>
+<form>iruntaṉaṉ-ē</form>
+<def>sat</def>
+<form type="simple">iruntaṉaṉ</form>
+<gramGrp><gram type="role">masculine singular</gram>
+<gram type="role">perfective aspect</gram>
+</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+</entry>
+<entry>
+<form>tāt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>honey</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>ār</form>
+<def>be full</def>
+<gramGrp><gram type="role">verbal root as peyareccam</gram>
+</gramGrp></entry>
+<entry>
+<form>piracam</form>
+<def>honey comb</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>ūtum</form>
+<def>buzz</def>
+<gramGrp><gram type="role">imperfect aspect</gram>
+<gram type="role">peyareccam</gram>
+</gramGrp></entry>
+<entry>
+<form>pōt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>flower</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>ār</form>
+<def>be full</def>
+<gramGrp><gram type="role">verbal root as peyareccam</gram>
+</gramGrp></entry>
+<entry>
+<form>puṟaviṉ</form>
+<def>woodland</def>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
+<entry>
+<form>nāṭu</form>
+<def>land</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>kiḻavōṉ-ē</form>
+<def>lord</def>
+<form type="simple">kiḻavōṉ</form>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+</entry></standOff>
+</TEI>
