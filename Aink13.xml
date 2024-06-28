@@ -1,4 +1,7 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -12,13 +15,13 @@
           <msIdentifier>
           </msIdentifier>
           <msContents>
-            <summary><p/>
+            <summary><p></p>
             </summary>
           </msContents>
         </msDesc>
       </sourceDesc>
     </fileDesc>
-    <revisionDesc/>
+    <revisionDesc />
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
@@ -36,11 +39,11 @@
           <l> tuñcūr yāmattun tuyilaṟi yalarē.</l>
         </lg>
         <lg type="translation" xml:lang="en">
-          <l> The women of the man from a village by a cool ghat</l>
-          <l rend="indent2"> where they announce the white flower of wild cane along the settling
+          <l> The women of the man from the village by the cool ghat–</l>
+          <l rend="indent2"> where they announce the white flower of wild cane from the settling
             shore</l>
-          <l rend="indent2"> that resembles the foaming manes of well-paced good horses</l>
-          <l> don't know sleep – even at midnight, when the village sleeps.</l>
+          <l rend="indent2"> that resembles the foaming manes of well-paced gold horses–</l>
+          <l> won’t know sleep–even at midnight, when the village sleeps.</l>
 
 
         </lg>
@@ -48,124 +51,128 @@
     </body>
   </text>
   
-  <standOff type="wordsplit" corresp="#Aink13"><interp type="alignment" select="0">19MG60MG8M2G15MG2M,108MG</interp>
-<entry>
-<form>pari</form>
-<def>motion</def>
-<gramGrp><gram type="role">root noun</gram>
-</gramGrp></entry>
-<entry>
-<form><pc>~</pc>uṭai</form>
-<def>possess</def>
-<gramGrp><gram type="role">postposition</gram>
-</gramGrp></entry>
-<entry>
-<form>nal</form>
-<def>good</def>
-<gramGrp><gram type="role">adjective</gram>
-</gramGrp></entry>
-<entry>
-<form>māṉ</form>
-<def>horse</def>
-<gramGrp><gram type="role">noun</gram>
-</gramGrp></entry>
-<entry>
-<form>poṅk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
-<def>foam</def>
-<gramGrp><gram type="role">verbal root</gram>
-</gramGrp></entry>
-<entry>
-<form>uḷai</form>
-<def>mane</def>
-<gramGrp><gram type="role">noun</gram>
-</gramGrp></entry>
-<entry>
-<form><pc>~</pc>aṉṉa</form>
-<def>like</def>
-<gramGrp><gram type="role">postposition</gram>
-</gramGrp></entry>
-<entry>
-<form><pc>~</pc>aṭai</form>
-<def>settle</def>
-<gramGrp><gram type="role">verbal root</gram>
-</gramGrp></entry>
-<entry>
-<form>karai</form>
-<def>shore</def>
-<gramGrp><gram type="role">noun</gram>
-</gramGrp></entry>
-<entry>
-<form>vēḻam</form>
-<def>wild cane</def>
-<gramGrp><gram type="role">noun</gram>
-</gramGrp></entry>
-<entry>
-<form>veḷ</form>
-<def>white</def>
-<gramGrp><gram type="role">adjective</gram>
-</gramGrp></entry>
-<entry>
-<form>pū<pc>+</pc></form>
-<def>flower</def>
-<gramGrp><gram type="role">noun</gram>
-</gramGrp></entry>
-<entry>
-<form>pakarum</form>
-<def>announcing-</def>
-<gramGrp><gram type="role">imperfect aspect</gram>
-<gram type="role">peyareccam</gram>
-</gramGrp></entry>
-<entry>
-<form>taṇ</form>
-<def>cool</def>
-<gramGrp><gram type="role">adjective</gram>
-</gramGrp></entry>
-<entry>
-<form>tuṟai</form>
-<def>ghat</def>
-<gramGrp><gram type="role">noun</gram>
-</gramGrp></entry>
-<entry>
-<form><pc>~</pc>ūraṉ</form>
-<def>village-he</def>
-<gramGrp><gram type="role">pronominalised noun</gram>
-<gram type="role">masculine singular</gram>
-</gramGrp></entry>
-<entry>
-<form>peṇṭir</form>
-<def>women</def>
-<gramGrp><gram type="role">honorific</gram>
-<gram type="role">third person</gram>
-</gramGrp></entry>
-<entry>
-<form>tuñc<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
-<def>sleep</def>
-<gramGrp><gram type="role">verbal root</gram>
-</gramGrp></entry>
-<entry>
-<form>ūr</form>
-<def>village</def>
-<gramGrp><gram type="role">noun</gram>
-</gramGrp></entry>
-<entry>
-<form>yāmatt<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-um</form>
-<def>midnight</def>
-<form type="simple">yāmattu</form>
-<gramGrp><gram type="role">oblique</gram>
-</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
-</entry>
-<entry>
-<form>tuyil</form>
-<def>sleep</def>
-<gramGrp><gram type="role">noun</gram>
-</gramGrp></entry>
-<entry>
-<form>aṟiyalar-ē</form>
-<def>know-not-they</def>
-<form type="simple">aṟiyalar</form>
-<gramGrp><gram type="role">negative</gram>
-<gram type="role">honorific</gram>
-<gram type="role">third person</gram>
-</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
-</entry></standOff>
+  <standOff type="wordsplit" corresp="#Aink13">
+    <interp type="alignment" select="0">19MG60MG8M2G15MG2M,108MG</interp>
+    <entry>
+    <form>pari</form>
+    <def>motion</def>
+    <gramGrp><gram type="role">root noun</gram>
+    </gramGrp></entry>
+    <entry>
+    <form><pc>~</pc>uṭai</form>
+    <def>possessing</def>
+    <gramGrp><gram type="role">postposition</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>nal</form>
+    <def>good</def>
+    <gramGrp><gram type="role">adjective</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>māṉ</form>
+    <def>horse</def>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>poṅk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>foam</def>
+    <gramGrp><gram type="role">verbal root as peyareccam imperfective aspect</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>uḷai</form>
+    <def>mane</def>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
+    <entry>
+    <form><pc>~</pc>aṉṉa</form>
+    <def>like</def>
+    <gramGrp><gram type="role">postposition</gram>
+    </gramGrp></entry>
+    <entry>
+    <form><pc>~</pc>aṭai</form>
+    <def>settle</def>
+    <gramGrp><gram type="role">verbal root as peyareccam imperfective aspect</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>karai</form>
+    <def>shore</def>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>vēḻam</form>
+    <def>wild-cane</def>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>veḷ</form>
+    <def>white</def>
+    <gramGrp><gram type="role">adjective</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>pū<pc>+</pc></form>
+    <def>flower</def>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>pakarum</form>
+    <def>announcing</def>
+    <gramGrp><gram type="role">imperfect aspect</gram>
+    <gram type="role">peyareccam</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>taṇ</form>
+    <def>cool</def>
+    <gramGrp><gram type="role">adjective</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>tuṟai</form>
+    <def>ghat</def>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
+    <entry>
+    <form><pc>~</pc>ūraṉ</form>
+    <def>man-from-the-village</def>
+    <gramGrp><gram type="role">pronominalised noun</gram>
+    <gram type="role">masculine singular</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>peṇṭir</form>
+    <def>women</def>
+    <gramGrp><gram type="role">plural</gram>
+    <gram type="role">honorific</gram>
+    <gram type="role">third person</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>tuñc<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>sleep</def>
+    <gramGrp><gram type="role">verbal root as peyareccam imperfective aspect</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>ūr</form>
+    <def>village</def>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>yāmatt<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-um</form>
+    <def>midnight</def>
+    <form type="simple">yāmattu</form>
+    <gramGrp><gram type="role">oblique</gram>
+    </gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
+    </entry>
+    <entry>
+    <form>tuyil</form>
+    <def>sleep</def>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>aṟiyalar-ē</form>
+    <def>they-don't-know/they-won't-know</def>
+    <form type="simple">aṟiyalar</form>
+    <gramGrp><gram type="role">negative</gram>
+    <gram type="role">plural</gram>
+    <gram type="role">honorific</gram>
+    <gram type="role">third person</gram>
+    </gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+    </entry>
+    </standOff>
 </TEI>

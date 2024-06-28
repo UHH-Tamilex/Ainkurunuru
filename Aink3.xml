@@ -41,9 +41,9 @@
 <l>          'Long live Ātan! Long live Aviṉi! </l>
 <l>          May many [drops of] milk trickle! May many bulls grow!' </l>
 <l>          That's what our mother wants. As for us: </l>
-<l>          '[There is] a man from a land teeming with flowers</l>
-<l  rend="indent2">          where ploughmen, after sowing, return with paddy:</l>
-<l>          May the livelihood of his household flourish!' — that's what we have been wanting. </l>
+<l>          '[There is] a man from a land teeming with flowers,</l>
+<l>          where ploughmen, after sowing, return with paddy:</l>
+<l>          May the livelihood of his household flourish!' — that's what we want. </l>
           
 
 
@@ -54,7 +54,7 @@
   <standOff type="wordsplit" corresp="#Aink3"><interp type="alignment" select="0">59MG4MG4MG72MG2M,144MG</interp>
 <entry>
 <form>vāḻi</form>
-<def>live-you</def>
+<def>may-you-live</def>
 <gramGrp><gram type="role">subjunctive</gram>
 <gram type="role">singular</gram>
 <gram type="role">second person</gram>
@@ -66,7 +66,7 @@
 </gramGrp></entry>
 <entry>
 <form>vāḻi</form>
-<def>live-you</def>
+<def>may-you-live</def>
 <gramGrp><gram type="role">subjunctive</gram>
 <gram type="role">singular</gram>
 <gram type="role">second person</gram>
@@ -88,7 +88,7 @@
 </gramGrp></entry>
 <entry>
 <form><pc>~</pc>ūṟuka</form>
-<def>may trickle</def>
+<def>may-they-trickle/ooze</def>
 <gramGrp><gram type="role">optative</gram>
 </gramGrp></entry>
 <entry>
@@ -103,7 +103,7 @@
 </gramGrp></entry>
 <entry>
 <form>ciṟakka</form>
-<def>may excel</def>
+<def>may-they-excel</def>
 <gramGrp><gram type="role">optative</gram>
 </gramGrp></entry>
 <entry>
@@ -113,7 +113,7 @@
 </gramGrp></entry>
 <entry>
 <form>vēṭṭōḷ-ē</form>
-<def>wanted-she</def>
+<def>one-who-wants/one-who-wanted</def>
 <form type="simple">vēṭṭōḷ</form>
 <gramGrp><gram type="role">participial noun</gram>
 <gram type="role">perfective aspect</gram>
@@ -123,7 +123,7 @@
 </entry>
 <entry>
 <form>yāy-ē</form>
-<def>our mother</def>
+<def>our-mother</def>
 <form type="simple">yāy</form>
 <gramGrp><gram type="role">noun</gram>
 </gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
@@ -133,8 +133,6 @@
 <def>we</def>
 <form type="simple">yām</form>
 <gramGrp><gram type="role">pronoun</gram>
-<gram type="role">plural</gram>
-<gram type="role">first person</gram>
 </gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
 </entry>
 <entry>
@@ -146,7 +144,8 @@
 <entry>
 <form><pc>~</pc>uḻavar</form>
 <def>ploughmen</def>
-<gramGrp><gram type="role">honorific</gram>
+<gramGrp><gram type="role">plural</gram>
+<gram type="role">honorific</gram>
 <gram type="role">third person</gram>
 </gramGrp></entry>
 <entry>
@@ -156,7 +155,7 @@
 </gramGrp></entry>
 <entry>
 <form>peyarum</form>
-<def>returning-</def>
+<def>returning</def>
 <gramGrp><gram type="role">imperfect aspect</gram>
 <gram type="role">peyareccam</gram>
 </gramGrp></entry>
@@ -168,11 +167,11 @@
 <entry>
 <form>kañal</form>
 <def>dense</def>
-<gramGrp><gram type="role">verbal root</gram>
+<gramGrp><gram type="role">verbal root as adjective</gram>
 </gramGrp></entry>
 <entry>
 <form>ūraṉ</form>
-<def>village-he</def>
+<def>man-from-the-village</def>
 <gramGrp><gram type="role">pronominalised noun</gram>
 <gram type="role">masculine singular</gram>
 </gramGrp></entry>
@@ -182,7 +181,6 @@
 <gramGrp><gram type="role">pronoun</gram>
 <gram type="role">oblique</gram>
 <gram type="role">singular</gram>
-<gram type="role">third person</gram>
 </gramGrp></entry>
 <entry>
 <form>maṉai</form>
@@ -196,7 +194,7 @@
 </gramGrp></entry>
 <entry>
 <form>polika</form>
-<def>may flourish</def>
+<def>may-it-flourish</def>
 <gramGrp><gram type="role">optative</gram>
 </gramGrp></entry>
 <entry>
@@ -206,7 +204,7 @@
 </gramGrp></entry>
 <entry>
 <form>vēṭṭēm-ē</form>
-<def>we wanted</def>
+<def>we-wanted</def>
 <form type="simple">vēṭṭēm</form>
 <gramGrp><gram type="role">perfective aspect</gram>
 <gram type="role">plural</gram>

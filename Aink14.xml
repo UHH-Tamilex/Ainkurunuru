@@ -1,4 +1,7 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -12,13 +15,13 @@
           <msIdentifier>
           </msIdentifier>
           <msContents>
-            <summary><p/>
+            <summary><p></p>
             </summary>
           </msContents>
         </msDesc>
       </sourceDesc>
     </fileDesc>
-    <revisionDesc/>
+    <revisionDesc />
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
@@ -37,122 +40,124 @@
           <l> paṉittuyil ceyyu miṉcā yaṟṟē.</l>
         </lg>
         <lg type="translation" xml:lang="en">
-          <l> The chest of the man from the village by the ornate ghat</l>
+          <l> The chest of the man from the village by the ornate ghat—</l>
           <l rend="indent2"> where the sharp[-tipped] sprouts of the scarred mango trees</l>
-          <l rend="indent2"> in the neighbourhood sway, touching the creeper flowers of wild cane</l>
-          <l> has the sweet grace that produces cool sleep.</l>
+          <l rend="indent2"> in the neighbourhood sway, touching the creeper flowers of wild cane—</l>
+          <l> has the sweet grace that produces chilly sleep.</l>
 
         </lg>
       </div>
     </body>
   </text>
-  <standOff type="wordsplit" corresp="#Aink14"><interp type="alignment" select="0">71M2G25M2G2M,101MG</interp>
-<entry>
-<form>koṭi<pc>+</pc></form>
-<def>creeper</def>
-<gramGrp><gram type="role">noun</gram>
-</gramGrp></entry>
-<entry>
-<form>pū</form>
-<def>flower</def>
-<gramGrp><gram type="role">noun</gram>
-</gramGrp></entry>
-<entry>
-<form>vēḻam</form>
-<def>wild cane</def>
-<gramGrp><gram type="role">noun</gram>
-</gramGrp></entry>
-<entry>
-<form>tīṇṭi</form>
-<def>touched</def>
-<gramGrp><gram type="role">absolutive</gram>
-</gramGrp></entry>
-<entry>
-<form><pc>~</pc>ayala</form>
-<def>neighbourhood</def>
-<gramGrp><gram type="role">adjective</gram>
-</gramGrp></entry>
-<entry>
-<form>vaṭu<pc>+</pc></form>
-<def>scar</def>
-<gramGrp><gram type="role">noun</gram>
-</gramGrp></entry>
-<entry>
-<form>koḷ</form>
-<def>take</def>
-<gramGrp><gram type="role">verbal root</gram>
-</gramGrp></entry>
-<entry>
-<form>māattu</form>
-<def>mango tree</def>
-<gramGrp><gram type="role">oblique</gram>
-</gramGrp></entry>
-<entry>
-<form>val</form>
-<def>sharp</def>
-<gramGrp><gram type="role">noun</gram>
-</gramGrp></entry>
-<entry>
-<form>taḷir</form>
-<def>sprout</def>
-<gramGrp><gram type="role">noun</gram>
-</gramGrp></entry>
-<entry>
-<form>nuṭaṅkum</form>
-<def>swaying-</def>
-<gramGrp><gram type="role">imperfect aspect</gram>
-<gram type="role">peyareccam</gram>
-</gramGrp></entry>
-<entry>
-<form>aṇi<pc>+</pc></form>
-<def>adorn</def>
-<gramGrp><gram type="role">verbal root</gram>
-</gramGrp></entry>
-<entry>
-<form>tuṟai</form>
-<def>ghat</def>
-<gramGrp><gram type="role">noun</gram>
-</gramGrp></entry>
-<entry>
-<form><pc>~</pc>ūraṉ</form>
-<def>village-he</def>
-<gramGrp><gram type="role">pronominalised noun</gram>
-<gram type="role">masculine singular</gram>
-</gramGrp></entry>
-<entry>
-<form>mārp<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
-<def>chest</def>
-<form type="simple">mārpu</form>
-<gramGrp><gram type="role">noun</gram>
-</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
-</entry>
-<entry>
-<form>paṉi<pc>+</pc></form>
-<def>dew</def>
-<gramGrp><gram type="role">root noun</gram>
-</gramGrp></entry>
-<entry>
-<form>tuyil</form>
-<def>sleep</def>
-<gramGrp><gram type="role">noun</gram>
-</gramGrp></entry>
-<entry>
-<form>ceyyum</form>
-<def>producing-</def>
-<gramGrp><gram type="role">imperfect aspect</gram>
-<gram type="role">peyareccam</gram>
-</gramGrp></entry>
-<entry>
-<form>iṉ</form>
-<def>pleasing</def>
-<gramGrp><gram type="role">adjective</gram>
-</gramGrp></entry>
-<entry>
-<form>cāyaṟṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
-<def>a thing with grace</def>
-<form type="simple">cāyaṟṟu</form>
-<gramGrp><gram type="role">pronominalised noun</gram>
-<gram type="role">neuter singular</gram>
-</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
-</entry></standOff>
+  <standOff type="wordsplit" corresp="#Aink14">
+    <interp type="alignment" select="0">71M2G25M2G2M,101MG</interp>
+    <entry>
+    <form>koṭi<pc>+</pc></form>
+    <def>creeper</def>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>pū</form>
+    <def>flower</def>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>vēḻam</form>
+    <def>wild-cane</def>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>tīṇṭi</form>
+    <def>touching</def>
+    <gramGrp><gram type="role">absolutive</gram>
+    </gramGrp></entry>
+    <entry>
+    <form><pc>~</pc>ayala</form>
+    <def>neighbourhood</def>
+    <gramGrp><gram type="role">adjective</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>vaṭu<pc>+</pc></form>
+    <def>scar</def>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>koḷ</form>
+    <def>take</def>
+    <gramGrp><gram type="role">verbal root as peyareccam perfective aspect</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>māattu</form>
+    <def>mango-tree</def>
+    <gramGrp><gram type="role">oblique</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>val</form>
+    <def>sharp</def>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>taḷir</form>
+    <def>sprout</def>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>nuṭaṅkum</form>
+    <def>swaying</def>
+    <gramGrp><gram type="role">imperfect aspect</gram>
+    <gram type="role">peyareccam</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>aṇi<pc>+</pc></form>
+    <def>adorn</def>
+    <gramGrp><gram type="role">verbal root as peyareccam perfective aspect</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>tuṟai</form>
+    <def>ghat</def>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
+    <entry>
+    <form><pc>~</pc>ūraṉ</form>
+    <def>man-from-the-village</def>
+    <gramGrp><gram type="role">pronominalised noun</gram>
+    <gram type="role">masculine singular</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>mārp<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
+    <def>chest</def>
+    <form type="simple">mārpu</form>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+    </entry>
+    <entry>
+    <form>paṉi<pc>+</pc></form>
+    <def>dew</def>
+    <gramGrp><gram type="role">root noun</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>tuyil</form>
+    <def>sleep</def>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>ceyyum</form>
+    <def>producing</def>
+    <gramGrp><gram type="role">imperfect aspect</gram>
+    <gram type="role">peyareccam</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>iṉ</form>
+    <def>pleasing</def>
+    <gramGrp><gram type="role">adjective</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>cāyaṟṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
+    <def>a-thing-with-grace</def>
+    <form type="simple">cāyaṟṟu</form>
+    <gramGrp><gram type="role">pronominalised noun</gram>
+    <gram type="role">neuter singular</gram>
+    </gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+    </entry>
+    </standOff>
 </TEI>

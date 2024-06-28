@@ -1,4 +1,7 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -12,13 +15,13 @@
           <msIdentifier>
           </msIdentifier>
           <msContents>
-            <summary><p/>
+            <summary><p></p>
             </summary>
           </msContents>
         </msDesc>
       </sourceDesc>
     </fileDesc>
-    <revisionDesc/>
+    <revisionDesc />
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
@@ -39,9 +42,9 @@
         </lg>
         <lg type="translation" xml:lang="en">
           <l> Because the man from the village </l>
-          <l rend="indent2"> where the white flowers of the wild-cane that sway on bushes </l>
-          <l rend="indent2"> appear like egrets dancing in the sky</l>
-          <l> desires new girls:</l>
+          <l rend='indent2'> where the white flowers of the wild-cane that sway on bushes </l>
+          <l rend='indent2'> appear like egrets dancing in the sky</l>
+          <l> Desires new girls,</l>
           <l> My innocent heart has become empty.</l>
 
 
@@ -49,119 +52,118 @@
       </div>
     </body>
   </text>
-  <standOff type="wordsplit" corresp="#Aink17"><interp type="alignment" select="0">22M3G11MG45MG5MG15M2G2M,107MG</interp>
-<entry>
-<form>putal</form>
-<def>bush</def>
-<gramGrp><gram type="role">noun</gram>
-</gramGrp></entry>
-<entry>
-<form>micai</form>
-<def>on</def>
-<gramGrp><gram type="role">postposition</gram>
-</gramGrp></entry>
-<entry>
-<form>nuṭaṅkum</form>
-<def>swaying-</def>
-<gramGrp><gram type="role">imperfect aspect</gram>
-<gram type="role">peyareccam</gram>
-</gramGrp></entry>
-<entry>
-<form>vēḻa<pc>(</pc>m<pc>)</pc></form>
-<def>wild cane</def>
-<gramGrp><gram type="role">noun</gram>
-</gramGrp></entry>
-<entry>
-<form>veḷ</form>
-<def>white</def>
-<gramGrp><gram type="role">adjective</gram>
-</gramGrp></entry>
-<entry>
-<form>pū</form>
-<def>flower</def>
-<gramGrp><gram type="role">noun</gram>
-</gramGrp></entry>
-<entry>
-<form>vicump<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
-<def>sky</def>
-<gramGrp><gram type="role">noun</gram>
-</gramGrp></entry>
-<entry>
-<form>āṭu</form>
-<def>dance</def>
-<gramGrp><gram type="role">verbal root</gram>
-</gramGrp></entry>
-<entry>
-<form>kurukiṉ</form>
-<def>wader</def>
-<gramGrp><gram type="role">comparative</gram>
-</gramGrp></entry>
-<entry>
-<form>tōṉṟum</form>
-<def>appearing-</def>
-<gramGrp><gram type="role">imperfect aspect</gram>
-<gram type="role">peyareccam</gram>
-</gramGrp></entry>
-<entry>
-<form>ūraṉ</form>
-<def>village-he</def>
-<gramGrp><gram type="role">pronominalised noun</gram>
-<gram type="role">masculine singular</gram>
-</gramGrp></entry>
-<entry>
-<form>putuvōr</form>
-<def>new-they</def>
-<gramGrp><gram type="role">pronominalised noun</gram>
-<gram type="role">plural</gram>
-<gram type="role">third person</gram>
-</gramGrp></entry>
-<entry>
-<form>mēvalaṉ</form>
-<def>desire-he</def>
-<gramGrp><gram type="role">pronominalised noun</gram>
-<gram type="role">masculine singular</gram>
-</gramGrp></entry>
-<entry>
-<form>ākaliṉ</form>
-<def>because</def>
-<gramGrp><gram type="role">oblique</gram>
-<gram type="role">verbal noun</gram>
-</gramGrp></entry>
-<entry>
-<form>vaṟit<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
-<def>empty-it</def>
-<gramGrp><gram type="role">pronominalised noun</gram>
-<gram type="role">neuter singular</gram>
-</gramGrp></entry>
-<entry>
-<form>ākiṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
-<def>it has become</def>
-<gramGrp><gram type="role">neuter singular</gram>
-<gram type="role">perfective aspect</gram>
-</gramGrp></entry>
-<entry>
-<form>eṉ</form>
-<def>my</def>
-<gramGrp><gram type="role">pronoun</gram>
-<gram type="role">singular</gram>
-<gram type="role">first person</gram>
-<gram type="role">oblique</gram>
-</gramGrp></entry>
-<entry>
-<form>maṭam</form>
-<def>innocence</def>
-<gramGrp><gram type="role">noun</gram>
-</gramGrp></entry>
-<entry>
-<form>keḻu</form>
-<def>have</def>
-<gramGrp><gram type="role">postposition</gram>
-</gramGrp></entry>
-<entry>
-<form>neñc<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
-<def>heart</def>
-<form type="simple">neñcu</form>
-<gramGrp><gram type="role">noun</gram>
-</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
-</entry></standOff>
+  <standOff type="wordsplit" corresp="#Aink17">
+    <interp type="alignment" select="0">22M3G11MG45MG5MG15M2G2M,107MG</interp>
+    <entry>
+    <form>putal</form>
+    <def>bush</def>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>micai</form>
+    <def>on</def>
+    <gramGrp><gram type="role">postposition</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>nuṭaṅkum</form>
+    <def>swaying</def>
+    <gramGrp><gram type="role">imperfect aspect</gram>
+    <gram type="role">peyareccam</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>vēḻa<pc>(</pc>m<pc>)</pc></form>
+    <def>wild-cane</def>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>veḷ</form>
+    <def>white</def>
+    <gramGrp><gram type="role">adjective</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>pū</form>
+    <def>flower</def>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>vicump<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>sky</def>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>āṭu</form>
+    <def>dancing</def>
+    <gramGrp><gram type="role">verbal root as peyareccam imperfective aspect</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>kurukiṉ</form>
+    <def>egret</def>
+    <gramGrp><gram type="role">oblique</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>tōṉṟum</form>
+    <def>appearing</def>
+    <gramGrp><gram type="role">imperfect aspect</gram>
+    <gram type="role">peyareccam</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>ūraṉ</form>
+    <def>man-from-the-village</def>
+    <gramGrp><gram type="role">pronominalised noun</gram>
+    <gram type="role">masculine singular</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>putuvōr</form>
+    <def>new-girls</def>
+    <gramGrp><gram type="role">pronominalised noun</gram>
+    <gram type="role">third person plural honorific</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>mēvalaṉ</form>
+    <def>he-who-desires</def>
+    <gramGrp><gram type="role">pronominalised noun</gram>
+    <gram type="role">masculine singular</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>ākaliṉ</form>
+    <def>because</def>
+    <gramGrp><gram type="role">oblique</gram>
+    <gram type="role">verbal noun</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>vaṟit<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>empty-thing</def>
+    <gramGrp><gram type="role">pronominalised noun</gram>
+    <gram type="role">neuter singular</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>ākiṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>it-has-become</def>
+    <gramGrp><gram type="role">neuter singular</gram>
+    <gram type="role">perfective aspect</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>eṉ</form>
+    <def>my</def>
+    <gramGrp><gram type="role">pronoun</gram>
+    <gram type="role">oblique</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>maṭam</form>
+    <def>innocence</def>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>keḻu</form>
+    <def>having</def>
+    <gramGrp><gram type="role">postposition</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>neñc<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
+    <def>heart</def>
+    <form type="simple">neñcu</form>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+    </entry>
+    </standOff>
 </TEI>

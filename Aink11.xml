@@ -1,4 +1,7 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -12,13 +15,13 @@
           <msIdentifier>
           </msIdentifier>
           <msContents>
-            <summary><p/>
+            <summary><p></p>
             </summary>
           </msContents>
         </msDesc>
       </sourceDesc>
     </fileDesc>
-    <revisionDesc/>
+    <revisionDesc />
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
@@ -38,7 +41,7 @@
         </lg>
         <lg type="translation" xml:lang="en">
           <l> Ashamed by the cruelty of the man from the village that has a ghat</l>
-          <l rend="indent2"> where wild sugarcane surrounds the purslane planted by the house,</l>
+          <l> where wild sugarcane surrounds the purslane planted by the house</l>
           <l> we may [nonetheless] say, 'He is good'.</l>
           <l> 'He is not,' say my broad, soft shoulders.</l>
 
@@ -47,115 +50,115 @@
       </div>
     </body>
   </text>
-  <standOff type="wordsplit" corresp="#Aink11"><interp type="alignment" select="0">64MG24MG2M,91MG</interp>
-<entry>
-<form>maṉai</form>
-<def>house</def>
-<gramGrp><gram type="role">noun</gram>
-</gramGrp></entry>
-<entry>
-<form>naṭu</form>
-<def>plant</def>
-<gramGrp><gram type="role">verbal root</gram>
-</gramGrp></entry>
-<entry>
-<form>vayalai</form>
-<def>Purslane</def>
-<gramGrp><gram type="role">noun</gram>
-</gramGrp></entry>
-<entry>
-<form>vēḻam</form>
-<def>wild cane</def>
-<gramGrp><gram type="role">noun</gram>
-</gramGrp></entry>
-<entry>
-<form>cuṟṟum</form>
-<def>surrounding-</def>
-<gramGrp><gram type="role">imperfect aspect</gram>
-<gram type="role">peyareccam</gram>
-</gramGrp></entry>
-<entry>
-<form>tuṟai</form>
-<def>ghat</def>
-<gramGrp><gram type="role">noun</gram>
-</gramGrp></entry>
-<entry>
-<form>kēḻ</form>
-<def>have</def>
-<gramGrp><gram type="role">postposition</gram>
-</gramGrp></entry>
-<entry>
-<form>ūraṉ</form>
-<def>village-he</def>
-<gramGrp><gram type="role">pronominalised noun</gram>
-<gram type="role">masculine singular</gram>
-</gramGrp></entry>
-<entry>
-<form>koṭumai</form>
-<def>cruelty</def>
-<gramGrp><gram type="role">noun</gram>
-</gramGrp></entry>
-<entry>
-<form>nāṇi</form>
-<def>ashamed</def>
-<gramGrp><gram type="role">absolutive</gram>
-</gramGrp></entry>
-<entry>
-<form>nallaṉ</form>
-<def>good-he</def>
-<gramGrp><gram type="role">pronominalised noun</gram>
-<gram type="role">masculine singular</gram>
-</gramGrp></entry>
-<entry>
-<form>eṉṟum</form>
-<def>say-we</def>
-<gramGrp><gram type="role">subjunctive</gram>
-<gram type="role">plural</gram>
-<gram type="role">first person</gram>
-</gramGrp></entry>
-<entry>
-<form>yām-ē</form>
-<def>we</def>
-<form type="simple">yām</form>
-<gramGrp><gram type="role">pronoun</gram>
-<gram type="role">plural</gram>
-<gram type="role">first person</gram>
-</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
-</entry>
-<entry>
-<form><pc>~</pc>allaṉ</form>
-<def>he is not so</def>
-<gramGrp><gram type="role">masculine singular</gram>
-<gram type="role">negative</gram>
-</gramGrp></entry>
-<entry>
-<form>eṉṉum</form>
-<def>say</def>
-<gramGrp><gram type="role">habitual future</gram>
-</gramGrp></entry>
-<entry>
-<form>eṉ</form>
-<def>my</def>
-<gramGrp><gram type="role">pronoun</gram>
-<gram type="role">singular</gram>
-<gram type="role">first person</gram>
-<gram type="role">oblique</gram>
-</gramGrp></entry>
-<entry>
-<form>taṭa</form>
-<def>broad</def>
-<gramGrp><gram type="role">adjective</gram>
-</gramGrp></entry>
-<entry>
-<form>mel</form>
-<def>soft</def>
-<gramGrp><gram type="role">adjective</gram>
-</gramGrp></entry>
-<entry>
-<form>tōḷ-ē</form>
-<def>shoulder</def>
-<form type="simple">tōḷ</form>
-<gramGrp><gram type="role">noun</gram>
-</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
-</entry></standOff>
+  <standOff type="wordsplit" corresp="#Aink11">
+    <interp type="alignment" select="0">64MG24MG2M,91MG</interp>
+    <entry>
+    <form>maṉai</form>
+    <def>house</def>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>naṭu</form>
+    <def>plant</def>
+    <gramGrp><gram type="role">verbal root as peyareccam perfective aspect</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>vayalai</form>
+    <def>purslane</def>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>vēḻam</form>
+    <def>wild-cane</def>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>cuṟṟum</form>
+    <def>surrounding</def>
+    <gramGrp><gram type="role">imperfect aspect</gram>
+    <gram type="role">peyareccam</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>tuṟai</form>
+    <def>ghat</def>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>kēḻ</form>
+    <def>having</def>
+    <gramGrp><gram type="role">postposition</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>ūraṉ</form>
+    <def>man-from-the-village</def>
+    <gramGrp><gram type="role">pronominalised noun</gram>
+    <gram type="role">masculine singular</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>koṭumai</form>
+    <def>cruelty</def>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>nāṇi</form>
+    <def>being-ashamed</def>
+    <gramGrp><gram type="role">absolutive</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>nallaṉ</form>
+    <def>good</def>
+    <gramGrp><gram type="role">pronominalised noun</gram>
+    <gram type="role">masculine singular</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>eṉṟum</form>
+    <def>we-may-say</def>
+    <gramGrp><gram type="role">subjuntive</gram>
+    <gram type="role">plural</gram>
+    <gram type="role">first person</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>yām-ē</form>
+    <def>we</def>
+    <form type="simple">yām</form>
+    <gramGrp><gram type="role">pronoun</gram>
+    <gram type="role">plural</gram>
+    <gram type="role">first person</gram>
+    </gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+    </entry>
+    <entry>
+    <form><pc>~</pc>allaṉ</form>
+    <def>he-is-not-so</def>
+    <gramGrp><gram type="role">masculine singular</gram>
+    <gram type="role">negative</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>eṉṉum</form>
+    <def>say</def>
+    <gramGrp><gram type="role">habitual future</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>eṉ</form>
+    <def>my</def>
+    <gramGrp><gram type="role">pronoun</gram>
+    <gram type="role">oblique</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>taṭa</form>
+    <def>broad</def>
+    <gramGrp><gram type="role">adjective</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>mel</form>
+    <def>soft</def>
+    <gramGrp><gram type="role">adjective</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>tōḷ-ē</form>
+    <def>shoulder</def>
+    <form type="simple">tōḷ</form>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+    </entry>
+    </standOff>
 </TEI>

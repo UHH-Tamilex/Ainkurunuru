@@ -40,7 +40,7 @@
           <l> The man from the town, the old town with wild cane,</l>
           <l rend="indent2"> who helps [his] consort united with the women bathing in the flood</l>
           <l rend="indent2"> [all wearing] bright foliage, they who'd desired the fullness of the
-            flood dancing in the sand:</l>
+            flood dancing in the sand,</l>
           <l> Even though he is a man from the town, he is not a man of the town.</l>
 
 
@@ -56,8 +56,8 @@
 </gramGrp></entry>
 <entry>
 <form>āṭu</form>
-<def>dance</def>
-<gramGrp><gram type="role">verbal root</gram>
+<def>dancing</def>
+<gramGrp><gram type="role">verbal root as peyareccam imperfective aspect</gram>
 </gramGrp></entry>
 <entry>
 <form>malir</form>
@@ -92,20 +92,20 @@
 </gramGrp></entry>
 <entry>
 <form>āṭu</form>
-<def>bathe</def>
-<gramGrp><gram type="role">verbal root</gram>
+<def>bathing</def>
+<gramGrp><gram type="role">verbal root as peyareccam imperfective aspect</gram>
 </gramGrp></entry>
 <entry>
 <form>makaḷirkku<pc>+</pc></form>
 <def>women</def>
 <gramGrp><gram type="role">dative</gram>
-<gram type="role">third person</gram>
+<gram type="role">plural</gram>
 <gram type="role">honorific</gram>
 </gramGrp></entry>
 <entry>
 <form>puṇar</form>
-<def>unite</def>
-<gramGrp><gram type="role">verbal root</gram>
+<def>united</def>
+<gramGrp><gram type="role">verbal root as peyareccam perfective aspect</gram>
 </gramGrp></entry>
 <entry>
 <form>tuṇai</form>
@@ -114,7 +114,7 @@
 </gramGrp></entry>
 <entry>
 <form><pc>~</pc>utavum</form>
-<def>helping-</def>
+<def>helping</def>
 <gramGrp><gram type="role">imperfect aspect</gram>
 <gram type="role">peyareccam</gram>
 </gramGrp></entry>
@@ -135,13 +135,13 @@
 </gramGrp></entry>
 <entry>
 <form>ūraṉ</form>
-<def>village-he</def>
+<def>man-from-the-village</def>
 <gramGrp><gram type="role">pronominalised noun</gram>
 <gram type="role">masculine singular</gram>
 </gramGrp></entry>
 <entry>
 <form>ūraṉ</form>
-<def>village-he</def>
+<def>man-from-the-village</def>
 <gramGrp><gram type="role">pronominalised noun</gram>
 <gram type="role">masculine singular</gram>
 </gramGrp></entry>
@@ -152,13 +152,13 @@
 </gramGrp></entry>
 <entry>
 <form>ūraṉ</form>
-<def>village-he</def>
+<def>man-from-the-village</def>
 <gramGrp><gram type="role">pronominalised noun</gram>
 <gram type="role">masculine singular</gram>
 </gramGrp></entry>
 <entry>
 <form>allaṉ-<pc>+</pc>ē</form>
-<def>not-so-he</def>
+<def>he-is-not-so</def>
 <form type="simple">allaṉ</form>
 <gramGrp><gram type="role">masculine singular</gram>
 </gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>

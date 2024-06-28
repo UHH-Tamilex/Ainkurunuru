@@ -41,8 +41,8 @@
 <l>          May there be no hunger! May sickness go far away!'</l>
 <l>          That's what our mother wants. As for us:</l>
 <l>          'May the chariot of the man from the village by the cool ghat</l>
-<l  rend="indent2">          where male crocodiles gorge on whole fish</l>
-<l>          stop at our front gate!' — that's what we have been wanting.</l>
+<l>          where male crocodiles gorge on whole fish</l>
+<l>          stop in front of our gate!' — that's what we want.</l>
 
 
         </lg>
@@ -52,7 +52,7 @@
   <standOff type="wordsplit" corresp="#Aink5"><interp type="alignment" select="0">39ML16MG4MG4MG66MG2M,135MG</interp>
 <entry>
 <form>vāḻi</form>
-<def>live-you</def>
+<def>may-you-live</def>
 <gramGrp><gram type="role">singular</gram>
 <gram type="role">subjunctive</gram>
 <gram type="role">second person</gram>
@@ -64,7 +64,7 @@
 </gramGrp></entry>
 <entry>
 <form>vāḻi</form>
-<def>live-you</def>
+<def>may-you-live</def>
 <gramGrp><gram type="role">singular</gram>
 <gram type="role">subjunctive</gram>
 <gram type="role">second person</gram>
@@ -86,7 +86,7 @@
 </gramGrp></entry>
 <entry>
 <form><pc>+</pc>ākuka</form>
-<def>may become</def>
+<def>may-it-become</def>
 <gramGrp><gram type="role">optative</gram>
 </gramGrp></entry>
 <entry>
@@ -102,7 +102,7 @@
 </gramGrp></entry>
 <entry>
 <form>nīṅkuka</form>
-<def>may leave</def>
+<def>may-it-leave</def>
 <gramGrp><gram type="role">optative</gram>
 </gramGrp></entry>
 <entry>
@@ -112,7 +112,7 @@
 </gramGrp></entry>
 <entry>
 <form>vēṭṭōḷ-ē</form>
-<def>wanted-she</def>
+<def>one-who-wants/one-who-wanted</def>
 <form type="simple">vēṭṭōḷ</form>
 <gramGrp><gram type="role">participial noun</gram>
 <gram type="role">perfective aspect</gram>
@@ -122,7 +122,7 @@
 </entry>
 <entry>
 <form>yāy-ē</form>
-<def>our mother</def>
+<def>our-mother</def>
 <form type="simple">yāy</form>
 <gramGrp><gram type="role">noun</gram>
 </gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
@@ -158,7 +158,7 @@
 </gramGrp></entry>
 <entry>
 <form>ārum</form>
-<def>becoming full-</def>
+<def>becoming-full</def>
 <gramGrp><gram type="role">imperfect aspect</gram>
 <gram type="role">peyareccam</gram>
 </gramGrp></entry>
@@ -174,7 +174,7 @@
 </gramGrp></entry>
 <entry>
 <form><pc>~</pc>ūraṉ</form>
-<def>village-he</def>
+<def>man-from-the-village</def>
 <gramGrp><gram type="role">pronominalised noun</gram>
 <gram type="role">masculine singular</gram>
 </gramGrp></entry>
@@ -187,8 +187,6 @@
 <form>em</form>
 <def>our</def>
 <gramGrp><gram type="role">pronoun</gram>
-<gram type="role">plural</gram>
-<gram type="role">first person</gram>
 <gram type="role">oblique</gram>
 </gramGrp></entry>
 <entry>
@@ -203,7 +201,7 @@
 </gramGrp></entry>
 <entry>
 <form>niṟka</form>
-<def>may stand</def>
+<def>may-it-stand</def>
 <gramGrp><gram type="role">optative</gram>
 </gramGrp></entry>
 <entry>
@@ -213,7 +211,7 @@
 </gramGrp></entry>
 <entry>
 <form>vēṭṭēm-ē</form>
-<def>we wanted</def>
+<def>we-wanted</def>
 <form type="simple">vēṭṭēm</form>
 <gramGrp><gram type="role">perfective aspect</gram>
 <gram type="role">plural</gram>

@@ -39,11 +39,11 @@
         <lg type="translation" xml:lang="en">
 
 <l>          'Long live Ātan! Long live Aviṉi! </l>
-<l>          May [our] enemies sate themselves on [nothing but] grass! May the Brahmins chant!' </l>
+<l>          May [our] enemies glut themselves on grass! May the Brahmins chant!' </l>
 <l>          That's what our mother wants. As for us: </l>
 <l>          'There is a man from a land of fields </l>
-<l  rend="indent2">          where the paddy has turned hard [like] ripe sugarcane: </l>
-<l>          May [his] chest not become a public bath!' — that's what we have been wanting. </l>
+<l>          where the paddy has turned hard [like] ripe sugarcane: </l>
+<l>          May [his] chest not become a public bath!' — that's what we want. </l>
           
 
 
@@ -54,7 +54,7 @@
   <standOff type="wordsplit" corresp="#Aink4"><interp type="alignment" select="0">57MG4MG4MG65MG2M,135MG</interp>
 <entry>
 <form>vāḻi</form>
-<def>live-you</def>
+<def>may-you-live</def>
 <gramGrp><gram type="role">singular</gram>
 <gram type="role">subjunctive</gram>
 <gram type="role">second person</gram>
@@ -66,7 +66,7 @@
 </gramGrp></entry>
 <entry>
 <form>vāḻi</form>
-<def>live-you</def>
+<def>may-you-live</def>
 <gramGrp><gram type="role">singular</gram>
 <gram type="role">subjunctive</gram>
 <gram type="role">second person</gram>
@@ -79,7 +79,7 @@
 <entry>
 <form>pakaivar</form>
 <def>enemies</def>
-<gramGrp><gram type="role">third person</gram>
+<gramGrp><gram type="role">plural</gram>
 <gram type="role">honorific</gram>
 </gramGrp></entry>
 <entry>
@@ -89,18 +89,18 @@
 </gramGrp></entry>
 <entry>
 <form><pc>+</pc>ārka</form>
-<def>may become full</def>
+<def>may-they-become-full</def>
 <gramGrp><gram type="role">optative</gram>
 </gramGrp></entry>
 <entry>
 <form>pārppār</form>
 <def>brahmins</def>
-<gramGrp><gram type="role">honorific</gram>
-<gram type="role">third person</gram>
+<gramGrp><gram type="role">plural</gram>
+<gram type="role">honorific</gram>
 </gramGrp></entry>
 <entry>
 <form>ōtuka</form>
-<def>may recite</def>
+<def>may-they-recite</def>
 <gramGrp><gram type="role">optative</gram>
 </gramGrp></entry>
 <entry>
@@ -110,7 +110,7 @@
 </gramGrp></entry>
 <entry>
 <form>vēṭṭōḷ-ē</form>
-<def>wanted-she</def>
+<def>one-who-wants/one-who-wanted</def>
 <form type="simple">vēṭṭōḷ</form>
 <gramGrp><gram type="role">participial noun</gram>
 <gram type="role">perfective aspect</gram>
@@ -120,7 +120,7 @@
 </entry>
 <entry>
 <form>yāy-ē</form>
-<def>our mother</def>
+<def>our-mother</def>
 <form type="simple">yāy</form>
 <gramGrp><gram type="role">noun</gram>
 </gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
@@ -148,10 +148,10 @@
 <entry>
 <form>kāytta</form>
 <def>hardened</def>
+<note>?</note>
 <gramGrp><gram type="role">perfective aspect</gram>
 <gram type="role">peyareccam</gram>
-</gramGrp>
-<note xmlns="http://www.tei-c.org/ns/1.0">?</note></entry>
+</gramGrp></entry>
 <entry>
 <form>nelliṉ</form>
 <def>paddy</def>
@@ -159,12 +159,12 @@
 </gramGrp></entry>
 <entry>
 <form>kaḻaṉi</form>
-<def>paddy field</def>
+<def>paddy-field</def>
 <gramGrp><gram type="role">noun</gram>
 </gramGrp></entry>
 <entry>
 <form><pc>~</pc>ūraṉ</form>
-<def>village-he</def>
+<def>man-from-the-village</def>
 <gramGrp><gram type="role">pronominalised noun</gram>
 <gram type="role">masculine singular</gram>
 </gramGrp></entry>
@@ -180,7 +180,7 @@
 </gramGrp></entry>
 <entry>
 <form>ākaṟka</form>
-<def>may not become</def>
+<def>may-it-not-become</def>
 <gramGrp><gram type="role">negative</gram>
 <gram type="role">optative</gram>
 </gramGrp></entry>
@@ -191,7 +191,7 @@
 </gramGrp></entry>
 <entry>
 <form>vēṭṭēm-ē</form>
-<def>we wanted</def>
+<def>we-wanted</def>
 <form type="simple">vēṭṭēm</form>
 <gramGrp><gram type="role">perfective aspect</gram>
 <gram type="role">plural</gram>

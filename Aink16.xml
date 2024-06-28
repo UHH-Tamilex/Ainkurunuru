@@ -1,4 +1,7 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -12,13 +15,13 @@
           <msIdentifier>
           </msIdentifier>
           <msContents>
-            <summary><p/>
+            <summary><p></p>
             </summary>
           </msContents>
         </msDesc>
       </sourceDesc>
     </fileDesc>
-    <revisionDesc/>
+    <revisionDesc />
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
@@ -38,9 +41,9 @@
 
         </lg>
         <lg type="translation" xml:lang="en">
-          <l> Remembering the man from the village dense with flowers</l>
-          <l rend="indent2"> where little maid-servants put on kajal</l>
-          <l rend="indent2"> [using] the hollow, round stems of high, flowering wild-cane,</l>
+          <l> Remembering the man from the village dense with flowers,</l>
+          <l rend='indent2'> where little maid-servants put on kajal</l>
+          <l rend='indent2'> [using] the hollow, round stems of high, flowering wild-cane,</l>
           <l> [My] flower-like kajal eyes are wrapped in gold.</l>
 
 
@@ -48,117 +51,119 @@
       </div>
     </body>
   </text>
-  <standOff type="wordsplit" corresp="#Aink16"><interp type="alignment" select="0">18MG83MG3M,105MG</interp>
-<entry>
-<form>ōṅku</form>
-<def>be high</def>
-<gramGrp><gram type="role">verbal root</gram>
-</gramGrp></entry>
-<entry>
-<form>pū</form>
-<def>flower</def>
-<gramGrp><gram type="role">noun</gram>
-</gramGrp></entry>
-<entry>
-<form>vēḻattu<pc>+</pc></form>
-<def>wild cane</def>
-<gramGrp><gram type="role">oblique</gram>
-</gramGrp></entry>
-<entry>
-<form>tūmp<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
-<def>tube</def>
-<gramGrp><gram type="role">noun</gram>
-</gramGrp></entry>
-<entry>
-<form>uṭai<pc>+</pc></form>
-<def>possess</def>
-<gramGrp><gram type="role">postposition</gram>
-</gramGrp></entry>
-<entry>
-<form>tiraḷ</form>
-<def>be round</def>
-<gramGrp><gram type="role">verbal root</gram>
-</gramGrp></entry>
-<entry>
-<form>kāl</form>
-<def>stem</def>
-<gramGrp><gram type="role">noun</gram>
-</gramGrp></entry>
-<entry>
-<form>ciṟu</form>
-<def>little</def>
-<gramGrp><gram type="role">adjective</gram>
-</gramGrp></entry>
-<entry>
-<form>toḻumakaḷir</form>
-<def>maid servants/worship-women</def>
-<gramGrp><gram type="role">honorific</gram>
-<gram type="role">third person</gram>
-</gramGrp></entry>
-<entry>
-<form>añcaṉam</form>
-<def>kajal</def>
-<gramGrp><gram type="role">noun</gram>
-</gramGrp></entry>
-<entry>
-<form>peyyum</form>
-<def>putting on-</def>
-<gramGrp><gram type="role">imperfect aspect</gram>
-<gram type="role">peyareccam</gram>
-</gramGrp></entry>
-<entry>
-<form>pū<pc>+</pc></form>
-<def>flower</def>
-<gramGrp><gram type="role">noun</gram>
-</gramGrp></entry>
-<entry>
-<form>kañal</form>
-<def>be dense</def>
-<gramGrp><gram type="role">verbal root</gram>
-</gramGrp></entry>
-<entry>
-<form>ūraṉai</form>
-<def>village-he</def>
-<gramGrp><gram type="role">pronominalised noun</gram>
-<gram type="role">masculine singular</gram>
-<gram type="role">accusative</gram>
-</gramGrp></entry>
-<entry>
-<form><pc>~</pc>uḷḷi<pc>+</pc></form>
-<def>remembered</def>
-<gramGrp><gram type="role">absolutive</gram>
-</gramGrp></entry>
-<entry>
-<form>pū<pc>+</pc></form>
-<def>flower</def>
-<gramGrp><gram type="role">noun</gram>
-</gramGrp></entry>
-<entry>
-<form>pōl</form>
-<def>be similar</def>
-<gramGrp><gram type="role">verbal root</gram>
-</gramGrp></entry>
-<entry>
-<form>uṇ</form>
-<def>kajal</def>
-<gramGrp><gram type="role">noun</gram>
-</gramGrp></entry>
-<entry>
-<form>kaṇ</form>
-<def>eye</def>
-<gramGrp><gram type="role">noun</gram>
-</gramGrp></entry>
-<entry>
-<form>poṉ</form>
-<def>gold</def>
-<gramGrp><gram type="role">noun</gram>
-</gramGrp></entry>
-<entry>
-<form>pōrttaṉa-<pc>~</pc>ē</form>
-<def>they were wrapped</def>
-<form type="simple">pōrttaṉa</form>
-<gramGrp><gram type="role">neuter plural</gram>
-<gram type="role">perfective aspect</gram>
-</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
-</entry></standOff>
+  <standOff type="wordsplit" corresp="#Aink16">
+    <interp type="alignment" select="0">18MG83MG3M,105MG</interp>
+    <entry>
+    <form>ōṅku</form>
+    <def>having-become-high</def>
+    <gramGrp><gram type="role">verbal root as peyareccam perfective aspect</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>pū</form>
+    <def>flower</def>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>vēḻattu<pc>+</pc></form>
+    <def>wild-cane</def>
+    <gramGrp><gram type="role">oblique</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>tūmp<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>tube</def>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>uṭai<pc>+</pc></form>
+    <def>possessing</def>
+    <gramGrp><gram type="role">postposition</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>tiraḷ</form>
+    <def>being-round</def>
+    <gramGrp><gram type="role">verbal root as peyareccam imperfective aspect</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>kāl</form>
+    <def>stem</def>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>ciṟu</form>
+    <def>little</def>
+    <gramGrp><gram type="role">adjective</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>toḻumakaḷir</form>
+    <def>maid-servants/worship-women</def>
+    <gramGrp><gram type="role">honorific plural</gram>
+    <gram type="role">third person</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>añcaṉam</form>
+    <def>kajal</def>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>peyyum</form>
+    <def>putting-on</def>
+    <gramGrp><gram type="role">imperfect aspect</gram>
+    <gram type="role">peyareccam</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>pū<pc>+</pc></form>
+    <def>flower</def>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>kañal</form>
+    <def>being-dense</def>
+    <gramGrp><gram type="role">verbal root as peyareccam imperfective aspect</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>ūraṉai</form>
+    <def>man-from-the-village</def>
+    <gramGrp><gram type="role">pronominalised noun</gram>
+    <gram type="role">masculine singular</gram>
+    <gram type="role">accusative</gram>
+    </gramGrp></entry>
+    <entry>
+    <form><pc>~</pc>uḷḷi<pc>+</pc></form>
+    <def>remembering</def>
+    <gramGrp><gram type="role">absolutive</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>pū<pc>+</pc></form>
+    <def>flower</def>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>pōl</form>
+    <def>being-similar</def>
+    <gramGrp><gram type="role">verbal root as peyareccam imperfective aspect</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>uṇ</form>
+    <def>kajal</def>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>kaṇ</form>
+    <def>eye</def>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>poṉ</form>
+    <def>gold</def>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>pōrttaṉa-<pc>~</pc>ē</form>
+    <def>they-were-wrapped</def>
+    <form type="simple">pōrttaṉa</form>
+    <gramGrp><gram type="role">neuter plural</gram>
+    <gram type="role">perfective aspect</gram>
+    </gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+    </entry>
+    </standOff>
 </TEI>
