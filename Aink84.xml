@@ -10,7 +10,7 @@
         <editor role="translator">Eva Wilden</editor>
       </titleStmt>
       <publicationStmt>
-        <p />
+        <p/>
       </publicationStmt>
       <sourceDesc>
         <msDesc xml:lang="en">
@@ -18,14 +18,14 @@
           </msIdentifier>
           <msContents>
             <summary>
-              <p></p>
+              <p/>
             </summary>
           </msContents>
         </msDesc>
       </sourceDesc>
     </fileDesc>
     <revisionDesc>
-      <change />
+      <change/>
     </revisionDesc>
   </teiHeader>
   <text xml:lang="ta">
@@ -61,190 +61,140 @@
       </div>
     </body>
   </text>
-  <standOff type="wordsplit" corresp="#Aink84">
-    <interp type="alignment" select="0">53MG3ML9MG43MG4MR15M2G2M,135MG</interp>
-    <entry>
-      <form>ceviyiṉ</form>
-      <def>ear</def>
-      <gramGrp>
-        <gram type="role">oblique</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>kēṭpiṉum</form>
-      <def>even if [she] hears</def>
-      <gramGrp>
-        <gram type="role">concessive</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>col</form>
-      <def>word</def>
-      <gramGrp>
-        <gram type="role">root noun</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form><pc>+</pc>iṟantu</form>
-      <def>going beyond</def>
-      <gramGrp>
-        <gram type="role">absolutive</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>vekuḷvōḷ</form>
-      <def>she will be angry</def>
-      <gramGrp>
-        <gram type="role">feminine singular</gram>
-        <gram type="role">imperfect aspect</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>kaṇṇiṉ</form>
-      <def>eye</def>
-      <gramGrp>
-        <gram type="role">oblique</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>kāṇiṉ</form>
-      <def>if [she] sees(conditional)</def>
-      <gramGrp></gramGrp>
-    </entry>
-    <entry>
-      <form>eṉ</form>
-      <def>what</def>
-      <gramGrp>
-        <gram type="role">pronoun</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form><pc>+</pc>ākuvaḷ-kol</form>
-      <def>she will become</def>
-      <form type="simple">ākuvaḷ</form>
-      <gramGrp>
-        <gram type="role">feminine singular</gram>
-        <gram type="role">imperfect aspect</gram>
-      </gramGrp>
-      <gramGrp type="particle">
-        <m>kol</m>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>naṟu</form>
-      <def>fragrant</def>
-      <gramGrp>
-        <gram type="role">adjective</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>vī</form>
-      <def>flower</def>
-      <gramGrp>
-        <gram type="role">noun</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form><pc>~</pc>aim-pāl</form>
-      <def>five-part</def>
-      <gramGrp>
-        <gram type="role">noun</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>makaḷir</form>
-      <def>women</def>
-      <gramGrp>
-        <gram type="role">plural</gram>
-        <gram type="role">honorific</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>āṭum</form>
-      <def>bathing</def>
-      <gramGrp>
-        <gram type="role">imperfect aspect</gram>
-        <gram type="role">peyareccam</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>taii<pc>+</pc></form>
-      <def>The 9th Tamil month, January-February</def>
-      <gramGrp>
-        <gram type="role">noun</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>taṇ</form>
-      <def>cool</def>
-      <gramGrp>
-        <gram type="role">adjective</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>kayam</form>
-      <def>tank</def>
-      <gramGrp>
-        <gram type="role">noun</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>pōla<pc>+</pc></form>
-      <def>be similar</def>
-      <gramGrp>
-        <gram type="role">infinitive</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>palar</form>
-      <def>many people</def>
-      <gramGrp>
-        <gram type="role">plural</gram>
-        <gram type="role">honorific</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>paṭint<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
-      <def>having settled</def>
-      <gramGrp>
-        <gram type="role">absolutive</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>uṇṇum</form>
-      <def>eating</def>
-      <gramGrp>
-        <gram type="role">imperfect aspect</gram>
-        <gram type="role">peyareccam</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>niṉ</form>
-      <def>your</def>
-      <gramGrp>
-        <gram type="role">pronoun</gram>
-        <gram type="role">oblique</gram>
-        <gram type="role">singular</gram>
-        <gram type="role">second person</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>parattai</form>
-      <def>other woman</def>
-      <gramGrp>
-        <gram type="role">noun</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>mārp<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
-      <def>chest</def>
-      <form type="simple">mārpu</form>
-      <gramGrp>
-        <gram type="role">noun</gram>
-      </gramGrp>
-      <gramGrp type="particle">
-        <m>ē</m>
-      </gramGrp>
-    </entry>
-  </standOff>
+  <standOff type="wordsplit" corresp="#Aink84"><interp type="alignment" select="0">13MG40MG3ML9MG43MG4MR15M2G2M,136MG</interp>
+<entry>
+<form>ceviyiṉ</form>
+<def>ear</def>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
+<entry>
+<form>kēṭpiṉ-um</form>
+<def>even if [she] hears</def>
+<form type="simple">kēṭpiṉ</form>
+<gramGrp><gram type="role">concessive</gram>
+<gram type="role">conditional</gram>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
+</entry>
+<entry>
+<form>col</form>
+<def>word</def>
+<gramGrp><gram type="role">root noun</gram>
+</gramGrp></entry>
+<entry>
+<form><pc>+</pc>iṟantu</form>
+<def>going beyond</def>
+<gramGrp><gram type="role">absolutive</gram>
+</gramGrp></entry>
+<entry>
+<form>vekuḷvōḷ</form>
+<def>she will be angry</def>
+<gramGrp><gram type="role">feminine singular</gram>
+<gram type="role">imperfect aspect</gram>
+</gramGrp></entry>
+<entry>
+<form>kaṇṇiṉ</form>
+<def>eye</def>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
+<entry>
+<form>kāṇiṉ</form>
+<def>if [she] sees(conditional)</def>
+<gramGrp/></entry>
+<entry>
+<form>eṉ</form>
+<def>what</def>
+<gramGrp><gram type="role">pronoun</gram>
+</gramGrp></entry>
+<entry>
+<form><pc>+</pc>ākuvaḷ-kol</form>
+<def>she will become</def>
+<form type="simple">ākuvaḷ</form>
+<gramGrp><gram type="role">feminine singular</gram>
+<gram type="role">imperfect aspect</gram>
+</gramGrp><gramGrp type="particle"><m>kol</m></gramGrp>
+</entry>
+<entry>
+<form>naṟu</form>
+<def>fragrant</def>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
+<entry>
+<form>vī</form>
+<def>flower</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form><pc>~</pc>aim-pāl</form>
+<def>five-part</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>makaḷir</form>
+<def>women</def>
+<gramGrp><gram type="role">plural</gram>
+<gram type="role">honorific</gram>
+</gramGrp></entry>
+<entry>
+<form>āṭum</form>
+<def>bathing</def>
+<gramGrp><gram type="role">imperfect aspect</gram>
+<gram type="role">peyareccam</gram>
+</gramGrp></entry>
+<entry>
+<form>taii<pc>+</pc></form>
+<def>The 9th Tamil month, January-February</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>taṇ</form>
+<def>cool</def>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
+<entry>
+<form>kayam</form>
+<def>tank</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>pōla<pc>+</pc></form>
+<def>be similar</def>
+<gramGrp><gram type="role">infinitive</gram>
+</gramGrp></entry>
+<entry>
+<form>palar</form>
+<def>many people</def>
+<gramGrp><gram type="role">plural</gram>
+<gram type="role">honorific</gram>
+</gramGrp></entry>
+<entry>
+<form>paṭint<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>having settled</def>
+<gramGrp><gram type="role">absolutive</gram>
+</gramGrp></entry>
+<entry>
+<form>uṇṇum</form>
+<def>eating</def>
+<gramGrp><gram type="role">imperfect aspect</gram>
+<gram type="role">peyareccam</gram>
+</gramGrp></entry>
+<entry>
+<form>niṉ</form>
+<def>your</def>
+<gramGrp><gram type="role">pronoun</gram>
+<gram type="role">oblique</gram>
+<gram type="role">singular</gram>
+<gram type="role">second person</gram>
+</gramGrp></entry>
+<entry>
+<form>parattai</form>
+<def>other woman</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>mārp<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
+<def>chest</def>
+<form type="simple">mārpu</form>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+</entry></standOff>
 </TEI>

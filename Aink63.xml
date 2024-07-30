@@ -1,4 +1,5 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -54,7 +55,7 @@
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#Aink63"><interp type="alignment" select="0">66MG36M2G2M,106MG</interp>
+<standOff type="wordsplit" corresp="#Aink63"><interp type="alignment" select="0">66MG4MG32M2G2M,107MG</interp>
 <entry>
 <form>poykai<pc>+</pc></form>
 <def>pond</def>
@@ -130,10 +131,13 @@
 <gram type="role">imperfect aspect</gram>
 </gramGrp></entry>
 <entry>
-<form>āyiṉum</form>
+<form>āyiṉ-um</form>
 <def>even if/although</def>
+<form type="simple">āyiṉ</form>
 <gramGrp><gram type="role">concessive</gram>
-</gramGrp></entry>
+<gram type="role">conditional</gram>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
+</entry>
 <entry>
 <form>tuṉṉalam</form>
 <def>we shall not approach</def>
