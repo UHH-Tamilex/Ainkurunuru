@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+            <title xml:lang="ta">Aiṅkuṟunūṟu</title> 317.<persName xml:lang="ta">Ōtalāntaiyār</persName>
+        </title>
+        <editor role="translator">Nikolay Gordiychuk</editor>
+      </titleStmt>
+      <publicationStmt><p/></publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc><change/></revisionDesc>
+  </teiHeader>
+<text xml:lang="ta">
+  <body>
+    <div xml:id="Aink317">
+      <lg type="edition">
+<l>cūḻkam vammō tōḻipāḻ paṭṭup</l>
+<l>paitaṟa venta pālai veṅkāṭ</l>
+<l>ṭaruñcura miṟantōr tēettuc</l>
+<l>ceṉṟa neñcam nīṭiya poruḷē</l>
+</lg>
+<lg type="translation" xml:lang="en">
+<l>Come [here], friend! Let’s think about the reason,</l>
+  <l>[why my] heart that is gone after the one who traversed</l>
+    <l>the difficult desert in the heated wilderness,</l>
+      <l>where Palai trees are ruined and their green [leaves] are entirely parched,</l> 
+      <l rend="indent9">is delayed.</l>
+</lg>
+
+    </div>
+  </body>
+</text>
+<standOff type="wordsplit" corresp="#Aink317"><interp type="alignment" select="0">10MG18MG20MG45MGM,98M</interp>
+<entry>
+<form>cūḻkam</form>
+<def>figure out</def>
+<gramGrp><gram type="role">subjunctive</gram>
+<gram type="role">plural</gram>
+<gram type="role">first person</gram>
+</gramGrp></entry>
+<entry>
+<form>vam<pc>+</pc>-ō</form>
+<def>come</def>
+<form type="simple">vam</form>
+<gramGrp><gram type="role">imperative</gram>
+</gramGrp><gramGrp type="particle"><m>ō</m></gramGrp>
+</entry>
+<entry>
+<form>tōḻi</form>
+<def>female friend</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>pāḻ</form>
+<def>ruin</def>
+<gramGrp><gram type="role">root noun</gram>
+</gramGrp></entry>
+<entry>
+<form>paṭṭu<pc>+</pc></form>
+<def>experience</def>
+<gramGrp><gram type="role">absolutive</gram>
+</gramGrp></entry>
+<entry>
+<form>pait<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>greenness-it</def>
+<gramGrp><gram type="role">neuter singular</gram>
+</gramGrp></entry>
+<entry>
+<form>aṟa</form>
+<def>fully</def>
+<gramGrp><gram type="role">adverb</gram>
+</gramGrp></entry>
+<entry>
+<form>venta</form>
+<def>burnt</def>
+<gramGrp><gram type="role">perfective aspect</gram>
+<gram type="role">peyareccam</gram>
+</gramGrp></entry>
+<entry>
+<form>pālai</form>
+<def>Palai tree</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>vem</form>
+<def>hot</def>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
+<entry>
+<form>kāṭṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>wilderness</def>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
+<entry>
+<form>arum</form>
+<def>difficult</def>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
+<entry>
+<form>curam</form>
+<def>desert</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>iṟantōr</form>
+<def>traversed-he</def>
+<gramGrp><gram type="role">participial noun</gram>
+<gram type="role">perfective aspect</gram>
+<gram type="role">honorific</gram>
+<gram type="role">third person</gram>
+</gramGrp></entry>
+<superEntry type="ambiguous">
+<entry><entry>
+<form>tēettu<pc>+</pc></form>
+<def>land</def>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry></entry>
+<entry><entry>
+<form>tēettu<pc>+</pc></form>
+<def>after</def>
+<gramGrp><gram type="role">postposition</gram>
+</gramGrp></entry></entry>
+</superEntry>
+<entry>
+<form>ceṉṟa</form>
+<def>gone</def>
+<gramGrp><gram type="role">perfective aspect</gram>
+<gram type="role">peyareccam</gram>
+</gramGrp></entry>
+<entry>
+<form>neñcam</form>
+<def>heart</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>nīṭiya</form>
+<def>delayed</def>
+<gramGrp><gram type="role">perfective aspect</gram>
+<gram type="role">peyareccam</gram>
+</gramGrp></entry>
+<entry>
+<form>poruḷ-ē</form>
+<def>reason</def>
+<form type="simple">poruḷ</form>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+</entry></standOff>
+</TEI>
