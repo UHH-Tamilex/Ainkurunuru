@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+            <title xml:lang="ta">Aiṅkuṟunūṟu</title> 322.<persName xml:lang="ta">Ōtalāntaiyār</persName>
+        </title>
+        <editor role="translator">Nikolay Gordiychuk</editor>
+      </titleStmt>
+      <publicationStmt><p/></publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc><change/></revisionDesc>
+  </teiHeader>
+<text xml:lang="ta">
+  <body>
+    <div xml:id="Aink322">
+      <lg type="edition">
+<l>neṭuṅkaḻai muḷiya vēṉi ṉīṭik</l>
+<l>kaṭuṅkatir ñāyiṟu kalpakat teṟutaliṉ</l>
+<l>veyya vāyiṉa muṉṉē yiṉiyē</l>
+<l>yoṇṇuta larivaiyai yuḷḷutoṟun</l>
+<l>taṇṇiya vāyiṉa curattiṭai yāṟē</l>
+</lg>
+<lg type="translation" xml:lang="en">
+  <l>Before,</l>
+    <l>the paths through the wasteland were hot,</l>
+      <l>as summer lasted so long, the tall bamboos dried out,</l> 
+        <l>and the sun with harsh rays scorched the stones [until they] split.</l> 
+          <l>And now, every time I think about the girl with bright forehead,</l>
+            <l>they become cool.</l>  
+     
+  </lg>
+      </div>
+  </body>
+</text>
+<standOff type="wordsplit" corresp="#Aink322"><interp type="alignment" select="0">21ML51MG6MG27M2G21MG7M2GM,142M</interp>
+<entry>
+<form>neṭum</form>
+<def>tall</def>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
+<entry>
+<form>kaḻai</form>
+<def>bamboo</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>muḷiya</form>
+<def>dry</def>
+<gramGrp><gram type="role">infinitive</gram>
+</gramGrp></entry>
+<entry>
+<form>vēṉil</form>
+<def>summer</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>nīṭi<pc>+</pc></form>
+<def>last</def>
+<gramGrp><gram type="role">absolutive</gram>
+</gramGrp></entry>
+<entry>
+<form>kaṭum</form>
+<def>harsh</def>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
+<entry>
+<form>katir</form>
+<def>ray</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>ñāyiṟu</form>
+<def>sun</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>kal</form>
+<def>stone</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>paka<pc>+</pc></form>
+<def>split</def>
+<gramGrp><gram type="role">infinitive</gram>
+</gramGrp></entry>
+<entry>
+<form>teṟutaliṉ</form>
+<def>scorching</def>
+<gramGrp><gram type="role">oblique</gram>
+<gram type="role">verbal noun</gram>
+</gramGrp></entry>
+<entry>
+<form>veyya</form>
+<def>hot-they</def>
+<gramGrp><gram type="role">pronominalised noun</gram>
+<gram type="role">neuter plural</gram>
+</gramGrp></entry>
+<entry>
+<form><pc>~</pc>āyiṉa</form>
+<def>become</def>
+<gramGrp><gram type="role">neuter plural</gram>
+<gram type="role">perfective aspect</gram>
+</gramGrp></entry>
+<entry>
+<form>muṉ-<pc>+</pc>ē</form>
+<def>before</def>
+<form type="simple">muṉ</form>
+<gramGrp><gram type="role">adverb</gram>
+</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+</entry>
+<entry>
+<form><pc>~</pc>iṉi-<pc>~</pc>ē</form>
+<def>now</def>
+<form type="simple">iṉi</form>
+<gramGrp><gram type="role">adverb</gram>
+</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+</entry>
+<entry>
+<form><pc>~</pc>oḷ</form>
+<def>bright</def>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
+<entry>
+<form>nutal</form>
+<def>forehead</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>arivaiyai</form>
+<def>young woman</def>
+<gramGrp><gram type="role">accusative</gram>
+</gramGrp></entry>
+<entry>
+<form><pc>~</pc>uḷḷu</form>
+<def>think</def>
+<gramGrp><gram type="role">verbal root</gram>
+</gramGrp></entry>
+<entry>
+<form>toṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-um</form>
+<def>every time</def>
+<form type="simple">toṟu</form>
+<gramGrp><gram type="role">postposition</gram>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
+</entry>
+<entry>
+<form>taṇṇiya</form>
+<def>cool-they</def>
+<gramGrp><gram type="role">neuter plural</gram>
+</gramGrp></entry>
+<entry>
+<form><pc>~</pc>āyiṉa</form>
+<def>become</def>
+<gramGrp><gram type="role">neuter plural</gram>
+<gram type="role">perfective aspect</gram>
+</gramGrp></entry>
+<entry>
+<form>curatt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>desert</def>
+<gramGrp><gram type="role">noun</gram>
+<gram type="role">oblique</gram>
+</gramGrp></entry>
+<entry>
+<form>iṭai</form>
+<def>place</def>
+<gramGrp><gram type="role">postposition</gram>
+</gramGrp></entry>
+<entry>
+<form><pc>~</pc>āṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
+<def>path</def>
+<form type="simple">āṟu</form>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+</entry></standOff>
+</TEI>
