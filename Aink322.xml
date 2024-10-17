@@ -15,7 +15,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>    
         </msDesc>
@@ -45,7 +45,7 @@
       </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#Aink322"><interp type="alignment" select="0">21ML51MG6MG27M2G21MG7M2GM,142M</interp>
+<standOff type="wordsplit" corresp="#Aink322"><interp type="alignment" select="0">21ML51MG6MG48MG7M2GM,140M</interp>
 <entry>
 <form>neṭum</form>
 <def>tall</def>
@@ -149,12 +149,10 @@
 <gramGrp><gram type="role">verbal root</gram>
 </gramGrp></entry>
 <entry>
-<form>toṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-um</form>
+<form>toṟum</form>
 <def>every time</def>
-<form type="simple">toṟu</form>
 <gramGrp><gram type="role">postposition</gram>
-</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
-</entry>
+</gramGrp></entry>
 <entry>
 <form>taṇṇiya</form>
 <def>cool-they</def>
