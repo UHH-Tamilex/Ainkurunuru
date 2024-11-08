@@ -10,7 +10,7 @@
         <editor role="translator">Eva Wilden</editor>
       </titleStmt>
       <publicationStmt>
-        <p />
+        <p/>
       </publicationStmt>
       <sourceDesc>
         <msDesc xml:lang="en">
@@ -18,14 +18,14 @@
           </msIdentifier>
           <msContents>
             <summary>
-              <p></p>
+              <p/>
             </summary>
           </msContents>
         </msDesc>
       </sourceDesc>
     </fileDesc>
     <revisionDesc>
-      <change />
+      <change/>
     </revisionDesc>
   </teiHeader>
   <text xml:lang="ta">
@@ -48,15 +48,15 @@
         <lg type="translation" xml:lang="en">
 
         <l> The woman you've just taken is a fool. </l>
-        <p></p>
+        <p/>
         <l> They say she is proud of her great beauty – </l>
         <l> [claiming to] rival me</l> 
           <l>[even though] I am no rival of hers. </l>
-          <p></p>
+          <p/>
         <l> Many [men] have dulled her bright forehead and hair – </l>
         <l> more than [there are] bees sucking the pollen </l>
         <l> from blooming flowers. </l>
-        <p></p>
+        <p/>
         <l> OR: Many [women] have dulled [by their superior beauty] her bright forehead
           and hair – </l>
         <l> more than [there are] bees sucking the pollen </l>
@@ -66,192 +66,140 @@
       </div>
     </body>
   </text>
-  <standOff type="wordsplit" corresp="#Aink67">
-    <interp type="alignment" select="0">7MG17MG62MG15MG24MG2M,131MG</interp>
-    <entry>
-      <form>maṭavaḷ-amma</form>
-      <def>naive/foolish woman</def>
-      <form type="simple">maṭavaḷ</form>
-      <gramGrp>
-        <gram type="role">pronominalised noun</gram>
-        <gram type="role">feminine singular</gram>
-      </gramGrp>
-      <gramGrp type="particle">
-        <m>amma</m>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>nī</form>
-      <def>you</def>
-      <gramGrp>
-        <gram type="role">pronoun</gram>
-        <gram type="role">singular</gram>
-        <gram type="role">second person</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form><pc>~</pc>iṉi<pc>+</pc></form>
-      <def>now</def>
-      <gramGrp>
-        <gram type="role">adverb</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>koṇṭōḷ-ē</form>
-      <def>she who was taken</def>
-      <form type="simple">koṇṭōḷ</form>
-      <gramGrp>
-        <gram type="role">participial noun</gram>
-        <gram type="role">feminine singular</gram>
-        <gram type="role">perfective aspect</gram>
-      </gramGrp>
-      <gramGrp type="particle">
-        <m>ē</m>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>taṉṉoṭu</form>
-      <def>with herself</def>
-      <gramGrp>
-        <gram type="role">pronoun</gram>
-        <gram type="role">sociative</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>nikarā</form>
-      <def>not rivalling</def>
-      <gramGrp>
-        <gram type="role">negative</gram>
-        <gram type="role">peyareccam</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form><pc>~</pc>eṉṉoṭu</form>
-      <def>me</def>
-      <gramGrp>
-        <gram type="role">pronoun</gram>
-        <gram type="role">sociative</gram>
-        <gram type="role">singular</gram>
-        <gram type="role">first person</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>nikari<pc>+</pc></form>
-      <def>rivalling</def>
-      <gramGrp>
-        <gram type="role">absolutive</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>peru</form>
-      <def>big</def>
-      <gramGrp>
-        <gram type="role">adjective</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>nalam</form>
-      <def>goodness</def>
-      <gramGrp>
-        <gram type="role">noun</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>tarukkum</form>
-      <def>she is proud [?]</def>
-      <gramGrp>
-        <gram type="role">habitual future</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>eṉpa</form>
-      <def>they say</def>
-      <gramGrp>
-        <gram type="role">imperfect aspect</gram>
-        <gram type="role">plural</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>viri</form>
-      <def>blossoming</def>
-      <gramGrp>
-        <gram type="role">verbal root as peyareccam imperfective aspect</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>malar<pc>+</pc></form>
-      <def>full-blown flower, blossom</def>
-      <gramGrp>
-        <gram type="role">noun</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>tāt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
-      <def>pollen</def>
-      <gramGrp>
-        <gram type="role">noun</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>uṇ</form>
-      <def>eating/eaten</def>
-      <gramGrp>
-        <gram type="role">verbal root as peyareccam</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>vaṇṭiṉum</form>
-      <def>bee</def>
-      <gramGrp>
-        <gram type="role">comparative</gram>
-        <gram type="role">oblique</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>palar-ē</form>
-      <def>many people</def>
-      <form type="simple">palar</form>
-      <gramGrp>
-        <gram type="role">plural</gram>
-        <gram type="role">honorific</gram>
-      </gramGrp>
-      <gramGrp type="particle">
-        <m>ē</m>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form><pc>~</pc>ōti</form>
-      <def>hair</def>
-      <gramGrp>
-        <gram type="role">noun</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form><pc>~</pc>oḷ</form>
-      <def>bright</def>
-      <gramGrp>
-        <gram type="role">adjective</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>nutal</form>
-      <def>forehead</def>
-      <gramGrp>
-        <gram type="role">noun</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>pacappittōr-ē</form>
-      <def>they caused to fade</def>
-      <form type="simple">pacappittōr</form>
-      <gramGrp>
-        <gram type="role">perfective aspect</gram>
-        <gram type="role">plural</gram>
-        <gram type="role">honorific</gram>
-      </gramGrp>
-      <gramGrp type="particle">
-        <m>ē</m>
-      </gramGrp>
-    </entry>
-  </standOff>
+  <standOff type="wordsplit" corresp="#Aink67"><interp type="alignment" select="0">7MG17MG62MG8MG7MG24MG2M,132MG</interp>
+<entry>
+<form>maṭavaḷ-amma</form>
+<def>naive/foolish woman</def>
+<form type="simple">maṭavaḷ</form>
+<gramGrp><gram type="role">pronominalised noun</gram>
+<gram type="role">feminine singular</gram>
+</gramGrp><gramGrp type="particle"><m>amma</m></gramGrp>
+</entry>
+<entry>
+<form>nī</form>
+<def>you</def>
+<gramGrp><gram type="role">pronoun</gram>
+<gram type="role">singular</gram>
+<gram type="role">second person</gram>
+</gramGrp></entry>
+<entry>
+<form><pc>~</pc>iṉi<pc>+</pc></form>
+<def>now</def>
+<gramGrp><gram type="role">adverb</gram>
+</gramGrp></entry>
+<entry>
+<form>koṇṭōḷ-ē</form>
+<def>she who was taken</def>
+<form type="simple">koṇṭōḷ</form>
+<gramGrp><gram type="role">participial noun</gram>
+<gram type="role">feminine singular</gram>
+<gram type="role">perfective aspect</gram>
+</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+</entry>
+<entry>
+<form>taṉṉoṭu</form>
+<def>with herself</def>
+<gramGrp><gram type="role">pronoun</gram>
+<gram type="role">sociative</gram>
+</gramGrp></entry>
+<entry>
+<form>nikarā</form>
+<def>not rivalling</def>
+<gramGrp><gram type="role">negative</gram>
+<gram type="role">peyareccam</gram>
+</gramGrp></entry>
+<entry>
+<form><pc>~</pc>eṉṉoṭu</form>
+<def>me</def>
+<gramGrp><gram type="role">pronoun</gram>
+<gram type="role">sociative</gram>
+<gram type="role">singular</gram>
+<gram type="role">first person</gram>
+</gramGrp></entry>
+<entry>
+<form>nikari<pc>+</pc></form>
+<def>rivalling</def>
+<gramGrp><gram type="role">absolutive</gram>
+</gramGrp></entry>
+<entry>
+<form>peru</form>
+<def>big</def>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
+<entry>
+<form>nalam</form>
+<def>goodness</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>tarukkum</form>
+<def>she is proud [?]</def>
+<gramGrp><gram type="role">habitual future</gram>
+</gramGrp></entry>
+<entry>
+<form>eṉpa</form>
+<def>they say</def>
+<gramGrp><gram type="role">imperfect aspect</gram>
+<gram type="role">plural</gram>
+</gramGrp></entry>
+<entry>
+<form>viri</form>
+<def>blossoming</def>
+<gramGrp><gram type="role">verbal root as peyareccam imperfective aspect</gram>
+</gramGrp></entry>
+<entry>
+<form>malar<pc>+</pc></form>
+<def>full-blown flower, blossom</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>tāt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>pollen</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>uṇ</form>
+<def>eating/eaten</def>
+<gramGrp><gram type="role">verbal root as peyareccam</gram>
+</gramGrp></entry>
+<entry>
+<form>vaṇṭiṉ-um</form>
+<def>bee</def>
+<form type="simple">vaṇṭiṉ</form>
+<gramGrp><gram type="role">comparative</gram>
+<gram type="role">oblique</gram>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
+</entry>
+<entry>
+<form>palar-ē</form>
+<def>many people</def>
+<form type="simple">palar</form>
+<gramGrp><gram type="role">plural</gram>
+<gram type="role">honorific</gram>
+</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+</entry>
+<entry>
+<form><pc>~</pc>ōti</form>
+<def>hair</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form><pc>~</pc>oḷ</form>
+<def>bright</def>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
+<entry>
+<form>nutal</form>
+<def>forehead</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>pacappittōr-ē</form>
+<def>they caused to fade</def>
+<form type="simple">pacappittōr</form>
+<gramGrp><gram type="role">perfective aspect</gram>
+<gram type="role">plural</gram>
+<gram type="role">honorific</gram>
+</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+</entry></standOff>
 </TEI>

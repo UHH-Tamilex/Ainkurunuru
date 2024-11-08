@@ -10,7 +10,7 @@
         <editor role="translator">Eva Wilden</editor>
       </titleStmt>
       <publicationStmt>
-        <p />
+        <p/>
       </publicationStmt>
       <sourceDesc>
         <msDesc xml:lang="en">
@@ -18,14 +18,14 @@
           </msIdentifier>
           <msContents>
             <summary>
-              <p></p>
+              <p/>
             </summary>
           </msContents>
         </msDesc>
       </sourceDesc>
     </fileDesc>
     <revisionDesc>
-      <change />
+      <change/>
     </revisionDesc>
   </teiHeader>
   <text xml:lang="ta">
@@ -51,7 +51,7 @@
           <l rend="indent2"> the bright jewels buried by girls bathing in the flood – / </l>
           <l rend="indent2"> where the buffalo unearths the mountains [made] in play in the sand, </l>
           <l rend="indent2"> [along with] the bright jewels buried by girls bathing in the flood –</l>
-          <p></p>
+          <p/>
           <l> She whose speech is sweeter than the lute strings of bards.</l>
 
 
@@ -60,152 +60,112 @@
       </div>
     </body>
   </text>
-  <standOff type="wordsplit" corresp="#Aink100">
-    <interp type="alignment" select="0">44MG59MG2M,106MG</interp>
-    <entry>
-      <form>puṉal</form>
-      <def>flood</def>
-      <gramGrp>
-        <gram type="role">noun</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>āṭu</form>
-      <def>bathing</def>
-      <gramGrp>
-        <gram type="role">imperfect aspect</gram>
-        <gram type="role">peyareccam</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>makaḷir</form>
-      <def>women</def>
-      <gramGrp>
-        <gram type="role">plural</gram>
-        <gram type="role">honorific</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>iṭṭa</form>
-      <def>placed</def>
-      <gramGrp>
-        <gram type="role">perfective aspect</gram>
-        <gram type="role">peyareccam</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form><pc>~</pc>oḷ</form>
-      <def>bright</def>
-      <gramGrp>
-        <gram type="role">adjective</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form><pc>+</pc>iḻai</form>
-      <def>jewel</def>
-      <gramGrp>
-        <gram type="role">noun</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>maṇal</form>
-      <def>sand</def>
-      <gramGrp>
-        <gram type="role">noun</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>āṭu</form>
-      <def>playing/dancing</def>
-      <gramGrp>
-        <gram type="role">verbal root as peyareccam imperfective aspect</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>cimaiyatt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
-      <def>summit/peak/mountain</def>
-      <gramGrp>
-        <gram type="role">oblique</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>erumai</form>
-      <def>buffalo</def>
-      <gramGrp>
-        <gram type="role">noun</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>kiḷaikkum</form>
-      <def>unearthing</def>
-      <gramGrp>
-        <gram type="role">imperfect aspect</gram>
-        <gram type="role">peyareccam</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>yāṇar</form>
-      <def>fertility</def>
-      <gramGrp>
-        <gram type="role">noun</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>ūraṉ</form>
-      <def>man from the village</def>
-      <gramGrp>
-        <gram type="role">pronominalised noun</gram>
-        <gram type="role">masculine singular</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>makaḷ</form>
-      <def>daughter</def>
-      <gramGrp>
-        <gram type="role">noun</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>ivaḷ</form>
-      <def>she</def>
-      <gramGrp>
-        <gram type="role">feminine singular</gram>
-        <gram type="role">pronoun</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>pāṇar</form>
-      <def>bard</def>
-      <gramGrp>
-        <gram type="role">plural</gram>
-        <gram type="role">honorific</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>narampiṉum</form>
-      <def>lute string</def>
-      <gramGrp>
-        <gram type="role">comparative</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>iṉ</form>
-      <def>pleasing/sweet</def>
-      <gramGrp>
-        <gram type="role">adjective</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>kiḷaviyaḷ-ē</form>
-      <def>she with speech</def>
-      <form type="simple">kiḷaviyaḷ</form>
-      <gramGrp>
-        <gram type="role">pronominalised noun</gram>
-        <gram type="role">feminine singular</gram>
-      </gramGrp>
-      <gramGrp type="particle">
-        <m>ē</m>
-      </gramGrp>
-    </entry>
-  </standOff>
+  <standOff type="wordsplit" corresp="#Aink100"><interp type="alignment" select="0">44MG46MG13MG2M,107MG</interp>
+<entry>
+<form>puṉal</form>
+<def>flood</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>āṭu</form>
+<def>bathing</def>
+<gramGrp><gram type="role">imperfect aspect</gram>
+<gram type="role">peyareccam</gram>
+</gramGrp></entry>
+<entry>
+<form>makaḷir</form>
+<def>women</def>
+<gramGrp><gram type="role">plural</gram>
+<gram type="role">honorific</gram>
+</gramGrp></entry>
+<entry>
+<form>iṭṭa</form>
+<def>placed</def>
+<gramGrp><gram type="role">perfective aspect</gram>
+<gram type="role">peyareccam</gram>
+</gramGrp></entry>
+<entry>
+<form><pc>~</pc>oḷ</form>
+<def>bright</def>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
+<entry>
+<form><pc>+</pc>iḻai</form>
+<def>jewel</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>maṇal</form>
+<def>sand</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>āṭu</form>
+<def>playing/dancing</def>
+<gramGrp><gram type="role">verbal root as peyareccam imperfective aspect</gram>
+</gramGrp></entry>
+<entry>
+<form>cimaiyatt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>summit/peak/mountain</def>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
+<entry>
+<form>erumai</form>
+<def>buffalo</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>kiḷaikkum</form>
+<def>unearthing</def>
+<gramGrp><gram type="role">imperfect aspect</gram>
+<gram type="role">peyareccam</gram>
+</gramGrp></entry>
+<entry>
+<form>yāṇar</form>
+<def>fertility</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>ūraṉ</form>
+<def>man from the village</def>
+<gramGrp><gram type="role">pronominalised noun</gram>
+<gram type="role">masculine singular</gram>
+</gramGrp></entry>
+<entry>
+<form>makaḷ</form>
+<def>daughter</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>ivaḷ</form>
+<def>she</def>
+<gramGrp><gram type="role">feminine singular</gram>
+<gram type="role">pronoun</gram>
+</gramGrp></entry>
+<entry>
+<form>pāṇar</form>
+<def>bard</def>
+<gramGrp><gram type="role">plural</gram>
+<gram type="role">honorific</gram>
+</gramGrp></entry>
+<entry>
+<form>narampiṉ-um</form>
+<def>lute string</def>
+<form type="simple">narampiṉ</form>
+<gramGrp><gram type="role">comparative</gram>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
+</entry>
+<entry>
+<form>iṉ</form>
+<def>pleasing/sweet</def>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
+<entry>
+<form>kiḷaviyaḷ-ē</form>
+<def>she with speech</def>
+<form type="simple">kiḷaviyaḷ</form>
+<gramGrp><gram type="role">pronominalised noun</gram>
+<gram type="role">feminine singular</gram>
+</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+</entry></standOff>
 </TEI>

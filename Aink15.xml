@@ -1,4 +1,6 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -48,7 +50,7 @@
       </div>
     </body>
   </text>
-  <standOff type="wordsplit" corresp="#Aink15"><interp type="alignment" select="0">77ML2MG25MG3M,109MG</interp>
+  <standOff type="wordsplit" corresp="#Aink15"><interp type="alignment" select="0">77ML2MG14MG11MG3M,110MG</interp>
 <entry>
 <form>maṇal</form>
 <def>sand</def>
@@ -146,10 +148,13 @@
 <gram type="role">masculine singular</gram>
 </gramGrp></entry>
 <entry>
-<form>āyiṉum</form>
+<form>āyiṉ-um</form>
 <def>although</def>
+<form type="simple">āyiṉ</form>
 <gramGrp><gram type="role">concessive</gram>
-</gramGrp></entry>
+<gram type="role">conditional</gram>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
+</entry>
 <entry>
 <form>ūraṉ</form>
 <def>man-from-the-village</def>
