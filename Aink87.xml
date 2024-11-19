@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -10,7 +8,7 @@
         <editor role="translator">Eva Wilden</editor>
       </titleStmt>
       <publicationStmt>
-        <p />
+        <p/>
       </publicationStmt>
       <sourceDesc>
         <msDesc xml:lang="en">
@@ -18,14 +16,14 @@
           </msIdentifier>
           <msContents>
             <summary>
-              <p></p>
+              <p/>
             </summary>
           </msContents>
         </msDesc>
       </sourceDesc>
     </fileDesc>
     <revisionDesc>
-      <change />
+      <change/>
     </revisionDesc>
   </teiHeader>
   <text xml:lang="ta">
@@ -57,159 +55,158 @@
     </body>
   </text>
   <standOff type="wordsplit" corresp="#Aink87">
-    <interp type="alignment" select="0">81MG16MG4MG4MG2M,110MG</interp>
-    <entry>
-      <form>pakaṉṟai<pc>+</pc></form>
-      <def>jalap plant</def>
-      <gramGrp>
-        <gram type="role">noun</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>kaṇṇi<pc>+</pc></form>
-      <def>chaplet</def>
-      <gramGrp>
-        <gram type="role">noun</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>pal</form>
-      <def>many</def>
-      <gramGrp>
-        <gram type="role">pronoun</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form><pc>+</pc>āṉ</form>
-      <def>cow</def>
-      <gramGrp>
-        <gram type="role">noun</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>kōvalar</form>
-      <def>cowherd</def>
-      <gramGrp>
-        <gram type="role">plural</gram>
-        <gram type="role">honorific</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>karumpu</form>
-      <def>sugarcane</def>
-      <gramGrp>
-        <gram type="role">noun</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>kuṇil</form>
-      <def>drum stick</def>
-      <gramGrp>
-        <gram type="role">noun</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>ā</form>
-      <def>as/being</def>
-      <gramGrp>
-        <gram type="role">verbal root as peyareccam imperfective aspect</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>mām</form>
-      <def>mango</def>
-      <gramGrp>
-        <gram type="role">noun</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>kaṉi</form>
-      <def>ripe fruit</def>
-      <gramGrp>
-        <gram type="role">root noun</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form><pc>~</pc>utirkkum</form>
-      <def>making drop</def>
-      <gramGrp>
-        <gram type="role">imperfect aspect</gram>
-        <gram type="role">peyareccam</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>yāṇar</form>
-      <def>fertility</def>
-      <gramGrp>
-        <gram type="role">noun</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>ūra</form>
-      <def>man from the village</def>
-      <gramGrp>
-        <gram type="role">pronominalised noun</gram>
-        <gram type="role">masculine singular</gram>
-        <gram type="role">vocative</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>niṉ</form>
-      <def>your</def>
-      <gramGrp>
-        <gram type="role">pronoun</gram>
-        <gram type="role">oblique</gram>
-        <gram type="role">singular</gram>
-        <gram type="role">second person</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>maṉaiyōḷ</form>
-      <def>woman of the house</def>
-      <gramGrp>
-        <gram type="role">pronominalised noun</gram>
-        <gram type="role">feminine singular</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>yārai-<pc>~</pc>um</form>
-      <def>who</def>
-      <form type="simple">yārai</form>
-      <gramGrp>
-        <gram type="role">pronoun</gram>
-        <gram type="role">accusative</gram>
-      </gramGrp>
-      <gramGrp type="particle">
-        <m>um</m>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>pulakkum</form>
-      <def>[she] will sulk</def>
-      <gramGrp>
-        <gram type="role">habitual future</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>emmai-maṟṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
-      <def>us</def>
-      <gramGrp>
-        <gram type="role">pronoun</gram>
-        <gram type="role">accusative</gram>
-        <gram type="role">plural</gram>
-        <gram type="role">first person</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>evaṉ-ō</form>
-      <def>what/why</def>
-      <form type="simple">evaṉ</form>
-      <gramGrp>
-        <gram type="role">pronoun</gram>
-      </gramGrp>
-      <gramGrp type="particle">
-        <m>ō</m>
-      </gramGrp>
-    </entry>
-  </standOff>
+<interp type="alignment" select="0">81MG16MG4MG4MG2M,110MG</interp>
+<entry>
+<form>pakaṉṟai<c type="geminated">k</c></form>
+<def>jalap plant</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kaṇṇi<c type="geminated">p</c></form>
+<def>chaplet</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>pal</form>
+<def>many</def>
+<gramGrp>
+  <gram type="role">pronoun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="geminated">l</c>āṉ</form>
+<def>cow</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kōvalar</form>
+<def>cowherd</def>
+<gramGrp>
+  <gram type="role">plural</gram>
+  <gram type="role">honorific</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>karumpu</form>
+<def>sugarcane</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kuṇil</form>
+<def>drum stick</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ā</form>
+<def>as/being</def>
+<gramGrp>
+  <gram type="role">verbal root as peyareccam imperfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>mām</form>
+<def>mango</def>
+<form type="sandhi">māṅ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kaṉi</form>
+<def>ripe fruit</def>
+<gramGrp>
+  <gram type="role">root noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>utirkkum</form>
+<def>making drop</def>
+<gramGrp>
+  <gram type="role">imperfect aspect</gram>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>yāṇar</form>
+<def>fertility</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ūra</form>
+<def>man from the village</def>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">masculine singular</gram>
+  <gram type="role">vocative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>niṉ</form>
+<def>your</def>
+<gramGrp>
+  <gram type="role">pronoun</gram>
+  <gram type="role">oblique</gram>
+  <gram type="role">singular</gram>
+  <gram type="role">second person</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>maṉaiyōḷ</form>
+<def>woman of the house</def>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">feminine singular</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>yārai-<c type="glide">y</c>um</form>
+<def>who</def>
+<form type="simple">yārai</form>
+<gramGrp>
+  <gram type="role">pronoun</gram>
+  <gram type="role">accusative</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>pulakkum</form>
+<def>[she] will sulk</def>
+<gramGrp>
+  <gram type="role">habitual future</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>emmai-maṟṟ<c type="elided">u</c></form>
+<def>us</def>
+<form type="simple">emmai</form>
+<gramGrp>
+  <gram type="role">pronoun</gram>
+  <gram type="role">accusative</gram>
+  <gram type="role">plural</gram>
+  <gram type="role">first person</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">maṟṟu</m></gramGrp>
+</entry>
+<entry>
+<form>evaṉ-ō</form>
+<def>what/why</def>
+<form type="simple">evaṉ</form>
+<gramGrp>
+  <gram type="role">pronoun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ō</m></gramGrp>
+</entry>
+</standOff>
 </TEI>

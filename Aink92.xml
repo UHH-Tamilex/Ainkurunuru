@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -10,7 +8,7 @@
         <editor role="translator">Eva Wilden</editor>
       </titleStmt>
       <publicationStmt>
-        <p />
+        <p/>
       </publicationStmt>
       <sourceDesc>
         <msDesc xml:lang="en">
@@ -18,14 +16,14 @@
           </msIdentifier>
           <msContents>
             <summary>
-              <p></p>
+              <p/>
             </summary>
           </msContents>
         </msDesc>
       </sourceDesc>
     </fileDesc>
     <revisionDesc>
-      <change />
+      <change/>
     </revisionDesc>
   </teiHeader>
   <text xml:lang="ta">
@@ -53,7 +51,7 @@
 <l rend="indent4"> 	of a newly delivered female buffalo </l> 
 <l rend="indent4"> 	with black horns and red eyes  </l> 
 <l rend="indent4"> 	trickling [milk] for the beloved calf – </l> 
-<p></p>
+<p/>
 <l> If we win you, o bright-bangled girl. </l> 
 
 
@@ -62,178 +60,186 @@
     </body>
   </text>
   <standOff type="wordsplit" corresp="#Aink92">
-    <interp type="alignment" select="0">9MG19MG15MG15MR47MG2M,111MG</interp>
-    <entry>
-      <form>karum</form>
-      <def>black</def>
-      <gramGrp>
-        <gram type="role">adjective</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>kōṭṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
-      <def>horn</def>
-      <gramGrp>
-        <gram type="role">oblique</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>erumai<pc>+</pc></form>
-      <def>buffalo</def>
-      <gramGrp>
-        <gram type="role">noun</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>cem</form>
-      <def>red</def>
-      <gramGrp>
-        <gram type="role">adjective</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>kaṇ</form>
-      <def>eye</def>
-      <gramGrp>
-        <gram type="role">noun</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>puṉiṟṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
-      <def>newly delivered thing</def>
-      <gramGrp>
-        <gram type="role">pronominalised noun</gram>
-        <gram type="role">neuter singular</gram>
-        <gram type="role">oblique</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>ā<pc>+</pc></form>
-      <def>cow/female buffalo</def>
-      <gramGrp>
-        <gram type="role">noun</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>kātal</form>
-      <def>love</def>
-      <gramGrp>
-        <gram type="role">noun</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>kuḻavikk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
-      <def>calf</def>
-      <gramGrp>
-        <gram type="role">dative</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>ūṟu</form>
-      <def>trickling</def>
-      <gramGrp>
-        <gram type="role">imperfect aspect</gram>
-        <gram type="role">peyareccam</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>mulai</form>
-      <def>udder</def>
-      <gramGrp>
-        <gram type="role">noun</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>maṭukkum</form>
-      <def>drinking</def>
-      <gramGrp>
-        <gram type="role">imperfect aspect</gram>
-        <gram type="role">peyareccam</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>nuntai</form>
-      <def>your father</def>
-      <gramGrp>
-        <gram type="role">noun</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>num</form>
-      <def>your</def>
-      <gramGrp>
-        <gram type="role">pronoun</gram>
-        <gram type="role">oblique</gram>
-        <gram type="role">plural</gram>
-        <gram type="role">second person</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form><pc>+</pc>ūr</form>
-      <def>village</def>
-      <gramGrp>
-        <gram type="role">noun</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>varutum</form>
-      <def>we shall come</def>
-      <gramGrp>
-        <gram type="role">subjunctive</gram>
-        <gram type="role">plural</gram>
-        <gram type="role">first person</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>oḷ</form>
-      <def>bright</def>
-      <gramGrp>
-        <gram type="role">adjective</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>toṭi</form>
-      <def>bracelet</def>
-      <gramGrp>
-        <gram type="role">noun</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>maṭantai</form>
-      <def>woman/lady/girl</def>
-      <gramGrp>
-        <gram type="role">noun</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>niṉṉai</form>
-      <def>you</def>
-      <gramGrp>
-        <gram type="role">pronoun</gram>
-        <gram type="role">accusative</gram>
-        <gram type="role">singular</gram>
-        <gram type="role">second person</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>yām</form>
-      <def>we</def>
-      <gramGrp>
-        <gram type="role">pronoun</gram>
-        <gram type="role">plural</gram>
-        <gram type="role">first person</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>peṟiṉ-ē</form>
-      <def>if [we] obtain</def>
-      <form type="simple">peṟiṉ</form>
-      <gramGrp>
-        <gram type="role">conditional</gram>
-      </gramGrp>
-      <gramGrp type="particle">
-        <m>ē</m>
-      </gramGrp>
-    </entry>
-  </standOff>
+<interp type="alignment" select="0">9MG19MG15MG15MR47MG2M,111MG</interp>
+<entry>
+<form>karum</form>
+<def>black</def>
+<form type="sandhi">karuṅ</form>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kōṭṭ<c type="elided">u</c></form>
+<def>horn</def>
+<form type="sandhi">kōṭṭ</form>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>erumai<c type="geminated">c</c></form>
+<def>buffalo</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>cem</form>
+<def>red</def>
+<form type="sandhi">ceṅ</form>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kaṇ</form>
+<def>eye</def>
+<form type="sandhi">kaṭ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>puṉiṟṟ<c type="elided">u</c></form>
+<def>newly delivered thing</def>
+<form type="sandhi">puṉiṟṟ</form>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">neuter singular</gram>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ā<c type="geminated">k</c></form>
+<def>cow/female buffalo</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kātal</form>
+<def>love</def>
+<form type="sandhi">kātaṟ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kuḻavikk<c type="elided">u</c></form>
+<def>calf</def>
+<form type="sandhi">kuḻavikk</form>
+<gramGrp>
+  <gram type="role">dative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ūṟu</form>
+<def>trickling</def>
+<gramGrp>
+  <gram type="role">imperfect aspect</gram>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>mulai</form>
+<def>udder</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>maṭukkum</form>
+<def>drinking</def>
+<form type="sandhi">maṭukkun</form>
+<gramGrp>
+  <gram type="role">imperfect aspect</gram>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>nuntai</form>
+<def>your father</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>num</form>
+<def>your</def>
+<gramGrp>
+  <gram type="role">pronoun</gram>
+  <gram type="role">oblique</gram>
+  <gram type="role">plural</gram>
+  <gram type="role">second person</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="geminated">m</c>ūr</form>
+<def>village</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>varutum</form>
+<def>we shall come</def>
+<gramGrp>
+  <gram type="role">subjuntive</gram>
+  <gram type="role">plural</gram>
+  <gram type="role">first person</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>oḷ</form>
+<def>bright</def>
+<form type="sandhi">oṇ</form>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>toṭi</form>
+<def>bracelet</def>
+<form type="sandhi">ṭoṭi</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>maṭantai</form>
+<def>woman/lady/girl</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>niṉṉai</form>
+<def>you</def>
+<gramGrp>
+  <gram type="role">pronoun</gram>
+  <gram type="role">accusative</gram>
+  <gram type="role">singular</gram>
+  <gram type="role">second person</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>yām</form>
+<def>we</def>
+<gramGrp>
+  <gram type="role">pronoun</gram>
+  <gram type="role">plural</gram>
+  <gram type="role">first person</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>peṟiṉ-ē</form>
+<def>if [we] obtain</def>
+<form type="simple">peṟiṉ</form>
+<gramGrp>
+  <gram type="role">conditional</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+</standOff>
 </TEI>

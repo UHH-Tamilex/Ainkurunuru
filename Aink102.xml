@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -15,7 +12,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>    
         </msDesc>
@@ -51,116 +48,153 @@ And this is that
     </body>
   </text>
   <standOff type="wordsplit" corresp="#Aink102">
-    <interp type="alignment" select="0">13MG14ML29MG18MG29MGM,109M</interp>
-    <entry>
-    <form>aṉṉai</form>
-    <def>mother</def>
-    </entry>
-    <entry>
-    <form>vāḻi</form>
-    <def>live</def>
-    <gramGrp><gram type="role">imperative</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>vēṇṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
-    <def>be necessary</def>
-    <gramGrp><gram type="role">imperative</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>aṉṉai</form>
-    <def>mother</def>
-    </entry>
-    <entry>
-    <form>nam<pc>+</pc></form>
-    <def>our</def>
-    </entry>
-    <entry>
-    <form>ūr</form>
-    <def>town</def>
-    </entry>
-    <entry>
-    <form>nīl</form>
-    <def>blue</def>
-    <gramGrp><gram type="role">adjective</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>niṟa<pc>+</pc></form>
-    <def>hue</def>
-    <gramGrp><gram type="role">adjective</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>perum</form>
-    <def>big</def>
-    </entry>
-    <entry>
-    <form>kaṭal</form>
-    <def>ocean</def>
-    </entry>
-    <entry>
-    <form>puḷḷiṉ</form>
-    <def>bird like</def>
-    <gramGrp><gram type="role">comparative</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>āṉātu</form>
-    <def>seize</def>
-    <gramGrp><gram type="role">absolutive</gram>
-    <gram type="role">negative</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>tuṉp<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
-    <def>sorrow</def>
-    </entry>
-    <entry>
-    <form>uṟu</form>
-    <def>have</def>
-    <gramGrp><gram type="role">verbal root</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>tuyara</form>
-    <def>grief</def>
-    <gramGrp><gram type="role">noun</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>nīṅka</form>
-    <def>abate</def>
-    <gramGrp><gram type="role">infinitive</gram>
-    </gramGrp></entry>
-    <entry>
-    <form><pc>~</pc>iṉp<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
-    <def>joy</def>
-    <gramGrp><gram type="role">noun</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>uṟa</form>
-    <def>have</def>
-    <gramGrp><gram type="role">infinitive</gram>
-    </gramGrp></entry>
-    <entry>
-    <form><pc>~</pc>icaikkum</form>
-    <def>tinkle</def>
-    <gramGrp><gram type="role">habitual future</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>avar</form>
-    <def>his</def>
-    <gramGrp><gram type="role">honorific</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>tēr</form>
-    <def>chariot</def>
-    </entry>
-    <entry>
-    <form>maṇi<pc>+</pc></form>
-    <def>bell</def>
-    <gramGrp><gram type="role">noun</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>kural-ē</form>
-    <def>sound</def>
-    <form type="simple">kural</form>
-    <gramGrp><gram type="role">noun</gram>
-    </gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
-    </entry>
-    </standOff>
+<interp type="alignment" select="0">13MG14ML29MG18MG29MGM,109M</interp>
+<entry>
+<form>aṉṉai</form>
+<def>mother</def>
+</entry>
+<entry>
+<form>vāḻi</form>
+<def>live</def>
+<gramGrp>
+  <gram type="role">imperative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vēṇṭ<c type="elided">u</c></form>
+<def>be necessary</def>
+<form type="sandhi">vēṇṭ</form>
+<gramGrp>
+  <gram type="role">imperative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>aṉṉai</form>
+<def>mother</def>
+</entry>
+<entry>
+<form>nam<c type="geminated">m</c></form>
+<def>our</def>
+</entry>
+<entry>
+<form>ūr</form>
+<def>town</def>
+</entry>
+<entry>
+<form>nīl</form>
+<def>blue</def>
+<form type="sandhi">nīṉ</form>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>niṟa<c type="geminated">p</c></form>
+<def>hue</def>
+<form type="sandhi">ṉiṟa<c type="geminated">p</c></form>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>perum</form>
+<def>big</def>
+<form type="sandhi">peruṅ</form>
+</entry>
+<entry>
+<form>kaṭal</form>
+<def>ocean</def>
+<form type="sandhi">kaṭaṟ</form>
+</entry>
+<entry>
+<form>puḷḷiṉ</form>
+<def>bird like</def>
+<gramGrp>
+  <gram type="role">comparative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>āṉātu</form>
+<def>seize</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+  <gram type="role">negative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tuṉp<c type="elided">u</c></form>
+<def>sorrow</def>
+<form type="sandhi">tuṉp</form>
+</entry>
+<entry>
+<form>uṟu</form>
+<def>have</def>
+<gramGrp>
+  <gram type="role">verbal root</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tuyara</form>
+<def>grief</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>nīṅka</form>
+<def>abate</def>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">v</c>iṉp<c type="elided">u</c></form>
+<def>joy</def>
+<form type="sandhi"><c type="glide">v</c>iṉp</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>uṟa</form>
+<def>have</def>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">v</c>icaikkum</form>
+<def>tinkle</def>
+<gramGrp>
+  <gram type="role">habitual future</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>avar</form>
+<def>his</def>
+<gramGrp>
+  <gram type="role">honorific</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tēr</form>
+<def>chariot</def>
+</entry>
+<entry>
+<form>maṇi<c type="geminated">k</c></form>
+<def>bell</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kural-ē</form>
+<def>sound</def>
+<form type="simple">kural</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+</standOff>
 </TEI>

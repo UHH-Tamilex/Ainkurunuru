@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -15,13 +12,13 @@
           <msIdentifier>
           </msIdentifier>
           <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>
         </msDesc>
       </sourceDesc>
     </fileDesc>
-    <revisionDesc />
+    <revisionDesc/>
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
@@ -43,10 +40,10 @@
         <lg type="translation" xml:lang="en">
 
           <l> Distressed because of the man from the village</l>
-          <l rend='indent2'> where the white manes of white wild-cane flowers sweep across</l>
-          <l rend='indent2'> the groves–cool and fragrant with the fusion/fragrance of bodies of
+          <l rend="indent2"> where the white manes of white wild-cane flowers sweep across</l>
+          <l rend="indent2"> the groves–cool and fragrant with the fusion/fragrance of bodies of
             those united </l>
-          <l rend='indent2'> (under) the great, new-flowering branches of mango trees (growing) by
+          <l rend="indent2"> (under) the great, new-flowering branches of mango trees (growing) by
             the dunes,</l>
           <l> Tears are shed from (my) eyes, which are like blossoms in a shower.</l>
 
@@ -56,143 +53,202 @@
     </body>
   </text>
   <standOff type="wordsplit" corresp="#Aink19">
-    <interp type="alignment" select="0">67M3G59MG2M,131MG</interp>
-    <entry>
-    <form>ekkar</form>
-    <def>dune</def>
-    <gramGrp><gram type="role">noun</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>māattu<pc>+</pc></form>
-    <def>mango-tree</def>
-    <gramGrp><gram type="role">oblique</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>putu<pc>+</pc></form>
-    <def>new</def>
-    <gramGrp><gram type="role">adjective</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>pūm</form>
-    <def>flower</def>
-    <gramGrp><gram type="role">noun</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>perum</form>
-    <def>big</def>
-    <gramGrp><gram type="role">adjective</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>ciṉai</form>
-    <def>branch</def>
-    <gramGrp><gram type="role">root noun</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>puṇarntōr</form>
-    <def>ones-who-united</def>
-    <gramGrp><gram type="role">participial noun</gram>
-    <gram type="role">third person honorific plural</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>mey<pc>+</pc></form>
-    <def>truth/body</def>
-    <gramGrp><gram type="role">noun</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>maṇam</form>
-    <def>union</def>
-    <gramGrp><gram type="role">noun</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>kamaḻum</form>
-    <def>being-fragrant</def>
-    <gramGrp><gram type="role">imperfect aspect</gram>
-    <gram type="role">peyareccam</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>taṇ</form>
-    <def>cool</def>
-    <gramGrp><gram type="role">adjective</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>poḻil</form>
-    <def>grove</def>
-    <gramGrp><gram type="role">noun</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>vēḻa<pc>(</pc>m<pc>)</pc></form>
-    <def>wild-cane</def>
-    <gramGrp><gram type="role">noun</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>veḷ</form>
-    <def>white</def>
-    <gramGrp><gram type="role">adjective</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>pū</form>
-    <def>flower</def>
-    <gramGrp><gram type="role">noun</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>veḷ</form>
-    <def>white</def>
-    <gramGrp><gram type="role">adjective</gram>
-    </gramGrp></entry>
-    <entry>
-    <form><pc>+</pc>uḷai</form>
-    <def>mane</def>
-    <gramGrp><gram type="role">noun</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>cīkkum</form>
-    <def>sweeping</def>
-    <gramGrp><gram type="role">imperfect aspect</gram>
-    <gram type="role">peyareccam</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>ūraṉ</form>
-    <def>man-from-the-village</def>
-    <gramGrp><gram type="role">pronominalised noun</gram>
-    <gram type="role">masculine singular</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>ākaliṉ</form>
-    <def>because</def>
-    <gramGrp><gram type="role">oblique</gram>
-    <gram type="role">verbal noun</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>kalaṅki</form>
-    <def>being-agitated</def>
-    <gramGrp><gram type="role">absolutive</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>māri</form>
-    <def>shower</def>
-    <gramGrp><gram type="role">noun</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>malariṉ</form>
-    <def>blossom</def>
-    <gramGrp><gram type="role">comparative</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>kaṇ</form>
-    <def>eye</def>
-    <gramGrp><gram type="role">noun</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>paṉi</form>
-    <def>dew</def>
-    <gramGrp><gram type="role">root noun</gram>
-    </gramGrp></entry>
-    <entry>
-    <form><pc>~</pc>ukum-ē</form>
-    <def>is-shed/will-be-shed</def>
-    <form type="simple">ukum</form>
-    <gramGrp><gram type="role">habitual future</gram>
-    </gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
-    </entry>
-    </standOff>
+<interp type="alignment" select="0">67MG59MG2M,129MG</interp>
+<entry>
+<form>ekkar</form>
+<def>dune</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>māattu<c type="geminated">p</c></form>
+<def>mango-tree</def>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>putu<c type="geminated">p</c></form>
+<def>new</def>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>pūm</form>
+<def>flower</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>perum</form>
+<def>big</def>
+<form type="sandhi">peruñ</form>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ciṉai</form>
+<def>branch</def>
+<gramGrp>
+  <gram type="role">root noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>puṇarntōr</form>
+<def>ones-who-united</def>
+<gramGrp>
+  <gram type="role">participial noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>mey<c type="geminated">m</c></form>
+<def>truth/body</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>maṇam</form>
+<def>union</def>
+<form type="sandhi">maṇaṅ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kamaḻum</form>
+<def>being-fragrant</def>
+<form type="sandhi">kamaḻun</form>
+<gramGrp>
+  <gram type="role">imperfect aspect</gram>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>taṇ</form>
+<def>cool</def>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>poḻil</form>
+<def>grove</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vēḻa<c type="uncertain">m</c></form>
+<def>wild-cane</def>
+<form type="sandhi">vēḻa</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>veḷ</form>
+<def>white</def>
+<form type="sandhi">veṇ</form>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>pū</form>
+<def>flower</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>veḷ</form>
+<def>white</def>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="geminated">ḷ</c>uḷai</form>
+<def>mane</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>cīkkum</form>
+<def>sweeping</def>
+<gramGrp>
+  <gram type="role">imperfect aspect</gram>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ūraṉ</form>
+<def>man-from-the-village</def>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">masculine singular</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ākaliṉ</form>
+<def>because</def>
+<form type="sandhi">ākaliṟ</form>
+<gramGrp>
+  <gram type="role">oblique</gram>
+  <gram type="role">verbal noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kalaṅki</form>
+<def>being-agitated</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>māri</form>
+<def>shower</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>malariṉ</form>
+<def>blossom</def>
+<form type="sandhi">malariṟ</form>
+<gramGrp>
+  <gram type="role">comparative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kaṇ</form>
+<def>eye</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>paṉi</form>
+<def>dew</def>
+<gramGrp>
+  <gram type="role">root noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>ukum-ē</form>
+<def>is-shed/will-be-shed</def>
+<form type="simple">ukum</form>
+<form type="sandhi"><c type="glide">y</c>ukum</form>
+<gramGrp>
+  <gram type="role">habitual future</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+</standOff>
 </TEI>

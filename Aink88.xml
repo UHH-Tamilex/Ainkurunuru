@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -10,7 +8,7 @@
         <editor role="translator">Eva Wilden</editor>
       </titleStmt>
       <publicationStmt>
-        <p />
+        <p/>
       </publicationStmt>
       <sourceDesc>
         <msDesc xml:lang="en">
@@ -18,14 +16,14 @@
           </msIdentifier>
           <msContents>
             <summary>
-              <p></p>
+              <p/>
             </summary>
           </msContents>
         </msDesc>
       </sourceDesc>
     </fileDesc>
     <revisionDesc>
-      <change />
+      <change/>
     </revisionDesc>
   </teiHeader>
   <text xml:lang="ta">
@@ -60,165 +58,167 @@
     </body>
   </text>
   <standOff type="wordsplit" corresp="#Aink88">
-    <interp type="alignment" select="0">4MG8MG10ML61MG22MG2M,111MG</interp>
-    <entry>
-      <form>vaṇṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
-      <def>bee</def>
-      <gramGrp>
-        <gram type="role">noun</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>uṟai</form>
-      <def>stay</def>
-      <gramGrp>
-        <gram type="role">verbal root</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>naya-varum</form>
-      <def>starting to yearn</def>
-      <gramGrp>
-        <gram type="role">imperfect aspect</gram>
-        <gram type="role">peyareccam</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>vaḷam</form>
-      <def>fertility</def>
-      <gramGrp>
-        <gram type="role">noun</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>malar<pc>+</pc></form>
-      <def>flower</def>
-      <gramGrp>
-        <gram type="role">root noun</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>poykai<pc>+</pc></form>
-      <def>pond</def>
-      <gramGrp>
-        <gram type="role">noun</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>taṇ</form>
-      <def>cool</def>
-      <gramGrp>
-        <gram type="role">adjective</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>tuṟai</form>
-      <def>ghat</def>
-      <gramGrp>
-        <gram type="role">noun</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form><pc>~</pc>ūraṉai</form>
-      <def>man from the village</def>
-      <gramGrp>
-        <gram type="role">accusative</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form><pc>~</pc>evvai</form>
-      <def>our sister</def>
-      <gramGrp>
-        <gram type="role">noun</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form><pc>~</pc>em</form>
-      <def>us</def>
-      <gramGrp>
-        <gram type="role">pronoun</gram>
-        <gram type="role">oblique</gram>
-        <gram type="role">plural</gram>
-        <gram type="role">first person</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>vayiṉ</form>
-      <def>towards/close to</def>
-      <gramGrp>
-        <gram type="role">postposition</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>varutal</form>
-      <def>coming</def>
-      <gramGrp>
-        <gram type="role">verbal noun</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>vēṇṭutum</form>
-      <def>we would like</def>
-      <gramGrp>
-        <gram type="role">subjunctive</gram>
-        <gram type="role">plural</gram>
-        <gram type="role">first person</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>eṉpat<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
-      <def>the thing said</def>
-      <gramGrp>
-        <gram type="role">participial noun</gram>
-        <gram type="role">neuter singular</gram>
-        <gram type="role">imperfect aspect</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>ollēm</form>
-      <def>we do not agree</def>
-      <gramGrp>
-        <gram type="role">negative</gram>
-        <gram type="role">plural</gram>
-        <gram type="role">first person</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>pōl</form>
-      <def>as though</def>
-      <gramGrp>
-        <gram type="role">verbal root as peyareccam imperfective aspect</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>yām</form>
-      <def>we</def>
-      <gramGrp>
-        <gram type="role">pronoun</gram>
-        <gram type="role">plural</gram>
-        <gram type="role">first person</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>atu</form>
-      <def>that</def>
-      <gramGrp>
-        <gram type="role">pronominalised noun</gram>
-        <gram type="role">singular</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>vēṇṭutum-ē</form>
-      <def>we would like</def>
-      <form type="simple">vēṇṭutum</form>
-      <gramGrp>
-        <gram type="role">subjunctive</gram>
-        <gram type="role">plural</gram>
-        <gram type="role">first person</gram>
-      </gramGrp>
-      <gramGrp type="particle">
-        <m>ē</m>
-      </gramGrp>
-    </entry>
-  </standOff>
+<interp type="alignment" select="0">4MG8MG10ML61MG22MG2M,111MG</interp>
+<entry>
+<form>vaṇṭ<c type="elided">u</c></form>
+<def>bee</def>
+<form type="sandhi">vaṇṭ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>uṟai</form>
+<def>stay</def>
+<gramGrp>
+  <gram type="role">verbal root</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>naya-varum</form>
+<def>starting to yearn</def>
+<form type="sandhi">nayavarum</form>
+<gramGrp>
+  <gram type="role">imperfect aspect</gram>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vaḷam</form>
+<def>fertility</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>malar<c type="geminated">p</c></form>
+<def>flower</def>
+<gramGrp>
+  <gram type="role">root noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>poykai<c type="geminated">t</c></form>
+<def>pond</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>taṇ</form>
+<def>cool</def>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tuṟai</form>
+<def>ghat</def>
+<form type="sandhi">ṭuṟai</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>ūraṉai</form>
+<def>man from the village</def>
+<gramGrp>
+  <gram type="role">accusative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>evvai</form>
+<def>our sister</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>em</form>
+<def>us</def>
+<gramGrp>
+  <gram type="role">pronoun</gram>
+  <gram type="role">oblique</gram>
+  <gram type="role">plural</gram>
+  <gram type="role">first person</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vayiṉ</form>
+<def>towards/close to</def>
+<gramGrp>
+  <gram type="role">postposition</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>varutal</form>
+<def>coming</def>
+<gramGrp>
+  <gram type="role">verbal noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vēṇṭutum</form>
+<def>we would like</def>
+<gramGrp>
+  <gram type="role">subjuntive</gram>
+  <gram type="role">plural</gram>
+  <gram type="role">first person</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>eṉpat<c type="elided">u</c></form>
+<def>the thing said</def>
+<form type="sandhi">eṉpat</form>
+<gramGrp>
+  <gram type="role">participial noun</gram>
+  <gram type="role">neuter singular</gram>
+  <gram type="role">imperfect aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ollēm</form>
+<def>we do not agree</def>
+<gramGrp>
+  <gram type="role">negative</gram>
+  <gram type="role">plural</gram>
+  <gram type="role">first person</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>pōl</form>
+<def>as though</def>
+<gramGrp>
+  <gram type="role">verbal root as peyareccam imperfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>yām</form>
+<def>we</def>
+<gramGrp>
+  <gram type="role">pronoun</gram>
+  <gram type="role">plural</gram>
+  <gram type="role">first person</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>atu</form>
+<def>that</def>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">singular</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vēṇṭutum-ē</form>
+<def>we would like</def>
+<form type="simple">vēṇṭutum</form>
+<gramGrp>
+  <gram type="role">subjuntive</gram>
+  <gram type="role">plural</gram>
+  <gram type="role">first person</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+</standOff>
 </TEI>

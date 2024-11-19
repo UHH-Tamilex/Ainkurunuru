@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -15,13 +12,13 @@
           <msIdentifier>
           </msIdentifier>
           <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>
         </msDesc>
       </sourceDesc>
     </fileDesc>
-    <revisionDesc />
+    <revisionDesc/>
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
@@ -41,9 +38,9 @@
         </lg>
         <lg type="translation" xml:lang="en">
           <l> Although the man from the village by the cool ghat </l>
-          <l rend='indent2'> where on the settling shore by the old water overgrown by Muḷḷi
+          <l rend="indent2"> where on the settling shore by the old water overgrown by Muḷḷi
             creepers</l>
-          <l rend='indent2'> the spotted crab tears off the white lotus</l>
+          <l rend="indent2"> the spotted crab tears off the white lotus</l>
           <l> Explained [himself],</l>
           <l> My kajal eyes are becoming pale. What [is this], mother?</l>
 
@@ -53,110 +50,151 @@
     </body>
   </text>
   <standOff type="wordsplit" corresp="#Aink21">
-    <interp type="alignment" select="0">72MG16MG4MG9M,103MG</interp>
-    <entry>
-    <form>muḷḷi</form>
-    <def>Muḷḷi-plant</def>
-    <gramGrp><gram type="role">noun</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>nīṭiya</form>
-    <def>grown-long</def>
-    <gramGrp><gram type="role">perfective aspect</gram>
-    <gram type="role">peyareccam</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>mutu</form>
-    <def>old</def>
-    <gramGrp><gram type="role">adjective</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>nīr</form>
-    <def>water</def>
-    <gramGrp><gram type="role">noun</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>aṭai</form>
-    <def>settle</def>
-    <gramGrp><gram type="role">verbal root</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>karai<pc>+</pc></form>
-    <def>shore</def>
-    <gramGrp><gram type="role">noun</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>puḷḷi<pc>+</pc></form>
-    <def>dot</def>
-    <gramGrp><gram type="role">noun</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>kaḷvaṉ</form>
-    <def>crab(?)</def>
-    <gramGrp></gramGrp></entry>
-    <entry>
-    <form>āmpal</form>
-    <def>white-lotus</def>
-    <gramGrp><gram type="role">noun</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>aṟukkum</form>
-    <def>tearing-off</def>
-    <gramGrp><gram type="role">imperfect aspect</gram>
-    <gram type="role">peyareccam</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>taṇ</form>
-    <def>cool</def>
-    <gramGrp><gram type="role">adjective</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>tuṟai</form>
-    <def>ghat</def>
-    <gramGrp><gram type="role">noun</gram>
-    </gramGrp></entry>
-    <entry>
-    <form><pc>~</pc>ūraṉ</form>
-    <def>man-from-the-village</def>
-    <gramGrp><gram type="role">pronominalised noun</gram>
-    <gram type="role">masculine singular</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>teḷippa-<pc>~</pc>um</form>
-    <def>make-clear</def>
-    <form type="simple">teḷippa</form>
-    <gramGrp><gram type="role">infinitive</gram>
-    </gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
-    </entry>
-    <entry>
-    <form>uṇ</form>
-    <def>kajal</def>
-    <gramGrp>
-    <gram type="role">noun</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>kaṇ</form>
-    <def>eye</def>
-    <gramGrp><gram type="role">noun</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>pacappat<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
-    <def>act-of-fading</def>
-    <gramGrp><gram type="role">participial noun</gram>
-    <gram type="role">neuter singular</gram>
-    <gram type="role">imperfect aspect</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>evaṉ-kol</form>
-    <def>what</def>
-    <form type="simple">evaṉ</form>
-    <gramGrp><gram type="role">pronoun</gram>
-    </gramGrp><gramGrp type="particle"><m>kol</m></gramGrp>
-    </entry>
-    <entry>
-    <form>aṉṉāy</form>
-    <def>mother</def>
-    <gramGrp><gram type="role">vocative</gram>
-    </gramGrp></entry>
-    </standOff>
+<interp type="alignment" select="0">72MG16MG4MG9M,103MG</interp>
+<entry>
+<form>muḷḷi</form>
+<def>Muḷḷi-plant</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>nīṭiya</form>
+<def>grown-long</def>
+<gramGrp>
+  <gram type="role">perfective aspect</gram>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>mutu</form>
+<def>old</def>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>nīr</form>
+<def>water</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>aṭai</form>
+<def>settle</def>
+<gramGrp>
+  <gram type="role">verbal root</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>karai<c type="geminated">p</c></form>
+<def>shore</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>puḷḷi<c type="geminated">k</c></form>
+<def>dot</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kaḷvaṉ</form>
+<def>crab(?)</def>
+<gramGrp>
+</gramGrp>
+</entry>
+<entry>
+<form>āmpal</form>
+<def>white-lotus</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>aṟukkum</form>
+<def>tearing-off</def>
+<form type="sandhi">aṟukkun</form>
+<gramGrp>
+  <gram type="role">imperfect aspect</gram>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>taṇ</form>
+<def>cool</def>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tuṟai</form>
+<def>ghat</def>
+<form type="sandhi">ṭuṟai</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>ūraṉ</form>
+<def>man-from-the-village</def>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">masculine singular</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>teḷippa-<c type="glide">v</c>um</form>
+<def>make-clear</def>
+<form type="simple">teḷippa</form>
+<form type="sandhi">ṟeḷippa</form>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>uṇ</form>
+<def>kajal</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kaṇ</form>
+<def>eye</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>pacappat<c type="elided">u</c></form>
+<def>act-of-fading</def>
+<form type="sandhi">pacappat</form>
+<gramGrp>
+  <gram type="role">participial noun</gram>
+  <gram type="role">neuter singular</gram>
+  <gram type="role">imperfect aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>evaṉ-kol</form>
+<def>what</def>
+<form type="simple">evaṉ</form>
+<gramGrp>
+  <gram type="role">pronoun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">kol</m></gramGrp>
+</entry>
+<entry>
+<form>aṉṉāy</form>
+<def>mother</def>
+<gramGrp>
+  <gram type="role">vocative</gram>
+</gramGrp>
+</entry>
+</standOff>
 </TEI>

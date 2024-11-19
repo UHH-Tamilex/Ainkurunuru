@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -15,13 +12,13 @@
           <msIdentifier>
           </msIdentifier>
           <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>
         </msDesc>
       </sourceDesc>
     </fileDesc>
-    <revisionDesc />
+    <revisionDesc/>
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
@@ -52,115 +49,167 @@
     </body>
   </text>
   <standOff type="wordsplit" corresp="#Aink28">
-    <interp type="alignment" select="0">13MG41MG31MG4MG9M,101MG</interp>
-    <entry>
-    <form>uṇ</form>
-    <def>drinking-/where-people-drink</def>
-    <gramGrp><gram type="role">verbal root as peyareccam imperfective aspect</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>tuṟai</form>
-    <def>ghat</def>
-    <gramGrp><gram type="role">noun</gram>
-    </gramGrp></entry>
-    <entry>
-    <form><pc>~</pc>aṇaṅk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
-    <def>demon/evil-spirit</def>
-    <gramGrp><gram type="role">root noun</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>ivaḷ</form>
-    <def>she</def>
-    <gramGrp><gram type="role">pronoun</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>uṟai</form>
-    <def>stay</def>
-    <gramGrp><gram type="role">verbal root as peyareccam imperfective aspect</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>nōy</form>
-    <def>pain</def>
-    <gramGrp><gram type="role">noun</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>āyiṉ</form>
-    <def>if</def>
-    <gramGrp><gram type="role">conditional</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>taṇ</form>
-    <def>cool</def>
-    <gramGrp><gram type="role">adjective</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>cēṟu</form>
-    <def>mud</def>
-    <gramGrp><gram type="role">noun</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>kaḷvaṉ</form>
-    <def>crab(?)</def>
-    <gramGrp></gramGrp></entry>
-    <entry>
-    <form>varikkum</form>
-    <def>where-they-scratch</def>
-    <gramGrp><gram type="role">imperfect aspect</gram>
-    <gram type="role">peyareccam</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>ūraṟk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
-    <def>man-from-the-village</def>
-    <gramGrp><gram type="role">pronominalised noun</gram>
-    <gram type="role">masculine singular</gram>
-    <gram type="role">dative</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>oḷ</form>
-    <def>bright</def>
-    <gramGrp><gram type="role">adjective</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>toṭi</form>
-    <def>bracelet</def>
-    <gramGrp><gram type="role">noun</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>nekiḻa<pc>+</pc></form>
-    <def>become-loose</def>
-    <gramGrp><gram type="role">infinitive</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>cāay</form>
-    <def>being-exhausted</def>
-    <gramGrp><gram type="role">absolutive</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>mel</form>
-    <def>soft</def>
-    <gramGrp><gram type="role">adjective</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>tōḷ</form>
-    <def>shoulder</def>
-    <gramGrp><gram type="role">noun</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>pacappat<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
-    <def>fading</def>
-    <gramGrp><gram type="role">verbal noun</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>evaṉ-kol</form>
-    <def>what</def>
-    <form type="simple">evaṉ</form>
-    <gramGrp><gram type="role">pronoun</gram>
-    </gramGrp><gramGrp type="particle"><m>kol</m></gramGrp>
-    </entry>
-    <entry>
-    <form>aṉṉāy</form>
-    <def>mother</def>
-    <gramGrp><gram type="role">vocative</gram>
-    </gramGrp></entry>
-    </standOff>
+<interp type="alignment" select="0">13MG41MG31MG4MG9M,101MG</interp>
+<entry>
+<form>uṇ</form>
+<def>drinking-/where-people-drink</def>
+<gramGrp>
+  <gram type="role">verbal root as peyareccam imperfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tuṟai</form>
+<def>ghat</def>
+<form type="sandhi">ṭuṟai</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>aṇaṅk<c type="elided">u</c></form>
+<def>demon/evil-spirit</def>
+<form type="sandhi"><c type="glide">y</c>aṇaṅk</form>
+<gramGrp>
+  <gram type="role">root noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ivaḷ</form>
+<def>she</def>
+<gramGrp>
+  <gram type="role">pronoun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>uṟai</form>
+<def>stay</def>
+<gramGrp>
+  <gram type="role">verbal root as peyareccam imperfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>nōy</form>
+<def>pain</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>āyiṉ</form>
+<def>if</def>
+<form type="sandhi">āyiṟ</form>
+<gramGrp>
+  <gram type="role">conditional</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>taṇ</form>
+<def>cool</def>
+<form type="sandhi">ṟaṇ</form>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>cēṟu</form>
+<def>mud</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kaḷvaṉ</form>
+<def>crab(?)</def>
+<gramGrp>
+</gramGrp>
+</entry>
+<entry>
+<form>varikkum</form>
+<def>where-they-scratch</def>
+<gramGrp>
+  <gram type="role">imperfect aspect</gram>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ūraṟk<c type="elided">u</c></form>
+<def>man-from-the-village</def>
+<form type="sandhi">ūraṟk</form>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">masculine singular</gram>
+  <gram type="role">dative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>oḷ</form>
+<def>bright</def>
+<form type="sandhi">oṇ</form>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>toṭi</form>
+<def>bracelet</def>
+<form type="sandhi">ṭoṭi</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>nekiḻa<c type="geminated">c</c></form>
+<def>become-loose</def>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>cāay</form>
+<def>being-exhausted</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>mel</form>
+<def>soft</def>
+<form type="sandhi">meṉ</form>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tōḷ</form>
+<def>shoulder</def>
+<form type="sandhi">ṟōḷ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>pacappat<c type="elided">u</c></form>
+<def>fading</def>
+<form type="sandhi">pacappat</form>
+<gramGrp>
+  <gram type="role">verbal noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>evaṉ-kol</form>
+<def>what</def>
+<form type="simple">evaṉ</form>
+<gramGrp>
+  <gram type="role">pronoun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">kol</m></gramGrp>
+</entry>
+<entry>
+<form>aṉṉāy</form>
+<def>mother</def>
+<gramGrp>
+  <gram type="role">vocative</gram>
+</gramGrp>
+</entry>
+</standOff>
 </TEI>

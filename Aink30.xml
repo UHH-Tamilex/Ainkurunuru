@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -15,13 +12,13 @@
           <msIdentifier>
           </msIdentifier>
           <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>
         </msDesc>
       </sourceDesc>
     </fileDesc>
-    <revisionDesc />
+    <revisionDesc/>
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
@@ -40,10 +37,10 @@
         </lg>
         <lg type="translation" xml:lang="en">
           <l> The man from the village </l>
-          <l rend='indent2'> where the dark paddy flowers drip [pollen]</l>
-          <l rend='indent2'> so that the cool interior earth holes of crabs</l>
-          <l rend='indent2'>whose eyes are as large as neem buds </l>
-          <l rend='indent2'>become full:</l>
+          <l rend="indent2"> where the dark paddy flowers drip [pollen]</l>
+          <l rend="indent2"> so that the cool interior earth holes of crabs</l>
+          <l rend="indent2">whose eyes are as large as neem buds </l>
+          <l rend="indent2">become full:</l>
           <l> What about the fact that she is losing [her] great beauty because of him, mother?</l>
 
 
@@ -52,122 +49,172 @@
     </body>
   </text>
   <standOff type="wordsplit" corresp="#Aink30">
-    <interp type="alignment" select="0">37ML40MG21MG4MG9M,114MG</interp>
-    <entry>
-    <form>vēppu</form>
-    <def>neem-tree</def>
-    <gramGrp><gram type="role">noun</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>naṉai</form>
-    <def>bud</def>
-    <gramGrp><gram type="role">noun</gram>
-    </gramGrp></entry>
-    <entry>
-    <form><pc>~</pc>aṉṉa</form>
-    <def>like</def>
-    <gramGrp><gram type="role">comparative</gram>
-    <gram type="role">peyareccam</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>neṭum</form>
-    <def>long</def>
-    <gramGrp><gram type="role">adjective</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>kaṇ</form>
-    <def>eye</def>
-    <gramGrp><gram type="role">noun</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>kaḷvaṉ</form>
-    <def>crab(?)</def>
-    <gramGrp></gramGrp></entry>
-    <entry>
-    <form>taṇ</form>
-    <def>cool</def>
-    <gramGrp><gram type="role">adjective</gram>
-    </gramGrp></entry>
-    <entry>
-    <form><pc>+</pc>akam</form>
-    <def>interior</def>
-    <gramGrp><gram type="role">noun</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>maṇ</form>
-    <def>earth</def>
-    <gramGrp><gram type="role">noun</gram>
-    </gramGrp></entry>
-    <entry>
-    <form><pc>+</pc>aḷai</form>
-    <def>hole</def>
-    <gramGrp><gram type="role">noun</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>niṟaiya</form>
-    <def>become-full</def>
-    <gramGrp><gram type="role">infinitive</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>nelliṉ</form>
-    <def>paddy</def>
-    <gramGrp><gram type="role">oblique</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>irum</form>
-    <def>dark/big</def>
-    <gramGrp><gram type="role">adjective</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>pū</form>
-    <def>flower</def>
-    <gramGrp><gram type="role">noun</gram>
-    </gramGrp></entry>
-    <entry>
-    <form><pc>~</pc>uṟaikkum</form>
-    <def>dripping</def>
-    <gramGrp><gram type="role">imperfect aspect</gram>
-    <gram type="role">peyareccam</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>ūraṟk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
-    <def>man-from-the-village</def>
-    <gramGrp><gram type="role">pronominalised noun</gram>
-    <gram type="role">masculine singular</gram>
-    <gram type="role">dative</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>ivaḷ</form>
-    <def>she</def>
-    <gramGrp><gram type="role">pronoun</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>perum</form>
-    <def>big</def>
-    <gramGrp><gram type="role">adjective</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>kaviṉ</form>
-    <def>beauty</def>
-    <gramGrp><gram type="role">noun</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>iḻappat<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
-    <def>losing</def>
-    <gramGrp><gram type="role">verbal noun</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>evaṉ-kol</form>
-    <def>what</def>
-    <form type="simple">evaṉ</form>
-    <gramGrp><gram type="role">pronoun</gram>
-    </gramGrp><gramGrp type="particle"><m>kol</m></gramGrp>
-    </entry>
-    <entry>
-    <form>aṉṉāy</form>
-    <def>mother</def>
-    <gramGrp><gram type="role">vocative</gram>
-    <gram type="role">noun</gram>
-    </gramGrp></entry>
-    </standOff>
+<interp type="alignment" select="0">37ML40MG21MG4MG9M,114MG</interp>
+<entry>
+<form>vēppu</form>
+<def>neem-tree</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>naṉai</form>
+<def>bud</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>aṉṉa</form>
+<def>like</def>
+<gramGrp>
+  <gram type="role">comparative</gram>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>neṭum</form>
+<def>long</def>
+<form type="sandhi">neṭuṅ</form>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kaṇ</form>
+<def>eye</def>
+<form type="sandhi">kaṭ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kaḷvaṉ</form>
+<def>crab(?)</def>
+<gramGrp>
+</gramGrp>
+</entry>
+<entry>
+<form>taṇ</form>
+<def>cool</def>
+<form type="sandhi">ṟaṇ</form>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="geminated">ṇ</c>akam</form>
+<def>interior</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>maṇ</form>
+<def>earth</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="geminated">ṇ</c>aḷai</form>
+<def>hole</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>niṟaiya</form>
+<def>become-full</def>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>nelliṉ</form>
+<def>paddy</def>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>irum</form>
+<def>dark/big</def>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>pū</form>
+<def>flower</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">v</c>uṟaikkum</form>
+<def>dripping</def>
+<gramGrp>
+  <gram type="role">imperfect aspect</gram>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ūraṟk<c type="elided">u</c></form>
+<def>man-from-the-village</def>
+<form type="sandhi">ūraṟk</form>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">masculine singular</gram>
+  <gram type="role">dative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ivaḷ</form>
+<def>she</def>
+<gramGrp>
+  <gram type="role">pronoun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>perum</form>
+<def>big</def>
+<form type="sandhi">peruṅ</form>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kaviṉ</form>
+<def>beauty</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>iḻappat<c type="elided">u</c></form>
+<def>losing</def>
+<form type="sandhi">iḻappat</form>
+<gramGrp>
+  <gram type="role">verbal noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>evaṉ-kol</form>
+<def>what</def>
+<form type="simple">evaṉ</form>
+<gramGrp>
+  <gram type="role">pronoun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">kol</m></gramGrp>
+</entry>
+<entry>
+<form>aṉṉāy</form>
+<def>mother</def>
+<gramGrp>
+  <gram type="role">vocative</gram>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+</standOff>
 </TEI>

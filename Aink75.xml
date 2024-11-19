@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -10,7 +8,7 @@
         <editor role="translator">Eva Wilden</editor>
       </titleStmt>
       <publicationStmt>
-        <p />
+        <p/>
       </publicationStmt>
       <sourceDesc>
         <msDesc xml:lang="en">
@@ -18,14 +16,14 @@
           </msIdentifier>
           <msContents>
             <summary>
-              <p></p>
+              <p/>
             </summary>
           </msContents>
         </msDesc>
       </sourceDesc>
     </fileDesc>
     <revisionDesc>
-      <change />
+      <change/>
     </revisionDesc>
   </teiHeader>
   <text xml:lang="ta">
@@ -58,157 +56,158 @@
     </body>
   </text>
   <standOff type="wordsplit" corresp="#Aink75">
-    <interp type="alignment" select="0">41M2G4MG41MG6ML10MG3M,110MG</interp>
-    <entry>
-      <form>palar</form>
-      <def>many people</def>
-      <gramGrp>
-        <gram type="role">pronoun</gram>
-        <gram type="role">plural</gram>
-        <gram type="role">honorific</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>ivaṇ</form>
-      <def>here</def>
-      <gramGrp>
-        <gram type="role">adverb</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>ovvāy</form>
-      <def>you are not equal</def>
-      <gramGrp>
-        <gram type="role">negative</gram>
-        <gram type="role">singular</gram>
-        <gram type="role">second person</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>makiḻna</form>
-      <def>delightful man</def>
-      <gramGrp>
-        <gram type="role">pronominalised noun</gram>
-        <gram type="role">masculine singular</gram>
-        <gram type="role">vocative</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form><pc>~</pc>ataṉāl</form>
-      <def>therefore/because of that</def>
-      <gramGrp>
-        <gram type="role">instrumental</gram>
-        <gram type="role">pronoun</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>alar</form>
-      <def>gossip</def>
-      <gramGrp>
-        <gram type="role">noun</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>toṭaṅkiṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-āl</form>
-      <def>it began</def>
-      <form type="simple">toṭaṅkiṉṟu</form>
-      <gramGrp>
-        <gram type="role">neuter singular</gram>
-        <gram type="role">perfective aspect</gram>
-      </gramGrp>
-      <gramGrp type="particle">
-        <m>āl</m>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>ūr-ē</form>
-      <def>village</def>
-      <form type="simple">ūr</form>
-      <gramGrp>
-        <gram type="role">noun</gram>
-      </gramGrp>
-      <gramGrp type="particle">
-        <m>ē</m>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>malara</form>
-      <def>blossom</def>
-      <gramGrp>
-        <gram type="role">adjective</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>tol</form>
-      <def>old</def>
-      <gramGrp>
-        <gram type="role">adjective</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>nilai</form>
-      <def>standing</def>
-      <gramGrp>
-        <gram type="role">verbal root as peyareccam imperfective aspect</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>marutattu<pc>+</pc></form>
-      <def>Myrobalan tree</def>
-      <gramGrp>
-        <gram type="role">oblique</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>perum</form>
-      <def>big</def>
-      <gramGrp>
-        <gram type="role">adjective</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>tuṟai</form>
-      <def>ghat</def>
-      <gramGrp>
-        <gram type="role">noun</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>niṉṉōṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
-      <def>with you</def>
-      <gramGrp>
-        <gram type="role">pronoun</gram>
-        <gram type="role">sociative</gram>
-        <gram type="role">singular</gram>
-        <gram type="role">second person</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>āṭiṉaḷ</form>
-      <def>she bathed</def>
-      <gramGrp>
-        <gram type="role">feminine singular</gram>
-        <gram type="role">perfective aspect</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>taṇ</form>
-      <def>cool</def>
-      <gramGrp>
-        <gram type="role">adjective</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>puṉalatu-<pc>~</pc>ē</form>
-      <def>flood</def>
-      <note> gen. for loc.?</note>
-      <form type="simple">puṉalatu</form>
-      <gramGrp>
-        <gram type="role">genitive</gram>
-      </gramGrp>
-      <gramGrp type="particle">
-        <m>ē</m>
-      </gramGrp>
-    </entry>
-  </standOff>
+<interp type="alignment" select="0">41M2G4MG41MG6ML10MG3M,110MG</interp>
+<entry>
+<form>palar</form>
+<def>many people</def>
+<gramGrp>
+  <gram type="role">pronoun</gram>
+  <gram type="role">plural</gram>
+  <gram type="role">honorific</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ivaṇ</form>
+<def>here</def>
+<gramGrp>
+  <gram type="role">adverb</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ovvāy</form>
+<def>you are not equal</def>
+<gramGrp>
+  <gram type="role">negative</gram>
+  <gram type="role">singular</gram>
+  <gram type="role">second person</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>makiḻna</form>
+<def>delightful man</def>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">masculine singular</gram>
+  <gram type="role">vocative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">v</c>ataṉāl</form>
+<def>therefore/because of that</def>
+<gramGrp>
+  <gram type="role">instrumental</gram>
+  <gram type="role">pronoun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>alar</form>
+<def>gossip</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>toṭaṅkiṉṟ<c type="elided">u</c>-āl</form>
+<def>it began</def>
+<form type="simple">toṭaṅkiṉṟu</form>
+<form type="sandhi">toṭaṅkiṉṟ</form>
+<gramGrp>
+  <gram type="role">neuter singular</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">āl</m></gramGrp>
+</entry>
+<entry>
+<form>ūr-ē</form>
+<def>village</def>
+<form type="simple">ūr</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+<entry>
+<form>malara</form>
+<def>blossom</def>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tol</form>
+<def>old</def>
+<form type="sandhi">toṉ</form>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>nilai</form>
+<def>standing</def>
+<form type="sandhi">ṉilai</form>
+<gramGrp>
+  <gram type="role">verbal root as peyareccam imperfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>marutattu<c type="geminated">p</c></form>
+<def>Myrobalan tree</def>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>perum</form>
+<def>big</def>
+<form type="sandhi">perun</form>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tuṟai</form>
+<def>ghat</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>niṉṉōṭ<c type="elided">u</c></form>
+<def>with you</def>
+<form type="sandhi">niṉṉōṭ</form>
+<gramGrp>
+  <gram type="role">pronoun</gram>
+  <gram type="role">sociative</gram>
+  <gram type="role">singular</gram>
+  <gram type="role">second person</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>āṭiṉaḷ</form>
+<def>she bathed</def>
+<form type="sandhi">āṭiṉaṭ</form>
+<gramGrp>
+  <gram type="role">feminine singular</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>taṇ</form>
+<def>cool</def>
+<form type="sandhi">ṭaṇ</form>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>puṉalatu-<c type="glide">v</c>ē</form>
+<def>flood</def>
+<form type="simple">puṉalatu</form>
+<gramGrp>
+  <gram type="role">genitive</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+<note> gen. for loc.?</note>
+</entry>
+</standOff>
 </TEI>

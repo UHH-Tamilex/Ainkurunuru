@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -9,7 +7,7 @@
         </title>
       </titleStmt>
       <publicationStmt>
-        <p />
+        <p/>
       </publicationStmt>
       <sourceDesc>
         <msDesc xml:lang="en">
@@ -17,14 +15,14 @@
           </msIdentifier>
           <msContents>
             <summary>
-              <p></p>
+              <p/>
             </summary>
           </msContents>
         </msDesc>
       </sourceDesc>
     </fileDesc>
     <revisionDesc>
-      <change />
+      <change/>
     </revisionDesc>
   </teiHeader>
   <text xml:lang="ta">
@@ -48,150 +46,147 @@
     </body>
   </text>
   <standOff type="wordsplit" corresp="#Aink201">
-    <interp type="alignment" select="0">13MG16ML13M2G31MG12MG14MG2M,108M</interp>
-    <entry>
-      <form>aṉṉāy</form>
-      <def>mother</def>
-      <gramGrp>
-        <gram type="role">vocative</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>vāḻi</form>
-      <def>live</def>
-      <gramGrp>
-        <gram type="role">subjuntive</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>vēṇṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
-      <def>be-necessary</def>
-      <gramGrp>
-        <gram type="role">imperative</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>aṉṉai</form>
-      <def>mother</def>
-      <gramGrp>
-        <gram type="role">noun</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form><pc>~</pc>eṉṉai</form>
-      <def>my-lord</def>
-    </entry>
-    <entry>
-      <form>tāṉum</form>
-      <def>self</def>
-      <gramGrp>
-        <gram type="role">pronoun</gram>
-        <gram type="role">singular</gram>
-        <gram type="role">third person</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>malaintāṉ</form>
-      <def>wore-he</def>
-    </entry>
-    <entry>
-      <form>emakk<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-um</form>
-      <def>us</def>
-      <form type="simple">emakku</form>
-      <gramGrp>
-        <gram type="role">dative</gram>
-      </gramGrp>
-      <gramGrp type="particle">
-        <m>um</m>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>taḻai</form>
-      <def>foliage</def>
-      <gramGrp>
-        <gram type="role">noun</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form><pc>~</pc>āyiṉa</form>
-      <def>became-they</def>
-      <gramGrp>
-        <gram type="role">neuter plural</gram>
-        <gram type="role">perfective aspect</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>poṉ</form>
-      <def>gold</def>
-      <gramGrp>
-        <gram type="role">noun</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>vī</form>
-      <def>mature-blossom</def>
-      <gramGrp>
-        <gram type="role">noun</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>maṇi</form>
-      <def>sapphire</def>
-      <gramGrp>
-        <gram type="role">noun</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form><pc>~</pc>arumpiṉa-<pc>~</pc>ē</form>
-      <def>bud-they</def>
-      <form type="simple">arumpiṉa</form>
-      <gramGrp>
-        <gram type="role">neuter plural</gram>
-        <gram type="role">perfective aspect</gram>
-      </gramGrp>
-      <gramGrp type="particle">
-        <m>ē</m>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form><pc>~</pc>eṉṉa</form>
-      <def>what</def>
-    </entry>
-    <entry>
-      <form>maram-kol</form>
-      <def>tree</def>
-      <form type="simple">maram</form>
-      <gramGrp>
-        <gram type="role">noun</gram>
-      </gramGrp>
-      <gramGrp type="particle">
-        <m>kol</m>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>avar</form>
-      <def>he</def>
-      <gramGrp>
-        <gram type="role">plural</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>cāral</form>
-      <def>mountain-slope</def>
-      <gramGrp>
-        <gram type="role">noun</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>a<pc>+</pc>-<pc>~</pc>ē</form>
-      <def>they</def>
-      <form type="simple">a</form>
-      <gramGrp>
-        <gram type="role">neuter plural</gram>
-      </gramGrp>
-      <gramGrp type="particle">
-        <m>ē</m>
-      </gramGrp>
-    </entry>
-  </standOff>
+<interp type="alignment" select="0">13MG16ML13M2G31MG12MG14MG2M,108M</interp>
+<entry>
+<form>aṉṉāy</form>
+<def>mother</def>
+<gramGrp>
+  <gram type="role">vocative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vāḻi</form>
+<def>live</def>
+<gramGrp>
+  <gram type="role">subjuntive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vēṇṭ<c type="elided">u</c></form>
+<def>be-necessary</def>
+<form type="sandhi">vēṇṭ</form>
+<gramGrp>
+  <gram type="role">imperative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>aṉṉai</form>
+<def>mother</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>eṉṉai</form>
+<def>my-lord</def>
+</entry>
+<entry>
+<form>tāṉum</form>
+<def>self</def>
+<gramGrp>
+  <gram type="role">pronoun</gram>
+  <gram type="role">singular</gram>
+  <gram type="role">third person</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>malaintāṉ</form>
+<def>wore-he</def>
+</entry>
+<entry>
+<form>emakk<c type="elided">u</c>-um</form>
+<def>us</def>
+<form type="simple">emakku</form>
+<form type="sandhi">emakk</form>
+<gramGrp>
+  <gram type="role">dative</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>taḻai</form>
+<def>foliage</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>āyiṉa</form>
+<def>became-they</def>
+<gramGrp>
+  <gram type="role">neuter plural</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>poṉ</form>
+<def>gold</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vī</form>
+<def>mature-blossom</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>maṇi</form>
+<def>sapphire</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>arumpiṉa-<c type="glide">v</c>ē</form>
+<def>bud-they</def>
+<form type="simple">arumpiṉa</form>
+<form type="sandhi"><c type="glide">y</c>arumpiṉa</form>
+<gramGrp>
+  <gram type="role">neuter plural</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>eṉṉa</form>
+<def>what</def>
+</entry>
+<entry>
+<form>maram-kol</form>
+<def>tree</def>
+<form type="simple">maram</form>
+<form type="sandhi">maraṅ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">kol</m></gramGrp>
+</entry>
+<entry>
+<form>avar</form>
+<def>he</def>
+<gramGrp>
+  <gram type="role">plural</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>cāral</form>
+<def>mountain-slope</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>a<c type="geminated">v</c>-<c type="glide">v</c>ē</form>
+<def>they</def>
+<form type="simple">a</form>
+<form type="sandhi">a<c type="geminated">v</c></form>
+<gramGrp>
+  <gram type="role">neuter plural</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+</standOff>
 </TEI>

@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -10,7 +8,7 @@
         <editor role="translator">Eva Wilden</editor>
       </titleStmt>
       <publicationStmt>
-        <p />
+        <p/>
       </publicationStmt>
       <sourceDesc>
         <msDesc xml:lang="en">
@@ -18,14 +16,14 @@
           </msIdentifier>
           <msContents>
             <summary>
-              <p></p>
+              <p/>
             </summary>
           </msContents>
         </msDesc>
       </sourceDesc>
     </fileDesc>
     <revisionDesc>
-      <change />
+      <change/>
     </revisionDesc>
   </teiHeader>
   <text xml:lang="ta">
@@ -48,7 +46,7 @@
 
           <l> Have the bees acquired the glorious qualities of the delightful man?</l>
           <l> Or has the delightful man acquired the glorious qualities of the bees?</l>
-          <p></p>
+          <p/>
           <l> [Since] she didn't know that it would turn out like this, </l>
           <l> his son's mother is in a mood with us. </l>
 
@@ -58,158 +56,152 @@
     </body>
   </text>
   <standOff type="wordsplit" corresp="#Aink90">
-    <interp type="alignment" select="0">28MG17ML13MG8MG4MG37MG2M,114MG</interp>
-    <entry>
-      <form>makiḻnaṉ</form>
-      <def>delightful man</def>
-      <gramGrp>
-        <gram type="role">pronominalised noun</gram>
-        <gram type="role">masculine singular</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>māṇ</form>
-      <def>glorious</def>
-      <gramGrp>
-        <gram type="role">verbal root as adjective</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>kuṇam</form>
-      <def>quality</def>
-      <gramGrp>
-        <gram type="role">noun</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>vaṇṭu</form>
-      <def>bee</def>
-      <gramGrp>
-        <gram type="role">noun</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>koṇṭaṉa-kol</form>
-      <def>they have taken [on]</def>
-      <form type="simple">koṇṭaṉa</form>
-      <gramGrp>
-        <gram type="role">neuter plural</gram>
-        <gram type="role">perfective aspect</gram>
-      </gramGrp>
-      <gramGrp type="particle">
-        <m>kol</m>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>vaṇṭiṉ</form>
-      <def>bee</def>
-      <gramGrp>
-        <gram type="role">oblique</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>māṇ</form>
-      <def>glorious</def>
-      <gramGrp>
-        <gram type="role">verbal root as adjective</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>kuṇam</form>
-      <def>quality</def>
-      <gramGrp>
-        <gram type="role">noun</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>makiḻnaṉ</form>
-      <def>delightful man</def>
-      <gramGrp>
-        <gram type="role">pronominalised noun</gram>
-        <gram type="role">masculine singular</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>koṇṭāṉ-kol</form>
-      <def>he has taken [on]</def>
-      <form type="simple">koṇṭāṉ</form>
-      <gramGrp>
-        <gram type="role">masculine singular</gram>
-        <gram type="role">perfective aspect</gram>
-      </gramGrp>
-      <gramGrp type="particle">
-        <m>kol</m>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>aṉṉat<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
-      <def>a thing like that</def>
-      <gramGrp>
-        <gram type="role">pronominalised noun</gram>
-        <gram type="role">neuter singular</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>ākal-um</form>
-      <def>becoming</def>
-      <form type="simple">ākal</form>
-      <gramGrp>
-        <gram type="role">verbal noun</gram>
-      </gramGrp>
-      <gramGrp type="particle">
-        <m>um</m>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>aṟiyāḷ</form>
-      <def>she did not know</def>
-      <gramGrp>
-        <gram type="role">feminine singular</gram>
-        <gram type="role">negative</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>emmoṭu</form>
-      <def>with us</def>
-      <gramGrp>
-        <gram type="role">pronoun</gram>
-        <gram type="role">sociative</gram>
-        <gram type="role">plural</gram>
-        <gram type="role">first person</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>pulakkum</form>
-      <def>she is sulking</def>
-      <gramGrp>
-        <gram type="role">habitual future</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>avaṉ</form>
-      <def>his</def>
-      <gramGrp>
-        <gram type="role">masculine singular</gram>
-        <gram type="role">pronoun</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>putalvaṉ</form>
-      <def>son</def>
-      <gramGrp>
-        <gram type="role">noun</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>tāy-ē</form>
-      <def>mother</def>
-      <form type="simple">tāy</form>
-      <gramGrp>
-        <gram type="role">noun</gram>
-      </gramGrp>
-      <gramGrp type="particle">
-        <m>ē</m>
-      </gramGrp>
-    </entry>
-  </standOff>
+<interp type="alignment" select="0">28MG17ML13MG8MG4MG37MG2M,114MG</interp>
+<entry>
+<form>makiḻnaṉ</form>
+<def>delightful man</def>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">masculine singular</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>māṇ</form>
+<def>glorious</def>
+<gramGrp>
+  <gram type="role">verbal root as adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kuṇam</form>
+<def>quality</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vaṇṭu</form>
+<def>bee</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>koṇṭaṉa-kol</form>
+<def>they have taken [on]</def>
+<form type="simple">koṇṭaṉa</form>
+<gramGrp>
+  <gram type="role">neuter plural</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">kol</m></gramGrp>
+</entry>
+<entry>
+<form>vaṇṭiṉ</form>
+<def>bee</def>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>māṇ</form>
+<def>glorious</def>
+<gramGrp>
+  <gram type="role">verbal root as adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kuṇam</form>
+<def>quality</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>makiḻnaṉ</form>
+<def>delightful man</def>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">masculine singular</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>koṇṭāṉ-kol</form>
+<def>he has taken [on]</def>
+<form type="simple">koṇṭāṉ</form>
+<gramGrp>
+  <gram type="role">masculine singular</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">kol</m></gramGrp>
+</entry>
+<entry>
+<form>aṉṉat<c type="elided">u</c></form>
+<def>a thing like that</def>
+<form type="sandhi">aṉṉat</form>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">neuter singular</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ākal-um</form>
+<def>becoming</def>
+<form type="simple">ākal</form>
+<gramGrp>
+  <gram type="role">verbal noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>aṟiyāḷ</form>
+<def>she did not know</def>
+<gramGrp>
+  <gram type="role">feminine singular</gram>
+  <gram type="role">negative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>emmoṭu</form>
+<def>with us</def>
+<gramGrp>
+  <gram type="role">pronoun</gram>
+  <gram type="role">sociative</gram>
+  <gram type="role">plural</gram>
+  <gram type="role">first person</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>pulakkum</form>
+<def>she is sulking</def>
+<gramGrp>
+  <gram type="role">habitual future</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>avaṉ</form>
+<def>his</def>
+<gramGrp>
+  <gram type="role">masculine singular</gram>
+  <gram type="role">pronoun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>putalvaṉ</form>
+<def>son</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tāy-ē</form>
+<def>mother</def>
+<form type="simple">tāy</form>
+<form type="sandhi">ṟāy</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+</standOff>
 </TEI>
