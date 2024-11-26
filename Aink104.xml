@@ -5,9 +5,8 @@
     <fileDesc>
       <titleStmt>
         <title>
-          <title xml:lang="ta">Aiṅkuṟunūṟu</title> 104.<persName xml:lang="ta"> Ammūvaṉār.</persName></title>
-
-          <editor role="translator">Neela_Bhaskar</editor>  
+            <title xml:lang="ta"></title> XX.
+            <persName xml:lang="ta"></persName>
         </title>     
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
@@ -33,20 +32,10 @@
 <l>naḷḷeṉa vanta viyaṟērc</l>
 <l>celvak koṇkaṉ celvaṉaḵ tūrē</l>
 </lg>
-<lg type="translation" xml:lang="en">
-  
-  <l>Oh mother, please mother,</l>
-    <l>That is the town of the son</l>
-      <l>Of the wealthy sea-man,</l>
-        <l>Of the moving chariot</l>
-          <l>That arrived in our town in the middle [of the night],</l>
-            <l>In the time in which everyone was sleeping,</l>
-              <l>The beauty having been lost.</l>
-              </lg>
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">13MG28ML4ML25ML24MG2MGM,103M</interp>
+<standOff type="wordsplit" corresp="#Aink104"><interp type="alignment" select="0">13MG28ML4ML25ML24MG2MGM,103M</interp>
 <entry>
 <form>aṉṉai</form>
 <def>mother</def>
