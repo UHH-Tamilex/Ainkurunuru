@@ -6,9 +6,9 @@
       <titleStmt>
         <title>
             <title xml:lang="ta">Aiṅkuṟunūṟu</title> 104.
-            <persName xml:lang="ta">Ammūvaṉār</persName>
-        </title>          
-        <editor role="translator">Neela Bhaskar</editor>
+            <persName xml:lang="ta">Ammūvaṉār.</persName>
+        </title>    
+         <editor role="translator">Neela_Bhaskar</editor> 
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
       <sourceDesc>
@@ -26,25 +26,17 @@
   </teiHeader>
 <text xml:lang="ta" type="edition">
   <body>
-    <div xml:id="Aink104">
+    <div xml:id="poemXX">
       <lg type="edition">
 <l>aṉṉai vāḻi vēṇ ṭaṉṉai nammūrp</l>
 <l>palarmaṭi poḻuti ṉalamikac cāay</l>
 <l>naḷḷeṉa vanta viyaṟērc</l>
 <l>celvak koṇkaṉ celvaṉaḵ tūrē</l>
 </lg>
-<lg type="translation" xml:lang="en">
-<l> Oh mother, please mother </l>
-<l> That is the town of the son </l>
-<l> Of the wealthy man from the sea with the moving chariot </l>
-<l> That arrived in our town in the middle [of the night] </l>
-<l> In the time when everyone was sleeping, </l>
-<l> [My] beauty having been lost. </l>
-            </lg>
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#Aink104"><interp type="alignment" select="0">13MG28ML4ML25ML24MG2MGM,103M</interp>
+<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">13MG28ML4ML25ML24MG2MGM,103M</interp>
 <entry>
 <form>aṉṉai</form>
 <def>mother</def>
@@ -135,15 +127,8 @@
 </gramGrp>
 </entry>
 <entry>
-<form>naḷ<c type="geminated">ḷ</c></form>
-<def>middle</def>
-<gramGrp>
-  <gram type="role">noun</gram>
-</gramGrp>
-</entry>
-<entry>
-<form>eṉa</form>
-<def>say</def>
+<form>naḷḷeṉa</form>
+<def>middle-say</def>
 <gramGrp>
   <gram type="role">infinitive</gram>
 </gramGrp>
