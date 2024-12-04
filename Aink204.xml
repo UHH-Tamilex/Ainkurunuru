@@ -97,8 +97,6 @@
 <entry>
 <form>makaḷiriṉ</form>
 <def>women</def>
-<gramGrp>
-</gramGrp>
 </entry>
 <entry>
 <form>niraiyuṭaṉ</form>
@@ -126,8 +124,6 @@
 <entry>
 <form>tavirātu</form>
 <def>refrain-not</def>
-<gramGrp>
-</gramGrp>
 </entry>
 <entry>
 <form>nōkki</form>
@@ -171,8 +167,6 @@
 <def>master-he</def>
 <form type="simple">kiḻavōṟku</form>
 <form type="sandhi">kiḻavōṟk</form>
-<gramGrp>
-</gramGrp>
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry>
 </standOff>

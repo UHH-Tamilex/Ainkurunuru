@@ -57,8 +57,6 @@
 <entry>
 <form>paṭutta</form>
 <def>happened</def>
-<gramGrp>
-</gramGrp>
 </entry>
 <entry>
 <form>māṉ</form>
@@ -83,8 +81,6 @@
 <form>naṭuvaṇaṉ</form>
 <def>centre</def>
 <form type="sandhi">ṉaṭuvaṇaṉ</form>
-<gramGrp>
-</gramGrp>
 </entry>
 <entry>
 <form>āka</form>
@@ -96,8 +92,6 @@
 <entry>
 <form>naṉṟum</form>
 <def>good</def>
-<gramGrp>
-</gramGrp>
 </entry>
 <entry>
 <form>iṉitumaṉṟa</form>
@@ -151,8 +145,6 @@
 <entry>
 <form>kavaiiya</form>
 <def>embraced</def>
-<gramGrp>
-</gramGrp>
 </entry>
 <entry>
 <form><c type="glide">v</c>īṉum</form>
@@ -174,8 +166,6 @@
 <def>difficult-</def>
 <form type="simple">aruṅkuraittu</form>
 <form type="sandhi">aruṅkuraitt</form>
-<gramGrp>
-</gramGrp>
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry>
 </standOff>

@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -16,7 +14,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>    
         </msDesc>
@@ -43,7 +41,8 @@
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#Aink108"><interp type="alignment" select="0">13MG19ML26ML17MG3MG4MG4ML9MGM,104M</interp>
+<standOff type="wordsplit" corresp="#Aink108">
+<interp type="alignment" select="0">13MG19ML26ML17MG3MG4MG4ML9MGM,104M</interp>
 <entry>
 <form>aṉṉai</form>
 <def>mother</def>
@@ -181,5 +180,6 @@
   <gram type="role">noun</gram>
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
-</entry></standOff>
+</entry>
+</standOff>
 </TEI>
