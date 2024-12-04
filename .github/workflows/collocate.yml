@@ -1,6 +1,6 @@
 name: update collocations
 on: 
-  push:
+  #push:
   workflow_dispatch:
 jobs:
   collocate:
