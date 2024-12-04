@@ -1,4 +1,5 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -42,7 +43,7 @@
   </body>
 </text>
 <standOff type="wordsplit" corresp="#Aink108">
-<interp type="alignment" select="0">13MG19ML26ML17MG3MG4MG4ML9MGM,104M</interp>
+<interp type="alignment" select="0">13MG19ML26ML17MG7MG4ML9MGM,103M</interp>
 <entry>
 <form>aṉṉai</form>
 <def>mother</def>
@@ -153,11 +154,18 @@
 </gramGrp>
 </entry>
 <entry>
-<form>evaṉ-kol-maṟṟ<c type="elided">u</c></form>
+<form>evaṉ-kol</form>
 <def>what</def>
-<form type="simple">evaṉ-kol</form>
-<form type="sandhi">evaṉkoṉ</form>
-<gramGrp type="particle"><m type="enclitic">maṟṟu</m></gramGrp>
+<form type="simple">evaṉ</form>
+<gramGrp type="particle"><m type="enclitic">kol</m></gramGrp>
+</entry>
+<entry>
+<form>maṟṟ<c type="elided">u</c></form>
+<def>besides</def>
+<form type="sandhi">maṟṟ</form>
+<gramGrp>
+  <gram type="role">interjection</gram>
+</gramGrp>
 </entry>
 <entry>
 <form>avaṉ</form>

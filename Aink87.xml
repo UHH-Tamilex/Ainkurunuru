@@ -1,4 +1,5 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -55,7 +56,7 @@
     </body>
   </text>
   <standOff type="wordsplit" corresp="#Aink87">
-<interp type="alignment" select="0">81MG16MG4MG4MG2M,110MG</interp>
+<interp type="alignment" select="0">81MG20MG4MG2M,109MG</interp>
 <entry>
 <form>pakaṉṟai<c type="geminated">k</c></form>
 <def>jalap plant</def>
@@ -188,16 +189,22 @@
 </gramGrp>
 </entry>
 <entry>
-<form>emmai-maṟṟ<c type="elided">u</c></form>
+<form>emmai</form>
 <def>us</def>
-<form type="simple">emmai</form>
 <gramGrp>
   <gram type="role">pronoun</gram>
   <gram type="role">accusative</gram>
   <gram type="role">plural</gram>
   <gram type="role">first person</gram>
 </gramGrp>
-<gramGrp type="particle"><m type="enclitic">maṟṟu</m></gramGrp>
+</entry>
+<entry>
+<form>maṟṟ<c type="elided">u</c></form>
+<def>besides</def>
+<form type="sandhi">maṟṟ</form>
+<gramGrp>
+  <gram type="role">interjection</gram>
+</gramGrp>
 </entry>
 <entry>
 <form>evaṉ-ō</form>
