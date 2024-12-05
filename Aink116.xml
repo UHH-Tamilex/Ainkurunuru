@@ -26,7 +26,7 @@
   </teiHeader>
 <text xml:lang="ta" type="edition">
   <body>
-    <div xml:id="poemXX">
+    <div xml:id="poem116">
       <lg type="edition">
 <l>amma vāḻi tōḻi nāmaḻa</l>
 <l>nīla viruṅkaḻi nīlaṅ kūmpu</l>
@@ -36,7 +36,7 @@
 <lg type="translation" xml:lang="en">
 <l>Oh friend, listen!</l>
 <l>So that we cry,</l>
-<l>The evening in which the blueness of blue, dark lotuses close</l>
+<l>The evening in which the blueness of dark blue lotuses close</l>
 <l>Has indeed come, resembling the morning,</l>
 <l>The wind being early.</l>
 </lg>
@@ -94,7 +94,7 @@
 </entry>
 <entry>
 <form>kaḻi</form>
-<def>backwaters</def>
+<def>lotus</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
