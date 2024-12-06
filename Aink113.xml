@@ -53,7 +53,8 @@
 <def>live-you</def>
 <gramGrp>
   <gram type="role">subjuntive</gram>
-</gramGrp>
+  <gram type="role">singular</gram>
+  <gram type="role">second person</gram></gramGrp>
 </entry>
 <entry>
 <form>tōḻi</form>
