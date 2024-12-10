@@ -107,6 +107,9 @@
 <form>tuṟaivaṉai</form>
 <def>ghat-he</def>
 <gramGrp>
+  <gram type="role">pronominalised noun</gram>
+    <gram type="role">masculine</gram>
+        <gram type="role">singular</gram>
   <gram type="role">accusative</gram>
 </gramGrp>
 </entry>
