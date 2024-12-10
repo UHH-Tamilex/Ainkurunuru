@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+            <title xml:lang="ta">Aiṅkuṟunūṟu</title> 137.
+            <persName xml:lang="ta">Ammūvaṉār.</persName>
+        </title>
+                       <editor role="translator">Neela Bhaskar</editor>          
+      </titleStmt>
+      <publicationStmt><p/></publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc><change/></revisionDesc>
+  </teiHeader>
+<text xml:lang="ta" type="edition">
+  <body>
+    <div xml:id="Aink137">
+      <lg type="edition">
+<l>niṉṉoṉṟu viṉavuval pāṇa nummūrt</l>
+<l>tiṇṭērk koṇkaṉai nayantōr</l>
+<l>paṇṭait tannalam peṟupavō maṟṟē</l>
+</lg>
+<lg type="translation" xml:lang="en">
+  <l>I ask you one thing, oh bard: </l>
+    <l>In your village, would those [ladies] </l>
+      <l>Who longed for the man from the maritime tract in a firm chariot</l>
+      <l>Indeed get back their former beauty?</l>
+</lg>
+    </div>
+  </body>
+</text>
+<standOff type="wordsplit" corresp="#Aink137"><interp type="alignment" select="0">72MG7M,80M</interp>
+<entry>
+<form>niṉ<c type="geminated">ṉ</c></form>
+<def>your</def>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>oṉṟu</form>
+<def>one-it</def>
+<gramGrp>
+  <gram type="role">neuter singular</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>viṉavuval</form>
+<def>I-ask</def>
+<gramGrp>
+  <gram type="role">imperfect aspect</gram>
+  <gram type="role">singular</gram>
+  <gram type="role">first person</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>pāṇa</form>
+<def>bard</def>
+<gramGrp>
+  <gram type="role">vocative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>num<c type="geminated">m</c></form>
+<def>your</def>
+<gramGrp>
+  <gram type="role">oblique</gram>
+  <gram type="role">noun</gram>
+  <gram type="role">plural</gram>
+  <gram type="role">second person</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ūr<c type="geminated">t</c></form>
+<def>village</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tiṇ</form>
+<def>firm</def>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tēr<c type="geminated">k</c></form>
+<def>chariot</def>
+<form type="sandhi">ṭēr<c type="geminated">k</c></form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>koṇkaṉai</form>
+<def>man from the maritime tract</def>
+<gramGrp>
+  <gram type="role">accusative</gram>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>nayantōr</form>
+<def>longed-they</def>
+<gramGrp>
+  <gram type="role">participial noun</gram>
+  <gram type="role">perfective aspect</gram>
+  <gram type="role">honorific</gram>
+  <gram type="role">third person</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>paṇṭai<c type="geminated">t</c></form>
+<def>former</def>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tam</form>
+<def>self</def>
+<form type="sandhi">tan</form>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>nalam</form>
+<def>goodness</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>peṟupa-<c type="glide">v</c>ōmaṟṟē</form>
+<def>get-back</def>
+<form type="sandhi">peṟupa<c type="glide">v</c>ōmaṟṟē</form>
+<gramGrp>
+  <gram type="role">neuter plural</gram>
+  <gram type="role">third person</gram>
+  <gram type="role">imperfect aspect</gram>
+</gramGrp>
+</entry></standOff>
+</TEI>
