@@ -34,7 +34,7 @@
 </lg>
 <lg type="translation" xml:lang="en">
 <l>We have seen your friend, haven't we, oh man from the maritime tract?</l>
-<l>She who asked the Veḷḷāṅkuruku, because of having dropped</l>
+<l>She who asked the white wader, because of having dropped</l>
 <l>Her bright jewels in the raised sands?</l>
 </lg>
     </div>
@@ -127,11 +127,18 @@
 </gramGrp>
 </entry>
 <entry>
-<form>veḷḷāṅkurukai</form>
-<def>Veḷḷāṅkuruku bird</def>
+<form>veḷḷām </form>
+<def>white</def>
 <gramGrp>
-  <gram type="role">accusative</gram>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kurukai </form>
+<def>wader</def>
+<gramGrp>
   <gram type="role">noun</gram>
+  <gram type="role">accusative</gram>
 </gramGrp>
 </entry>
 <entry>
