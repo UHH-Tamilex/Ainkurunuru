@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -15,7 +12,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>    
         </msDesc>
@@ -55,134 +52,166 @@ The ten that was narrated to the Mother
     </body>
   </text>
   <standOff type="wordsplit" corresp="#Aink101">
-    <interp type="alignment" select="0">13MG23MG16MG64MG14MGM,136M</interp>
-    <entry>
-    <form>aṉṉai</form>
-    <def>mother</def>
-    </entry>
-    <entry>
-    <form>vāḻi</form>
-    <def>live</def>
-    <gramGrp><gram type="role">imperative</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>vēṇṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
-    <def>be necessary</def>
-    <gramGrp><gram type="role">imperative</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>aṉṉai</form>
-    <def>mother</def>
-    </entry>
-    <entry>
-    <form><pc>~</pc>utu<pc>+</pc></form>
-    <def>there</def>
-    </entry>
-    <entry>
-    <form>kāṇ</form>
-    <def>to look</def>
-    <gramGrp><gram type="role">imperative</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>ēr</form>
-    <def>straight</def>
-    </entry>
-    <entry>
-    <form>koṭi<pc>+</pc></form>
-    <def>creeper</def>
-    </entry>
-    <entry>
-    <form>pāc<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
-    <def>green</def>
-    <gramGrp><gram type="role">adjective</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>aṭumpu</form>
-    <def>Aṭumpu</def>
-    </entry>
-    <entry>
-    <form>pariya</form>
-    <def>tear up</def>
-    <gramGrp><gram type="role">infinitive</gram>
-    </gramGrp></entry>
-    <entry>
-    <form><pc>~</pc>ūrp<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
-    <def>rise</def>
-    <gramGrp><gram type="role">verbal root</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>iḻipu</form>
-    <def>fall</def>
-    <gramGrp><gram type="role">verbal root</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>neytal</form>
-    <def>Neytal</def>
-    </entry>
-    <entry>
-    <form>mayakki</form>
-    <def>make fade</def>
-    <gramGrp><gram type="role">absolutive</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>vantaṉṟu</form>
-    <def>came</def>
-    <gramGrp><gram type="role">neuter singular</gram>
-    <gram type="role">perfective aspect</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>niṉ</form>
-    <def>your</def>
-    <gramGrp><gram type="role">genitive</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>makaḷ</form>
-    <def>daughter</def>
-    </entry>
-    <entry>
-    <form>pū<pc>+</pc></form>
-    <def>flower</def>
-    </entry>
-    <entry>
-    <form>pōl</form>
-    <def>like</def>
-    </entry>
-    <entry>
-    <form>uṇ</form>
-    <def>kohl</def>
-    </entry>
-    <entry>
-    <form>kaṇ</form>
-    <def>eye</def>
-    </entry>
-    <entry>
-    <form>marīiya</form>
-    <def>set into</def>
-    <gramGrp><gram type="role">peyareccam</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>nōykku</form>
-    <def>affliction</def>
-    <gramGrp><gram type="role">dative</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>marunt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
-    <def>antidote</def>
-    </entry>
-    <entry>
-    <form>ākiya</form>
-    <def>be</def>
-    <gramGrp><gram type="role">peyareccam</gram>
-    </gramGrp></entry>
-    <entry>
-    <form>koṇkaṉ</form>
-    <def>sea man</def>
-    </entry>
-    <entry>
-    <form>tēr-ē</form>
-    <def>chariot</def>
-    <form type="simple">tēr</form>
-    <gramGrp type="particle"><m>ē</m></gramGrp>
-    </entry>
-    </standOff>
+<interp type="alignment" select="0">13MG23MG16MG64MG14MGM,136M</interp>
+<entry>
+<form>aṉṉai</form>
+<def>mother</def>
+</entry>
+<entry>
+<form>vāḻi</form>
+<def>live-you</def>
+<gramGrp>
+  <gram type="role">subjuntive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vēṇṭ<c type="elided">u</c></form>
+<def>be necessary</def>
+<form type="sandhi">vēṇṭ</form>
+<gramGrp>
+  <gram type="role">imperative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>aṉṉai</form>
+<def>mother</def>
+</entry>
+<entry>
+<form><c type="glide">y</c>utu<c type="geminated">k</c></form>
+<def>there</def>
+</entry>
+<entry>
+<form>kāṇ</form>
+<def>to look</def>
+<gramGrp>
+  <gram type="role">imperative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ēr</form>
+<def>straight</def>
+</entry>
+<entry>
+<form>koṭi<c type="geminated">p</c></form>
+<def>creeper</def>
+</entry>
+<entry>
+<form>pāc<c type="elided">u</c></form>
+<def>green</def>
+<form type="sandhi">pāc</form>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>aṭumpu</form>
+<def>Aṭumpu</def>
+</entry>
+<entry>
+<form>pariya</form>
+<def>tear up</def>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">v</c>ūrp<c type="elided">u</c></form>
+<def>rise</def>
+<form type="sandhi"><c type="glide">v</c>ūrp</form>
+<gramGrp>
+  <gram type="role">verbal root</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>iḻipu</form>
+<def>fall</def>
+<gramGrp>
+  <gram type="role">verbal root</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>neytal</form>
+<def>Neytal</def>
+<form type="sandhi">neytaṉ</form>
+</entry>
+<entry>
+<form>mayakki</form>
+<def>make fade</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vantaṉṟu</form>
+<def>came</def>
+<gramGrp>
+  <gram type="role">neuter singular</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>niṉ</form>
+<def>your</def>
+<gramGrp>
+  <gram type="role">genitive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>makaḷ</form>
+<def>daughter</def>
+</entry>
+<entry>
+<form>pū<c type="geminated">p</c></form>
+<def>flower</def>
+</entry>
+<entry>
+<form>pōl</form>
+<def>like</def>
+</entry>
+<entry>
+<form>uṇ</form>
+<def>kohl</def>
+</entry>
+<entry>
+<form>kaṇ</form>
+<def>eye</def>
+</entry>
+<entry>
+<form>marīiya</form>
+<def>set into</def>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>nōykku</form>
+<def>affliction</def>
+<gramGrp>
+  <gram type="role">dative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>marunt<c type="elided">u</c></form>
+<def>antidote</def>
+<form type="sandhi">marunt</form>
+</entry>
+<entry>
+<form>ākiya</form>
+<def>be</def>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>koṇkaṉ</form>
+<def>sea man</def>
+</entry>
+<entry>
+<form>tēr-ē</form>
+<def>chariot</def>
+<form type="simple">tēr</form>
+<form type="sandhi">ṟēr</form>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+</standOff>
 </TEI>

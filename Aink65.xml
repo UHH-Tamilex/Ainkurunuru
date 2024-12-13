@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -10,7 +8,7 @@
         <editor role="translator">Eva Wilden</editor>
       </titleStmt>
       <publicationStmt>
-        <p />
+        <p/>
       </publicationStmt>
       <sourceDesc>
         <msDesc xml:lang="en">
@@ -18,14 +16,14 @@
           </msIdentifier>
           <msContents>
             <summary>
-              <p></p>
+              <p/>
             </summary>
           </msContents>
         </msDesc>
       </sourceDesc>
     </fileDesc>
     <revisionDesc>
-      <change />
+      <change/>
     </revisionDesc>
   </teiHeader>
   <text xml:lang="ta">
@@ -61,180 +59,171 @@
     </body>
   </text>
   <standOff type="wordsplit" corresp="#Aink65">
-    <interp type="alignment" select="0">96MG23MG3M,123MG</interp>
-    <entry>
-      <form>karumpu</form>
-      <def>sugarcane</def>
-      <gramGrp>
-        <gram type="role">noun</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>naṭu</form>
-      <def>placed/planted</def>
-      <gramGrp>
-        <gram type="role">verbal root as peyareccam perfective aspect</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>pāttiyiṉ</form>
-      <def>section/division/small field</def>
-      <gramGrp>
-        <gram type="role">oblique</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>kalitta</form>
-      <def>sprouted/luxuriantly growing</def>
-      <gramGrp>
-        <gram type="role">perfective aspect</gram>
-        <gram type="role">peyareccam</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form><pc>~</pc>āmpal</form>
-      <def>water lily</def>
-      <gramGrp>
-        <gram type="role">noun</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>curumpu</form>
-      <def>bee</def>
-      <gramGrp>
-        <gram type="role">noun</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>paci</form>
-      <def>hunger</def>
-      <gramGrp>
-        <gram type="role">root noun</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>kaḷaiyum</form>
-      <def>removing</def>
-      <gramGrp>
-        <gram type="role">imperfect aspect</gram>
-        <gram type="role">peyareccam</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>perum</form>
-      <def>big</def>
-      <gramGrp>
-        <gram type="role">adjective</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>puṉal</form>
-      <def>flood</def>
-      <gramGrp>
-        <gram type="role">noun</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>ūra</form>
-      <def>village</def>
-      <gramGrp>
-        <gram type="role">pronominalised noun</gram>
-        <gram type="role">masculine singular</gram>
-        <gram type="role">vocative</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>putalvaṉai</form>
-      <def>son</def>
-      <gramGrp>
-        <gram type="role">accusative</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form><pc>~</pc>īṉṟa</form>
-      <def>having brought forth</def>
-      <gramGrp>
-        <gram type="role">perfective aspect</gram>
-        <gram type="role">peyareccam</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form><pc>~</pc>eṉ</form>
-      <def>my</def>
-      <gramGrp>
-        <gram type="role">pronoun</gram>
-        <gram type="role">oblique</gram>
-        <gram type="role">singular</gram>
-        <gram type="role">first person</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>mēṉi</form>
-      <def>body</def>
-      <gramGrp>
-        <gram type="role">noun</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>muyaṅkaṉmō-teyya</form>
-      <def>do not embrace</def>
-      <form type="simple">muyaṅkaṉmō</form>
-      <gramGrp>
-        <gram type="role">imperative</gram>
-        <gram type="role">negative</gram>
-        <gram type="role">singular</gram>
-        <gram type="role">second person</gram>
-      </gramGrp>
-      <gramGrp type="particle">
-        <m>teyya</m>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>niṉ</form>
-      <def>your</def>
-      <gramGrp>
-        <gram type="role">pronoun</gram>
-        <gram type="role">oblique</gram>
-        <gram type="role">singular</gram>
-        <gram type="role">second person</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>mārpu</form>
-      <def>chest</def>
-      <gramGrp>
-        <gram type="role">noun</gram>
-      </gramGrp>
-    </entry>
-    <superEntry type="ambiguous">
-      <entry>
-        <entry>
-          <form>citaippatu-<pc>~</pc>ē</form>
-          <def>something that will ruin or destroy</def>
-          <form type="simple">citaippatu</form>
-          <gramGrp>
-            <gram type="role">participial noun</gram>
-            <gram type="role">neuter singular</gram>
-            <gram type="role">imperfect aspect</gram>
-          </gramGrp>
-          <gramGrp type="particle">
-            <m>ē</m>
-          </gramGrp>
-        </entry>
-      </entry>
-      <entry>
-        <entry>
-          <form>citaippatu-<pc>~</pc>ē</form>
-          <def>ruining or destroying</def>
-          <form type="simple">citaippatu</form>
-          <gramGrp>
-            <gram type="role">verbal noun</gram>
-          </gramGrp>
-          <gramGrp type="particle">
-            <m>ē</m>
-          </gramGrp>
-        </entry>
-      </entry>
-    </superEntry>
-  </standOff>
+<interp type="alignment" select="0">96MG23MG3M,123MG</interp>
+<entry>
+<form>karumpu</form>
+<def>sugarcane</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>naṭu</form>
+<def>placed/planted</def>
+<gramGrp>
+  <gram type="role">verbal root as peyareccam perfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>pāttiyiṉ</form>
+<def>section/division/small field</def>
+<form type="sandhi">pāttiyiṟ</form>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kalitta</form>
+<def>sprouted/luxuriantly growing</def>
+<gramGrp>
+  <gram type="role">perfective aspect</gram>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">v</c>āmpal</form>
+<def>water lily</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>curumpu</form>
+<def>bee</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>paci</form>
+<def>hunger</def>
+<gramGrp>
+  <gram type="role">root noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kaḷaiyum</form>
+<def>removing</def>
+<gramGrp>
+  <gram type="role">imperfect aspect</gram>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>perum</form>
+<def>big</def>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>puṉal</form>
+<def>flood</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ūra</form>
+<def>village</def>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">masculine singular</gram>
+  <gram type="role">vocative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>putalvaṉai</form>
+<def>son</def>
+<gramGrp>
+  <gram type="role">accusative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>īṉṟa</form>
+<def>having brought forth</def>
+<gramGrp>
+  <gram type="role">perfective aspect</gram>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">v</c>eṉ</form>
+<def>my</def>
+<gramGrp>
+  <gram type="role">pronoun</gram>
+  <gram type="role">oblique</gram>
+  <gram type="role">singular</gram>
+  <gram type="role">first person</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>mēṉi</form>
+<def>body</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>muyaṅkaṉmō-teyya</form>
+<def>do not embrace</def>
+<form type="simple">muyaṅkaṉmō</form>
+<gramGrp>
+  <gram type="role">imperative</gram>
+  <gram type="role">negative</gram>
+  <gram type="role">singular</gram>
+  <gram type="role">second person</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">teyya</m></gramGrp>
+</entry>
+<entry>
+<form>niṉ</form>
+<def>your</def>
+<gramGrp>
+  <gram type="role">pronoun</gram>
+  <gram type="role">oblique</gram>
+  <gram type="role">singular</gram>
+  <gram type="role">second person</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>mārpu</form>
+<def>chest</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<superEntry type="ambiguous">
+<entry><entry>
+<form>citaippatu-<c type="glide">v</c>ē</form>
+<def>something that will ruin or destroy</def>
+<form type="simple">citaippatu</form>
+<gramGrp>
+  <gram type="role">participial noun</gram>
+  <gram type="role">neuter singular</gram>
+  <gram type="role">imperfect aspect</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry></entry>
+<entry><entry>
+<form>citaippatu-<c type="glide">v</c>ē</form>
+<def>ruining or destroying</def>
+<form type="simple">citaippatu</form>
+<gramGrp>
+  <gram type="role">verbal noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry></entry>
+</superEntry>
+</standOff>
 </TEI>

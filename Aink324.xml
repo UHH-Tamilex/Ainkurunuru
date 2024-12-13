@@ -1,0 +1,118 @@
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+            <title xml:lang="ta"/> XX.
+            <persName xml:lang="ta"/>
+        </title>     
+      </titleStmt>
+      <publicationStmt><p/></publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p/>
+            </summary>
+          </msContents>    
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc><change/></revisionDesc>
+  </teiHeader>
+<text xml:lang="ta">
+  <body>
+    <div xml:id="Ainkurunuru324">
+      <lg type="edition">
+<l>erikavarn tuṇṭa veṉṟūḻ nīḷiṭaic</l>
+<l>ciṟitukaṇ paṭuppiṉuṅ kāṇkuveṉ maṉṟa</l>
+<l>naḷḷeṉ kaṅku ṉaḷimaṉai neṭunakar</l>
+<l>vēṅkai veṉṟa cuṇaṅkiṟ</l>
+<l>ṟēmpāy kūntaṉ māa yōḷē</l>
+</lg>
+    </div>
+  </body>
+</text>
+<standOff type="wordsplit" corresp="#Ainkurunuru324">
+<interp type="alignment" select="0">10MG62ML54MGM,130M</interp>
+<entry>
+<form>eri</form>
+</entry>
+<entry>
+<form>kavarnt<c type="elided">u</c></form>
+<form type="sandhi">kavarnt</form>
+</entry>
+<entry>
+<form>uṇṭa</form>
+</entry>
+<entry>
+<form><c type="glide">v</c>eṉṟūḻ</form>
+</entry>
+<entry>
+<form>nīḷ</form>
+</entry>
+<entry>
+<form>iṭai<c type="geminated">c</c></form>
+</entry>
+<entry>
+<form>ciṟitu</form>
+</entry>
+<entry>
+<form>kaṇpaṭuppiṉum</form>
+<form type="sandhi">kaṇpaṭuppiṉuṅ</form>
+</entry>
+<entry>
+<form>kāṇkuveṉ</form>
+</entry>
+<entry>
+<form>maṉṟa</form>
+</entry>
+<entry>
+<form>naḷḷeṉ</form>
+</entry>
+<entry>
+<form>kaṅkul</form>
+<form type="sandhi">kaṅkuṉ</form>
+</entry>
+<entry>
+<form>naḷi</form>
+<form type="sandhi">ṉaḷi</form>
+</entry>
+<entry>
+<form>maṉai</form>
+</entry>
+<entry>
+<form>neṭu</form>
+</entry>
+<entry>
+<form>nakar</form>
+</entry>
+<entry>
+<form>vēṅkai</form>
+</entry>
+<entry>
+<form>veṉṟa</form>
+</entry>
+<entry>
+<form>cuṇaṅkiṉ</form>
+<form type="sandhi">cuṇaṅkiṟ</form>
+</entry>
+<entry>
+<form>tēm</form>
+<form type="sandhi">ṟēm</form>
+</entry>
+<entry>
+<form>pāy</form>
+</entry>
+<entry>
+<form>kūntal</form>
+<form type="sandhi">kūntaṉ</form>
+</entry>
+<entry>
+<form>māayōḷ-ē</form>
+<form type="simple">māayōḷ</form>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+</standOff>
+</TEI>

@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -10,7 +8,7 @@
         <editor role="translator">Eva Wilden</editor>
       </titleStmt>
       <publicationStmt>
-        <p />
+        <p/>
       </publicationStmt>
       <sourceDesc>
         <msDesc xml:lang="en">
@@ -18,14 +16,14 @@
           </msIdentifier>
           <msContents>
             <summary>
-              <p></p>
+              <p/>
             </summary>
           </msContents>
         </msDesc>
       </sourceDesc>
     </fileDesc>
     <revisionDesc>
-      <change />
+      <change/>
     </revisionDesc>
   </teiHeader>
   <text xml:lang="ta">
@@ -52,7 +50,7 @@
           <l rend="indent6"> blooms like the red lotus at early dawn – </l>
           <l> Has your woman no respect? </l>
           <l> </l>
-          <p></p>
+          <p/>
           <l> Although we dog her steps, she does not yield. </l>
 
         </lg>
@@ -62,154 +60,152 @@
     </body>
   </text>
   <standOff type="wordsplit" corresp="#Aink68">
-    <interp type="alignment" select="0">26ML25MG8M2G7ML6MG15MG2M,95MG</interp>
-    <entry>
-      <form>kaṉṉi</form>
-      <def>virgin i.e. early</def>
-      <gramGrp>
-        <gram type="role">noun</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>viṭiyal</form>
-      <def>dawn</def>
-      <gramGrp>
-        <gram type="role">noun</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>kaṇai<pc>+</pc></form>
-      <def>cylinder i.e. hollow or round</def>
-      <gramGrp>
-        <gram type="role">noun</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>kāl</form>
-      <def>stalk</def>
-      <gramGrp>
-        <gram type="role">noun</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>āmpal</form>
-      <def>white-lotus</def>
-      <gramGrp>
-        <gram type="role">noun</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>tāmarai</form>
-      <def>lotus</def>
-      <gramGrp>
-        <gram type="role">noun</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>pōla</form>
-      <def>be similar</def>
-      <gramGrp>
-        <gram type="role">comparative</gram>
-        <gram type="role">postposition</gram>
-        <gram type="role">infinitive</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>malarum</form>
-      <def>blossoming</def>
-      <gramGrp>
-        <gram type="role">imperfect aspect</gram>
-        <gram type="role">peyareccam</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>ūra</form>
-      <def>man from the village</def>
-      <gramGrp>
-        <gram type="role">pronominalised noun</gram>
-        <gram type="role">masculine singular</gram>
-        <gram type="role">vocative</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>pēṇāḷ-ō</form>
-      <def>she does not respect</def>
-      <form type="simple">pēṇāḷ</form>
-      <gramGrp>
-        <gram type="role">feminine singular</gram>
-        <gram type="role">negative</gram>
-      </gramGrp>
-      <gramGrp type="particle">
-        <m>ō</m>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>niṉ</form>
-      <def>your</def>
-      <gramGrp>
-        <gram type="role">pronoun</gram>
-        <gram type="role">oblique</gram>
-        <gram type="role">singular</gram>
-        <gram type="role">second person</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>peṇṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
-      <def>woman</def>
-      <form type="simple">peṇṭu</form>
-      <gramGrp>
-        <gram type="role">noun</gram>
-      </gramGrp>
-      <gramGrp type="particle">
-        <m>ē</m>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>yām</form>
-      <def>we</def>
-      <gramGrp>
-        <gram type="role">pronoun</gram>
-        <gram type="role">plural</gram>
-        <gram type="role">first person</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>taṉ</form>
-      <def>her</def>
-      <gramGrp>
-        <gram type="role">pronoun</gram>
-        <gram type="role">oblique</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>naṭakka-<pc>~</pc>um</form>
-      <def>walk</def>
-      <form type="simple">naṭakka</form>
-      <gramGrp>
-        <gram type="role">infinitive</gram>
-      </gramGrp>
-      <gramGrp type="particle">
-        <m>um</m>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>tāṉ</form>
-      <def>she</def>
-      <gramGrp>
-        <gram type="role">pronoun</gram>
-      </gramGrp>
-    </entry>
-    <entry>
-      <form>aṭaṅkalaḷ-ē</form>
-      <def>she does not yield/submit</def>
-      <form type="simple">aṭaṅkalaḷ</form>
-      <gramGrp>
-        <gram type="role">feminine singular</gram>
-        <gram type="role">negative</gram>
-      </gramGrp>
-      <gramGrp type="particle">
-        <m>ē</m>
-      </gramGrp>
-    </entry>
-  </standOff>
+<interp type="alignment" select="0">26ML25MG8M2G7ML6MG15MG2M,95MG</interp>
+<entry>
+<form>kaṉṉi</form>
+<def>virgin i.e. early</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>viṭiyal</form>
+<def>dawn</def>
+<form type="sandhi">viṭiyaṟ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kaṇai<c type="geminated">k</c></form>
+<def>cylinder i.e. hollow or round</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kāl</form>
+<def>stalk</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>āmpal</form>
+<def>white-lotus</def>
+<form type="sandhi">āmpaṟ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tāmarai</form>
+<def>lotus</def>
+<form type="sandhi">ṟāmarai</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>pōla</form>
+<def>be similar</def>
+<gramGrp>
+  <gram type="role">comparative</gram>
+  <gram type="role">postposition</gram>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>malarum</form>
+<def>blossoming</def>
+<gramGrp>
+  <gram type="role">imperfect aspect</gram>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ūra</form>
+<def>man from the village</def>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">masculine singular</gram>
+  <gram type="role">vocative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>pēṇāḷ-ō</form>
+<def>she does not respect</def>
+<form type="simple">pēṇāḷ</form>
+<gramGrp>
+  <gram type="role">feminine singular</gram>
+  <gram type="role">negative</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ō</m></gramGrp>
+</entry>
+<entry>
+<form>niṉ</form>
+<def>your</def>
+<gramGrp>
+  <gram type="role">pronoun</gram>
+  <gram type="role">oblique</gram>
+  <gram type="role">singular</gram>
+  <gram type="role">second person</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>peṇṭ<c type="elided">u</c>-ē</form>
+<def>woman</def>
+<form type="simple">peṇṭu</form>
+<form type="sandhi">peṇṭ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+<entry>
+<form>yām</form>
+<def>we</def>
+<form type="sandhi">yān</form>
+<gramGrp>
+  <gram type="role">pronoun</gram>
+  <gram type="role">plural</gram>
+  <gram type="role">first person</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>taṉ</form>
+<def>her</def>
+<gramGrp>
+  <gram type="role">pronoun</gram>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>naṭakka-<c type="glide">v</c>um</form>
+<def>walk</def>
+<form type="simple">naṭakka</form>
+<form type="sandhi">ṉaṭakka</form>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>tāṉ</form>
+<def>she</def>
+<gramGrp>
+  <gram type="role">pronoun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>aṭaṅkalaḷ-ē</form>
+<def>she does not yield/submit</def>
+<form type="simple">aṭaṅkalaḷ</form>
+<gramGrp>
+  <gram type="role">feminine singular</gram>
+  <gram type="role">negative</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+</standOff>
 </TEI>
