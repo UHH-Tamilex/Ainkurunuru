@@ -16,7 +16,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>    
         </msDesc>
@@ -42,7 +42,8 @@
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#Aink142"><interp type="alignment" select="0">15MG58MGM,76M</interp>
+<standOff type="wordsplit" corresp="#Aink142">
+<interp type="alignment" select="0">15MG57MG2M,76M</interp>
 <entry>
 <form>ekkar</form>
 <def>dune</def>
@@ -82,14 +83,14 @@
 </gramGrp>
 </entry>
 <entry>
-<form>puḷ<c type="geminated">ḷ</c></form>
+<form>puḷ</form>
 <def>bird</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
-<form>iṟai</form>
+<form><c type="geminated">ḷ</c>iṟai</form>
 <def>seat</def>
 <gramGrp>
   <gram type="role">noun</gram>
@@ -108,8 +109,8 @@
 <def>ghat-he</def>
 <gramGrp>
   <gram type="role">pronominalised noun</gram>
-    <gram type="role">masculine</gram>
-        <gram type="role">singular</gram>
+  <gram type="role">masculine</gram>
+  <gram type="role">singular</gram>
   <gram type="role">accusative</gram>
 </gramGrp>
 </entry>
@@ -149,13 +150,13 @@
 </gramGrp>
 </entry>
 <entry>
-<form>kaṇ<c type="geminated">ṇ</c>-ē</form>
+<form>kaṇ-<c type="geminated">ṇ</c>ē</form>
 <def>eyes</def>
 <form type="simple">kaṇ</form>
-<form type="sandhi">kaṇ<c type="geminated">ṇ</c></form>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
-</entry></standOff>
+</entry>
+</standOff>
 </TEI>
