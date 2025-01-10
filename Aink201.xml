@@ -1,52 +1,54 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?><?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>
-          <title xml:lang="ta">Aiṅkuṟunūṟu</title> 201. <persName xml:lang="ta">Kapilar</persName>
-        </title>
+            <title xml:lang="ta">Aiṅkuṟunūṟu</title> 201.
+            <persName xml:lang="ta">Kapilar</persName>
+        </title> 
+        <editor role="translator">Maanasa Visweswaran</editor>    
       </titleStmt>
-      <publicationStmt>
-        <p/>
-      </publicationStmt>
+      <publicationStmt><p/></publicationStmt>
       <sourceDesc>
         <msDesc xml:lang="en">
           <msIdentifier>
           </msIdentifier>
-          <msContents>
-            <summary>
-              <p/>
+           <msContents>
+            <summary><p/>
             </summary>
-          </msContents>
+          </msContents>    
         </msDesc>
       </sourceDesc>
     </fileDesc>
-    <revisionDesc>
-      <change/>
-    </revisionDesc>
+    <revisionDesc><change/></revisionDesc>
   </teiHeader>
-  <text xml:lang="ta">
-    <body>
-      <div xml:id="Aink201">
-        <lg type="edition">
-          <l>aṉṉāy vāḻivēṇ ṭaṉṉai yeṉṉai</l>
-          <l>tāṉu malaintā ṉemakkuṉ taḻaiyāyiṉa</l>
-          <l>poṉvī maṇiyarum piṉavē</l>
-          <l>yeṉṉa maraṅkolavar cāra lavvē</l>
-        </lg>
-        <lg type="translation" xml:lang="en">
-          <l>Oh Mother, please Mother, </l>
-          <l>that which my lord himself wore</l> 
-          <l>and which [also] became the foliage for me,</l> 
-          <l>had golden mature-blossoms and sapphire buds.</l> 
-          <l>What are the trees upon his mountain slope?</l> 
+<text xml:lang="ta" type="edition">
+  <body>
+  <div xml:id="Aink201-kilavi">
+      <p type="edition"> notu malar varaiviṉkaṇ cevili kēṭkum āṟṟāl talaimakaṭ ṭōḻikk* aṟattoṭu nilai kuṟitt* uraittatu. </p>
 
-        </lg>
+      <p type="translation" xml:lang="en"> What the heroine told the confidante regarding the “standing up with virtue” [i.e., revealing the truth], in [the context] of marrying a stranger, by a manner in which foster mother [could] listen. </p>
       </div>
-    </body>
-  </text>
-  <standOff type="wordsplit" corresp="#Aink201">
-<interp type="alignment" select="0">13MG16ML13M2G31MG12MG14MG2M,108M</interp>
+    <div rend="parallel">
+      <lg xml:id="Aink201">
+<l>aṉṉāy vāḻivēṇ ṭaṉṉai yeṉṉai</l>
+<l>tāṉu malaintā ṉemakkun taḻaiyāyiṉa</l>
+<l>poṉvī maṇiyarum piṉavē</l>
+<l>yeṉṉa maraṅko lavarcāra lavvē</l>
+      </lg>
+        <lg xml:lang="en">
+          <l>Oh Mother, dear Mother, </l>
+          <l>What my lord himself wore, </l>
+          <l>which also became the foliage for me,</l>
+          <l>had golden mature blossoms and sapphire buds.</l>
+          <l rend="space">“What trees grow upon his mountain slope?</l>
+
+          
+      </lg>
+    </div>
+  </body>
+</text>
+<standOff type="wordsplit" corresp="#Aink201"><interp type="alignment" select="0">13MG16ML20MG36MG16M,50MG54M</interp>
 <entry>
 <form>aṉṉāy</form>
 <def>mother</def>
@@ -79,6 +81,9 @@
 <entry>
 <form><c type="glide">y</c>eṉṉai</form>
 <def>my-lord</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
 </entry>
 <entry>
 <form>tāṉum</form>
@@ -94,28 +99,23 @@
 <def>wore-he</def>
 </entry>
 <entry>
-<form>emakk<c type="elided">u</c>-um</form>
+<form>emakkum</form>
 <def>us</def>
-<form type="simple">emakku</form>
-<form type="sandhi">emakk</form>
+<form type="sandhi">emakkun</form>
 <gramGrp>
   <gram type="role">dative</gram>
 </gramGrp>
-<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
 </entry>
 <entry>
-<form>taḻai</form>
+<form>taḻāi</form>
 <def>foliage</def>
-<gramGrp>
-  <gram type="role">noun</gram>
-</gramGrp>
+<form type="sandhi">taḻai</form>
 </entry>
 <entry>
 <form><c type="glide">y</c>āyiṉa</form>
 <def>became-they</def>
 <gramGrp>
-  <gram type="role">neuter plural</gram>
-  <gram type="role">perfective aspect</gram>
+  <gram type="role">plural</gram>
 </gramGrp>
 </entry>
 <entry>
@@ -140,23 +140,22 @@
 </gramGrp>
 </entry>
 <entry>
-<form><c type="glide">y</c>arumpiṉa-<c type="glide">v</c>ē</form>
-<def>bud-they</def>
-<form type="simple">arumpiṉa</form>
-<form type="sandhi"><c type="glide">y</c>arumpiṉa</form>
+<form><c type="glide">y</c>arumpiṉa<c type="glide">v</c>ē</form>
+<def>bud-they(pl.|p.a.)-</def>
 <gramGrp>
-  <gram type="role">neuter plural</gram>
+  <gram type="role">plural</gram>
   <gram type="role">perfective aspect</gram>
 </gramGrp>
-<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry>
 <entry>
 <form><c type="glide">y</c>eṉṉa</form>
 <def>what</def>
+<gramGrp>
+</gramGrp>
 </entry>
 <entry>
 <form>maram-kol</form>
-<def>tree</def>
+<def>tree(n.)-</def>
 <form type="simple">maram</form>
 <form type="sandhi">maraṅ</form>
 <gramGrp>
@@ -168,7 +167,7 @@
 <form>avar</form>
 <def>he</def>
 <gramGrp>
-  <gram type="role">plural</gram>
+  <gram type="role">honorific</gram>
 </gramGrp>
 </entry>
 <entry>
@@ -179,14 +178,95 @@
 </gramGrp>
 </entry>
 <entry>
-<form>a<c type="geminated">v</c>-<c type="glide">v</c>ē</form>
+<form>a<c type="glide">v</c><c type="geminated">v</c>ē</form>
 <def>they</def>
-<form type="simple">a</form>
-<form type="sandhi">a<c type="geminated">v</c></form>
 <gramGrp>
   <gram type="role">neuter plural</gram>
 </gramGrp>
-<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry></standOff>
+<standOff corresp="#Aink201-kilavi" type="wordsplit">
+<interp type="alignment" select="0">84M,83MG</interp>
+<entry>
+<form>notumalar</form>
+<def>stranger</def>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">third person</gram>
+</gramGrp>
 </entry>
-</standOff>
-</TEI>
+<entry>
+<form>varaiviṉkaṇ</form>
+<def>marriage</def>
+<gramGrp>
+  <gram type="role">locative</gram>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>cevili</form>
+<def>foster-mother</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kēṭkum</form>
+<def>listening-</def>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+  <gram type="role">imperfect aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>āṟṟāl</form>
+<def>path</def>
+<gramGrp>
+  <gram type="role">instrumental</gram>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>talaimakaḷ</form>
+<def>heroine</def>
+<form type="sandhi">talaimakaṭ</form>
+</entry>
+<entry>
+<form>tōḻikku</form>
+<def>confidante</def>
+<form type="sandhi">ṭōḻikk*</form>
+<gramGrp>
+  <gram type="role">dative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>aṟattoṭu</form>
+<def>virtue</def>
+<gramGrp>
+  <gram type="role">sociative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>nilai</form>
+<def>state</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kuṟittu</form>
+<def>intended</def>
+<form type="sandhi">kuṟitt*</form>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>uraittatu</form>
+<def>told-it</def>
+<gramGrp>
+  <gram type="role">participial noun</gram>
+  <gram type="role">neuter singular</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+</standOff></TEI>
