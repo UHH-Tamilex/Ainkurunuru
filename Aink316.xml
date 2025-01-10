@@ -23,7 +23,7 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="poem316">
+    <div xml:id="Aink316">
       <lg type="edition">
 <l>poṉcey pāṇṭiṟ polaṅkala nantat</l>
 <l>tēraka lalku lavvari vāṭa</l>
@@ -41,7 +41,7 @@
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#poem316">
+<standOff type="wordsplit" corresp="#Aink316">
 <interp type="alignment" select="0">21MR44MG43MG13MGM,126M</interp>
 <entry>
 <form>poṉ</form>
