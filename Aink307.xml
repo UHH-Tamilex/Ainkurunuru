@@ -1,4 +1,6 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -30,10 +32,10 @@
             <l>pāvai yaṉṉaniṉ ṟuṇaippirintu varumē</l>                                       
             </lg>
             <lg type="translation" xml:lang="en">
-              <l>You made up your mind to go to the harsh wasteland full of hills,</l>
-              <l>Where roaring fire [that sparked from] rubbing bamboos frightens tiger!</l>
-              <l>Seashore-dweller! You wealth isn’t good.</l>
-              <l>Come back after separating from your doll-like partner!</l>
+              <l>You decided to go to the difficult desert full of hills,</l>
+              <l></l>where tiger is frightened by the roaring fire [that sparked from] rubbing bamboos!
+              <l></l>O man from the seashore! Your wealth isn’t good. 
+              <l></l>After separating from your doll-like girl, do come back! 
               </lg>
               <standOff type="wordsplit" corresp="#Aink307">
 <interp type="alignment" select="0">15MG20MG29MG6MG15MG32MGM,124M</interp>
@@ -69,14 +71,17 @@
 <entry>
 <form>vayamā</form>
 <def>tiger</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
 </entry>
 <entry>
 <form>verūum</form>
-<def>frighten</def>
+<def>being frightened</def>
 <form type="sandhi">verūuṅ</form>
 <gramGrp>
-  <gram type="role">imperfect aspect</gram>
   <gram type="role">peyareccam</gram>
+  <gram type="role">imperfect aspect</gram>
 </gramGrp>
 </entry>
 <entry>
@@ -96,7 +101,7 @@
 </entry>
 <entry>
 <form><c type="glide">y</c>arum</form>
-<def>harsh</def>
+<def>difficult</def>
 <form type="sandhi"><c type="glide">y</c>aruñ</form>
 <gramGrp>
   <gram type="role">adjective</gram>
@@ -104,7 +109,7 @@
 </entry>
 <entry>
 <form>curam</form>
-<def>wasteland</def>
+<def>desert</def>
 <form type="sandhi">curañ</form>
 <gramGrp>
   <gram type="role">noun</gram>
@@ -131,9 +136,11 @@
 </entry>
 <entry>
 <form>naṉṟ<c type="elided">u</c></form>
-<def>goodness</def>
+<def>good-it</def>
 <form type="sandhi">naṉṟ</form>
 <gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">neuter singular</gram>
 </gramGrp>
 </entry>
 <entry>
@@ -145,7 +152,7 @@
 </entry>
 <entry>
 <form>koṇka</form>
-<def>seashore-dweller</def>
+<def>man from the seashore</def>
 <gramGrp>
   <gram type="role">vocative</gram>
 </gramGrp>
@@ -189,10 +196,10 @@
 </entry>
 <entry>
 <form>tuṇai<c type="geminated">p</c></form>
-<def>girl</def>
+<def>girlfriend</def>
 <form type="sandhi">ṟuṇai<c type="geminated">p</c></form>
 <gramGrp>
-  <gram type="role">noun</gram>
+  <gram type="role">root noun</gram>
 </gramGrp>
 </entry>
 <entry>
