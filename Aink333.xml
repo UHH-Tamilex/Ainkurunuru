@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+            <title xml:lang="ta">Aiṅkuṟunūṟu</title> 333. <persName xml:lang="ta">Ōtalāntaiyār</persName>
+        </title>
+        <editor role="translator">Nikolay Gordiychuk</editor>
+      </titleStmt>
+      <publicationStmt><p/></publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc><change/></revisionDesc>
+  </teiHeader>
+<text xml:lang="ta" type="edition">
+  <body>
+    <div rend="parallel">
+      <lg xml:id="Aink333">
+<l>amma vāḻi tōḻi yāvatum</l>
+<l>vallā kollō tāmē yavaṇa</l>
+<l>kalluṭai naṉṉāṭṭup puḷḷiṉap peruntō</l>
+<l>ṭiyāan tuṇaipuṇarn tuṟaitum</l>
+<l>yāṅkup pirintuṟaiti yeṉṉā tavvē</l>
+      </lg>
+      <lg type="translation" xml:lang="en">
+<l>Alas! May you live long, my friend!</l>
+<l>Listen!  The huge flocks of bird kind in the good land full of rocks, </l>
+<l>that belong to that place – aren’t they capable even a little? </l>
+<l>None of them asks: “We live together with [our] companions! </l>
+<l>How do you live in separation?” </l>
+      </lg>
+    </div>
+  </body>
+</text>
+<standOff type="wordsplit" corresp="#Aink333"><interp type="alignment" select="0">24MG4MG4MG40M2GMG16MG19MG12MG4M,133M</interp>
+<entry>
+<form>amma</form>
+<def>alas</def>
+<gramGrp>
+  <gram type="role">interjection</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vāḻi</form>
+<def>live-you</def>
+<gramGrp>
+  <gram type="role">subjuntive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tōḻi</form>
+<def>confidante</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>yāvatum</form>
+<def>even a little</def>
+<gramGrp>
+  <gram type="role">adverb</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vallā-kol<c type="geminated">l</c>-ō</form>
+<def>able-not</def>
+<form type="simple">vallā-kol</form>
+<form type="sandhi">vallākol<c type="geminated">l</c></form>
+<gramGrp>
+  <gram type="role">negative</gram>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ō</m></gramGrp>
+</entry>
+<entry>
+<form>tām-ē</form>
+<def>they</def>
+<form type="simple">tām</form>
+<gramGrp>
+  <gram type="role">pronoun</gram>
+  <gram type="role">plural</gram>
+  <gram type="role">third person</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>avaṇa</form>
+<def>there-they</def>
+<gramGrp>
+  <gram type="role">neuter plural</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kal<c type="geminated">l</c></form>
+<def>rock</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>uṭai</form>
+<def>have</def>
+<gramGrp>
+  <gram type="role">verbal root</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>nal</form>
+<def>good</def>
+<form type="sandhi">naṉ</form>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>nāṭṭu<c type="geminated">p</c></form>
+<def>land</def>
+<form type="sandhi">ṉāṭṭu<c type="geminated">p</c></form>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>puḷ<c type="geminated">ḷ</c></form>
+<def>bird</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>iṉa<c type="geminated">p</c></form>
+<def>kind</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>perum</form>
+<def>great</def>
+<form type="sandhi">perun</form>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tōṭ<c type="elided">u</c></form>
+<def>flock</def>
+<form type="sandhi">tōṭ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>(i)yāam</form>
+<def>we</def>
+<form type="sandhi">iyāan</form>
+<gramGrp>
+  <gram type="role">pronoun</gram>
+  <gram type="role">plural</gram>
+  <gram type="role">first person</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tuṇai</form>
+<def>companion</def>
+<gramGrp>
+  <gram type="role">root noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>puṇarnt<c type="elided">u</c></form>
+<def>connected</def>
+<form type="sandhi">puṇarnt</form>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>uṟaitum</form>
+<def>live</def>
+<gramGrp>
+  <gram type="role">subjuntive</gram>
+  <gram type="role">plural</gram>
+  <gram type="role">first person</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>yāṅku<c type="geminated">p</c></form>
+<def>how</def>
+</entry>
+<entry>
+<form>pirint<c type="elided">u</c></form>
+<def>separated</def>
+<form type="sandhi">pirint</form>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>uṟaiti</form>
+<def>live</def>
+<gramGrp>
+  <gram type="role">subjuntive</gram>
+  <gram type="role">singular</gram>
+  <gram type="role">second person</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>eṉṉāt<c type="elided">u</c></form>
+<def>say-not</def>
+<form type="sandhi"><c type="glide">y</c>eṉṉāt</form>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+  <gram type="role">negative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>avvē</form>
+<def>those</def>
+<gramGrp>
+  <gram type="role">pronoun</gram>
+  <gram type="role">neuter plural</gram>
+</gramGrp>
+</entry></standOff>
+</TEI>
