@@ -6,9 +6,9 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"></title> XX.
-            <persName xml:lang="ta"></persName>
-        </title>     
+            <title xml:lang="ta">Aiṅkuṟunūṟu</title> 350. <persName xml:lang="ta">Ōtalāntaiyār</persName>
+        </title>
+        <editor role="translator">Nikolay Gordiychuk</editor>
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
       <sourceDesc>
@@ -27,18 +27,20 @@
 <text xml:lang="ta" type="edition">
   <body>
     <div rend="parallel">
-      <lg xml:id="Aink343">
+      <lg xml:id="Aink350">
 <l>avarō vārār tāṉvan taṉṟē</l>
-<l>tiṇinilaik kōṅkam payanta</l>
-<l>aṇimiku koḻumukai yuṭaiyum poḻutē</l>
+<l>vēmpi ṉoṇpū vuṟaippat</l>
+<l>tēmpaṭu kiḷaviyavar teḷikkum poḻutē</l>
       </lg>
-      <lg xml:lang="en">
-<!--put your translation here-->
+      <lg type="translation" xml:lang="en">
+<l>Won’t he himself come? The season has arrived, </l>
+<l>when they speak honeyed words, </l>
+<l>as bright flowers bloom upon the Neem tree. </l>
       </lg>
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#Aink343"><interp type="alignment" select="0">4MG16M2G53M2GM,79M</interp>
+<standOff type="wordsplit" corresp="#Aink350"><interp type="alignment" select="0">4MG16M2G51M2GM,77M</interp>
 <entry>
 <form>avar-ō</form>
 <def>he</def>
@@ -79,68 +81,68 @@
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry>
 <entry>
-<form>tiṇi</form>
-<def>become-firm</def>
+<form>vēmpiṉ</form>
+<def>Neem tree</def>
 <gramGrp>
-  <gram type="role">noun</gram>
+  <gram type="role">oblique</gram>
 </gramGrp>
 </entry>
 <entry>
-<form>nilai<c type="geminated">k</c></form>
-<def>standing</def>
-<gramGrp>
-  <gram type="role">noun</gram>
-</gramGrp>
-</entry>
-<entry>
-<form>kōṅkam</form>
-<def>Myrobalan tree</def>
-<gramGrp>
-  <gram type="role">noun</gram>
-</gramGrp>
-</entry>
-<entry>
-<form>payanta</form>
-<def>yielded</def>
-<gramGrp>
-  <gram type="role">perfective aspect</gram>
-  <gram type="role">peyareccam</gram>
-</gramGrp>
-</entry>
-<entry>
-<form>aṇi</form>
-<def>adornment</def>
-<gramGrp>
-  <gram type="role">verbal root</gram>
-</gramGrp>
-</entry>
-<entry>
-<form>miku</form>
-<def>become-much</def>
-<gramGrp>
-  <gram type="role">verbal root</gram>
-</gramGrp>
-</entry>
-<entry>
-<form>koḻu</form>
-<def>thick</def>
+<form>oṇ</form>
+<def>bright</def>
 <gramGrp>
   <gram type="role">adjective</gram>
 </gramGrp>
 </entry>
 <entry>
-<form>mukai</form>
-<def>bud</def>
+<form>pū</form>
+<def>flower</def>
 <gramGrp>
-  <gram type="role">root noun</gram>
+  <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
-<form><c type="glide">y</c>uṭaiyum</form>
-<def>breaking-open</def>
+<form><c type="glide">v</c>uṟaippa<c type="geminated">t</c></form>
+<def>drip</def>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tēm</form>
+<def>honey</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>paṭu</form>
+<def>happen</def>
+<gramGrp>
+  <gram type="role">verbal root</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kiḷavi</form>
+<def>word</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>avar</form>
+<def>they</def>
+<gramGrp>
+  <gram type="role">pronoun</gram>
+  <gram type="role">plural</gram>
+  <gram type="role">third person</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>teḷikkum</form>
+<def>speak</def>
 <gramGrp>
   <gram type="role">peyareccam</gram>
-  <gram type="role">imperfect aspect</gram>
 </gramGrp>
 </entry>
 <entry>

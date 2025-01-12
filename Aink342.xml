@@ -27,10 +27,10 @@
 <text xml:lang="ta" type="edition">
   <body>
     <div rend="parallel">
-      <lg xml:id="Aink343">
+      <lg xml:id="Aink342">
 <l>avarō vārār tāṉvan taṉṟē</l>
-<l>tiṇinilaik kōṅkam payanta</l>
-<l>aṇimiku koḻumukai yuṭaiyum poḻutē</l>
+<l>curumpukaḷit tālu miruñciṉaik</l>
+<l>karuṅkā ṉuṇavaṅ kamaḻum poḻutē</l>
       </lg>
       <lg xml:lang="en">
 <!--put your translation here-->
@@ -38,7 +38,7 @@
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#Aink343"><interp type="alignment" select="0">4MG16M2G53M2GM,79M</interp>
+<standOff type="wordsplit" corresp="#Aink342"><interp type="alignment" select="0">4MG16M2G14MG22ML18M2GM,82M</interp>
 <entry>
 <form>avar-ō</form>
 <def>he</def>
@@ -79,68 +79,71 @@
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry>
 <entry>
-<form>tiṇi</form>
-<def>become-firm</def>
+<form>curumpu</form>
+<def>bee</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
-<form>nilai<c type="geminated">k</c></form>
-<def>standing</def>
+<form>kaḷitt<c type="elided">u</c></form>
+<def>be joyful</def>
+<form type="sandhi">kaḷitt</form>
 <gramGrp>
-  <gram type="role">noun</gram>
+  <gram type="role">absolutive</gram>
 </gramGrp>
 </entry>
 <entry>
-<form>kōṅkam</form>
-<def>Myrobalan tree</def>
+<form>ālum</form>
+<def>humming</def>
 <gramGrp>
-  <gram type="role">noun</gram>
-</gramGrp>
-</entry>
-<entry>
-<form>payanta</form>
-<def>yielded</def>
-<gramGrp>
-  <gram type="role">perfective aspect</gram>
   <gram type="role">peyareccam</gram>
 </gramGrp>
 </entry>
 <entry>
-<form>aṇi</form>
-<def>adornment</def>
-<gramGrp>
-  <gram type="role">verbal root</gram>
-</gramGrp>
-</entry>
-<entry>
-<form>miku</form>
-<def>become-much</def>
-<gramGrp>
-  <gram type="role">verbal root</gram>
-</gramGrp>
-</entry>
-<entry>
-<form>koḻu</form>
-<def>thick</def>
+<form>irum</form>
+<def>large</def>
+<form type="sandhi">iruñ</form>
 <gramGrp>
   <gram type="role">adjective</gram>
 </gramGrp>
 </entry>
 <entry>
-<form>mukai</form>
-<def>bud</def>
+<form>ciṉai</form>
+<def>branch</def>
 <gramGrp>
   <gram type="role">root noun</gram>
 </gramGrp>
 </entry>
 <entry>
-<form><c type="glide">y</c>uṭaiyum</form>
-<def>breaking-open</def>
+<form><c type="geminated">k</c>karum</form>
+<def>black</def>
+<form type="sandhi"><c type="geminated">k</c>karuṅ</form>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kāl</form>
+<def>stem</def>
+<form type="sandhi">kāṉ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>nuṇavam</form>
+<def>Indian mulberry</def>
+<form type="sandhi">ṉuṇavaṅ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kamaḻum</form>
+<def>emitting fragrance</def>
 <gramGrp>
   <gram type="role">peyareccam</gram>
-  <gram type="role">imperfect aspect</gram>
 </gramGrp>
 </entry>
 <entry>
