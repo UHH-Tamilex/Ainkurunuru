@@ -6,9 +6,9 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"></title> XX.
-            <persName xml:lang="ta"></persName>
-        </title>     
+            <title xml:lang="ta">Aiṅkuṟunūṟu</title> 342. <persName xml:lang="ta">Ōtalāntaiyār</persName>
+        </title>
+        <editor role="translator">Nikolay Gordiychuk</editor>
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
       <sourceDesc>
@@ -32,8 +32,10 @@
 <l>curumpukaḷit tālu miruñciṉaik</l>
 <l>karuṅkā ṉuṇavaṅ kamaḻum poḻutē</l>
       </lg>
-      <lg xml:lang="en">
-<!--put your translation here-->
+      <lg type="translation" xml:lang="en">
+<l>Won’t he himself come? The season has arrived, </l>
+<l>when bees joyfully hum, and Indian mulberry  </l>
+<l>with large branches and black trunk emits fragrance. </l>
       </lg>
     </div>
   </body>
