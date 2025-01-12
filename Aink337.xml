@@ -4,11 +4,11 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
-      <titleStmt>
+     <titleStmt>
         <title>
-            <title xml:lang="ta"></title> XX.
-            <persName xml:lang="ta"></persName>
-        </title>     
+            <title xml:lang="ta">Aiṅkuṟunūṟu</title> 337. <persName xml:lang="ta">Ōtalāntaiyār</persName>
+        </title>
+        <editor role="translator">Nikolay Gordiychuk</editor>
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
       <sourceDesc>
@@ -33,8 +33,11 @@
 <l>miṉiya maṉṟa tāmē</l>
 <l>paṉiyiruṅ kuṉṟañ ceṉṟōrkkup poruḷē</l>
       </lg>
-      <lg xml:lang="en">
-<!--put your translation here-->
+      <lg type="translation" xml:lang="en">
+<l>Alas! May you live long, my friend! </l>
+<l>For the man who went to the chilly dark hills, </l>
+<l>wealth is more pleasant than embraces, </l>
+<l>in which lustful hands tightly hold the body. </l>
       </lg>
     </div>
   </body>
