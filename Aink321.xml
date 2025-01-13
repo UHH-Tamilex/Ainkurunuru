@@ -36,25 +36,27 @@
       </lg>
      <lg type="translation" xml:lang="en">
 <l>Even if [I] traverse many mountains [where] languages vary, </l>
-<l>where in the forest with dried soil, a chisel-beaked female kite, that has scorched head, </l>
-<l>climbs the pretty branch of Ōmai tree, that has screaming top,</l>
+<l>where in the forest with dried soil,  </l>
+<l>a chisel-beaked female kite, that has shaggy head,</l>
+<l>climbs the pretty branch of Ōmai tree, that has forky top,</l>
 <l>and screeches in loneliness,</l>
-<l>the virtues of the girl with bright bracelets will not go away and vanish.</l>
-      </lg>
+<l>the virtues of the girl with bright bracelets </l>
+<l>will not go away and vanish.</l>    
+     </lg>
     </div>
   </body>
 </text>
 <standOff type="wordsplit" corresp="#Aink321"><interp type="alignment" select="0">56MG22MR54MG11MGM,148M</interp>
 <entry>
 <form>ulaṟu</form>
-<def>scorch</def>
+<def>be shaggy</def>
 <gramGrp>
   <gram type="role">verbal root</gram>
 </gramGrp>
 </entry>
 <entry>
 <form>talai<c type="geminated">p</c></form>
-<def>top</def>
+<def>head</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -89,14 +91,14 @@
 </entry>
 <entry>
 <form>alaṟu</form>
-<def>cry</def>
+<def>be forky</def>
 <gramGrp>
   <gram type="role">verbal root</gram>
 </gramGrp>
 </entry>
 <entry>
 <form>talai<c type="glide">y</c></form>
-<def>head</def>
+<def>top</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
