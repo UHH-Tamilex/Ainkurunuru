@@ -16,7 +16,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>    
         </msDesc>
@@ -44,7 +44,8 @@
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#Aink313"><interp type="alignment" select="0">7MG18M2G18MG46MG23MG9ML9MGM,139M</interp>
+<standOff type="wordsplit" corresp="#Aink313">
+<interp type="alignment" select="0">7MG18M2G18MG46MG23MG9ML9MGM,139M</interp>
 <entry>
 <form>teṟuvat<c type="elided">u</c></form>
 <def>perish-it</def>
@@ -179,14 +180,14 @@
 </entry>
 <entry>
 <form>iṭai</form>
-<def>middle</def>
+<def>between</def>
 <gramGrp>
-  <gram type="role">noun</gram>
+  <gram type="role">postposition</gram>
 </gramGrp>
 </entry>
 <entry>
 <form>vilaṅkiya</form>
-<def>been-transverse</def>
+<def>lying</def>
 <gramGrp>
   <gram type="role">perfective aspect</gram>
   <gram type="role">peyareccam</gram>
@@ -234,5 +235,6 @@
   <gram type="role">feminine singular</gram>
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
-</entry></standOff>
+</entry>
+</standOff>
 </TEI>
