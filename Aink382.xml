@@ -37,8 +37,8 @@
       <lg type="translation" xml:lang="en">
 <l>The girl whose eyes startle at the cries of birds, </l>
 <l>passed through the harsh wasteland with her young man  </l>
-<l>in perfect anklets and a shining spear. </l>
-<l>A lot will suffer the women from the house, </l>
+<l>in perfect anklets and a shining spear, </l>
+<l>to bring much suffering to the women from the house, </l>
 <l>who have borne daughters [adorned] with fine jewels,</l>
 <l>in the small noisy village, which is taking rest at night. </l>
       </lg>
@@ -237,19 +237,16 @@
 <form>nōvumār</form>
 <def>suffer</def>
 <gramGrp>
-  <gram type="role">imperfect aspect</gram>
-  <gram type="role">plural</gram>
-  <gram type="role">third person</gram>
+  <gram type="role">infinitive</gram>
 </gramGrp>
 </entry>
 <entry>
 <form>perit<c type="elided">u</c>-ē</form>
-<def>big-it</def>
+<def>much</def>
 <form type="simple">peritu</form>
 <form type="sandhi">perit</form>
 <gramGrp>
-  <gram type="role">pronominalised noun</gram>
-  <gram type="role">neuter singular</gram>
+  <gram type="role">adverb</gram>
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry></standOff>
