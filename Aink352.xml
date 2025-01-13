@@ -37,7 +37,8 @@
       <lg type="translation" xml:lang="en">
 <l>Our beloved has returned, my friend, </l>
 <l>he who would not call harsh the scorching desert, </l>
-<l>where fierce is the great wrath of elephants, their beautiful coarse large trunks, </l>
+<l>where fierce is the great wrath of elephants, </l>
+<l>their beautiful coarse large trunks </l>
 <l>resembling engraved memorial stones of those who died, </l>
 <l>when bold warriors excellent in archery, shot from their bows.</l>
       </lg>
@@ -99,14 +100,14 @@
 </entry>
 <entry>
 <form>uṭai</form>
-<def>break</def>
+<def>have</def>
 <gramGrp>
   <gram type="role">verbal root</gram>
 </gramGrp>
 </entry>
 <entry>
 <form>naṭukal</form>
-<def>hero-stone</def>
+<def>memorial stone</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
