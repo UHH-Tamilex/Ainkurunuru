@@ -16,7 +16,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>    
         </msDesc>
@@ -36,20 +36,20 @@
       </lg>
       <lg type="translation" xml:lang="en">
 <l>Mother, may you live long! Listen, mother! </l>
-<l>If you, [with angry] red eyes uselessly urge me, </l>
+<l>If you, whose eyes reddened [because of anger], uselessly urge me,</l>
 <l>saying that my friend has become pale,</l>
 <l>is there [at least] a little to be known?</l>
-<l>Changes are caused by the Kōṇkam tree with blossoming flowers! </l>
+<l>Changes are caused by the Kōṇkam tree with blossoming flowers!</l>
       </lg>
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#Aink366"><interp type="alignment" select="0">13MG27MG21MG32MG5M2G27M2GM,134M</interp>
+<standOff type="wordsplit" corresp="#Aink366">
+<interp type="alignment" select="0">13MG27MG21MG32MG5M2G27M2GM,134M</interp>
 <entry>
 <form>aṉṉāy</form>
 <def>mother</def>
 <gramGrp>
-  <gram type="role">sandhi</gram>
   <gram type="role">vocative</gram>
 </gramGrp>
 </entry>
@@ -234,5 +234,6 @@
   <gram type="role">root noun</gram>
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
-</entry></standOff>
+</entry>
+</standOff>
 </TEI>
