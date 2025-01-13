@@ -115,13 +115,13 @@
 <gramGrp>
   <gram type="role">participial noun</gram>
   <gram type="role">imperfect aspect</gram>
-  <gram type="role">honorific</gram>
+  <gram type="role">plural</gram>
   <gram type="role">third person</gram>
 </gramGrp>
 </entry>
 <entry>
 <form>ceṉṉi<c type="geminated">k</c></form>
-<def>top</def>
+<def>head</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
