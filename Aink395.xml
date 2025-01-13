@@ -16,7 +16,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>    
         </msDesc>
@@ -46,7 +46,8 @@
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#Aink395"><interp type="alignment" select="0">92ML18MG28MG21MG25M2GM,191M</interp>
+<standOff type="wordsplit" corresp="#Aink395">
+<interp type="alignment" select="0">92ML18MG28MG21MG25M2GM,191M</interp>
 <entry>
 <form>muḷi</form>
 <def>dry</def>
@@ -157,7 +158,7 @@
 </entry>
 <entry>
 <form><c type="glide">v</c>arum</form>
-<def>harsh</def>
+<def>difficult</def>
 <form type="sandhi"><c type="glide">v</c>aruñ</form>
 <gramGrp>
   <gram type="role">adjective</gram>
@@ -315,5 +316,6 @@
   <gram type="role">oblique</gram>
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
-</entry></standOff>
+</entry>
+</standOff>
 </TEI>
