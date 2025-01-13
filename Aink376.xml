@@ -45,7 +45,7 @@
   </body>
 </text>
 <standOff type="wordsplit" corresp="#Aink376">
-<interp type="alignment" select="0">3ML49MG85MGM,141M</interp>
+<interp type="alignment" select="0">3ML16MG33MG85MGM,142M</interp>
 <entry>
 <form>nāḷ</form>
 <def>day</def>
@@ -70,12 +70,13 @@
 </gramGrp>
 </entry>
 <entry>
-<form>eṉṉiṉum</form>
+<form>eṉṉiṉ-um</form>
 <def>me</def>
+<form type="simple">eṉṉiṉ</form>
 <gramGrp>
   <gram type="role">oblique</gram>
-  <gram type="role">comparative</gram>
 </gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
 </entry>
 <entry>
 <form>iṭai</form>
@@ -181,7 +182,7 @@
 </entry>
 <entry>
 <form><c type="glide">y</c>uṇ</form>
-<def>collyirium</def>
+<def>kohl</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
