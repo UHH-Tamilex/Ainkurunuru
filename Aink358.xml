@@ -16,7 +16,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>    
         </msDesc>
@@ -43,7 +43,8 @@
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#Aink358"><interp type="alignment" select="0">3MG27MR9MG5M2G49MG18MGM,119M</interp>
+<standOff type="wordsplit" corresp="#Aink358">
+<interp type="alignment" select="0">3MG27MR9MG5M2G49MG18MGM,119M</interp>
 <entry>
 <form>kōṭ<c type="elided">u</c></form>
 <def>peak</def>
@@ -139,10 +140,10 @@
 </entry>
 <entry>
 <form>toṟum</form>
-<def>ever</def>
+<def>every time</def>
 <form type="sandhi">toṟun</form>
 <gramGrp>
-  <gram type="role">noun</gram>
+  <gram type="role">postposition</gram>
 </gramGrp>
 </entry>
 <entry>
@@ -154,10 +155,10 @@
 </entry>
 <entry>
 <form>toṟum</form>
-<def>ever</def>
+<def>every time</def>
 <form type="sandhi">toṟuṅ</form>
 <gramGrp>
-  <gram type="role">noun</gram>
+  <gram type="role">postposition</gram>
 </gramGrp>
 </entry>
 <entry>
@@ -206,5 +207,6 @@
   <gram type="role">noun</gram>
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
-</entry></standOff>
+</entry>
+</standOff>
 </TEI>
