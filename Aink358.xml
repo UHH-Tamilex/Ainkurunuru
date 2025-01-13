@@ -85,7 +85,7 @@
 </entry>
 <entry>
 <form>āyiṉum</form>
-<def>if-even</def>
+<def>even though</def>
 <form type="sandhi">āyiṉun</form>
 <gramGrp>
   <gram type="role">concessive</gram>
@@ -93,9 +93,9 @@
 </entry>
 <entry>
 <form>nīṭa</form>
-<def>forever-they</def>
+<def>last long</def>
 <gramGrp>
-  <gram type="role">neuter plural</gram>
+  <gram type="role">infinitive</gram>
 </gramGrp>
 </entry>
 <entry>
@@ -170,7 +170,7 @@
 </entry>
 <entry>
 <form><c type="glide">y</c>uṭaitt<c type="elided">u</c></form>
-<def>break</def>
+<def>overflow</def>
 <form type="sandhi"><c type="glide">y</c>uṭaitt</form>
 <gramGrp>
   <gram type="role">absolutive</gram>
