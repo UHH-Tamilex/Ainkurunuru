@@ -35,10 +35,11 @@
 <l>ṉiṇaiyē ruṇka ṇivaṭkunō vatuvē</l>
       </lg>
      <lg type="translation" xml:lang="en">
-<l>I don’t suffer for that girl, </l>
+<l>I grieve for that girl, </l>
 <l>who left [me] to be lonely in the evening times, </l>
 <l>when bats soar upward, with their spread wings, attempting to fly. </l>
-<l>Grieving is for this girl with a pair of beautiful collyrium eyes,  </l>
+<l>And grieving is also for this girl</l> 
+<l>with a pair of beautiful kohl eyes,</l>
 <l>whose heart is in pain without a sweet-voiced friend.  </l>
       </lg>
     </div>
@@ -131,9 +132,9 @@
 </entry>
 <entry>
 <form>nōvēṉ</form>
-<def>I ache not</def>
+<def>I grieve</def>
 <gramGrp>
-  <gram type="role">negative</gram>
+  <gram type="role">imperfective aspect</gram>
   <gram type="role">singular</gram>
   <gram type="role">first person</gram>
 </gramGrp>
@@ -200,7 +201,7 @@
 </entry>
 <entry>
 <form>uṇ</form>
-<def>collyrium</def>
+<def>kohl</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -221,7 +222,7 @@
 </entry>
 <entry>
 <form>nōvatu-<c type="glide">v</c>ē</form>
-<def>suffering</def>
+<def>grievance</def>
 <form type="simple">nōvatu</form>
 <gramGrp>
   <gram type="role">verbal noun</gram>
