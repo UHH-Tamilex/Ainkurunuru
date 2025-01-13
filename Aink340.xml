@@ -16,7 +16,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>    
         </msDesc>
@@ -42,7 +42,8 @@
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#Aink340"><interp type="alignment" select="0">24MG6ML11MG21MG22MG2M,91M</interp>
+<standOff type="wordsplit" corresp="#Aink340">
+<interp type="alignment" select="0">24MG6ML11MG21MG22MG2M,91M</interp>
 <entry>
 <form>amma</form>
 <def>alas</def>
@@ -94,7 +95,7 @@
 </entry>
 <entry>
 <form>maruḷ</form>
-<def>confusion</def>
+<def>delusion</def>
 <gramGrp>
   <gram type="role">verbal root</gram>
 </gramGrp>
@@ -173,5 +174,6 @@
   <gram type="role">infinitive</gram>
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
-</entry></standOff>
+</entry>
+</standOff>
 </TEI>
