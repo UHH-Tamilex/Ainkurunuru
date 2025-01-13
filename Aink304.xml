@@ -38,7 +38,9 @@
 <l>If you go to the crossroad of  stony paths,</l>
 <l>where elephant steals [water] from cows’ water pit </l>
 <l>dug with sticks by the unlearned cowherds,</l>
-<l>the tender-natured girl with long tresses [dark as] a cloud will suffer alone.</l> 
+<l>the tender-natured [girl] with long tresses,</l>
+<l>[as dark as] a cloud,</l> 
+<l>will suffer alone.</l> 
 <l>O great man with strong horses! Do not dare! </l>
       </lg>
     </div>
@@ -47,7 +49,7 @@
 <standOff type="wordsplit" corresp="#Aink304"><interp type="alignment" select="0">28ML55ML39MGM,126M</interp>
 <entry>
 <form>kallā<c type="geminated">k</c></form>
-<def>learn-not</def>
+<def>unlearned</def>
 <gramGrp>
   <gram type="role">negative</gram>
   <gram type="role">peyareccam</gram>
@@ -109,7 +111,7 @@
 </entry>
 <entry>
 <form>vauvum</form>
-<def>snatching</def>
+<def>stealing</def>
 <form type="sandhi">vauvuṅ</form>
 <gramGrp>
   <gram type="role">peyareccam</gram>
@@ -205,7 +207,7 @@
 </entry>
 <entry>
 <form>tōṉṟal</form>
-<def>man</def>
+<def>great man</def>
 <form type="sandhi">ṟōṉṟal</form>
 <gramGrp>
   <gram type="role">noun</gram>
