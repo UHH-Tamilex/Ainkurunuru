@@ -17,7 +17,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>    
         </msDesc>
@@ -46,7 +46,8 @@
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#aink351"><interp type="alignment" select="0">17ML65MG52MG2M,139M</interp>
+<standOff type="wordsplit" corresp="#aink351">
+<interp type="alignment" select="0">17ML65MG52MG2M,139M</interp>
 <entry>
 <form>atta<c type="geminated">p</c></form>
 <def>roadside</def>
@@ -109,7 +110,7 @@
 </entry>
 <entry>
 <form>celvōr</form>
-<def>go-they</def>
+<def>those who travel</def>
 <gramGrp>
   <gram type="role">participial noun</gram>
   <gram type="role">imperfect aspect</gram>
@@ -123,6 +124,7 @@
   <gram type="role">perfective aspect</gram>
   <gram type="role">plural</gram>
   <gram type="role">third person</gram>
+  <gram type="role">muṟṟeccam</gram>
 </gramGrp>
 </entry>
 <entry>
@@ -253,5 +255,6 @@
   <gram type="role">noun</gram>
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
-</entry></standOff>
+</entry>
+</standOff>
 </TEI>
