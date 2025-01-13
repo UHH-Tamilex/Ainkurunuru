@@ -16,7 +16,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>    
         </msDesc>
@@ -43,7 +43,8 @@
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#Aink329"><interp type="alignment" select="0">8MG38MR24MG3ML2MG15MG42M2GM,141M</interp>
+<standOff type="wordsplit" corresp="#Aink329">
+<interp type="alignment" select="0">8MG38MR24MG3ML2MG15MG42M2GM,141M</interp>
 <entry>
 <form>āḷ</form>
 <def>person</def>
@@ -164,14 +165,14 @@
 </entry>
 <entry>
 <form>ceṟi</form>
-<def>close-set</def>
+<def>be dense</def>
 <gramGrp>
   <gram type="role">verbal root</gram>
 </gramGrp>
 </entry>
 <entry>
 <form>toṭi</form>
-<def>bracelet</def>
+<def>bangle</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -256,5 +257,6 @@
   <gram type="role">noun</gram>
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
-</entry></standOff>
+</entry>
+</standOff>
 </TEI>

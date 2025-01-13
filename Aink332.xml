@@ -16,7 +16,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>    
         </msDesc>
@@ -45,7 +45,8 @@
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#Aink332"><interp type="alignment" select="0">36MG32MG15M2G31MG4M,123M</interp>
+<standOff type="wordsplit" corresp="#Aink332">
+<interp type="alignment" select="0">36MG32MG15M2G31MG4M,123M</interp>
 <entry>
 <form>amma</form>
 <def>alas</def>
@@ -225,10 +226,11 @@
 </entry>
 <entry>
 <form>avvē</form>
-<def>each of those</def>
+<def>they</def>
 <gramGrp>
   <gram type="role">pronoun</gram>
   <gram type="role">neuter plural</gram>
 </gramGrp>
-</entry></standOff>
+</entry>
+</standOff>
 </TEI>
