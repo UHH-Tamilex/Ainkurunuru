@@ -16,7 +16,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>    
         </msDesc>
@@ -36,17 +36,20 @@
 <l>ṭiṉṟupuku tarumeṉa vantaṉṟu tūtē</l>
       </lg>
       <lg type="translation" xml:lang="en">
-<l>The messenger has come, saying that she will  </l>
-<l>enter [the village] today, with young man of choice anklets,  </l>
-<l>hot anger and victorious spear, being one who had united  </l>
-<l>because of love [with him] in spring of great quality, that has gained rare value, </l>
-<l>and bends swaying creepers, like girls, </l>
-<l>embracing Kaṭampam tree, like warriors. </l>
+<l>The messenger has come,  </l>
+<l>saying that she will enter [the village] today,  </l>
+<l>together with young man in choice anklets, </l>
+<l>[who has] hot anger and victorious spear, </l>
+<l>after uniting [with him] out of love</l>
+<l>in the great season of spring, </l>
+<l>that has rare beauty of swaying creepers, resembing girls,</l>
+<l>that lean and embrace Kaṭampa trees, resembling warriors. </l>
       </lg>
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#Aink400"><interp type="alignment" select="0">127MG27MGM,157M</interp>
+<standOff type="wordsplit" corresp="#Aink400">
+<interp type="alignment" select="0">127MG27MGM,157M</interp>
 <entry>
 <form>maḷḷar</form>
 <def>warrior</def>
@@ -105,9 +108,8 @@
 </gramGrp>
 </entry>
 <entry>
-<form>nuṭakkum</form>
+<form>nuṭaṅkum</form>
 <def>bend</def>
-<form type="sandhi">nuṭaṅkum</form>
 <gramGrp>
   <gram type="role">imperfect aspect</gram>
   <gram type="role">peyareccam</gram>
@@ -235,9 +237,9 @@
 </entry>
 <entry>
 <form>iṉṟu</form>
-<def>without</def>
+<def>today</def>
 <gramGrp>
-  <gram type="role">absolutive</gram>
+  <gram type="role">adverb</gram>
 </gramGrp>
 </entry>
 <entry>
@@ -276,5 +278,6 @@
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
-</entry></standOff>
+</entry>
+</standOff>
 </TEI>
