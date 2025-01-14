@@ -16,7 +16,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>    
         </msDesc>
@@ -42,7 +42,8 @@
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#Aink390"><interp type="alignment" select="0">48MG30ML10MG7MGM,100M</interp>
+<standOff type="wordsplit" corresp="#Aink390">
+<interp type="alignment" select="0">48MG30ML10MG7MGM,100M</interp>
 <entry>
 <form>nallōr</form>
 <def>good-they</def>
@@ -153,6 +154,9 @@
 <entry>
 <form>maṉṟa</form>
 <def>alas</def>
+<gramGrp>
+  <gram type="role">interjection</gram>
+</gramGrp>
 </entry>
 <entry>
 <form>curatt<c type="elided">u</c></form>
@@ -179,5 +183,6 @@
   <gram type="role">first person</gram>
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
-</entry></standOff>
+</entry>
+</standOff>
 </TEI>
