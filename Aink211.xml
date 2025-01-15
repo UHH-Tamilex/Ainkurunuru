@@ -45,7 +45,8 @@
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#Aink211"><interp type="alignment" select="0">27MG11MG27MG24M,92M</interp>
+<standOff type="wordsplit" corresp="#Aink211">
+<interp type="alignment" select="0">27MG62M,90M</interp>
 <entry>
 <form>neyyoṭu</form>
 <def>ghee</def>
@@ -79,11 +80,13 @@
 <entry>
 <form>aṉṉa</form>
 <def>like</def>
+<gramGrp>
+</gramGrp>
 </entry>
 <entry>
-<form>vayalai-<c type="glide">y</c>am</form>
+<form>vayalaiyam</form>
 <def>purslane</def>
-<form type="sandhi">vayalai<c type="glide">y</c>añ</form>
+<form type="sandhi">vayalaiyañ</form>
 <gramGrp>
   <gram type="role">adjective</gram>
 </gramGrp>
@@ -104,9 +107,8 @@
 </gramGrp>
 </entry>
 <entry>
-<form>ceyalai-<c type="glide">y</c>am</form>
+<form>ceyalaiyam</form>
 <def>Aśoka-tree</def>
-<form type="sandhi">ceyalai<c type="glide">y</c>am</form>
 <gramGrp>
   <gram type="role">adjective</gram>
 </gramGrp>
@@ -127,8 +129,9 @@
 </entry>
 <entry>
 <form>vāṭum</form>
-<def>fades(sg.|hab.fut)</def>
+<def>fades</def>
 <gramGrp>
+  <gram type="role">habitual future</gram>
   <gram type="role">singular</gram>
 </gramGrp>
 </entry>
@@ -138,7 +141,8 @@
 <gramGrp>
   <gram type="role">vocative</gram>
 </gramGrp>
-</entry></standOff>
+</entry>
+</standOff>
 <standOff corresp="#Aink211-kilavi" type="wordsplit">
 <interp type="alignment" select="0">74M,73MG</interp>
 <entry>

@@ -52,7 +52,8 @@
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#Aink215"><interp type="alignment" select="0">100MG29MG14MG23M,169M</interp>
+<standOff type="wordsplit" corresp="#Aink215">
+<interp type="alignment" select="0">129MG16MG21M,168M</interp>
 <entry>
 <form>kaṭṭaḷai</form>
 <def>touch-stone</def>
@@ -161,9 +162,8 @@
 </gramGrp>
 </entry>
 <entry>
-<form>āmpal-iṉ</form>
+<form>āmpaliṉ</form>
 <def>Āmpal-melody</def>
-<form type="sandhi">āmpaliṉ</form>
 <gramGrp>
   <gram type="role">comparative</gram>
 </gramGrp>
@@ -214,13 +214,14 @@
 </gramGrp>
 </entry>
 <entry>
-<form>ataṉ-iṉum</form>
+<form>ataṉiṉ-um</form>
 <def>that</def>
-<form type="sandhi">ataṉiṉuṅ</form>
+<form type="simple">ataṉiṉ</form>
 <gramGrp>
   <gram type="role">comparative</gram>
   <gram type="role">oblique</gram>
 </gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
 </entry>
 <entry>
 <form>koṭiya</form>
@@ -243,7 +244,8 @@
 <gramGrp>
   <gram type="role">vocative</gram>
 </gramGrp>
-</entry></standOff>
+</entry>
+</standOff>
 <standOff corresp="#Aink215-kilavi" type="wordsplit">
 <interp type="alignment" select="0">97M,96MG</interp>
 <entry>
