@@ -1,0 +1,365 @@
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?><?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+        <title xml:lang="ta">Aiṅkuṟunūṟu</title> 215.
+            <persName xml:lang="ta">Kapilar</persName> 
+        </title> 
+        <editor role="translator">Maanasa Visweswaran</editor>  
+      </titleStmt>
+      <publicationStmt><p/></publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p/>
+            </summary>
+          </msContents>    
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc><change/></revisionDesc>
+  </teiHeader>
+<text xml:lang="ta" type="edition">
+  <body>
+    <div rend="parallel">
+    <p xml:id="Aink215-kilavi"> iravukkuṟi nayanta talaimakaḷ pakaṟ kuṟikkaṇ vantu nīṅkuntalaimakaṉ ciṟaippuṟattāṉākat tōḻikkuc colliyatu.   </p>
+      <p xml:lang="en"> What the heroine, who desired night trysts, told [her] confidante while the hero, who had left after coming for a day tryst, was behind the hedge.   </p>
+      </div>
+    <div rend="parallel">
+      <lg xml:id="Aink215">
+<l>kaṭṭaḷai yaṉṉa maṇiniṟat tumpi</l>
+<l>yiṭṭiya kuyiṉṟa tuṟaivayiṟ celīiyar</l>
+<l>taṭṭait taṇṇumaip piṉṉa riyavar</l>
+<l>tīṅkuḻa lāmpali ṉiṉiya vimirum</l>
+<l>putaṉmalar mālaiyum pirivō</l>
+<l>rataṉiṉuṅ koṭiya ceykuva raṉṉāy</l>
+      </lg>
+      <lg xml:lang="en">
+<l>In order to go to the narrowly constructed ghats</l>
+<l>[with] sapphire-hued bees resembling touchstones</l>
+<l rend="space">he who departs [as soon as it is] evening </l>
+<l rend="indent">when the shrubs blossom, </l>
+<l rend="indent">[and] when musicians, </l>
+<l rend="indent">following the taṭṭai-device and taṇṇumai drums, </l>
+<l rend="indent">play pleasing [melodies] like the Āmpal-tune on a sweet flute,</l>
+<l rend="space">would commit acts even more cruel than that, mother! </l>
+
+
+      </lg>
+    </div>
+  </body>
+</text>
+<standOff type="wordsplit" corresp="#Aink215"><interp type="alignment" select="0">100MG29MG14MG23M,169M</interp>
+<entry>
+<form>kaṭṭaḷai</form>
+<def>touch-stone</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>aṉṉa</form>
+<def>like</def>
+</entry>
+<entry>
+<form>maṇi</form>
+<def>sapphire</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>niṟa<c type="geminated">t</c></form>
+<def>colour</def>
+</entry>
+<entry>
+<form>tumpi</form>
+<def>bee</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>iṭṭiya</form>
+<def>narrow</def>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kuyiṉṟa</form>
+<def>executed</def>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tuṟai</form>
+<def>ghat</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vayiṉ</form>
+<def>side</def>
+<form type="sandhi">vayiṟ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>celīiyar</form>
+<def>go</def>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>taṭṭai<c type="geminated">t</c></form>
+<def>Taṭṭai</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>taṇṇumai<c type="geminated">p</c></form>
+<def>Taṇṇumai-drum</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>piṉṉar</form>
+<def>after</def>
+</entry>
+<entry>
+<form>iyavar</form>
+<def>musician</def>
+<gramGrp>
+  <gram type="role">plural</gram>
+  <gram type="role">third person</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tīm</form>
+<def>sweet</def>
+<form type="sandhi">tīṅ</form>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kuḻal</form>
+<def>flute</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>āmpal-iṉ</form>
+<def>Āmpal-melody</def>
+<form type="sandhi">āmpaliṉ</form>
+<gramGrp>
+  <gram type="role">comparative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>iṉiya</form>
+<def>pleasing-they</def>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">plural</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">v</c>imirum</form>
+<def>sounding-</def>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>putal</form>
+<def>shrub</def>
+<form type="sandhi">putaṉ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>malar</form>
+<def>blossom</def>
+<gramGrp>
+  <gram type="role">verbal root</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>mālai-<c type="glide">y</c>um</form>
+<def>evening</def>
+<form type="simple">mālai</form>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>pirivōr</form>
+<def>separated-they</def>
+<gramGrp>
+  <gram type="role">participial noun</gram>
+  <gram type="role">third person</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ataṉ-iṉum</form>
+<def>that</def>
+<form type="sandhi">ataṉiṉuṅ</form>
+<gramGrp>
+  <gram type="role">comparative</gram>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>koṭiya</form>
+<def>cruel-they</def>
+<gramGrp>
+  <gram type="role">neuter plural</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ceykuvar</form>
+<def>do-he</def>
+<gramGrp>
+  <gram type="role">third person</gram>
+  <gram type="role">honorific</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>aṉṉāy</form>
+<def>mother</def>
+<gramGrp>
+  <gram type="role">vocative</gram>
+</gramGrp>
+</entry></standOff>
+<standOff corresp="#Aink215-kilavi" type="wordsplit">
+<interp type="alignment" select="0">97M,96MG</interp>
+<entry>
+<form>iravu<c type="geminated">k</c></form>
+<def>night</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kuṟi</form>
+<def>tryst</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>nayanta</form>
+<def>longed</def>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>talaimakaḷ</form>
+<def>heroine</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+  <gram type="role">singular</gram>
+  <gram type="role">feminine</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>pakal</form>
+<def>midday</def>
+<form type="sandhi">pakaṟ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kuṟi<c type="geminated">k</c></form>
+<def>tryst</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kaṇ</form>
+<def>place</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vantu</form>
+<def>come</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>nīṅkum</form>
+<def>leaving</def>
+<form type="sandhi">nīṅkun</form>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>talaimakaṉ</form>
+<def>hero</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+  <gram type="role">singular</gram>
+  <gram type="role">masculine</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ciṟai<c type="geminated">p</c></form>
+<def>restraint</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>puṟattāṉ</form>
+<def>outside-he</def>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">singular</gram>
+  <gram type="role">masculine</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>āka<c type="geminated">t</c></form>
+<def>become</def>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tōḻikku<c type="geminated">c</c></form>
+<def>confidante</def>
+<gramGrp>
+  <gram type="role">dative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>colliyatu</form>
+<def>spoken-it</def>
+<gramGrp>
+  <gram type="role">participial noun</gram>
+  <gram type="role">neuter singular</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+</standOff></TEI>
