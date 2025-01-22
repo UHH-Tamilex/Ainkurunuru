@@ -47,7 +47,8 @@
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#Aink217"><interp type="alignment" select="0">24ML37MR9MG19MG4MG8M,106M</interp>
+<standOff type="wordsplit" corresp="#Aink217">
+<interp type="alignment" select="0">24ML37MR9MG19MG4MG8M,106M</interp>
 <entry>
 <form>peru</form>
 <def>big</def>
@@ -125,6 +126,9 @@
 <entry>
 <form>kiḷai</form>
 <def>herd</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
 </entry>
 <entry>
 <form>mēyal</form>
@@ -205,7 +209,8 @@
 <gramGrp>
   <gram type="role">vocative</gram>
 </gramGrp>
-</entry></standOff>
+</entry>
+</standOff>
 <standOff corresp="#Aink217-kilavi" type="wordsplit">
 <interp type="alignment" select="0">6MG79M,85MG</interp>
 <entry>
