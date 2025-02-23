@@ -1,5 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -24,18 +23,18 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="Aink50-kilavi">
-      <p type="edition">maṉaiyiṉ nīṅkip parattaiyiṭattup paṉṉāḷ taṅkivanta talaimakaṟkut tōḻi colliyatu.</p>
-      <p type="translation" xml:lang="en"> </p>
+    <div rend="parallel">
+      <p xml:id="Aink50-kilavi">maṉaiyiṉ nīṅkip parattaiyiṭattup paṉṉāḷ taṅkivanta talaimakaṟkut tōḻi colliyatu.</p>
+      <p xml:lang="en"> </p>
     </div>
-    <div xml:id="Aink50">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="Aink50">
 <l>tuṇaiyōr celvamum yāmum varuntutum</l>
 <l>vañci yōṅkiya yāṇa rūra</l>
 <l>tañca maruḷāy nīyēniṉ</l>
 <l>neñcam peṟṟa vivaḷumā raḻumē.</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
  
 <l> O man from a fertile village </l> 
 <l rend="indent2"> where the Mahua trees have grown tall! </l> 

@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -24,21 +22,21 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="Aink14-kilavi">
-        <p type="edition">talaimakaḷ puṇarcci vēṭkaiyaik kuṟippiṉāṉ uṇarnta tōḻi, ‘avaṉ koṭumai
+      <div rend="parallel">
+        <p xml:id="Aink14-kilavi">talaimakaḷ puṇarcci vēṭkaiyaik kuṟippiṉāṉ uṇarnta tōḻi, ‘avaṉ koṭumai
           niṉaiyātu avaṉ mārpai niṉaintu āṟṟāyākiṉṟatu eṉṉai?’ eṉṟāṭku ‘avaṉ koṭiyaṉē yāyiṉum, avaṉ
           mārpu kuḷirnta tuyilac ceyyum iṉiya cāyalaiyuṭaittu, ātalāṟ kāṇ’ eṉac colliyatu.</p>
-        <p type="translation" xml:lang="en"> </p>
+        <p xml:lang="en"> </p>
       </div>
 
-      <div xml:id="Aink14">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="Aink14">
           <l> koṭippū vēḻan tīṇṭi yayala</l>
           <l> vaṭukkoṇ māattu vaṇṭaḷir nuṭaṅku</l>
           <l> maṇittuṟai yūraṉ mārpē</l>
           <l> paṉittuyil ceyyu miṉcā yaṟṟē.</l>
         </lg>
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
           <l> The chest of the man from the village by the ornate ghat—</l>
           <l rend="indent2"> where the sharp[-tipped] sprouts of the scarred mango trees</l>
           <l rend="indent2"> in the neighbourhood sway, touching the creeper flowers of wild cane—</l>

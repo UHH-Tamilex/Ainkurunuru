@@ -23,15 +23,15 @@
         <body>
 
 
-            <div xml:id="Aink403">
-                <lg type="edition">
+            <div rend="parallel">
+                <lg xml:id="Aink403">
                     <l> puṇarntakā taliyiṟ putalvaṉ ṟalaiyu</l>
                     <l>mamarnta vuḷḷam peritā kiṉṟē</l>
                     <l>yakaṉperuñ ciṟappiṟ ṟantai peyaraṉ</l>
                     <l>muṟuvali ṉiṉṉakai payiṟṟic </l>
                     <l>ciṟutē ruruṭṭun taḷarnaṭai kaṇṭē.</l>
                 </lg>
-                <p type="translation" xml:lang="en">
+                <p xml:lang="en">
                     [The hero's] heart, which dwelled in the son of his beloved with whom he has
                     already united, swelled, seeing the shaky steps of the boy with [the hero's]
                     very greatly esteemed father's name, sweetly smiling a toothy smile and rolling

@@ -1,5 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -29,21 +28,21 @@
   </teiHeader>
   <text xml:lang="ta">
     <body>
-      <div xml:id="Aink90-kilavi">
-        <p type="edition">talaimakaṉ taṉ maṉaikkaṇ cellāmal tāṉ vilakkukiṉṟāḷākat talaimakaḷ kūṟiṉāḷ
+      <div rend="parallel">
+        <p xml:id="Aink90-kilavi">talaimakaṉ taṉ maṉaikkaṇ cellāmal tāṉ vilakkukiṉṟāḷākat talaimakaḷ kūṟiṉāḷ
           eṉpatu kēṭṭa kātaṟparattai talaimakaṉ kēṭkumāṟṟāl avaṭkup pāṅkāyiṉār kēṭpac colliyatu.
         </p>
-        <p type="translation" xml:lang="en"> </p>
+        <p xml:lang="en"> </p>
       </div>
-      <div xml:id="Aink90">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="Aink90">
           <l>makiḻnaṉ māṇkuṇam vaṇṭukoṇ ṭaṉakol</l>
           <l>vaṇṭiṉ māṇkuṇa makiḻnaṉkoṇ ṭāṉko</l>
           <l>laṉṉa tākalu maṟiyā</l>
           <l>ḷemmoṭu pulakkumavaṉ putalvaṉ ṟāyē.</l>
         </lg>
 
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
 
           <l> Have the bees acquired the glorious qualities of the delightful man?</l>
           <l> Or has the delightful man acquired the glorious qualities of the bees?</l>

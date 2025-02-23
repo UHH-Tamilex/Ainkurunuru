@@ -1,5 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -29,19 +28,19 @@
   </teiHeader>
   <text xml:lang="ta">
     <body>
-      <div xml:id="Aink51-kilavi">
-        <p type="edition">vāyil peṟṟup pukuntupōyp puṟattoḻukkam oḻukip piṉpum vāyil vēṇṭum
+      <div rend="parallel">
+        <p xml:id="Aink51-kilavi">vāyil peṟṟup pukuntupōyp puṟattoḻukkam oḻukip piṉpum vāyil vēṇṭum
           talaimakaṟkut tōḻi maṟuttatu.</p>
-        <p type="translation" xml:lang="en"> </p>
+        <p xml:lang="en"> </p>
       </div>
-      <div xml:id="Aink51">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="Aink51">
           <l>nīruṟai kōḻi nīlac cēval</l>
           <l>kūrukirp pēṭai vayāa mūra</l>
           <l>puḷiṅkāy vēṭkait taṉṟuniṉ</l>
           <l>malarnta mārpivaḷ vayāa nōykkē.</l>
         </lg>
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
 
 
           <l> O man from a village!</l>

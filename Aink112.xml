@@ -24,14 +24,14 @@
   </teiHeader>
 <text xml:lang="ta" type="edition">
   <body>
-    <div xml:id="Aink112">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="Aink112">
 <l>amma vāḻi tōḻi pācilaic</l>
 <l>cerunti tāya viruṅkaḻic cērppaṉ</l>
 <l>ṟāṉvarak kāṇkuva nāmē</l>
 <l>maṟantō maṉṟa nāṇuṭai neñc -ē</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 <l>Oh friend, listen!</l>
 <l>We will watch, as the man from the shores</l>
 <l>With the dark backwaters</l>

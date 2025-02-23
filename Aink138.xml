@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -16,7 +14,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>    
         </msDesc>
@@ -26,13 +24,13 @@
   </teiHeader>
 <text xml:lang="ta" type="edition">
   <body>
-    <div xml:id="Aink138">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="Aink138">
 <l>paṇpilai maṉṟa pāṇa vivvū</l>
 <l>raṉpila kaṭiya kaḻaṟi</l>
 <l>meṉpulak koṇkaṉait tārā tōyē</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
   <l>You have no character, oh bard: </l>
     <l>Thundering [at me with] loveleless [words], </l>
       <l>You did not give [back] to this town</l>

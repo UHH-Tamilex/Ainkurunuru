@@ -1,5 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -29,21 +28,21 @@
   </teiHeader>
   <text xml:lang="ta">
     <body>
-      <div xml:id="Aink72-kilavi">
-        <p type="edition">talaimakaḷ pulavi nīkkit taṉṉōṭu putuppuṉal āṭa vēṇṭiya talaimakaṉ
+      <div rend="parallel">
+        <p xml:id="Aink72-kilavi">talaimakaḷ pulavi nīkkit taṉṉōṭu putuppuṉal āṭa vēṇṭiya talaimakaṉ
           kaḷavukkālattup puṉalāṭṭu nikaḻntataṉai avaḷ kēṭpat tōḻikkuc colliyatu.
         </p>
-        <p type="translation" xml:lang="en"> </p>
+        <p xml:lang="en"> </p>
       </div>
-      <div xml:id="Aink72">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="Aink72">
           <l>vayaṉmala rāmpaṟ kayilamai nuṭaṅkutaḻait</l>
           <l>titalai yalkuṟ ṟuyalvaruṅ kūntaṟ</l>
           <l>kuvaḷai yuṇka ṇēer melliyaṉ</l>
           <l>malarār malirniṟai vanteṉap</l>
           <l>puṉalāṭu puṇartuṇai yāyiṉa ḷemakkē.</l>
         </lg>
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
 
 <l>           This girl with the soft nature, </l> 
 <l rend="indent4">           beautiful kohl-lined eyes like waterlilies,</l> 

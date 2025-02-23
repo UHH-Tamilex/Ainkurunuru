@@ -1,5 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -24,20 +23,20 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="Aink85-kilavi">
-      <p type="edition">talaimakaṉ parattaiyar mēl kātalkūrntu neṭittuc celvuḻi maṉaiyakam pukuntāṉākat talaivi kūṟiyatu.
+    <div rend="parallel">
+      <p xml:id="Aink85-kilavi">talaimakaṉ parattaiyar mēl kātalkūrntu neṭittuc celvuḻi maṉaiyakam pukuntāṉākat talaivi kūṟiyatu.
       </p>
-      <p type="translation" xml:lang="en"> </p>
+      <p xml:lang="en"> </p>
     </div>
-    <div xml:id="Aink85">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="Aink85">
 <l>veṇṇutaṟ kampu ḷarikkuraṟ pēṭai</l>
 <l>taṇṇaṟum paḻaṉattuk kiḷaiyō ṭālu</l>
 <l>maṟivil yāṇar malikē ḻūranī</l>
 <l>ciṟuvari ṉiṉaiya ceyti</l>
 <l>nakārō perumaniṟ kaṇṭici ṉōrē.</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 
 <l>   O man from a lustruous village rich in unknowable(?) fertiilty, </l> 
 <l rend="indent4"> 	where the white-browed female water-fowl with grating voice</l> 

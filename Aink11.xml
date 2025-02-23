@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -24,21 +22,21 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="Aink11-kilavi">
-        <p type="edition"> pāṇaṉ mutalāyiṉārkkut talaimakaṉ koṭumai kūṟi vāyil maṟutta talaimakaḷ
+      <div rend="parallel">
+        <p xml:id="Aink11-kilavi"> pāṇaṉ mutalāyiṉārkkut talaimakaṉ koṭumai kūṟi vāyil maṟutta talaimakaḷ
           kaḻaṟiya pāṅkaṟku vāyil nērvāḷ colliyatu ‘talaivaṉ evvāṟu tappiyoḻukiṉum avaṉ koṭumai
           niṉṉāṟ pulappaṭutal takātu’ eṉṟu kaḻaṟiya pāṅkikkut talaimakaḷ colliyatūumām. </p>
-        <p type="translation" xml:lang="en"> </p>
+        <p xml:lang="en"> </p>
       </div>
 
-      <div xml:id="Aink11">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="Aink11">
           <l> maṉainaṭu vayalai vēḻañ cuṟṟun</l>
           <l> tuṟaikē ḻūraṉ koṭumai nāṇi</l>
           <l> nalla ṉeṉṟum yāmē</l>
           <l> yalla ṉeṉṉumeṉ ṟaṭameṉ ṟōḷē.</l>
         </lg>
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
           <l> Ashamed by the cruelty of the man from the village that has a ghat</l>
           <l> where wild sugarcane surrounds the purslane planted by the house</l>
           <l> we may [nonetheless] say, 'He is good'.</l>

@@ -1,5 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -24,20 +23,20 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="Aink73-kilavi">
-      <p type="edition">ituvumatu.
+    <div rend="parallel">
+      <p xml:id="Aink73-kilavi">ituvumatu.
       </p>
-      <p type="translation" xml:lang="en"> </p>
+      <p xml:lang="en"> </p>
     </div>
-    <div xml:id="Aink73">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="Aink73">
 <l>vaṇṇa voṇṭaḻai nuṭaṅka vāliḻai</l>
 <l>yoṇṇuta larivai paṇṇai pāynteṉak</l>
 <l>kaṇṇaṟuṅ kuvaḷai nāṟit</l>
 <l>taṇṇeṉ ṟiciṉē peruntuṟaip puṉalē.</l>
 
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 
 
 <l> Because the young woman with bright forehead [and] choice jewels</l> 

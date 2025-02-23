@@ -1,5 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -29,14 +28,14 @@
   </teiHeader>
   <text xml:lang="ta">
     <body>
-      <div xml:id="Aink70-kilavi">
-        <p type="edition">parattaiyarōṭu poḻutupōkki neṭitu tuyttuvanta talaimakaṉōṭu
+      <div rend="parallel">
+        <p xml:id="Aink70-kilavi">parattaiyarōṭu poḻutupōkki neṭitu tuyttuvanta talaimakaṉōṭu
           talaimakaḷpulantu colliyatu.
         </p>
-        <p type="translation" xml:lang="en"> </p>
+        <p xml:lang="en"> </p>
       </div>
-      <div xml:id="Aink70">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="Aink70">
           <l>paḻaṉap paṉmī ṉarunta nārai</l>
           <l>kaḻaṉi marutiṉ ceṉṉic cēkku</l>
           <l>mānīrp poykai yāṇa rūra</l>
@@ -44,7 +43,7 @@
           <l>pēe yaṉaiyamiyāñ cēypayan taṉamē.</l>
         </lg>
 
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
 
           <l> O man from a fertile village with ponds of great water!</l>
           <l rend="indent2"> Where the crane, after eating many fish in the tank,</l>

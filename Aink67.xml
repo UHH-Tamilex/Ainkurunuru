@@ -1,5 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -29,14 +28,14 @@
   </teiHeader>
   <text xml:lang="ta">
     <body>
-      <div xml:id="Aink67-kilavi">
-        <p type="edition">talainiṉṟu oḻukappaṭāniṉṟa parattai puṟaṉuraittāḷ eṉak kēṭṭa talaivi
+      <div rend="parallel">
+        <p xml:id="Aink67-kilavi">talainiṉṟu oḻukappaṭāniṉṟa parattai puṟaṉuraittāḷ eṉak kēṭṭa talaivi
           talaimakaṉ vantuḻi avaḷ tiṟattārāy niṉṟu oḻukum vāyilkaḷ kēṭpac colliyatu.
         </p>
-        <p type="translation" xml:lang="en"> </p>
+        <p xml:lang="en"> </p>
       </div>
-      <div xml:id="Aink67">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="Aink67">
           <l>maṭava ḷammanī yiṉikkoṇ ṭōḷē</l>
           <l>taṉṉoṭu nikarā veṉṉoṭu nikarip</l>
           <l>perunalan tarukku meṉpa virimalart</l>
@@ -44,7 +43,7 @@
           <l>yōti yoṇṇutal pacappit tōrē.</l>
         </lg>
 
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
 
         <l> The woman you've just taken is a fool. </l>
         <p/>

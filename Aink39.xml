@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -24,21 +22,21 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="Aink39-kilavi">
-        <p type="edition">oru ñāṉṟu talaivaṉ taṉ maṉaikkaṇ ceṉṟatu koṇṭu avaṉ peṇmai nalamellām
+      <div rend="parallel">
+        <p xml:id="Aink39-kilavi">oru ñāṉṟu talaivaṉ taṉ maṉaikkaṇ ceṉṟatu koṇṭu avaṉ peṇmai nalamellām
           tuyttuk kātal nīṅkip pirintāṉ eṉpatu talaivi kūṟiṉāḷ eṉak kēṭṭa parattai avaṭkup
           pāṅkāyiṉār kēṭpat taṉ tōḻikkuc colliyatu.</p>
-        <p type="translation" xml:lang="en"> </p>
+        <p xml:lang="en"> </p>
       </div>
 
-      <div xml:id="Aink39">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="Aink39">
           <l> amma vāḻi tōḻi yūraṉ</l>
           <l> vemmulai yaṭaiya muyaṅki namvayiṟ</l>
           <l> ṟiruntiḻai paṇaittōṇ ñekiḻap</l>
           <l> pirintaṉa ṉāyiṉum piriyalaṉ maṉṉē</l>
         </lg>
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
           <l> Alas, [my] friend! </l>
           <l>Although he left–  </l> 
             <l>the man from the village</l>

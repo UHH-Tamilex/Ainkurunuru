@@ -1,5 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -29,19 +28,19 @@
   </teiHeader>
   <text xml:lang="ta">
     <body>
-      <div xml:id="Aink45-kilavi">
-        <p type="edition">neṭunāḷ parattaiyariṭattaṉāy oḻukiya talaimakaṉ maṉaivayiṟ ceṉṟuḻit tōḻi
+      <div rend="parallel">
+        <p xml:id="Aink45-kilavi">neṭunāḷ parattaiyariṭattaṉāy oḻukiya talaimakaṉ maṉaivayiṟ ceṉṟuḻit tōḻi
           colliyatu.</p>
-        <p type="translation" xml:lang="en"> </p>
+        <p xml:lang="en"> </p>
       </div>
-      <div xml:id="Aink45">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="Aink45">
           <l>kūti rāyiṟ ṟaṇkaliḻ tantu</l>
           <l>vēṉi lāyiṉ maṇiniṟaṅ koḷḷum</l>
           <l>yāṟaṇin taṉṟuniṉ ṉūrē</l>
           <l>pacappaṇin taṉavāṉ makiḻnaveṉ kaṇṇē.</l>
         </lg>
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
 
 <l>           Your village is adorned with a river</l> 
 <l>           that produces cool, muddy water in winter</l> 

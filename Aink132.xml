@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -16,7 +14,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>    
         </msDesc>
@@ -26,13 +24,13 @@
   </teiHeader>
 <text xml:lang="ta" type="edition">
   <body>
-    <div xml:id="Aink132">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="Aink132">
 <l>amma vāḻi pāṇa puṉṉai</l>
 <l>yarumpumali kāṉa livvū</l>
 <l>ralarā kiṉṟava raruḷu māṟē</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
   <l>Oh bard, listen! The way he has graced [me]</l>
     <l>Has become gossip in this town with a seashore grove</l>
     <l>In which buds of the Puṉṉai tree are abundant.</l>

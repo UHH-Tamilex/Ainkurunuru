@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -24,20 +22,20 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="Aink13-kilavi">
-        <p type="edition">vāyilāyp pukkārkkut talaimakaḷ, ‘avaṉ peṇṭir naḷḷeṉ yāmattum tuyilār; avar
+      <div rend="parallel">
+        <p xml:id="Aink13-kilavi">vāyilāyp pukkārkkut talaimakaḷ, ‘avaṉ peṇṭir naḷḷeṉ yāmattum tuyilār; avar
           aṟiyāmal avaṉ varuntiram yātu?’ eṉac colli vāyil maṟuttatu.</p>
-        <p type="translation" xml:lang="en"> </p>
+        <p xml:lang="en"> </p>
       </div>
 
-      <div xml:id="Aink13">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="Aink13">
           <l> pariyuṭai naṉmāṉ poṅkuḷai yaṉṉa</l>
           <l> vaṭaikarai vēḻam veṇpūp pakarun</l>
           <l> taṇṭuṟai yūraṉ peṇṭir</l>
           <l> tuñcūr yāmattun tuyilaṟi yalarē.</l>
         </lg>
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
           <l> The women of the man from the village by the cool ghat–</l>
           <l rend="indent2"> where they announce the white flower of wild cane from the settling
             shore</l>

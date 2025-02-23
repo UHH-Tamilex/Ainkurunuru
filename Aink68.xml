@@ -1,5 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -29,22 +28,22 @@
   </teiHeader>
   <text xml:lang="ta">
     <body>
-      <div xml:id="Aink68-kilavi">
-        <p type="edition">parattai tāṉ talaimakaḷaip puṟaṅkūṟi vaittut taṉṉait talaimakaḷ
+      <div rend="parallel">
+        <p xml:id="Aink68-kilavi">parattai tāṉ talaimakaḷaip puṟaṅkūṟi vaittut taṉṉait talaimakaḷ
           puṟaṅkūṟiṉāḷākap piṟarkkuk kūṟiṉamai kēṭṭa talaivi talaimakaṟkuc colliyatu.
         </p>
-        <p type="translation" xml:lang="en"> </p>
+        <p xml:lang="en"> </p>
       </div>
 
-      <div xml:id="Aink68">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="Aink68">
           <l>kaṉṉi viṭiyaṟ kaṇaikkā lāmpa</l>
           <l>ṟāmarai pōla malaru mūra</l>
           <l>pēṇā ḷōniṉ peṇṭē</l>
           <l>yānta ṉaṭakkavun tāṉaṭaṅ kalaḷē.</l>
         </lg>
 
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
 
           <l> O man from a village! </l>
           <l rend="indent4"> Where the hollow-stalked white lotus</l>

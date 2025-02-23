@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -24,20 +22,20 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="Aink25-kilavi">
-        <p type="edition"> ituvumatu. </p>
-        <p type="translation" xml:lang="en"> </p>
+      <div rend="parallel">
+        <p xml:id="Aink25-kilavi"> ituvumatu. </p>
+        <p xml:lang="en"> </p>
       </div>
 
-      <div xml:id="Aink25">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="Aink25">
           <l> ayalpuṟan tanta puṉiṟṟuvaḷar paiṅkāy</l>
           <l> vayalaic ceṅkoṭi kaḷva ṉaṟukkuṅ</l>
           <l> kaḻaṉi yūraṉ mārpupalark</l>
           <l> kiḻainekiḻ cella lāku maṉṉāy.</l>
 
         </lg>
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
 
           <l> The chest of the man from the village of paddy fields</l>
           <l rend="indent2"> where crabs tear off the red creepers of the purslane</l>

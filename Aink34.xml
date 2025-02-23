@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -24,19 +22,19 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="Aink34-kilavi">
-        <p type="edition">ituvumatu.</p>
-        <p type="translation" xml:lang="en"> </p>
+      <div rend="parallel">
+        <p xml:id="Aink34-kilavi">ituvumatu.</p>
+        <p xml:lang="en"> </p>
       </div>
 
-      <div xml:id="Aink34">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="Aink34">
           <l> amma vāḻi tōḻi nammūrp</l>
           <l> poykaip pūtta puḻaikkā lāmpaṟ</l>
           <l> ṟātēr vaṇṇaṅ koṇṭaṉa</l>
           <l> vētilā ḷarkkup pacantaveṉ kaṇṇē.</l>
         </lg>
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
 
           <l> Alas, [my] friend!</l>
           <l> My eyes that went pale for a stranger</l>

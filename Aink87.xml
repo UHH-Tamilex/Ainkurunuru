@@ -1,5 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -29,20 +28,20 @@
   </teiHeader>
   <text xml:lang="ta">
     <body>
-      <div xml:id="Aink87-kilavi">
-        <p type="edition">talaimakaḷ taṉṉaip puṟaṅkūṟiṉāḷ eṉak kēṭṭa kātaṟparattai avaṭkup
+      <div rend="parallel">
+        <p xml:id="Aink87-kilavi">talaimakaḷ taṉṉaip puṟaṅkūṟiṉāḷ eṉak kēṭṭa kātaṟparattai avaṭkup
           pāṅkāyiṉār kēṭpat talaimakaṉōṭu pulantu colliyatu.
         </p>
-        <p type="translation" xml:lang="en"> </p>
+        <p xml:lang="en"> </p>
       </div>
-      <div xml:id="Aink87">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="Aink87">
           <l>pakaṉṟaik kaṇṇip pallāṉ kōvalar</l>
           <l>karumpu kuṇilā māṅkaṉi yutirkkum</l>
           <l>yāṇa rūraniṉ maṉaiyōḷ</l>
           <l>yāraiyum pulakku memmaimaṟ ṟevaṉō.</l>
         </lg>
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
 
           <l> O man from a fertile village</l>
           <l rend="indent2"> where cowherds in Jalap chaplets with many cows</l>

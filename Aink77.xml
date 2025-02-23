@@ -1,5 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -24,20 +23,20 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="Aink77-kilavi">
-      <p type="edition">muṉṉoru ñāṉṟu talaiviyōṭu puṉalāṭiṉāṉ eṉak kēṭṭu ivaṉuṭaṉ iṉi āṭēṉeṉa uṭkoṇṭa parattai, ‘putup puṉal āṭap pōtu’ eṉṟa talaimakaṟkuc colliyatu.
+    <div rend="parallel">
+      <p xml:id="Aink77-kilavi">muṉṉoru ñāṉṟu talaiviyōṭu puṉalāṭiṉāṉ eṉak kēṭṭu ivaṉuṭaṉ iṉi āṭēṉeṉa uṭkoṇṭa parattai, ‘putup puṉal āṭap pōtu’ eṉṟa talaimakaṟkuc colliyatu.
       </p>
-      <p type="translation" xml:lang="en"> </p>
+      <p xml:lang="en"> </p>
     </div>
-    <div xml:id="Aink77">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="Aink77">
 <l>amma vāḻiyō makiḻnaniṉ moḻival</l>
 <l>pērū ralareḻa nīralaik kalaṅki</l>
 <l>niṉṉoṭu taṇpuṉa lāṭutu</l>
 <l>memmoṭu ceṉmō cellaṉiṉ maṉaiyē.</l>
 </lg>
 
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 
 
 <l> Ah me, long life to you, o delightful man! </l> 

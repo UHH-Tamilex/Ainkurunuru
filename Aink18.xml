@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -24,15 +22,15 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="Aink18-kilavi">
-        <p type="edition">
+      <div rend="parallel">
+        <p xml:id="Aink18-kilavi">
           parattaiyiṉ pirintuvantu teḷittuk kūṭiya talaimakaṟkup piṉ avvoḻukkam uḷatāyavaḻi avaṉ varaviṭutta vāyilkaṭkut talaimakaḷ colliyatu.
           </p>
-        <p type="translation" xml:lang="en"> </p>
+        <p xml:lang="en"> </p>
       </div>
 
-      <div xml:id="Aink18">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="Aink18">
 <l>          iruñcā yaṉṉa ceruntiyoṭu vēḻaṅ</l>
 <l>          karumpi ṉalamaruṅ kaḻaṉi yūraṉ</l>
 <l>          poruntumala raṉṉaveṉ kaṇṇaḻap</l>
@@ -40,7 +38,7 @@
 
 
         </lg>
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
 
 <l>          The man from the village with fields where wild cane </l>
 <l>          with dark, sedge-like pear trees whirls amongst the sugarcane–</l>

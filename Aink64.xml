@@ -1,5 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -29,19 +28,19 @@
   </teiHeader>
   <text xml:lang="ta">
     <body>
-      <div xml:id="Aink64-kilavi">
-        <p type="edition">talaimakaṉ parattaiyarōṭu puṉalāṭiṉāṉ eṉpatu aṟinta talaimakaḷ avaṉ maṟaittuḻic colliyatu.
+      <div rend="parallel">
+        <p xml:id="Aink64-kilavi">talaimakaṉ parattaiyarōṭu puṉalāṭiṉāṉ eṉpatu aṟinta talaimakaḷ avaṉ maṟaittuḻic colliyatu.
         </p>
-        <p type="translation" xml:lang="en"> </p>
+        <p xml:lang="en"> </p>
       </div>
-      <div xml:id="Aink64">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="Aink64">
           <l>alamara lāyamō ṭamartuṇai taḻīi</l>
           <l>nalamiku putuppuṉa lāṭak kaṇṭō</l>
           <l>roruvaru miruvaru mallar</l>
           <l>palarē teyyavem maṟaiyā tīmē.</l>
         </lg>
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
 
 
           <l> While you bathed in the delightful fresh flood, </l>

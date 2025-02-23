@@ -1,5 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -29,18 +28,18 @@
   </teiHeader>
   <text xml:lang="ta">
     <body>
-      <div xml:id="Aink52-kilavi">
-        <p type="edition">vāyil peṟṟuk kūṭiyirunta talaimakaṟkut tōḻi nakaiyāṭic colliyatu.</p>
-        <p type="translation" xml:lang="en"> </p>
+      <div rend="parallel">
+        <p xml:id="Aink52-kilavi">vāyil peṟṟuk kūṭiyirunta talaimakaṟkut tōḻi nakaiyāṭic colliyatu.</p>
+        <p xml:lang="en"> </p>
       </div>
-      <div xml:id="Aink52">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="Aink52">
           <l>vayalaic ceṅkoṭip piṇaiya ṟaiic</l>
           <l>cevviral civanta cēyari maḻaikkaṭ</l>
           <l>cevvāyk kuṟumaka ḷiṉaiya</l>
           <l>vevvāy muṉṉiṉṟu makiḻnaniṉ ṟērē.</l>
         </lg>
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
 
 
           <l> While a little woman with a red mouth despairs, </l>

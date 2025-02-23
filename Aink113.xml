@@ -24,15 +24,15 @@
   </teiHeader>
 <text xml:lang="ta" type="edition">
   <body>
-    <div xml:id="Aink113">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="Aink113">
 <l>amma vāḻi tōḻi neṉṉa</l>
 <l>lōṅkutirai veṇmaṇa luṭaikkun tuṟaivaṟ</l>
 <l>kūrār peṇṭeṉa moḻipa veṉṉai</l>
 <l>yatukēṭ ṭaṉṉā yeṉṟaṉa ḷaṉṉai</l>
 <l>paipaya vemmai yeṉṟaṉeṉ yāṉē</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 <l>Oh friend, listen! Yesterday,</l>
 <l>The townspeople said, ‘[She is] the girl</l>
 <l>To the man from the ghat upon which high waves break the white sand’.</l>

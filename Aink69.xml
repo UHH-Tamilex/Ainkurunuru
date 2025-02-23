@@ -1,5 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -29,21 +28,21 @@
   </teiHeader>
   <text xml:lang="ta">
     <body>
-      <div xml:id="Aink69-kilavi">
-        <p type="edition">talaimakaṉ petumpaip paruvattāḷ oru parattaiyaik kaḷavil maṇantu
+      <div rend="parallel">
+        <p xml:id="Aink69-kilavi">talaimakaṉ petumpaip paruvattāḷ oru parattaiyaik kaḷavil maṇantu
           oḻukukiṉṟataṉai aṟinta talaimakaḷ taṉakku illai eṉṟu avaṉ maṟaittuḻic colliyatu.
         </p>
-        <p type="translation" xml:lang="en"> </p>
+        <p xml:lang="en"> </p>
       </div>
-      <div xml:id="Aink69">
-        <lg type="edition" style="pūṭṭuvil">
+      <div rend="parallel">
+        <lg style="pūṭṭuvil" xml:id="Aink69">
           <l>kaṇṭaṉe mallamō makiḻnaniṉ peṇṭē</l>
           <l>palarāṭu peruntuṟai malaroṭu vanta</l>
           <l>taṇpuṉal vaṇṭa luytteṉa</l>
           <l>vuṇkaṇ civappa vaḻutuniṉ ṟōḷē.</l>
         </lg>
 
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
 
           <l> We saw your woman, did we not, o delightful man? </l>
           <l> Crying on your shoulder until her kohl-rimmed eyes turned red, </l>

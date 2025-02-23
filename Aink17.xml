@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -24,14 +22,14 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="Aink17-kilavi">
-        <p type="edition">talaimakaṉ parattaiyiṟ pirintavaḻi, ‘ivvāṟu oḻukutalum āṭavarkku
+      <div rend="parallel">
+        <p xml:id="Aink17-kilavi">talaimakaṉ parattaiyiṟ pirintavaḻi, ‘ivvāṟu oḻukutalum āṭavarkku
           iyalpaṉṟē; nī itaṟku neñcu aḻikiṉṟatu eṉṉai?’ eṉṟa tōḻikkut talaimakaḷ colliyatu.</p>
-        <p type="translation" xml:lang="en"> </p>
+        <p xml:lang="en"> </p>
       </div>
 
-      <div xml:id="Aink17">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="Aink17">
           <l> putaṉmicai nuṭaṅkum vēḻa veṇpū</l>
           <l> vicumpāṭu kurukiṟ ṟōṉṟu mūraṉ</l>
           <l> putuvōr mēvala ṉākaliṉ</l>
@@ -39,7 +37,7 @@
 
 
         </lg>
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
           <l> Because the man from the village </l>
           <l rend="indent2"> where the white flowers of the wild-cane that sway on bushes </l>
           <l rend="indent2"> appear like egrets dancing in the sky</l>

@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -24,20 +22,20 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="Aink37-kilavi">
-        <p type="edition">talaimakaḷaic cūḷiṉāl teḷittāṉ eṉpatu kēṭṭa kātaṟparattai talaimakaṭkup
+      <div rend="parallel">
+        <p xml:id="Aink37-kilavi">talaimakaḷaic cūḷiṉāl teḷittāṉ eṉpatu kēṭṭa kātaṟparattai talaimakaṭkup
           pāṅkāyiṉār kēṭpat taṉ tōḻikkuc colliyatu.</p>
-        <p type="translation" xml:lang="en"> </p>
+        <p xml:lang="en"> </p>
       </div>
 
-      <div xml:id="Aink37">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="Aink37">
           <l> amma vāḻi tōḻi makiḻna</l>
           <l>ṉayantō ruṇkaṇ pacantupaṉi malka</l>
           <l>vallaṉ vallaṉ poytta</l>
           <l>ṟēṟṟā ṉuṟṟa cūḷvāyt tallē</l>
         </lg>
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
 
           <l> Alas, [my] friend!</l>
           <l>The bringer of joy</l>

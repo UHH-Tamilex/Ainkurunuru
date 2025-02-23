@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -24,21 +22,21 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="Aink28-kilavi">
-        <p type="edition"> iṟceṟivitta iṭattut talaimakaṭku eytiya vēṟupāṭu kaṇṭu, ‘itu teyvattiṉāṉ
+      <div rend="parallel">
+        <p xml:id="Aink28-kilavi"> iṟceṟivitta iṭattut talaimakaṭku eytiya vēṟupāṭu kaṇṭu, ‘itu teyvattiṉāṉ
           āyiṟṟu’ eṉṟu tamar veṟiyeṭuppuḻi ataṉai vilakkak karutiya tōḻi cevilikku aṟattoṭu niṉṟatu. </p>
-        <p type="translation" xml:lang="en"> </p>
+        <p xml:lang="en"> </p>
       </div>
 
-      <div xml:id="Aink28">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="Aink28">
           <l> uṇṭuṟai yaṇaṅkiva ḷuṟainō yāyiṟ</l>
           <l> ṟaṇcēṟu kaḷvaṉ varikku mūraṟ</l>
           <l> koṇṭoṭi nekiḻac cāay</l>
           <l> meṉṟōḷ pacappa tevaṉko laṉṉāy.</l>
 
         </lg>
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
           <l> If it's because of a spirit from the drinking ghat that she's still in pain, </l>
           <l> [then] what about the fading of [her] soft shoulders? </l>
           <l> Or the fact that she's so spent that [her] bright bangles loosen? </l>

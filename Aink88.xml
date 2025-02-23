@@ -1,5 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -29,21 +28,21 @@
   </teiHeader>
   <text xml:lang="ta">
     <body>
-      <div xml:id="Aink88-kilavi">
-        <p type="edition">talaimakaṉai nayappittuk koḷkaiyil viruppillātāḷ pōla avvāṟu kōṭalaiyē
+      <div rend="parallel">
+        <p xml:id="Aink88-kilavi">talaimakaṉai nayappittuk koḷkaiyil viruppillātāḷ pōla avvāṟu kōṭalaiyē
           virumpuvāḷ, atu taṉakku muṭiyātu eṉat talaimakaḷ puṟaṉuraittāḷ eṉak kēṭṭa parattai avaṭkup
           pāṅkāyiṉārkkuc colliyatu.
         </p>
-        <p type="translation" xml:lang="en"> </p>
+        <p xml:lang="en"> </p>
       </div>
-      <div xml:id="Aink88">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="Aink88">
           <l>vaṇṭuṟai nayavarum vaḷamalarp poykait</l>
           <l>taṇṭuṟai yūraṉai yevvai yemvayiṉ</l>
           <l>varutal vēṇṭutu meṉpa</l>
           <l>tollēm pōlyā matuvēṇ ṭutumē.</l>
         </lg>
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
           
 <l>           Our sister said that we would like him to come close to us – </l> 
 <l rend="indent2">           the man from the village by the cool ghat </l> 

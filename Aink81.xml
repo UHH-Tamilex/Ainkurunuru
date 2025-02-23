@@ -1,5 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -29,14 +28,14 @@
   </teiHeader>
   <text xml:lang="ta">
     <body>
-      <div xml:id="Aink81-kilavi">
-        <p type="edition">taṉṉaik koṭumai kūṟiṉāḷ talaimakaḷ eṉpatu kēṭṭa parattai talaimakaṉ vantu
+      <div rend="parallel">
+        <p xml:id="Aink81-kilavi">taṉṉaik koṭumai kūṟiṉāḷ talaimakaḷ eṉpatu kēṭṭa parattai talaimakaṉ vantu
           taṉmēl aṉpuṭaimai kuṟiṉāṉāka avaṭkup pāṅkāyiṉār kēṭpac colliyatu.
         </p>
-        <p type="translation" xml:lang="en"> </p>
+        <p xml:lang="en"> </p>
       </div>
-      <div xml:id="Aink81">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="Aink81">
           <l>kurukuṭait tuṇṭa veḷḷakaṭ ṭiyāmai</l>
           <l>yarippaṟai viṉaiña ralkumicaik kūṭṭu</l>
           <l>malaraṇi vāyiṟ poykai yūranī</l>
@@ -44,7 +43,7 @@
           <l>maṉaiyōḷ kēṭkiṉ varuntuvaḷ peritē.</l>
         </lg>
   
-      <lg type="translation" xml:lang="en">
+      <lg xml:lang="en">
 
 <l>         O man from a village with a pond </l> 
 <l rend="indent4">         whose mouth is adorned with flowers</l> 

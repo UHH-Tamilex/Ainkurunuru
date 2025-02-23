@@ -23,15 +23,15 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="Aink322">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="Aink322">
 <l>neṭuṅkaḻai muḷiya vēṉi ṉīṭik</l>
 <l>kaṭuṅkatir ñāyiṟu kalpakat teṟutaliṉ</l>
 <l>veyya vāyiṉa muṉṉē yiṉiyē</l>
 <l>yoṇṇuta larivaiyai yuḷḷutoṟun</l>
 <l>taṇṇiya vāyiṉa curattiṭai yāṟē</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
   <l>Before,</l>
     <l>the paths through the wasteland were hot,</l>
       <l>as summer lasted so long, the tall bamboos dried out,</l> 

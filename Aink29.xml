@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -24,13 +22,13 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="Aink29-kilavi">
-        <p type="edition"> varaivetir koḷḷār tamar avaṇ maṟuppuḻit tōḻi cevilikku aṟattoṭu niṉṟatu. </p>
-        <p type="translation" xml:lang="en"> </p>
+      <div rend="parallel">
+        <p xml:id="Aink29-kilavi"> varaivetir koḷḷār tamar avaṇ maṟuppuḻit tōḻi cevilikku aṟattoṭu niṉṟatu. </p>
+        <p xml:lang="en"> </p>
       </div>
 
-      <div xml:id="Aink29">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="Aink29">
           <l> māri kaṭikoḷak kāvalar kaṭuka</l>
           <l> vittiya veṇmuḷai kaḷva ṉaṟukkuṅ</l>
           <l> kaḻaṉi yūraṉ mārpuṟa marīit</l>
@@ -38,7 +36,7 @@
           <l> pacalai koḷva tevaṉko laṉṉāy.</l>
 
         </lg>
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
           <l> After she united with and possessed the chest of the man from the village of paddy
             fields, where, </l>
           <l rend="indent2"> when the watchmen hasten to find protection from showers,</l>

@@ -1,5 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -29,21 +28,21 @@
   </teiHeader>
   <text xml:lang="ta">
     <body>
-      <div xml:id="Aink100-kilavi">
-        <p type="edition">vāyiṉērtaṟ poruṭṭu mukam pukuvāṉ vēṇṭi iyaṟpaḻittuḻit talaimakaḷ iyaṟpaṭa
+      <div rend="parallel">
+        <p xml:id="Aink100-kilavi">vāyiṉērtaṟ poruṭṭu mukam pukuvāṉ vēṇṭi iyaṟpaḻittuḻit talaimakaḷ iyaṟpaṭa
           moḻinta tiṟam talaimakaṟkut tōḻi colliyatu.
         </p>
-        <p type="translation" xml:lang="en"> </p>
+        <p xml:lang="en"> </p>
       </div>
-      <div xml:id="Aink100">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="Aink100">
           <l>puṉalāṭu makaḷi riṭṭa voḷḷiḻai</l>
           <l>maṇalāṭu cimaiyat terumai kiḷaikkum</l>
           <l>yāṇa rūraṉ makaḷivaḷ</l>
           <l>pāṇar narampiṉu miṉkiḷa viyaḷē.</l>
         </lg>
 
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
 
           <l> This girl is the daughter/ girl of the man from a fertile village,</l>
           <l rend="indent2"> where the buffalo unearths, on dancing peaks of sand, </l>

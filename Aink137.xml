@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -16,7 +14,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>    
         </msDesc>
@@ -26,13 +24,13 @@
   </teiHeader>
 <text xml:lang="ta" type="edition">
   <body>
-    <div xml:id="Aink137">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="Aink137">
 <l>niṉṉoṉṟu viṉavuval pāṇa nummūrt</l>
 <l>tiṇṭērk koṇkaṉai nayantōr</l>
 <l>paṇṭait tannalam peṟupavō maṟṟē</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
   <l>I ask you one thing, oh bard: </l>
     <l>In your village, would those [ladies] </l>
       <l>Who longed for the man from the maritime tract in a firm chariot</l>

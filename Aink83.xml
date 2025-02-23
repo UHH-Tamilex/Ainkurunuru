@@ -1,5 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -24,19 +23,19 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="Aink83-kilavi">
-      <p type="edition">varainta aṇumaikkaṇṇē talaimakaṟkup puṟattoḻukkam uṇṭākiyavaḻi ataṉai aṟinta talaivi avaṉōṭu pulantu colliyatu.
+    <div rend="parallel">
+      <p xml:id="Aink83-kilavi">varainta aṇumaikkaṇṇē talaimakaṟkup puṟattoḻukkam uṇṭākiyavaḻi ataṉai aṟinta talaivi avaṉōṭu pulantu colliyatu.
       </p>
-      <p type="translation" xml:lang="en"> </p>
+      <p xml:lang="en"> </p>
     </div>
-    <div xml:id="Aink83">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="Aink83">
 <l>maṇantaṉai yaruḷā yāyiṉum paipayat</l>
 <l>taṇantaṉai yāki yuymmō nummū</l>
 <l>roṇṭoṭi muṉkai yāyamun</l>
 <l>taṇṭuṟai yūraṉ peṇṭeṉap paṭaṟkē</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 
 <l>   You united [with me] </l> 
 <l>   and yet you show [me] no consideration. </l> 

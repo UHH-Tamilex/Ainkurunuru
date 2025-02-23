@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -24,21 +22,21 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="Aink15-kilavi">
-        <p type="edition">cēṇiṭaip pirintuvantu uṭaṉ uṟaikiṉṟa talaimakaṟkup puṟattoḻukkam
+      <div rend="parallel">
+        <p xml:id="Aink15-kilavi">cēṇiṭaip pirintuvantu uṭaṉ uṟaikiṉṟa talaimakaṟkup puṟattoḻukkam
           uḷatākiṉṟatu eṉṟu kuṟippiṉāṉ uṇarntu talaimakaḷ vēṟupaṭṭāḷākat tōḻi ataṉaiyaṟiyātu, ‘avaṉ
           uṭaṉuṟaiyavum vēṟupaṭukiṉṟatu eṉṉai?’ eṉṟāṭku avaḷ colliyatu.</p>
-        <p type="translation" xml:lang="en"> </p>
+        <p xml:lang="en"> </p>
       </div>
 
-      <div xml:id="Aink15">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="Aink15">
           <l> maṇalāṭu malirniṟai virumpiya voṇṭaḻaip</l>
           <l> puṉalāṭu makaḷirkkup puṇartuṇai yutavum</l>
           <l> vēḻa mūtū rūra</l>
           <l> ṉūra ṉāyiṉu mūraṉal laṉṉē.</l>
         </lg>
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
           <l> The man from the town, the old town with wild cane,</l>
           <l rend="indent2"> who helps [his] consort united with the women bathing in the flood</l>
           <l rend="indent2"> [all wearing] bright foliage, they who'd desired the fullness of the

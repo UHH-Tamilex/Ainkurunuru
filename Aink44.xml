@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -24,20 +22,20 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="Aink44-kilavi">
-        <p type="edition">parattaiyar maṉaikkaṇṇē paṉṉāḷ taṅkit taṉmaṉaikkaṇṇē vanta talaimakaṟkut
+      <div rend="parallel">
+        <p xml:id="Aink44-kilavi">parattaiyar maṉaikkaṇṇē paṉṉāḷ taṅkit taṉmaṉaikkaṇṇē vanta talaimakaṟkut
           tōḻi kūṟiyatu.</p>
-        <p type="translation" xml:lang="en"> </p>
+        <p xml:lang="en"> </p>
       </div>
 
-      <div xml:id="Aink44">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="Aink44">
           <l> tīmperum poykai yāmai yiḷampārpput</l>
           <l> tāymuka nōkki vaḷarntici ṉāaṅ</l>
           <l> katuvē yaiyaniṉ mārpē</l>
           <l> yaṟintaṉai yoḻukumati yaṟaṉumā ratuvē.</l>
         </lg>
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
 
           <l> In the big, sweet pond </l>
           <l> the tender young of the tortoise </l>

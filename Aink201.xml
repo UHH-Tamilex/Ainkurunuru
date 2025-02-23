@@ -24,10 +24,10 @@
   </teiHeader>
 <text xml:lang="ta" type="edition">
   <body>
-  <div xml:id="Aink201-kilavi">
-      <p type="edition"> notu malar varaiviṉkaṇ cevili kēṭkum āṟṟāl talaimakaṭ ṭōḻikk* aṟattoṭu nilai kuṟitt* uraittatu. </p>
+  <div rend="parallel">
+      <p xml:id="Aink201-kilavi"> notu malar varaiviṉkaṇ cevili kēṭkum āṟṟāl talaimakaṭ ṭōḻikk* aṟattoṭu nilai kuṟitt* uraittatu. </p>
 
-      <p type="translation" xml:lang="en"> What the heroine told the confidante regarding the “standing up with virtue” [i.e., revealing the truth], in [the context] of marrying a stranger, by a manner in which foster mother [could] listen. </p>
+      <p xml:lang="en"> What the heroine told the confidante regarding the “standing up with virtue” [i.e., revealing the truth], in [the context] of marrying a stranger, by a manner in which foster mother [could] listen. </p>
       </div>
     <div rend="parallel">
       <lg xml:id="Aink201">

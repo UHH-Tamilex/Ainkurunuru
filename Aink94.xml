@@ -1,5 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -29,13 +28,13 @@
   </teiHeader>
   <text xml:lang="ta">
     <body>
-      <div xml:id="Aink94-kilavi">
-        <p type="edition">varaiviṭai vaittup pirinta talaimakaṉ mīḷkiṉṟāṉ colliyatu.
+      <div rend="parallel">
+        <p xml:id="Aink94-kilavi">varaiviṭai vaittup pirinta talaimakaṉ mīḷkiṉṟāṉ colliyatu.
         </p>
-        <p type="translation" xml:lang="en"> </p>
+        <p xml:lang="en"> </p>
       </div>
-      <div xml:id="Aink94">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="Aink94">
           <l>maḷḷa raṉṉa taṭaṅkōṭ ṭerumai</l>
           <l>makaḷi raṉṉa tuṇaiyoṭu vatiyu</l>
           <l>niḻaṉmuti rilañcip paḻaṉat tatuvē</l>
@@ -43,7 +42,7 @@
           <l>kaviṉpeṟu cuṭarnuta ṟantai yūrē.</l>
         </lg>
 
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
 
           <l> The town of her father– </l>
           <l> that girl with a beautiful glowing forehead</l>

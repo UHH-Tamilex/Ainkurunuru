@@ -1,5 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -29,23 +28,23 @@
   </teiHeader>
   <text xml:lang="ta">
     <body>
-      <div xml:id="Aink92-kilavi">
-        <p type="edition">niṉakku varaintu tarutaṟkuk kuṟai niṉ tamar aṅku vantu kūṟāmaiyē eṉat tōḻi
+      <div rend="parallel">
+        <p xml:id="Aink92-kilavi">niṉakku varaintu tarutaṟkuk kuṟai niṉ tamar aṅku vantu kūṟāmaiyē eṉat tōḻi
           kūṟiṉāḷāka,
           talaimakaḷ mukanōkki ivaḷ kuṟippiṉāl kūṟiṉāḷ eṉpatu aṟinta talaimakaṉ, ‘varaivu
           māṭcimaippaṭiṉ nāṉē varuval’ eṉat talaimakaṭkuc colliyatu.
         </p>
-        <p type="translation" xml:lang="en"> </p>
+        <p xml:lang="en"> </p>
       </div>
-      <div xml:id="Aink92">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="Aink92">
           <l>karuṅkōṭ ṭerumaic ceṅkaṭ puṉiṟṟāk</l>
           <l>kātaṟ kuḻavik kūṟumulai maṭukku</l>
           <l>nuntai nummūr varutu</l>
           <l>moṇṭoṭi maṭantai niṉṉaiyām peṟiṉē.</l>
         </lg>
 
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
 
 <l>           We shall come to your village, to your father['s place], </l> 
 <l rend="indent4"> 	where they drink from the teat </l> 

@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -24,21 +22,21 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="Aink26-kilavi">
-        <p type="edition"> talaimakaṟku vāyilākap pukuntār, ‘niṉ muṉiviṟku avaṉ poruntā niṉṟāṉ’ eṉṟa
+      <div rend="parallel">
+        <p xml:id="Aink26-kilavi"> talaimakaṟku vāyilākap pukuntār, ‘niṉ muṉiviṟku avaṉ poruntā niṉṟāṉ’ eṉṟa
           vaḻit talaimakaṭkut tōḻi, ‘avaṉ pāṭu aḵtillai’ eṉpatupaṭac colliyatu. </p>
-        <p type="translation" xml:lang="en"> </p>
+        <p xml:lang="en"> </p>
       </div>
 
-      <div xml:id="Aink26">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="Aink26">
 <l>          karantaiyañ ceṟuviṟ ṟuṇaituṟantu kaḷvaṉ</l>
 <l>          vaḷḷai meṉkā laṟukku mūra</l>
 <l>          ṉemmum piṟaru maṟiyā</l>
 <l>          ṉiṉṉa ṉāva tevaṉko laṉṉāy.</l>
 
         </lg>
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
 <l>          The man from the village</l>
 <l rend="indent2">          where the crab, having abandoned [its] mate in the thistle fields,</l>
 <l rend="indent2">          tears off the soft bindweed stalks</l>

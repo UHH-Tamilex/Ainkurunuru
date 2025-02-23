@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -9,7 +7,7 @@
         <editor role="translator">Leo Nelson-Jones</editor>
       </titleStmt>
       <publicationStmt>
-        <p />
+        <p/>
       </publicationStmt>
       <sourceDesc>
         <msDesc xml:lang="en">
@@ -17,26 +15,26 @@
           </msIdentifier>
           <msContents>
             <summary>
-              <p></p>
+              <p/>
             </summary>
           </msContents>
         </msDesc>
       </sourceDesc>
     </fileDesc>
     <revisionDesc>
-      <change />
+      <change/>
     </revisionDesc>
   </teiHeader>
   <text xml:lang="ta">
     <body>
-      <div xml:id="Aink405">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="Aink405">
           <l>oṇcuṭarp pāṇṭiṟ ceñcuṭar pōla</l>
           <l>maṉaikkuviḷak kāyiṉaṇ maṉṟa kaṉaippeyaṟ</l>
           <l>pūppala vaṇinta vaippiṟ</l>
           <l>puṟavaṇi nāṭaṉ putalvaṉ ṟāyē</l>
         </lg>
-        <p type="translation" xml:lang="en">
+        <p xml:lang="en">
           She certainly is a light for the house, just like the red flame in the bright shining lamp
           bowl, the mother of the son of the man from the land with beautiful forests where the
           heavy rains decorate the land with many flowers.
@@ -112,7 +110,7 @@
     </entry>
     <entry>
       <form>maṉṟa</form>
-      <def></def>
+      <def/>
       <gramGrp type="particle">
         <m>maṉṟa</m>
       </gramGrp>

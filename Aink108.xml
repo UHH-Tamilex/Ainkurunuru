@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -16,7 +14,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>    
         </msDesc>
@@ -26,14 +24,14 @@
   </teiHeader>
 <text xml:lang="ta" type="edition">
   <body>
-    <div xml:id="Aink108">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="Aink108">
 <l>aṉṉai vāḻi vēṇ ṭaṉṉai kaḻiya</l>
 <l>muṇṭaka malarun taṇ kaṭaṟ cērppa</l>
 <l>ṉentō ṭuṟantaṉa ṉāyi</l>
 <l>ṉevaṉkoṉ maṟṟava ṉayanta tōḷē</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 <l>  Oh mother, please mother,</l>
 <l>If the man from the shore of the cool ocean</l>
 <l>Where Muṇṭakam blooms in the backwaters</l>

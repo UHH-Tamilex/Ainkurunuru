@@ -1,5 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -29,22 +28,22 @@
   </teiHeader>
   <text xml:lang="ta">
     <body>
-      <div xml:id="Aink93-kilavi">
-        <p type="edition">muyakkam peṟṟavaḻip piṟanta veṟi nāṟṟattāl paṇṭaiyaḷavaṉṟi vaṇṭukaḷ
+      <div rend="parallel">
+        <p xml:id="Aink93-kilavi">muyakkam peṟṟavaḻip piṟanta veṟi nāṟṟattāl paṇṭaiyaḷavaṉṟi vaṇṭukaḷ
           moyttaṉavāka, ‘itaṟkuk kāraṇam eṉ’ eṉṟu viṉāviya cevilittāykkuk kūṟuvāḷ pōṉṟu talaimakaṉ
           ciṟaipuṟattāṉākat tōḻi colliyatu.
         </p>
-        <p type="translation" xml:lang="en"> </p>
+        <p xml:lang="en"> </p>
       </div>
-      <div xml:id="Aink93">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="Aink93">
           <l>erumainal lēṟṟiṉa mēya larunteṉap</l>
           <l>pacumō rōṭamō ṭāmpa lollā</l>
           <l>ceyta viṉaiya maṉṟa palpoḻiṟ</l>
           <l>ṟātuṇ veṟukkaiya vākiyivaḷ</l>
           <l>pōtaviḻ mucci yūtum vaṇṭē.</l>
         </lg>
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
 
 <l>           The bees, rejecting white lotus and green Catechu plants, </l> 
 <l rend="indent2">           because those have [already] been fed on </l> 

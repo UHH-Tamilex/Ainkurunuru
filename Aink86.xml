@@ -1,5 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -24,19 +23,19 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="Aink86-kilavi">
-      <p type="edition">putalvaṉ kūṟiya māṟṟam talaimakaṭkup pāṅkāyiṉār kūṟak kēṭṭāṉ eṉpatu aṟinta parattai ataṟkup pulantu talaimakaṟkuc colliyatu.
+    <div rend="parallel">
+      <p xml:id="Aink86-kilavi">putalvaṉ kūṟiya māṟṟam talaimakaṭkup pāṅkāyiṉār kūṟak kēṭṭāṉ eṉpatu aṟinta parattai ataṟkup pulantu talaimakaṟkuc colliyatu.
       </p>
-      <p type="translation" xml:lang="en"> </p>
+      <p xml:lang="en"> </p>
     </div>
-    <div xml:id="Aink86">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="Aink86">
 <l>veṇṭalaik kurukiṉ meṉpaṟai viḷikkura</l>
 <l>ṉīḷvaya ṉaṇṇi yimiḻu mūra</l>
 <l>vemmiva ṇalkuta laritu</l>
 <l>nummaṉai maṭantaiyoṭu talaippey tīmē.</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 
 <l>   O man from a village</l> 
 <l rend="indent4"> 	that resounds with </l> 

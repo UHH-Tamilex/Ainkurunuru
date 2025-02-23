@@ -1,5 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -29,21 +28,21 @@
   </teiHeader>
   <text xml:lang="ta">
     <body>
-      <div xml:id="Aink75-kilavi">
-        <p type="edition">parattaiyōṭu puṉalāṭi vanta talaimakaṉ ataṉai maṟaittuk kūṟiyavaḻit tōḻi
+      <div rend="parallel">
+        <p xml:id="Aink75-kilavi">parattaiyōṭu puṉalāṭi vanta talaimakaṉ ataṉai maṟaittuk kūṟiyavaḻit tōḻi
           kūṟiyatu.
         </p>
-        <p type="translation" xml:lang="en"> </p>
+        <p xml:lang="en"> </p>
       </div>
-      <div xml:id="Aink75">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="Aink75">
           <l>palariva ṇovvāy makiḻna vataṉā</l>
           <l>lalartoṭaṅ kiṉṟā lūrē malara</l>
           <l>toṉṉilai marutattup peruntuṟai</l>
           <l>niṉṉō ṭāṭiṉa ṭaṇpuṉa latuvē.</l>
         </lg>
 
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
 
           <l> You are not like everyone else here, o delightful man. </l>
           <l> That's the reason that gossip has arised in the village.</l>

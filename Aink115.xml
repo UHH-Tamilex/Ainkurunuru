@@ -24,14 +24,14 @@
   </teiHeader>
 <text xml:lang="ta" type="edition">
   <body>
-    <div xml:id="Aink115">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="Aink115">
 <l>amma vāḻi tōḻi paṉmā</l>
 <l>nuṇmaṇa laṭaikarai nammō ṭāṭiya</l>
 <l>taṇṇan tuṟaivaṉ maṟaii</l>
 <l>yaṉṉai yaruṅkaṭi vantuniṉ ṟōṉē</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 <l>Oh friend, listen!</l>
 <l>The man from the cool, pretty ghat</l>
 <l>Who played with us on the shore upon which numerous, great, fine grains of sand were deposited,</l>

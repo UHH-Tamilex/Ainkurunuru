@@ -1,5 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -24,20 +23,20 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="Aink55-kilavi">
-      <p type="edition">varainta aṇimaik kaṇṇē puṟattoḻukkam oḻuki vāyil vēṇṭivantu taṉ melivu kūṟiya talaimakaṉait tōḻi neruṅkic colliyatu.
+    <div rend="parallel">
+      <p xml:id="Aink55-kilavi">varainta aṇimaik kaṇṇē puṟattoḻukkam oḻuki vāyil vēṇṭivantu taṉ melivu kūṟiya talaimakaṉait tōḻi neruṅkic colliyatu.
       </p>
-      <p type="translation" xml:lang="en"> </p>
+      <p xml:lang="en"> </p>
     </div>
-    <div xml:id="Aink55">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="Aink55">
 <l>karumpi ṉentiraṅ kaḷiṟṟetir piḷiṟṟun</l>
 <l>tērvaṇ kōmāṉ ṟēṉū raṉṉaviva</l>
 <l>ṇallaṇi nayantunī tuṟattaliṟ</l>
 <l>pallō raṟiyap pacantaṉṟu nutalē.</l>
 </lg>
 
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 
 
 

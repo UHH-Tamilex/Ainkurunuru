@@ -1,5 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -29,21 +28,21 @@
   </teiHeader>
   <text xml:lang="ta">
     <body>
-      <div xml:id="Aink80-kilavi">
-        <p type="edition">taṉṉai oḻiyap putuppuṉalāṭit tāḻttu vanta talaimakaṉōṭu talaimakaḷ pulantu
+      <div rend="parallel">
+        <p xml:id="Aink80-kilavi">taṉṉai oḻiyap putuppuṉalāṭit tāḻttu vanta talaimakaṉōṭu talaimakaḷ pulantu
           colliyatu.
         </p>
-        <p type="translation" xml:lang="en"> </p>
+        <p xml:lang="en"> </p>
       </div>
-      <div xml:id="Aink80">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="Aink80">
           <l>pulakkuvē mallēm poyyā turaimō</l>
           <l>nalattaku makaḷirkkut tōṭṭuṇai yākit</l>
           <l>talaippeyaṟ cempuṉa lāṭit</l>
           <l>tavanaṉi civantaṉa makiḻnaniṉ kaṇṇē.</l>
         </lg>
 
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
 
           <l> We shall not sulk. [So] tell [us] without lying: </l>
           <p/>

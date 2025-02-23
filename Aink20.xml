@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -24,15 +22,15 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="Aink20-kilavi">
-        <p type="edition"> talaimakaḷai vāyil nērvittaṟ poruṭṭāka, kātalar koṭumai ceytār āyiṉum
+      <div rend="parallel">
+        <p xml:id="Aink20-kilavi"> talaimakaḷai vāyil nērvittaṟ poruṭṭāka, kātalar koṭumai ceytār āyiṉum
           avar tiṟam maṟavātoḻiyal vēṇṭum eṉṟu mukam pukukiṉṟa tōḻikku, eṉ kaivaḷai nillātākiṉṟatu
           avarai niṉaintataṉ payaṉaṉṟē; iṉi amaiyum eṉat talaimakaḷ colliyatu. </p>
-        <p type="translation" xml:lang="en"> </p>
+        <p xml:lang="en"> </p>
       </div>
 
-      <div xml:id="Aink20">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="Aink20">
           <l> aṟucil kāla vañciṟait tumpi</l>
           <l> nūṟṟitaḻt tāmaraip pūcciṉai cīkkuṅ</l>
           <l> kāmpukaṇ ṭaṉṉa tūmpuṭai vēḻattut</l>
@@ -40,7 +38,7 @@
           <l> ṉiṟaiyē relvaḷai nekiḻpō ṭummē.</l>
 
         </lg>
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
           <l> Remembering the man from the village near the ghat</l>
           <l rend="indent2"> where the hollow wild-cane that looks like [bamboo] shafts [grows],</l>
           <l rend="indent2"> where pretty-winged bees with six little(?) legs</l>

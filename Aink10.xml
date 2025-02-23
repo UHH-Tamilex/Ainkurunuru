@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -24,13 +22,13 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="Aink10-kilavi">
-        <p type="edition"> ituvumatu. </p>
-        <p type="translation" xml:lang="en"> </p>
+      <div rend="parallel">
+        <p xml:id="Aink10-kilavi"> ituvumatu. </p>
+        <p xml:lang="en"> </p>
       </div>
 
-      <div xml:id="Aink10">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="Aink10">
 <l>          vāḻi yātaṉ vāḻi yaviṉi</l>
 <l>          māri vāykka vaḷanaṉi ciṟakka</l>
 <l>          veṉavēṭ ṭōḷē yāyē yāmē</l>
@@ -38,7 +36,7 @@
 <l>          ṟaṇṭuṟai yūraṉ ṟaṉṉoṭu	</l>
 <l>          koṇṭaṉaṉ celka veṉavēṭ ṭēmē.</l>
         </lg>
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
 <l>          'Long live Ātan! Long live Aviṉi! </l>
 <l>          May the rains pour down! May fertility well abound!' </l>
 <l>          That's what our mother wants. As for us: </l>

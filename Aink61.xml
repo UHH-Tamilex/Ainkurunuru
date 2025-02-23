@@ -1,5 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -29,22 +28,22 @@
   </teiHeader>
   <text xml:lang="ta">
     <body>
-      <div xml:id="Aink61-kilavi">
-        <p type="edition">vatuvaiyayarntāḷ oru parattaiyaic ciṉṉāḷil viṭṭu maṟṟoru parattaiyai
+      <div rend="parallel">
+        <p xml:id="Aink61-kilavi">vatuvaiyayarntāḷ oru parattaiyaic ciṉṉāḷil viṭṭu maṟṟoru parattaiyai
           vatuvaiyayarntāṉ ‘eṉpatu aṟinta talaimakaḷ avaṉ maṉaivayiṟ pukkuḻip pulantāḷāka, ‘itu
           maṟaittaṟku aritu’ eṉa uṭaṉpaṭṭu, iṉi eṉṉiṭattu ivvāṟu nikaḻātu’ eṉṟāṟku avaḷ colliyatu.
         </p>
-        <p type="translation" xml:lang="en"> </p>
+        <p xml:lang="en"> </p>
       </div>
-      <div xml:id="Aink61">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="Aink61">
           <l>naṟuvaṭi māattu viḷaintuku tīmpaḻa</l>
           <l>neṭunīrp poykait tuṭumeṉa viḻūuṅ</l>
           <l>kaivaṇ matti kaḻāa raṉṉa</l>
           <l>nallōr nallōr nāṭi</l>
           <l>vatuvai yayara virumputi nīyē.</l>
         </lg>
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
 
 
           <l> These good women like Kaḻār,</l>

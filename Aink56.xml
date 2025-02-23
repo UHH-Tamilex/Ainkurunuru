@@ -1,5 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -24,20 +23,20 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="Aink56-kilavi">
-      <p type="edition">purattoḻukkam uḷatākiyataṟintu talaimakaḷ melintuḻi, ‘aḵtillai’ eṉṟu tēṟṟum talaimakaṟkut tōḻi colliyatu.
+    <div rend="parallel">
+      <p xml:id="Aink56-kilavi">purattoḻukkam uḷatākiyataṟintu talaimakaḷ melintuḻi, ‘aḵtillai’ eṉṟu tēṟṟum talaimakaṟkut tōḻi colliyatu.
       </p>
-      <p type="translation" xml:lang="en"> </p>
+      <p xml:lang="en"> </p>
     </div>
-    <div xml:id="Aink56">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="Aink56">
 <l>pakalkoḷ viḷakkō ṭirānā ḷaṟiyā</l>
 <l>velpōrc cōḻa ṉāmū raṉṉaviva</l>
 <l>ṇalampeṟu cuṭarnuta ṟēmpa</l>
 <l>vevaṉpayañ ceyyunī tēṟṟiya moḻiyē.</l>
 </lg>
 
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 
 
 <l>   The girl who is like Āmūr </l> 

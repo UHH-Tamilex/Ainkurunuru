@@ -1,5 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -29,21 +28,21 @@
   </teiHeader>
   <text xml:lang="ta">
     <body>
-      <div xml:id="Aink95-kilavi">
-        <p type="edition">uṇṭik kālattu maṉaikkaṇ varutaluñ curuṅkip parattaiyiṭattaṉāyt talaimakaṉ
+      <div rend="parallel">
+        <p xml:id="Aink95-kilavi">uṇṭik kālattu maṉaikkaṇ varutaluñ curuṅkip parattaiyiṭattaṉāyt talaimakaṉ
           oḻukiyavaḻi avaṟku vāyilāy vantārkkut talaimakaḷ colliyatu.
         </p>
-        <p type="translation" xml:lang="en"> </p>
+        <p xml:lang="en"> </p>
       </div>
-      <div xml:id="Aink95">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="Aink95">
           <l>karuṅkōṭ ṭerumai kayiṟu parintacaii</l>
           <l>neṭuṅkatir nelli ṉāṇmēya lārum</l>
           <l>puṉaṉmuṟ ṟūraṉ pakalum</l>
           <l>paṭarmali yarunōy ceytaṉa ṉemakkē.</l>
         </lg>
 
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
 
           <l> The man from the village surrounded by floods, </l>
           <l rend="indent4"> where the black-horned buffalo, after breaking and shaking off [its] rope,</l>
