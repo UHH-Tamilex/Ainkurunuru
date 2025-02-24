@@ -1,4 +1,6 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -6,6 +8,7 @@
           <title xml:lang="ta">Aiṅkuṟunūṟu</title> 1. <persName xml:lang="ta">Ōrampōkiyār</persName>
         </title>
         <editor role="translator">Eva Wilden</editor>
+        <editor role="translator">Thomas Lehmann</editor>
       </titleStmt>
       <sourceDesc>
         <msDesc xml:lang="en">
@@ -26,7 +29,7 @@
         <p xml:id="Aink1-kilavi"> puṟattoḻukkattilē neṭunāḷoḻuki, ‘itu takātu’ eṉat teḷinta maṉattaṉāy
           mīṇṭu talaiviyōṭukūṭi oḻuṅkāniṉṟa talaimakaṉ tōḻiyōṭu collāṭi, ‘yāṉ avvāṟoḻuka nīyir
           niṉaitta tiṟam yātu?’ eṉṟāṟku avaḷ colliyatu. </p>
-        <p xml:lang="en"> </p>
+        <p xml:lang="en"> the <hi rend="italic">talaivaṉ</hi> </p>
       </div>
       <div rend="parallel">
         <lg xml:id="Aink1">
@@ -50,7 +53,19 @@
           <l> May he live long, and may the bard live long!' </l>
           <l>— that's what we have been wanting. </l>
 
-
+          <lg type="alternate">
+            <l> 'Long live Ātaṉ! Long live Aviṉi!</l>
+          <l> May [our] many rice plants multiply!</l>
+          <l> May [we] amass much gold!' </l>
+          <l> — that's what our mother wants.</l>
+          <l> As for us:</l>
+          <l> 'The man from the fertile village </l>
+          <l> of budding Portia trees </l>
+          <l> and little egg-bearing fish: </l>
+          <l> May he live long, and may the bard live long!' </l>
+          <l>— that's what we have been wanting. </l>
+          <trailer>translation by Thomas Lehmann</trailer>
+          </lg>
         </lg>
       </div>
     </body>
@@ -61,7 +76,6 @@
 <form>vāḻi</form>
 <def>live-you</def>
 <gramGrp>
-  <gram type="role">subjuntive</gram>
   <gram type="role">singular</gram>
   <gram type="role">second person</gram>
 </gramGrp>
@@ -77,7 +91,6 @@
 <form>vāḻi</form>
 <def>live-you</def>
 <gramGrp>
-  <gram type="role">subjuntive</gram>
   <gram type="role">singular</gram>
   <gram type="role">second person</gram>
 </gramGrp>
@@ -129,7 +142,7 @@
 </entry>
 <entry>
 <form>ciṟakka</form>
-<def>may excel</def>
+<def>may excel/be abundant</def>
 <gramGrp>
   <gram type="role">optative</gram>
 </gramGrp>
@@ -265,7 +278,7 @@
   <gram type="role">first person</gram>
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
-<note>The poet appears to make a deliberate distinction
+<note xmlns="http://www.tei-c.org/ns/1.0">The poet appears to make a deliberate distinction
         between the participial noun in line 3 (vēṭṭō­ḷ) and the finite form in line 6 (vēṭṭēm-ē).
         The perfective participial noun (vēṭṭōḷ) suggests a mother who 'one who has the habit of
         wanting' (i.e. she has wanted in the past and will continue to do so). Vēṭṭēm (not vēṭṭōm,
