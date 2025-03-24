@@ -25,7 +25,7 @@
 <text xml:lang="ta" type="edition">
   <body>
     <div rend="parallel">
-      <lg xml:id="poem116">
+      <lg xml:id="Aink116">
 <l>amma vāḻi tōḻi nāmaḻa</l>
 <l>nīla viruṅkaḻi nīlaṅ kūmpu</l>
 <l>mālaivan taṉṟu maṉṟa</l>
@@ -41,7 +41,7 @@
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">42ML12MG24MG5M2GM,89M</interp>
+<standOff type="wordsplit" corresp="#Aink116"><interp type="alignment" select="0">42ML12MG24MG5M2GM,89M</interp>
 <entry>
 <form>amma</form>
 <def>alas</def>
