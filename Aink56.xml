@@ -1,0 +1,354 @@
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <title xml:lang="ta">Aiṅkuṟunūṟu</title> 56. <persName xml:lang="ta">Ōrampōkiyār</persName>
+        </title>
+        <editor role="translator">Eva Wilden</editor>
+      </titleStmt>
+      <publicationStmt><p/></publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p/>
+            </summary>
+          </msContents>    
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc><change/></revisionDesc>
+  </teiHeader>
+<text xml:lang="ta">
+  <body>
+    <div rend="parallel">
+      <p xml:id="Aink56-kilavi">purattoḻukkam uḷatākiyataṟintu talaimakaḷ melintuḻi, ‘aḵtillai’ eṉṟu tēṟṟum talaimakaṟkut tōḻi colliyatu.
+      </p>
+      <p xml:lang="en"> </p>
+    </div>
+    <div rend="parallel">
+      <lg xml:id="Aink56">
+<l>pakalkoḷ viḷakkō ṭirānā ḷaṟiyā</l>
+<l>velpōrc cōḻa ṉāmū raṉṉaviva</l>
+<l>ṇalampeṟu cuṭarnuta ṟēmpa</l>
+<l>vevaṉpayañ ceyyunī tēṟṟiya moḻiyē.</l>
+</lg>
+
+<lg xml:lang="en">
+
+
+<l>   The girl who is like Āmūr </l> 
+<l rend="indent2"> [that city] of the Cōḻa kings, victorious in battle,</l> 
+<l rend="indent2"> where one cannot tell day from night</l> 
+<l rend="indent2">            thanks to lamps that turn night into day – </l> 
+<l> What is the use of your explanations, </l> 
+<l rend="indent2"> now that her [once] glowing and beautiful brow is growing dim? </l> 
+
+
+  
+  
+  
+  </lg>
+    </div>
+  </body>
+</text>
+<standOff type="wordsplit" corresp="#Aink56">
+<interp type="alignment" select="0">16MG36ML18ML19MR13MG3M,109MG</interp>
+<entry>
+<form>pakal</form>
+<def>day</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>koḷ</form>
+<def>bringing</def>
+<gramGrp>
+  <gram type="role">verbal root as peyareccam imperfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>viḷakkōṭ<c type="elided">u</c></form>
+<def>lamp</def>
+<form type="sandhi">viḷakkōṭ</form>
+<gramGrp>
+  <gram type="role">sociative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>irā</form>
+<def>night</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>nāḷ</form>
+<def>day</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>aṟiyā</form>
+<def>not knowing</def>
+<gramGrp>
+  <gram type="role">negative</gram>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vel</form>
+<def>be victorious</def>
+<gramGrp>
+  <gram type="role">verbal root as peyareccam imperfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>pōr<c type="geminated">c</c></form>
+<def>battle</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>cōḻaṉ</form>
+<def>Cōḻa king</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>āmūr</form>
+<def>Āmūr</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>aṉṉa</form>
+<def>like</def>
+<gramGrp>
+  <gram type="role">postposition</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">v</c>ivaḷ</form>
+<def>she</def>
+<form type="sandhi"><c type="glide">v</c>ivaṇ</form>
+<gramGrp>
+  <gram type="role">feminine singular</gram>
+  <gram type="role">pronoun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>nalam</form>
+<def>goodness/beauty</def>
+<form type="sandhi">ṇalam</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>peṟu</form>
+<def>obtain</def>
+<gramGrp>
+  <gram type="role">verbal root as peyareccam perfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>cuṭar</form>
+<def>glow</def>
+<gramGrp>
+  <gram type="role">verbal root as peyareccam imperfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>nutal</form>
+<def>forehead</def>
+<form type="sandhi">nutaṟ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tēmpa</form>
+<def>whither/fade</def>
+<form type="sandhi">ṟēmpa</form>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">v</c>evaṉ</form>
+<def>what</def>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">singular</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>payam</form>
+<def>fruit/profit</def>
+<form type="sandhi">payañ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ceyyum</form>
+<def>will make/do</def>
+<form type="sandhi">ceyyun</form>
+<gramGrp>
+  <gram type="role">habitual future</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>nī</form>
+<def>you</def>
+<gramGrp>
+  <gram type="role">pronoun</gram>
+  <gram type="role">singular</gram>
+  <gram type="role">second person</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tēṟṟiya</form>
+<def>made clear/explained</def>
+<gramGrp>
+  <gram type="role">perfective aspect</gram>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>moḻi-<c type="glide">y</c>ē</form>
+<def>word</def>
+<form type="simple">moḻi</form>
+<gramGrp>
+  <gram type="role">root noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+</standOff>
+<standOff corresp="#Aink56-kilavi" type="wordsplit">
+<interp type="alignment" select="0">6MG11MG6MG22MG8MG43M,52MG47MG</interp>
+<entry>
+<form>puratt<c type="elided">u</c></form>
+<def>outside</def>
+<form type="sandhi">puratt</form>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>oḻukkam</form>
+<def>conduct</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>uḷat<c type="elided">u</c></form>
+<def>exists-it</def>
+<form type="sandhi">uḷat</form>
+<gramGrp>
+  <gram type="role">neuter singular</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ākiyat<c type="elided">u</c></form>
+<def>became-it</def>
+<form type="sandhi">ākiyat</form>
+<gramGrp>
+  <gram type="role">participial noun</gram>
+  <gram type="role">neuter singular</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>aṟintu</form>
+<def>known</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>talaimakaḷ</form>
+<def>heroine</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+  <gram type="role">singular</gram>
+  <gram type="role">feminine</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>melint<c type="elided">u</c></form>
+<def>softened</def>
+<form type="sandhi">melint</form>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>uḻi</form>
+<def>place</def>
+<gramGrp>
+  <gram type="role">postposition</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>‘aḵt<c type="elided">u</c></form>
+<def>that</def>
+<form type="sandhi">‘aḵt</form>
+<gramGrp>
+  <gram type="role">neuter singular</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>illai’</form>
+<def>not</def>
+<gramGrp>
+  <gram type="role">negative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>eṉṟu</form>
+<def>said</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tēṟṟum</form>
+<def>assuring</def>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>talaimakaṟku<c type="geminated">t</c></form>
+<def>hero</def>
+<gramGrp>
+  <gram type="role">dative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tōḻi</form>
+<def>confidante</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>colliyatu</form>
+<def>spoken-it</def>
+<gramGrp>
+  <gram type="role">participial noun</gram>
+  <gram type="role">neuter singular</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+</standOff></TEI>

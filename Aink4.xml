@@ -1,0 +1,269 @@
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <title xml:lang="ta">Aiṅkuṟunūṟu</title> 4. <persName xml:lang="ta">Ōrampōkiyār</persName>
+        </title>
+        <editor role="translator">Eva Wilden</editor>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary><p/>
+            </summary>
+          </msContents>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc/>
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <div rend="parallel">
+        <p xml:id="Aink4-kilavi"> ituvumatu. </p>
+        <p xml:lang="en"> </p>
+      </div>
+
+      <div rend="parallel">
+        <lg xml:id="Aink4">
+          <l> vāḻi yātaṉ vāḻi yaviṉi</l>
+          <l> pakaivarpul lārka pārppā rōtuka</l>
+          <l> veṉavēṭ ṭōḷē yāyē yāmē</l>
+          <l> pūtta karumpiṟ kāytta nelliṟ</l>
+          <l> kaḻaṉi yūraṉ mārpu </l>
+          <l> paḻaṉamā kaṟka veṉavēṭ ṭēmē.</l>
+        </lg>
+        <lg xml:lang="en">
+
+<l>          'Long live Ātan! Long live Aviṉi! </l>
+<l>          May [our] enemies glut themselves on grass! May the Brahmins chant!' </l>
+<l>          That's what our mother wants. As for us: </l>
+<l>          'There is a man from a land of fields </l>
+<l>          where the paddy has turned hard [like] ripe sugarcane: </l>
+<l>          May [his] chest not become a public bath!' — that's what we want. </l>
+          
+
+
+        </lg>
+      </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#Aink4">
+<interp type="alignment" select="0">57MG4MG4MG65MG2M,135MG</interp>
+<entry>
+<form>vāḻi</form>
+<def>may-you-live</def>
+<gramGrp>
+  <gram type="role">singular</gram>
+  <gram type="role">subjuntive</gram>
+  <gram type="role">second person</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>ātaṉ</form>
+<def>Ātaṉ</def>
+<gramGrp>
+  <gram type="role">proper name</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vāḻi</form>
+<def>may-you-live</def>
+<gramGrp>
+  <gram type="role">singular</gram>
+  <gram type="role">subjuntive</gram>
+  <gram type="role">second person</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>aviṉi</form>
+<def>Aviṉi</def>
+<gramGrp>
+  <gram type="role">proper name</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>pakaivar</form>
+<def>enemies</def>
+<gramGrp>
+  <gram type="role">plural</gram>
+  <gram type="role">honorific</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>pul</form>
+<def>grass</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="geminated">l</c>ārka</form>
+<def>may-they-become-full</def>
+<gramGrp>
+  <gram type="role">optative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>pārppār</form>
+<def>brahmins</def>
+<gramGrp>
+  <gram type="role">plural</gram>
+  <gram type="role">honorific</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ōtuka</form>
+<def>may-they-recite</def>
+<gramGrp>
+  <gram type="role">optative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">v</c>eṉa</form>
+<def>say</def>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vēṭṭōḷ-ē</form>
+<def>one-who-wants/one-who-wanted</def>
+<form type="simple">vēṭṭōḷ</form>
+<gramGrp>
+  <gram type="role">participial noun</gram>
+  <gram type="role">perfective aspect</gram>
+  <gram type="role">singular</gram>
+  <gram type="role">feminine</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+<entry>
+<form>yāy-ē</form>
+<def>our-mother</def>
+<form type="simple">yāy</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+<entry>
+<form>yām-ē</form>
+<def>we</def>
+<form type="simple">yām</form>
+<gramGrp>
+  <gram type="role">pronoun</gram>
+  <gram type="role">plural</gram>
+  <gram type="role">first person</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+<entry>
+<form>pūtta</form>
+<def>flowered</def>
+<gramGrp>
+  <gram type="role">perfective aspect</gram>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>karumpiṉ</form>
+<def>sugarcane</def>
+<form type="sandhi">karumpiṟ</form>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kāytta</form>
+<def>hardened</def>
+<gramGrp>
+  <gram type="role">perfective aspect</gram>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
+<note>?</note>
+</entry>
+<entry>
+<form>nelliṉ</form>
+<def>paddy</def>
+<form type="sandhi">nelliṟ</form>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kaḻaṉi</form>
+<def>paddy-field</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>ūraṉ</form>
+<def>man-from-the-village</def>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">masculine singular</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>mārpu</form>
+<def>chest</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>paḻaṉam</form>
+<def>tank</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ākaṟka</form>
+<def>may-it-not-become</def>
+<gramGrp>
+  <gram type="role">negative</gram>
+  <gram type="role">optative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">v</c>eṉa</form>
+<def>say</def>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vēṭṭēm-ē</form>
+<def>we-wanted</def>
+<form type="simple">vēṭṭēm</form>
+<gramGrp>
+  <gram type="role">perfective aspect</gram>
+  <gram type="role">plural</gram>
+  <gram type="role">first person</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+</standOff>
+<standOff corresp="#Aink4-kilavi" type="wordsplit">
+<interp type="alignment" select="0">3MG7M,10MG</interp>
+<entry>
+<form>itu-<c type="glide">v</c>um</form>
+<def>this</def>
+<form type="simple">itu</form>
+<gramGrp>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>atu</form>
+<def>that</def>
+<gramGrp>
+</gramGrp>
+</entry>
+</standOff></TEI>

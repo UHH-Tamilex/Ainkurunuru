@@ -1,0 +1,165 @@
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+            <title xml:lang="ta">Aiṅkuṟunūṟu</title> 117.
+            <persName xml:lang="ta">Ammūvaṉār.</persName>
+        </title>    
+                <editor role="translator">Neela Bhaskar</editor>          
+      </titleStmt>
+      <publicationStmt><p/></publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p/>
+            </summary>
+          </msContents>    
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc><change/></revisionDesc>
+  </teiHeader>
+<text xml:lang="ta" type="edition">
+  <body>
+    <div rend="parallel">
+      <lg xml:id="Aink117">
+<l>amma vāḻi tōḻi nalaṉē</l>
+<l>iṉṉa tākutal koṭitē puṉṉai</l>
+<l>yaṇimalar tuṟaitoṟum varikku</l>
+<l>maṇinīrc cērppaṉai maṟavā tīmē</l>
+</lg>
+<lg xml:lang="en">
+<l>Oh friend, listen!</l>
+<l>It is harsh that [your] beauty has become like this.</l>
+<l>Please do not forget the man from the shore with sapphire waters</l>
+<l>Where beautiful Puṉṉai blossoms draw [patterns] throughout the ghat.</l>
+</lg>
+    </div>
+  </body>
+</text>
+<standOff type="wordsplit" corresp="#Aink117"><interp type="alignment" select="0">17MG6MG11M2G21MG13ML25MGM,101M</interp>
+<entry>
+<form>amma</form>
+<def>alas</def>
+</entry>
+<entry>
+<form>vāḻi</form>
+<def>live-you</def>
+<gramGrp>
+  <gram type="role">subjuntive</gram>
+  <gram type="role">singular</gram>
+  <gram type="role">second person</gram></gramGrp>
+</entry>
+<entry>
+<form>tōḻi</form>
+<def>friend</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>nalaṉ-ē</form>
+<def>beauty</def>
+<form type="simple">nalaṉ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+<entry>
+<form>iṉṉat<c type="elided">u</c></form>
+<def>such-it</def>
+<form type="sandhi">iṉṉat</form>
+<gramGrp>
+  <gram type="role">neuter singular</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ākutal</form>
+<def>becoming</def>
+<gramGrp>
+  <gram type="role">verbal noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>koṭit<c type="elided">u</c>-ē</form>
+<def>cruel-it</def>
+<form type="simple">koṭitu</form>
+<form type="sandhi">koṭit</form>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">neuter singular</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+<entry>
+<form>puṉṉai</form>
+<def>Puṉṉai tree</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>aṇi</form>
+<def>adornment</def>
+<gramGrp>
+  <gram type="role">verbal root</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>malar</form>
+<def>blossom</def>
+<gramGrp>
+  <gram type="role">root noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tuṟai-toṟum</form>
+<def>ghat</def>
+<form type="sandhi">tuṟaitoṟum</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+  <gram type="role">indefinite</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>varikkum</form>
+<def>drawing-</def>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>maṇi</form>
+<def>sapphire</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>nīr<c type="geminated">c</c></form>
+<def>water</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>cērppaṉai</form>
+<def>coast-he</def>
+<gramGrp>
+  <gram type="role">accusative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>maṟavātīm-ē</form>
+<def>don’t-forget</def>
+<form type="simple">maṟavātīm</form>
+<gramGrp>
+  <gram type="role">imperative</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry></standOff>
+</TEI>

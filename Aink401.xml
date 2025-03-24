@@ -1,0 +1,182 @@
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+            <title xml:lang="ta">Aiṅkuṟunūṟu</title> 401.<persName xml:lang="ta"> Pēyaṉār.</persName> 
+        </title>
+        <editor role="translator">Leo Nelson-Jones</editor>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p/>
+            </summary>
+          </msContents>    
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc/>
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <div rend="parallel">
+          <p xml:id="Aink401-kilavi">
+            kaṭimaṉaic ceṉṟuvanta cevili uvanta uḷḷattaḷāy naṟṟāykkuc colliyatu.
+          </p>
+          <p xml:lang="en">
+            The foster-mother who has gone and returned from their home speaking rejoicefully to the 'real' mother. 
+          </p>
+        </div>
+        <div rend="parallel">
+            <lg xml:id="Aink401">
+             <l> maṟiyiṭaip paṭutta māṉpiṇai pōlap</l>
+             <l> putalva ṉaṭuvaṇa ṉāka naṉṟu</l>     
+             <l>miṉitu maṉṟavavar kiṭakkai muṉiviṉṟi</l>             
+<l>              nīṉiṟa viyalakaṅ kavaiiya         </l>
+<l>              vīṉu mumparum peṟalaruṅ kuraittē.</l>
+            </lg>
+            <p xml:lang="en">
+            It was certainly good and sweet, them lying down without affliction, the[ir] son between [them] like a stag and doe with [their] calf between them - it is something difficult to obtain both in this world which the vast blue expanse embraces and in the beyond. 
+            </p>
+        </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#Aink401">
+<interp type="alignment" select="0">38ML45MG7ML48M2G2M,144MG</interp>
+<entry>
+<form>maṟi</form>
+<def>calf</def>
+</entry>
+<entry>
+<form><c type="glide">y</c>iṭai<c type="geminated">p</c></form>
+<def>middle</def>
+</entry>
+<entry>
+<form>paṭutta</form>
+<def>happened</def>
+<gramGrp>
+</gramGrp>
+</entry>
+<entry>
+<form>māṉ</form>
+<def>stag</def>
+</entry>
+<entry>
+<form>piṇai</form>
+<def>doe</def>
+</entry>
+<entry>
+<form>pōla<c type="geminated">p</c></form>
+<def>be-like</def>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>putalvaṉ</form>
+<def>son</def>
+</entry>
+<entry>
+<form>naṭuvaṇaṉ</form>
+<def>centre</def>
+<form type="sandhi">ṉaṭuvaṇaṉ</form>
+<gramGrp>
+</gramGrp>
+</entry>
+<entry>
+<form>āka</form>
+<def>be</def>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>naṉṟum</form>
+<def>good</def>
+<gramGrp>
+</gramGrp>
+</entry>
+<entry>
+<form>iṉitumaṉṟa</form>
+<def>sweet-</def>
+<gramGrp>
+  <gram type="role">neuter singular</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">v</c>avar</form>
+<def>they</def>
+</entry>
+<entry>
+<form>kiṭakkai</form>
+<def>lying-down</def>
+</entry>
+<entry>
+<form>muṉiv<c type="elided">u</c></form>
+<def>affliction</def>
+<form type="sandhi">muṉiv</form>
+</entry>
+<entry>
+<form>iṉṟi</form>
+<def>without</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>nīl</form>
+<def>blue</def>
+<form type="sandhi">nīṉ</form>
+</entry>
+<entry>
+<form>niṟa</form>
+<def>take-on-colour(v.r.pey.i.a)</def>
+<form type="sandhi">ṉiṟa</form>
+<gramGrp>
+  <gram type="role">verbal root as peyareccam</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>viyal</form>
+<def>wide</def>
+</entry>
+<entry>
+<form>akam</form>
+<def>expanse</def>
+<form type="sandhi">akaṅ</form>
+</entry>
+<entry>
+<form>kavaiiya</form>
+<def>embraced</def>
+<gramGrp>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">v</c>īṉum</form>
+<def>this-world-</def>
+</entry>
+<entry>
+<form>umparum</form>
+<def>beyond-</def>
+</entry>
+<entry>
+<form>peṟal</form>
+<def>obtaining</def>
+<gramGrp>
+  <gram type="role">verbal noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>aruṅkuraitt<c type="elided">u</c>-ē</form>
+<def>difficult-</def>
+<form type="simple">aruṅkuraittu</form>
+<form type="sandhi">aruṅkuraitt</form>
+<gramGrp>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+</standOff>
+</TEI>

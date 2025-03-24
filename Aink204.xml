@@ -1,0 +1,163 @@
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <title xml:lang="ta">Aiṅkuṟunūṟu</title> 204 <persName xml:lang="ta">Kapilar</persName>
+        </title>
+        <editor role="translator">Maanasa Visweswaran</editor>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary><p/>
+            </summary>
+          </msContents>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc/>
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <div rend="parallel">
+        <p xml:id="Aink204-kilavi"> varaiyātu vant* oḻukum talaimakaṉ ciṟa+ puṟattāṉ āka+ talaimakaḷ tōḻikku+
+          colliyatu. </p>
+        <p xml:lang="en"> What the heroine told the confidante while the hero,
+          who kept coming without marrying, was behind the hedge. </p>
+      </div>
+      <div rend="parallel">
+        <lg xml:id="Aink204">
+          <l> aṉṉāy vāḻivēṇ ṭaṉṉaiyaḵ tevaṉkol</l>
+          <l> varaiyara makaḷiri ṉiraiyuṭaṉ kuḻīip</l>
+          <l> peyarvuḻip peyarvuḻit tavirātu nōkki</l>
+          <l> nalla ṇalla ḷeṉpa</l>
+          <l> tīyēṉ ṟilla malaikiḻa vōṟkē</l>
+
+        </lg>
+        <lg xml:lang="en">
+          <l>Oh Mother, please Mother, </l>
+          <l>they say, </l>
+          <l>having assembled in groups like mountain nymphs, </l>
+          <l>looking relentlessly whenever [I] move, </l>
+          <l>“she is good.” </l>
+
+          <l rend="space">Why [then,] would it be that </l>
+          <l> I am bad for the lord of the mountain? </l>
+
+        </lg>
+      </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#Aink204"><interp type="alignment" select="0">13MG9MG4MG21ML54ML14MG18M2GM,142M</interp>
+<entry>
+<form>aṉṉāy</form>
+<def>mother</def>
+<gramGrp><gram type="role">vocative</gram>
+</gramGrp></entry>
+<entry>
+<form>vāḻi</form>
+<def>live</def>
+<gramGrp><gram type="role">imperative</gram>
+</gramGrp></entry>
+<entry>
+<form>vēṇṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>be-necessary</def>
+<gramGrp><gram type="role">imperative</gram>
+</gramGrp></entry>
+<entry>
+<form>aṉṉai</form>
+<def>mother</def>
+</entry>
+<entry>
+<form><pc>~</pc>aḵt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>that</def>
+</entry>
+<entry>
+<form>evaṉ-kol</form>
+<def>what</def>
+<form type="simple">evaṉ</form>
+<gramGrp type="particle"><m>kol</m></gramGrp>
+</entry>
+<entry>
+<form>varaiyara</form>
+<def>mountain-nymph</def>
+</entry>
+<entry>
+<form>makaḷiriṉ</form>
+<def>women</def>
+</entry>
+<entry>
+<form>nirai</form>
+<def>row</def>
+</entry>
+<entry>
+<form><pc>~</pc>uṭaṉ</form>
+<def>with</def>
+<gramGrp><gram type="role">postposition</gram>
+</gramGrp></entry>
+<entry>
+<form>kuḻīi<pc>+</pc></form>
+<def>assembled</def>
+<gramGrp><gram type="role">absolutive</gram>
+</gramGrp></entry>
+<entry>
+<form>peyar</form>
+<def>move</def>
+</entry>
+<entry>
+<form><pc>~</pc>uḻi<pc>+</pc></form>
+<def>while</def>
+<gramGrp><gram type="role">postposition</gram>
+</gramGrp></entry>
+<entry>
+<form>peyar</form>
+<def>move</def>
+</entry>
+<entry>
+<form><pc>~</pc>uḻi<pc>+</pc></form>
+<def>while</def>
+<gramGrp><gram type="role">postposition</gram>
+</gramGrp></entry>
+<entry>
+<form>tavirātu</form>
+<def>refrain-not</def>
+</entry>
+<entry>
+<form>nōkki</form>
+<def>looked</def>
+<gramGrp><gram type="role">absolutive</gram>
+</gramGrp></entry>
+<entry>
+<form>nallaḷ</form>
+<def>good-she</def>
+<gramGrp><gram type="role">feminine singular</gram>
+</gramGrp></entry>
+<entry>
+<form>nallaḷ</form>
+<def>good-she</def>
+<gramGrp><gram type="role">feminine singular</gram>
+</gramGrp></entry>
+<entry>
+<form>eṉpa</form>
+<def>they-say</def>
+</entry>
+<entry>
+<form>tīyēṉ-tilla</form>
+<def>fault-I</def>
+<form type="simple">tīyēṉ</form>
+<gramGrp type="particle"><m>tilla</m></gramGrp>
+</entry>
+<entry>
+<form>malai</form>
+<def>mountain</def>
+</entry>
+<entry>
+<form>kiḻavōṟk<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
+<def>master-he</def>
+<form type="simple">kiḻavōṟku</form>
+<gramGrp type="particle"><m>ē</m></gramGrp>
+</entry></standOff>
+</TEI>

@@ -1,0 +1,179 @@
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+            <title xml:lang="ta">Aiṅkuṟunūṟu</title> 118.
+            <persName xml:lang="ta">Ammūvaṉār.</persName>
+        </title> 
+      <editor role="translator">Neela Bhaskar</editor>          
+      </titleStmt>
+      <publicationStmt><p/></publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p/>
+            </summary>
+          </msContents>    
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc><change/></revisionDesc>
+  </teiHeader>
+<text xml:lang="ta" type="edition">
+  <body>
+    <div rend="parallel">
+      <lg xml:id="Aink118">
+<l>amma vāḻi tōḻi yāṉiṉ</l>
+<l>ṟaṟaṉi lāḷaṟ kaṇṭa poḻutiṟ</l>
+<l>ciṉavuveṉ ṟakaikkuveṉ ceṉṟaṉeṉ</l>
+<l>piṉṉiṉain tiraṅkip peyartan tēṉē</l>
+</lg>
+<lg xml:lang="en">
+<l>Oh friend, listen!</l>
+<l>Today, at the time when I saw him who is without righteousness,</l>
+<l>I went, [thinking] I would be angry, [and that] I would stop [him].</l>
+<l>Thinking upon it, pitying [him], I returned.</l>
+</lg>
+    </div>
+  </body>
+</text>
+<standOff type="wordsplit" corresp="#Aink118"><interp type="alignment" select="0">18MG60MG18MGM,100M</interp>
+<entry>
+<form>amma</form>
+<def>alas</def>
+</entry>
+<entry>
+<form>vāḻi</form>
+<def>live-you</def>
+<gramGrp>
+  <gram type="role">subjuntive</gram>
+  <gram type="role">singular</gram>
+  <gram type="role">second person</gram></gramGrp>
+</entry>
+<entry>
+<form>tōḻi</form>
+<def>friend</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>yāṉ</form>
+<def>I</def>
+<gramGrp>
+  <gram type="role">singular</gram>
+  <gram type="role">first person</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>iṉṟ<c type="elided">u</c></form>
+<def>without</def>
+<form type="sandhi">iṉṟ</form>
+</entry>
+<entry>
+<form>aṟaṉ</form>
+<def>righteousness</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>il</form>
+<def>without</def>
+</entry>
+<entry>
+<form>āḷaṉ</form>
+<def>he</def>
+<form type="sandhi">āḷaṟ</form>
+<gramGrp>
+  <gram type="role">masculine singular</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kaṇṭa</form>
+<def>seen</def>
+<gramGrp>
+  <gram type="role">perfective aspect</gram>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>poḻutiṉ</form>
+<def>time</def>
+<form type="sandhi">poḻutiṟ</form>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ciṉavuveṉ</form>
+<def>I-enraged</def>
+<gramGrp>
+  <gram type="role">perfective aspect</gram>
+  <gram type="role">singular</gram>
+  <gram type="role">first person</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>takaikkuveṉ</form>
+<def>I-stopped</def>
+<form type="sandhi">ṟakaikkuveṉ</form>
+<gramGrp>
+  <gram type="role">perfective aspect</gram>
+  <gram type="role">singular</gram>
+  <gram type="role">first person</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ceṉṟaṉeṉ</form>
+<def>I-went</def>
+<gramGrp>
+  <gram type="role">perfective aspect</gram>
+  <gram type="role">singular</gram>
+  <gram type="role">first person</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>piṉ</form>
+<def>after</def>
+<gramGrp>
+  <gram type="role">adverb</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>niṉaint<c type="elided">u</c></form>
+<def>thought</def>
+<form type="sandhi">ṉiṉaint</form>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>iraṅki<c type="geminated">p</c></form>
+<def>pitying</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>peyar</form>
+<def>stir</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tantēṉ-ē</form>
+<def>I-gave</def>
+<form type="simple">tantēṉ</form>
+<gramGrp>
+  <gram type="role">perfective aspect</gram>
+  <gram type="role">singular</gram>
+  <gram type="role">first person</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry></standOff>
+</TEI>

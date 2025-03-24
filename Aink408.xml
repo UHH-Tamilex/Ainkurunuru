@@ -1,0 +1,206 @@
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?><?xml-stylesheet type="text/xsl" href="edition.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <title xml:lang="ta"/> XX. <persName xml:lang="ta"/>
+        </title>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>
+              <p/>
+            </summary>
+          </msContents>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change/>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <div rend="parallel">
+        <lg xml:id="Aink408">
+          <l>pāṇar mullai pāṭac cuṭariḻai</l>
+          <l>vāṇuta larivai mullai malaiya</l>
+          <l>viṉitirun taṉaṉē neṭuntakai</l>
+          <l>tuṉitīr koḷkaittaṉ putalvaṉoṭu polintē</l>
+        </lg>
+        <p xml:lang="en">
+          As the bard sang the mullai [scale], and the young woman with the shining jewels and bright forehead wore jasmine flowers, [there] the paragon sat sweetly beaming, with his son whose conduct is free from disgust.
+        </p>
+      </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#Aink408">
+    <interp type="alignment" select="0">28ML28MG9MG45M2GM,116M</interp>
+    <entry>
+      <form>pāṇar</form>
+      <def>bard</def>
+      <gramGrp>
+        <gram type="role">noun</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>mullai</form>
+      <def>jasmine</def>
+      <gramGrp>
+        <gram type="role">noun</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>pāṭa<c type="geminated">c</c></form>
+      <def>sing</def>
+      <gramGrp>
+        <gram type="role">infinitive</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>cuṭar</form>
+      <def>glow</def>
+      <gramGrp>
+        <gram type="role">verbal root as adjective</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>iḻai</form>
+      <def>jewel</def>
+      <gramGrp>
+        <gram type="role">noun</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>vāḷ</form>
+      <def>light</def>
+      <form type="sandhi">vāṇ</form>
+      <gramGrp>
+        <gram type="role">noun</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>nutal</form>
+      <def>forehead</def>
+      <form type="sandhi">ṇutal</form>
+      <gramGrp>
+        <gram type="role">noun</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>arivai</form>
+      <def>young woman</def>
+      <gramGrp>
+        <gram type="role">noun</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>mullai</form>
+      <def>jasmine</def>
+      <gramGrp>
+        <gram type="role">noun</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>malaiya</form>
+      <def>wear</def>
+      <gramGrp>
+        <gram type="role">infinitive</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form><c type="glide">v</c>iṉit<c type="elided">u</c></form>
+      <def>sweet</def>
+      <form type="sandhi"><c type="glide">v</c>iṉit</form>
+      <gramGrp>
+        <gram type="role">pronominalised noun</gram>
+        <gram type="role">neuter singular</gram>
+        <gram type="role">adverb</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>iruntaṉaṉ-ē</form>
+      <def>sat</def>
+      <form type="simple">iruntaṉaṉ</form>
+      <gramGrp>
+        <gram type="role">singular</gram>
+        <gram type="role">masculine</gram>
+        <gram type="role">perfective aspect</gram>
+      </gramGrp>
+      <gramGrp type="particle">
+        <m type="enclitic">ē</m>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>neṭum</form>
+      <def>high</def>
+      <form type="sandhi">neṭun</form>
+      <gramGrp>
+        <gram type="role">adjective</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>takai</form>
+      <def>quality</def>
+      <gramGrp>
+        <gram type="role">noun</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>tuṉi</form>
+      <def>disgust</def>
+      <gramGrp>
+        <gram type="role">noun</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>tīr</form>
+      <def>end</def>
+      <gramGrp>
+        <gram type="role">verbal root as peyareccam</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>koḷkai<c type="geminated">t</c></form>
+      <def>principle</def>
+      <gramGrp>
+        <gram type="role">noun</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>taṉ</form>
+      <def>self</def>
+      <gramGrp>
+        <gram type="role">singular</gram>
+        <gram type="role">oblique</gram>
+        <gram type="role">third person</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>putalvaṉoṭu</form>
+      <def>son</def>
+      <gramGrp>
+        <gram type="role">masculine singular</gram>
+        <gram type="role">sociative</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>polint<c type="elided">u</c>-ē</form>
+      <def>flourished</def>
+      <form type="simple">polintu</form>
+      <form type="sandhi">polint</form>
+      <gramGrp>
+        <gram type="role">absolutive</gram>
+      </gramGrp>
+      <gramGrp type="particle">
+        <m type="enclitic">ē</m>
+      </gramGrp>
+    </entry>
+  </standOff>
+</TEI>

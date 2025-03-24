@@ -1,0 +1,144 @@
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+            <title xml:lang="ta">Aiṅkuṟunūṟu</title> 121.
+            <persName xml:lang="ta">Ammūvaṉār.</persName>
+        </title>
+                             <editor role="translator">Neela Bhaskar</editor>                        
+      </titleStmt>
+      <publicationStmt><p/></publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p/>
+            </summary>
+          </msContents>    
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc><change/></revisionDesc>
+  </teiHeader>
+<text xml:lang="ta" type="edition">
+  <body>
+    <div rend="parallel">
+      <lg xml:id="Aink121">
+<l>kaṇṭiku mallamō koṇkaniṉ kēḷē</l>
+<l>muṇṭakak kōtai naṉaiyat</l>
+<l>teṇṭiraip pauvam pāyntuniṉ ṟōḷē</l>
+</lg>
+<lg xml:lang="en">
+<l>We have seen your friend, haven't we, oh man from the maritime tract?</l>
+<l>She who stood [there], having jumped into the ocean with clear waves,</l>
+<l>So that her garland of Muṇṭakam flowers became wet.</l>
+</lg>
+    </div>
+  </body>
+</text>
+<standOff type="wordsplit" corresp="#Aink121"><interp type="alignment" select="0">13MG12MG49MGM,78M</interp>
+<entry>
+<form>kaṇṭikum</form>
+<def>we saw</def>
+<gramGrp>
+  <gram type="role">perfective aspect</gram>
+  <gram type="role">plural</gram>
+  <gram type="role">first person</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>allam-ō</form>
+<def>not-so-we</def>
+<form type="simple">allam</form>
+<gramGrp>
+  <gram type="role">plural</gram>
+  <gram type="role">first person</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ō</m></gramGrp>
+</entry>
+<entry>
+<form>koṇka</form>
+<def>man from the maritime tract</def>
+<gramGrp>
+  <gram type="role">vocative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>niṉ</form>
+<def>your</def>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kēḷ-ē</form>
+<def>friend</def>
+<form type="simple">kēḷ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+<entry>
+<form>muṇṭaka<c type="geminated">k</c></form>
+<def>Muṇṭakam shrub</def>
+</entry>
+<entry>
+<form>kōtai</form>
+<def>garland</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>naṉaiya<c type="geminated">t</c></form>
+<def>become-wet</def>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>teḷ</form>
+<def>be-clear</def>
+<form type="sandhi">teṇ</form>
+<gramGrp>
+  <gram type="role">adjective</gram>
+  <gram type="role">verbal root</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tirai<c type="geminated">p</c></form>
+<def>wave</def>
+<form type="sandhi">ṭirai<c type="geminated">p</c></form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>pauvam</form>
+<def>ocean</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>pāyntu</form>
+<def>jumped</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>niṉṟōḷ-ē</form>
+<def>stood-she</def>
+<form type="simple">niṉṟōḷ</form>
+<gramGrp>
+  <gram type="role">participial noun</gram>
+  <gram type="role">feminine singular</gram>
+  <gram type="role">imperfective aspect</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry></standOff>
+</TEI>

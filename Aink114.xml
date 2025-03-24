@@ -1,0 +1,158 @@
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+            <title xml:lang="ta">Aiṅkuṟunūṟu</title> 114.
+            <persName xml:lang="ta">Ammūvaṉār.</persName>
+        </title>
+                   <editor role="translator">Neela Bhaskar</editor> 
+      </titleStmt>
+      <publicationStmt><p/></publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p/>
+            </summary>
+          </msContents>    
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc><change/></revisionDesc>
+  </teiHeader>
+<text xml:lang="ta" type="edition">
+  <body>
+    <div rend="parallel">
+      <lg xml:id="Aink114">
+<l>amma vāḻi tōḻi koṇka</l>
+<l>nērē māyiṉuñ celkuvaṅ kollō</l>
+<l>kaṭali ṉārai yiraṟṟu</l>
+<l>maṭalam peṇṇaiyava ṉuṭaiya nāṭṭē</l>
+</lg>
+<lg xml:lang="en">
+<l>Oh friend, listen!</l>
+<l>Even if we do not come face-to-face with the man from the sea,</l>
+<l>Won’t we go to his land [with] Palmyra trees with fronds,</l>
+<l>Among which wader-birds shriek?</l>
+</lg>
+    </div>
+  </body>
+</text>
+<standOff type="wordsplit" corresp="#Aink114">
+<interp type="alignment" select="0">17MG19MG12ML12ML27M2GM,94M</interp>
+<entry>
+<form>amma</form>
+<def>alas</def>
+</entry>
+<entry>
+<form>vāḻi</form>
+<def>live-you</def>
+<gramGrp>
+  <gram type="role">subjuntive</gram>
+  <gram type="role">singular</gram>
+  <gram type="role">second person</gram></gramGrp>
+</entry>
+<entry>
+<form>tōḻi</form>
+<def>friend</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>koṇkaṉ</form>
+<def>man from the sea</def>
+<form type="sandhi">koṇka</form>
+<gramGrp>
+  <gram type="role">singular</gram>
+  <gram type="role">third person</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>nērēm</form>
+<def>to face</def>
+<gramGrp>
+  <gram type="role">plural</gram>
+  <gram type="role">first person</gram>
+  <gram type="role">negative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>āyiṉum</form>
+<def>if-even</def>
+<form type="sandhi">āyiṉuñ</form>
+<gramGrp>
+  <gram type="role">concessive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>celkuvam-kollō</form>
+<def>go-we</def>
+<form type="simple">celkuvam</form>
+<form type="sandhi">celkuvaṅ</form>
+<gramGrp>
+  <gram type="role">plural</gram>
+  <gram type="role">first person</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">kollō</m></gramGrp>
+</entry>
+<entry>
+<form>kaṭaliṉ</form>
+<def>sea</def>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>nārai</form>
+<def>wader</def>
+<form type="sandhi">ṉārai</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>iraṟṟum</form>
+<def>to-shriek</def>
+<gramGrp>
+  <gram type="role">perfective aspect</gram>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>maṭalam</form>
+<def>Palmyra frond</def>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>peṇṇai</form>
+<def>Palmyra palm</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>avaṉuṭaiya</form>
+<def>his</def>
+<gramGrp>
+  <gram type="role">singular</gram>
+  <gram type="role">third person</gram>
+  <gram type="role">genitive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>nāṭṭ<c type="elided">u</c>-ē</form>
+<def>land</def>
+<form type="simple">nāṭṭu</form>
+<form type="sandhi">nāṭṭ</form>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+</standOff>
+</TEI>

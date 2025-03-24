@@ -1,0 +1,236 @@
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?><?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+             <title xml:lang="ta">Aiṅkuṟunūṟu</title> 211.
+            <persName xml:lang="ta">Kapilar</persName> 
+        </title> 
+        <editor role="translator">Maanasa Visweswaran</editor>  
+      </titleStmt>
+      <publicationStmt><p/></publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p/>
+            </summary>
+          </msContents>    
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc><change/></revisionDesc>
+  </teiHeader>
+<text xml:lang="ta" type="edition">
+  <body>
+   <div rend="parallel">
+     <p xml:id="Aink211-kilavi"> talaimaka ṉāṟṟāmai kaṇṭu kaiyuṟai yeṟṟa tōḻi talaimakaṭ ṭaḻai yēṟka vēṇṭik kūṟiyatu. </p>
+      <p xml:lang="en"> What the confidante who received the gift, witnessing the hero’s inability to bear [it otherwise], said to the heroine, urging [her] to accept the foliage.   </p>
+      </div>
+    <div rend="parallel">
+      <lg xml:id="Aink211">
+<l>neyyoṭu mayakkiya vuḻuntu nūṟ ṟaṉṉa</l>
+<l>vayalaiyañ cilampiṉ ṟalaiyatu</l>
+<l>ceyalaiyam pakaittaḻai vāṭu maṉṉāy</l>
+      </lg>
+      <lg xml:lang="en">
+<l>Mother! </l>
+<l>The contrasting foliage of the Aśoka tree [gathered]</l>
+<l rend="indent">from the peak of the mountain slope with purslane </l>
+<l rend="indent">which are like threads of black gram mixed with ghee, </l>
+<l>will wither away. </l>
+
+      </lg>
+    </div>
+  </body>
+</text>
+<standOff type="wordsplit" corresp="#Aink211">
+<interp type="alignment" select="0">27MG62M,90M</interp>
+<entry>
+<form>neyyoṭu</form>
+<def>ghee</def>
+<gramGrp>
+  <gram type="role">sociative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>mayakkiya</form>
+<def>confused</def>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">v</c>uḻuntu</form>
+<def>black-gram</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>nūṟṟ<c type="elided">u</c></form>
+<def>thread</def>
+<form type="sandhi">nūṟṟ</form>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>aṉṉa</form>
+<def>like</def>
+<gramGrp>
+</gramGrp>
+</entry>
+<entry>
+<form>vayalaiyam</form>
+<def>purslane</def>
+<form type="sandhi">vayalaiyañ</form>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>cilampiṉ</form>
+<def>mountain-side</def>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>talai<c type="glide">y</c>atu</form>
+<def>head</def>
+<form type="sandhi">ṟalai<c type="glide">y</c>atu</form>
+<gramGrp>
+  <gram type="role">genitive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ceyalaiyam</form>
+<def>Aśoka-tree</def>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>pakai<c type="geminated">t</c></form>
+<def>enmity</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>taḻai</form>
+<def>foliage</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vāṭum</form>
+<def>fades</def>
+<gramGrp>
+  <gram type="role">habitual future</gram>
+  <gram type="role">singular</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>aṉṉāy</form>
+<def>mother</def>
+<gramGrp>
+  <gram type="role">vocative</gram>
+</gramGrp>
+</entry>
+</standOff>
+<standOff corresp="#Aink211-kilavi" type="wordsplit">
+<interp type="alignment" select="0">74M,73MG</interp>
+<entry>
+<form>talaimakaṉ</form>
+<def>hero</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+  <gram type="role">singular</gram>
+  <gram type="role">masculine</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>āṟṟāmai</form>
+<def>inability</def>
+<gramGrp>
+  <gram type="role">verbal noun</gram>
+  <gram type="role">negative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kaṇṭu</form>
+<def>seen</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kaiyuṟai</form>
+<def>gift</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>ēṟṟa</form>
+<def>accepted</def>
+<form type="sandhi"><c type="glide">y</c>eṟṟa</form>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tōḻi</form>
+<def>confidante</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>talaimakaḷ</form>
+<def>heroine</def>
+<form type="sandhi">talaimakaṭ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+  <gram type="role">singular</gram>
+  <gram type="role">feminine</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>taḻai</form>
+<def>foliage</def>
+<form type="sandhi">ṭaḻai</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>ēṟka</form>
+<def>accept</def>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vēṇṭi<c type="geminated">k</c></form>
+<def>been-necessary</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kūṟiyatu</form>
+<def>told-it</def>
+<gramGrp>
+  <gram type="role">participial noun</gram>
+  <gram type="role">neuter singular</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+</standOff></TEI>

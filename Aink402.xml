@@ -1,0 +1,42 @@
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <title xml:lang="ta">Aiṅkuṟunūṟu</title> 402.<persName xml:lang="ta">Pēyaṉār.</persName></title>
+                    
+                <editor role="translator">Leo Nelson-Jones</editor>
+            </titleStmt>
+            <sourceDesc>
+                <msDesc xml:lang="en">
+                    <msIdentifier>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><p/>
+                        </summary>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc/>
+    </teiHeader>
+    <text xml:lang="ta" type="edition">
+        <body>
+            <div rend="parallel">
+                <p xml:id="Aink402-kilavi"> </p>
+                <p xml:lang="en"> </p>
+            </div>
+            <div rend="parallel">
+                <lg xml:id="Aink402">
+                  <l>  putalvaṟ kavaiiya tāypuṟa muyaṅki</l>
+                   <l> nacaiyiṉaṉ vatinta kiṭakkai pāṇar</l>
+                   <l> narampuḷar muraṟkai pōla</l>
+                   <l> viṉitā lamma paṇpumā ruṭaittē.</l>
+                </lg>
+                <lg xml:lang="en">
+
+                </lg>
+            </div>
+        </body>
+    </text>
+</TEI>

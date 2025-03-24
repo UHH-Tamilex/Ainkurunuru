@@ -1,0 +1,165 @@
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <title xml:lang="ta">Aiṅkuṟunūṟu</title>. <term xml:lang="ta">kaṭavuḷ vāḻttu</term>. </title>
+        <editor role="translator">Thomas Lehmann</editor>
+        <editor role="translator">Eva Wilden</editor>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary><p/>
+            </summary>
+          </msContents>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change/>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <div rend="parallel">
+        <lg xml:id="Aink0">
+          <l> nīla mēṉi vāliḻai pākat</l>
+          <l> toruva ṉirutā ṇiḻaṟkīḻ</l>
+          <l> mūvakai yulaku mukiḻttaṉa muṟaiyē.</l>
+        </lg>
+        <lg xml:lang="en">
+          <l> Under the shade of the two feet of the one </l>
+          <l> (1) who is part [woman with] pure jewels, and who has a blue form i.e. throat (Śiva
+            and Parvatī)/ </l>
+          <l> (2) who has a part on his blue body for [the woman with] pure jewels (Viṣṇu and
+            Lakṣmī) </l>
+          <l> All three worlds budded one after another. </l>
+          <lg type="alternate">
+            <l>test</l>
+            <trailer>Eva Wilden</trailer>
+          </lg>
+
+        </lg>
+      </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#Aink0">
+    <interp type="alignment" select="0">4MR17MG12ML19M2G2ML14MG3M,77MG</interp>
+    <entry>
+      <form>nīla<c type="uncertain">m</c></form>
+      <def>blue</def>
+      <form type="sandhi">nīlam</form>
+      <gramGrp>
+        <gram type="role">noun</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>mēṉi</form>
+      <def>body</def>
+      <gramGrp>
+        <gram type="role">noun</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>vāl</form>
+      <def>purity</def>
+      <gramGrp>
+        <gram type="role">noun</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>iḻai</form>
+      <def>jewel</def>
+      <gramGrp>
+        <gram type="role">noun</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>pākatt<c type="elided">u</c></form>
+      <def>part</def>
+      <form type="sandhi">pākatt</form>
+      <gramGrp>
+        <gram type="role">oblique</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>oruvaṉ</form>
+      <def>one</def>
+      <gramGrp>
+        <gram type="role">pronominalised noun</gram>
+  <gram type="role">masculine singular</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>iru</form>
+      <def>two</def>
+    </entry>
+    <entry>
+      <form>tāḷ</form>
+      <def>foot</def>
+      <form type="sandhi">tāṇ</form>
+      <gramGrp>
+        <gram type="role">noun</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>niḻal</form>
+      <def>shade</def>
+      <form type="sandhi">ṇiḻaṟ</form>
+      <gramGrp>
+        <gram type="role">noun</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>kīḻ</form>
+      <def>under</def>
+      <gramGrp>
+        <gram type="role">postposition</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>mū</form>
+      <def>three</def>
+    </entry>
+    <entry>
+      <form>vakai</form>
+      <def>kind</def>
+      <gramGrp>
+        <gram type="role">noun</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form><c type="glide">y</c>ulak<c type="elided">u</c>-um</form>
+      <def>world</def>
+      <form type="simple">ulaku</form>
+      <form type="sandhi"><c type="glide">y</c>ulak</form>
+      <gramGrp>
+        <gram type="role">noun</gram>
+      </gramGrp>
+      <gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+    </entry>
+    <entry>
+      <form>mukiḻttaṉa</form>
+      <def>budded</def>
+      <gramGrp>
+        <gram type="role">neuter plural</gram>
+  <gram type="role">perfective aspect</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>muṟai-<c type="glide">y</c>ē</form>
+      <def>order</def>
+      <form type="simple">muṟai</form>
+      <gramGrp>
+        <gram type="role">noun</gram>
+      </gramGrp>
+      <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+    </entry>
+  </standOff>
+</TEI>

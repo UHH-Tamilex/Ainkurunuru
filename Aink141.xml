@@ -1,0 +1,134 @@
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+            <title xml:lang="ta">Aiṅkuṟunūṟu</title> 141.
+            <persName xml:lang="ta">Ammūvaṉār.</persName>
+        </title> 
+        <editor role="translator">Neela Bhaskar</editor>    
+      </titleStmt>
+      <publicationStmt><p/></publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p/>
+            </summary>
+          </msContents>    
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc><change/></revisionDesc>
+  </teiHeader>
+<text xml:lang="ta" type="edition">
+  <body>
+    <div rend="parallel">
+      <lg xml:id="Aink141">
+<l>ekkar ñāḻal ceruntiyoṭu kamaḻat</l>
+<l>tuvalait taṇṭuḷi vīcip</l>
+<l>pacalai ceytaṉa paṉipaṭu tuṟaiyē</l>
+</lg>
+<lg xml:lang="en">
+  <l>As Ñāḻal trees on the dunes emit fragrance along with Cerunti trees,</l>
+    <l>The ghat upon which dew falls has made [me] pallid </l>
+      <l>Having flung sprays of cool drops [of water at me].</l>
+</lg>
+    </div>
+  </body>
+</text>
+<standOff type="wordsplit" corresp="#Aink141"><interp type="alignment" select="0">75MG2M,78M</interp>
+<entry>
+<form>ekkar</form>
+<def>dune</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ñāḻal</form>
+<def>Ñāḻal tree</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ceruntiyoṭu</form>
+<def>pear-tree</def>
+</entry>
+<entry>
+<form>kamaḻa<c type="geminated">t</c></form>
+<def>be-fragrant</def>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tuvalai<c type="geminated">t</c></form>
+<def>spray</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>taṇ</form>
+<def>cool</def>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tuḷi</form>
+<def>drop</def>
+<form type="sandhi">ṭuḷi</form>
+<gramGrp>
+  <gram type="role">root noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vīci<c type="geminated">p</c></form>
+<def>flung</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>pacalai</form>
+<def>pallor</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ceytaṉa</form>
+<def>they made</def>
+<gramGrp>
+  <gram type="role">neuter plural</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>paṉi</form>
+<def>dew</def>
+<gramGrp>
+  <gram type="role">root noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>paṭu</form>
+<def>happen</def>
+<gramGrp>
+  <gram type="role">verbal root</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tuṟai-<c type="glide">y</c>ē</form>
+<def>ghat</def>
+<form type="simple">tuṟai</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry></standOff>
+</TEI>
