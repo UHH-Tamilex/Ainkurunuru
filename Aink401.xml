@@ -22,23 +22,23 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-        <div xml:id="Aink401-kilavi">
-          <p type="edition">
+        <div rend="parallel">
+          <p xml:id="Aink401-kilavi">
             kaṭimaṉaic ceṉṟuvanta cevili uvanta uḷḷattaḷāy naṟṟāykkuc colliyatu.
           </p>
-          <p type="translation" xml:lang="en">
+          <p xml:lang="en">
             The foster-mother who has gone and returned from their home speaking rejoicefully to the 'real' mother. 
           </p>
         </div>
-        <div xml:id="Aink401">
-            <lg type="edition">
+        <div rend="parallel">
+            <lg xml:id="Aink401">
              <l> maṟiyiṭaip paṭutta māṉpiṇai pōlap</l>
              <l> putalva ṉaṭuvaṇa ṉāka naṉṟu</l>     
              <l>miṉitu maṉṟavavar kiṭakkai muṉiviṉṟi</l>             
 <l>              nīṉiṟa viyalakaṅ kavaiiya         </l>
 <l>              vīṉu mumparum peṟalaruṅ kuraittē.</l>
             </lg>
-            <p type="translation" xml:lang="en">
+            <p xml:lang="en">
             It was certainly good and sweet, them lying down without affliction, the[ir] son between [them] like a stag and doe with [their] calf between them - it is something difficult to obtain both in this world which the vast blue expanse embraces and in the beyond. 
             </p>
         </div>

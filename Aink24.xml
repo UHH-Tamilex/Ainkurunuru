@@ -22,14 +22,14 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="Aink24-kilavi">
-        <p type="edition"> parattaiyaruḷḷum oruttiyaiviṭṭu oruttiyaip paṟṟi oḻukukiṉṟāṉ eṉpatu kēṭṭa
+      <div rend="parallel">
+        <p xml:id="Aink24-kilavi"> parattaiyaruḷḷum oruttiyaiviṭṭu oruttiyaip paṟṟi oḻukukiṉṟāṉ eṉpatu kēṭṭa
           tōḻi vāyilāy vantār kēṭpat talaimakaṭkuc colliyatu. </p>
-        <p type="translation" xml:lang="en"> </p>
+        <p xml:lang="en"> </p>
       </div>
 
-      <div xml:id="Aink24">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="Aink24">
           <l> tāycāp piṟakkum puḷḷik kaḷvaṉoṭu</l>
           <l> piḷḷai tiṉṉu mutalait tavaṉū</l>
           <l> reytiṉa ṉākiṉṟu kollō makiḻnaṉ</l>
@@ -37,7 +37,7 @@
           <l> nalaṅkoṇṭu tuṟappa tevaṉko laṉṉāy.</l>
 
         </lg>
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
 
           <l> His village is one of crocodiles that eat [their own] young</l>
           <l rend="indent2"> and spotted crabs that are born when [their] mother dies.</l>
@@ -228,4 +228,130 @@
 </gramGrp>
 </entry>
 </standOff>
-</TEI>
+<standOff corresp="#Aink24-kilavi" type="wordsplit">
+<interp type="alignment" select="0">13MG100M,113MG</interp>
+<entry>
+<form>parattaiyar</form>
+<def>other woman</def>
+<gramGrp>
+  <gram type="role">honorific</gram>
+  <gram type="role">third person</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>uḷ-<c type="geminated">ḷ</c>um</form>
+<def>inside</def>
+<form type="simple">uḷ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>oruttiyai</form>
+<def>one-she</def>
+<gramGrp>
+  <gram type="role">feminine singular</gram>
+  <gram type="role">accusative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>viṭṭu</form>
+<def>let-go</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>oruttiyai<c type="geminated">p</c></form>
+<def>one-she</def>
+<gramGrp>
+  <gram type="role">feminine singular</gram>
+  <gram type="role">accusative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>paṟṟi</form>
+<def>grasped</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>oḻukukiṉṟāṉ</form>
+<def>he conducts</def>
+<gramGrp>
+  <gram type="role">masculine singular</gram>
+  <gram type="role">imperfect aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>eṉpatu</form>
+<def>say-it</def>
+<gramGrp>
+  <gram type="role">participial noun</gram>
+  <gram type="role">neuter singular</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kēṭṭa</form>
+<def>heard</def>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tōḻi</form>
+<def>confidante</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vāyil</form>
+<def>mediator</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>āy</form>
+<def>become</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vantār</form>
+<def>came-they</def>
+<gramGrp>
+  <gram type="role">honorific</gram>
+  <gram type="role">third person</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kēṭpa<c type="geminated">t</c></form>
+<def>hear</def>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>talaimakaṭku<c type="geminated">c</c></form>
+<def>heroine</def>
+<gramGrp>
+  <gram type="role">dative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>colliyatu</form>
+<def>spoken-it</def>
+<gramGrp>
+  <gram type="role">participial noun</gram>
+  <gram type="role">neuter singular</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+</standOff></TEI>

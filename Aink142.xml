@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -26,13 +24,13 @@
   </teiHeader>
 <text xml:lang="ta" type="edition">
   <body>
-    <div xml:id="Aink142">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="Aink142">
 <l>ekkar ñāḻa liṟaṅkiṇarp paṭupa</l>
 <l>puḷḷiṟai kūrun tuṟaivaṉai</l>
 <l>yuḷḷēṉ ṟōḻi paṭīiyareṉ kaṇṇē</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
   <l>Oh friend,</l>
   <l>As the descending clusters of the Ñāḻal trees on the dunes fall,</l>
     <l>I will not think of the man from the ghat </l>

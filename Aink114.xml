@@ -24,14 +24,14 @@
   </teiHeader>
 <text xml:lang="ta" type="edition">
   <body>
-    <div xml:id="Aink114">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="Aink114">
 <l>amma vāḻi tōḻi koṇka</l>
 <l>nērē māyiṉuñ celkuvaṅ kollō</l>
 <l>kaṭali ṉārai yiraṟṟu</l>
 <l>maṭalam peṇṇaiyava ṉuṭaiya nāṭṭē</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 <l>Oh friend, listen!</l>
 <l>Even if we do not come face-to-face with the man from the sea,</l>
 <l>Won’t we go to his land [with] Palmyra trees with fronds,</l>

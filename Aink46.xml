@@ -23,18 +23,18 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="Aink46-kilavi">
-      <p type="edition">maṉaikkaṇ varutal parattai vilakka vilaṅkip piṉpu ulakiyalpaṟṟi avaḷ kuṟippiṉōṭum vantamai aṟinta tōḻi talaimakaṉaip pulantu colliyatu.</p>
-      <p type="translation" xml:lang="en"> </p>
+    <div rend="parallel">
+      <p xml:id="Aink46-kilavi">maṉaikkaṇ varutal parattai vilakka vilaṅkip piṉpu ulakiyalpaṟṟi avaḷ kuṟippiṉōṭum vantamai aṟinta tōḻi talaimakaṉaip pulantu colliyatu.</p>
+      <p xml:lang="en"> </p>
     </div>
-    <div xml:id="Aink46">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="Aink46">
 <l>niṉakkē yaṉṟaḵ temakkumā riṉitē</l>
 <l>niṉmārpu nayanta naṉṉuta larivai</l>
 <l>vēṇṭiya kuṟippiṉai yāki</l>
 <l>yīṇṭunī yaruḷā tāṇṭuṟai tallē.</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 
 
 <l>   It is [sweet] not only for you, [but] for us too it is sweet</l> 
@@ -220,4 +220,138 @@
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry>
 </standOff>
-</TEI>
+<standOff corresp="#Aink46-kilavi" type="wordsplit">
+<interp type="alignment" select="0">48MG23M2G50M,123MG</interp>
+<entry>
+<form>maṉai<c type="geminated">k</c></form>
+<def>house</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kaṇ</form>
+<def>place</def>
+<gramGrp>
+  <gram type="role">postposition</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>varutal</form>
+<def>coming</def>
+<gramGrp>
+  <gram type="role">verbal noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>parattai</form>
+<def>other woman</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vilakka</form>
+<def>hinder</def>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vilaṅki<c type="geminated">p</c></form>
+<def>been-transverse</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>piṉpu</form>
+<def>after</def>
+</entry>
+<entry>
+<form>ulak<c type="elided">u</c></form>
+<def>world</def>
+<form type="sandhi">ulak</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>iyal</form>
+<def>nature</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>paṟṟi</form>
+<def>grasped</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>avaḷ</form>
+<def>that-one</def>
+<gramGrp>
+  <gram type="role">singular</gram>
+  <gram type="role">feminine</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kuṟippiṉōṭ<c type="elided">u</c>-um</form>
+<def>intnetion</def>
+<form type="simple">kuṟippiṉōṭu</form>
+<form type="sandhi">kuṟippiṉōṭ</form>
+<gramGrp>
+  <gram type="role">sociative</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>vantamai</form>
+<def>having-come</def>
+<gramGrp>
+  <gram type="role">verbal noun</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>aṟinta</form>
+<def>known</def>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tōḻi</form>
+<def>confidante</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>talaimakaṉai<c type="geminated">p</c></form>
+<def>hero</def>
+<gramGrp>
+  <gram type="role">accusative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>pulantu</form>
+<def>been-vexed</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>colliyatu</form>
+<def>spoken-it</def>
+<gramGrp>
+  <gram type="role">participial noun</gram>
+  <gram type="role">neuter singular</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+</standOff></TEI>

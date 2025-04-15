@@ -24,14 +24,14 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="Aink406">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="Aink406">
 <l>māta ruṇkaṇ makaṉviḷai yāṭak</l>
 <l>kātalit taḻīi yiṉitirun taṉaṉē</l>
 <l>tātār piraca mūtum</l>
 <l>pōtār puṟavi ṉāṭukiḻa vōṉē</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
   <l>As [their] son with the beautiful kohl-lined eyes played,</l>
 <l>he embraced his beloved and sat [there] sweetly</l>
 <l>- [that] lord of the woodland full of flowers</l>

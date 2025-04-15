@@ -28,19 +28,19 @@
   </teiHeader>
   <text xml:lang="ta">
     <body>
-      <div xml:id="Aink51-kilavi">
-        <p type="edition">vāyil peṟṟup pukuntupōyp puṟattoḻukkam oḻukip piṉpum vāyil vēṇṭum
+      <div rend="parallel">
+        <p xml:id="Aink51-kilavi">vāyil peṟṟup pukuntupōyp puṟattoḻukkam oḻukip piṉpum vāyil vēṇṭum
           talaimakaṟkut tōḻi maṟuttatu.</p>
-        <p type="translation" xml:lang="en"> </p>
+        <p xml:lang="en"> </p>
       </div>
-      <div xml:id="Aink51">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="Aink51">
           <l>nīruṟai kōḻi nīlac cēval</l>
           <l>kūrukirp pēṭai vayāa mūra</l>
           <l>puḷiṅkāy vēṭkait taṉṟuniṉ</l>
           <l>malarnta mārpivaḷ vayāa nōykkē.</l>
         </lg>
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
 
 
           <l> O man from a village!</l>
@@ -211,4 +211,100 @@
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry>
 </standOff>
-</TEI>
+<standOff corresp="#Aink51-kilavi" type="wordsplit">
+<interp type="alignment" select="0">28MG17M2G40M,87MG</interp>
+<entry>
+<form>vāyil</form>
+<def>door</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>peṟṟu<c type="geminated">p</c></form>
+<def>obtained</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>pukuntu</form>
+<def>entered</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>pōy<c type="geminated">p</c></form>
+<def>gone</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>puṟatt<c type="elided">u</c></form>
+<def>outside</def>
+<form type="sandhi">puṟatt</form>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>oḻukkam</form>
+<def>conduct</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>oḻuki<c type="geminated">p</c></form>
+<def>conducted</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>piṉp<c type="elided">u</c>-um</form>
+<def>after</def>
+<form type="simple">piṉpu</form>
+<form type="sandhi">piṉp</form>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>vāyil</form>
+<def>door</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vēṇṭum</form>
+<def>wanting</def>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>talaimakaṟku<c type="geminated">t</c></form>
+<def>hero</def>
+<gramGrp>
+  <gram type="role">dative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tōḻi</form>
+<def>confidante</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>maṟuttatu</form>
+<def>refused-it</def>
+<gramGrp>
+  <gram type="role">participial noun</gram>
+  <gram type="role">neuter singular</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+</standOff></TEI>

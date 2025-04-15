@@ -28,20 +28,20 @@
   </teiHeader>
   <text xml:lang="ta">
     <body>
-      <div xml:id="Aink65-kilavi">
-        <p type="edition">āṟṟāmaiyē vāyilākap pukka talaimakaṟkut talaimakaḷ colliyatu.
+      <div rend="parallel">
+        <p xml:id="Aink65-kilavi">āṟṟāmaiyē vāyilākap pukka talaimakaṟkut talaimakaḷ colliyatu.
         </p>
-        <p type="translation" xml:lang="en"> </p>
+        <p xml:lang="en"> </p>
       </div>
-      <div xml:id="Aink65">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="Aink65">
           <l>karumpunaṭu pāttiyiṟ kalitta vāmpal</l>
           <l>curumpupaci kaḷaiyum perumpuṉa lūra</l>
           <l>putalvaṉai yīṉṟaveṉ mēṉi</l>
           <l>muyaṅkaṉmō teyyaniṉ mārpucitaip patuvē.</l>
         </lg>
 
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
 
 
           <l> O man from a village of great floods, where </l>
@@ -226,4 +226,63 @@
 </entry></entry>
 </superEntry>
 </standOff>
-</TEI>
+<standOff corresp="#Aink65-kilavi" type="wordsplit">
+<interp type="alignment" select="0">7MG49M,56MG</interp>
+<entry>
+<form>āṟṟāmai-<c type="glide">y</c>ē</form>
+<def>inability</def>
+<form type="simple">āṟṟāmai</form>
+<gramGrp>
+  <gram type="role">verbal noun</gram>
+  <gram type="role">negative</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+<entry>
+<form>vāyil</form>
+<def>mediator</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>āka<c type="geminated">p</c></form>
+<def>become</def>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>pukka</form>
+<def>entered</def>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>talaimakaṟku<c type="geminated">t</c></form>
+<def>hero</def>
+<gramGrp>
+  <gram type="role">dative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>talaimakaḷ</form>
+<def>heroine</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+  <gram type="role">singular</gram>
+  <gram type="role">feminine</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>colliyatu</form>
+<def>spoken-it</def>
+<gramGrp>
+  <gram type="role">participial noun</gram>
+  <gram type="role">neuter singular</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+</standOff></TEI>

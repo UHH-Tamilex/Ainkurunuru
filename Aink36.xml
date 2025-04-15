@@ -22,21 +22,21 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="Aink36-kilavi">
-        <p type="edition">tāṉ vāyiṉēruṅ kuṟippiṉaḷāṉamai aṟiyātu tōḻi vāyil maṟuttuḻi avaḷ nērum
+      <div rend="parallel">
+        <p xml:id="Aink36-kilavi">tāṉ vāyiṉēruṅ kuṟippiṉaḷāṉamai aṟiyātu tōḻi vāyil maṟuttuḻi avaḷ nērum
           vakaiyāl avaṭkut talaimakaḷ colliyatu.</p>
-        <p type="translation" xml:lang="en"> </p>
+        <p xml:lang="en"> </p>
       </div>
 
-      <div xml:id="Aink36">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="Aink36">
           <l> amma vāḻi tōḻi yūra</l>
           <l> ṉammaṟan tamaikuva ṉāyi ṉāmaṟan</l>
           <l> tuḷḷā tamaitalu mamaikuva maṉṉē</l>
           <l> kayaleṉak karutiya vuṇkaṇ</l>
           <l> pacalaik kolkā vākutal peṟiṉē.</l>
         </lg>
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
 
           <l> Alas, [my] friend!</l>
           <l> If the man from the village</l> 
@@ -227,4 +227,133 @@
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry>
 </standOff>
-</TEI>
+<standOff corresp="#Aink36-kilavi" type="wordsplit">
+<interp type="alignment" select="0">8ML42MG47M,98MG</interp>
+<entry>
+<form>tāṉ</form>
+<def>self</def>
+<gramGrp>
+  <gram type="role">pronoun</gram>
+  <gram type="role">singular</gram>
+  <gram type="role">third person</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vāyil</form>
+<def>door</def>
+<form type="sandhi">vāyiṉ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>nērum</form>
+<def>granting</def>
+<form type="sandhi">ṉēruṅ</form>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kuṟippiṉaḷ</form>
+<def>intention-she</def>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">feminine singular</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>āṉamai</form>
+<def>having-become</def>
+<gramGrp>
+  <gram type="role">perfective aspect</gram>
+  <gram type="role">verbal noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>aṟiyātu</form>
+<def>know-not</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+  <gram type="role">negative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tōḻi</form>
+<def>confidante</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vāyil</form>
+<def>door</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>maṟutt<c type="elided">u</c></form>
+<def>refused</def>
+<form type="sandhi">maṟutt</form>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>uḻi</form>
+<def>place</def>
+<gramGrp>
+  <gram type="role">postposition</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>avaḷ</form>
+<def>that-one</def>
+<gramGrp>
+  <gram type="role">singular</gram>
+  <gram type="role">feminine</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>nērum</form>
+<def>granting</def>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vakaiyāl</form>
+<def>manner</def>
+<gramGrp>
+  <gram type="role">instrumental</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>avaṭku<c type="geminated">t</c></form>
+<def>that-one</def>
+<gramGrp>
+  <gram type="role">singular</gram>
+  <gram type="role">feminine</gram>
+  <gram type="role">dative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>talaimakaḷ</form>
+<def>heroine</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+  <gram type="role">singular</gram>
+  <gram type="role">feminine</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>colliyatu</form>
+<def>spoken-it</def>
+<gramGrp>
+  <gram type="role">participial noun</gram>
+  <gram type="role">neuter singular</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+</standOff></TEI>

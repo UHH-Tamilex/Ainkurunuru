@@ -22,20 +22,20 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="Aink37-kilavi">
-        <p type="edition">talaimakaḷaic cūḷiṉāl teḷittāṉ eṉpatu kēṭṭa kātaṟparattai talaimakaṭkup
+      <div rend="parallel">
+        <p xml:id="Aink37-kilavi">talaimakaḷaic cūḷiṉāl teḷittāṉ eṉpatu kēṭṭa kātaṟparattai talaimakaṭkup
           pāṅkāyiṉār kēṭpat taṉ tōḻikkuc colliyatu.</p>
-        <p type="translation" xml:lang="en"> </p>
+        <p xml:lang="en"> </p>
       </div>
 
-      <div xml:id="Aink37">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="Aink37">
           <l> amma vāḻi tōḻi makiḻna</l>
           <l>ṉayantō ruṇkaṇ pacantupaṉi malka</l>
           <l>vallaṉ vallaṉ poytta</l>
           <l>ṟēṟṟā ṉuṟṟa cūḷvāyt tallē</l>
         </lg>
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
 
           <l> Alas, [my] friend!</l>
           <l>The bringer of joy</l>
@@ -183,4 +183,115 @@
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry>
 </standOff>
-</TEI>
+<standOff corresp="#Aink37-kilavi" type="wordsplit">
+<interp type="alignment" select="0">69MG33M,102MG</interp>
+<entry>
+<form>talaimakaḷai<c type="geminated">c</c></form>
+<def>heroine</def>
+<gramGrp>
+  <gram type="role">accusative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>cūḷiṉāl</form>
+<def>oath</def>
+<gramGrp>
+  <gram type="role">instrumental</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>teḷittāṉ</form>
+<def>he made clear</def>
+<gramGrp>
+  <gram type="role">masculine singular</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>eṉpatu</form>
+<def>say-it</def>
+<gramGrp>
+  <gram type="role">participial noun</gram>
+  <gram type="role">neuter singular</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kēṭṭa</form>
+<def>heard</def>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kātal</form>
+<def>love</def>
+<form type="sandhi">kātaṟ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>parattai</form>
+<def>other woman</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>talaimakaṭku<c type="geminated">p</c></form>
+<def>heroine</def>
+<gramGrp>
+  <gram type="role">dative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>pāṅk<c type="elided">u</c></form>
+<def>closeness</def>
+<form type="sandhi">pāṅk</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>āyiṉār</form>
+<def>become-they</def>
+<gramGrp>
+  <gram type="role">participial noun</gram>
+  <gram type="role">third person</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kēṭpa<c type="geminated">t</c></form>
+<def>hear</def>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>taṉ</form>
+<def>self</def>
+<gramGrp>
+  <gram type="role">singular</gram>
+  <gram type="role">oblique</gram>
+  <gram type="role">third person</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tōḻikku<c type="geminated">c</c></form>
+<def>confidante</def>
+<gramGrp>
+  <gram type="role">dative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>colliyatu</form>
+<def>spoken-it</def>
+<gramGrp>
+  <gram type="role">participial noun</gram>
+  <gram type="role">neuter singular</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+</standOff></TEI>

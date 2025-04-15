@@ -23,14 +23,14 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="Aink317">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="Aink317">
 <l>cūḻkam vammō tōḻipāḻ paṭṭup</l>
 <l>paitaṟa venta pālai veṅkāṭ</l>
 <l>ṭaruñcura miṟantōr tēettuc</l>
 <l>ceṉṟa neñcam nīṭiya poruḷē</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 <l>Come [here], friend! Let’s think about the reason,</l>
   <l>[why] delayed is [my] heart that is gone after the one who traversed</l>
     <l>the difficult desert in the hot wilderness,</l>

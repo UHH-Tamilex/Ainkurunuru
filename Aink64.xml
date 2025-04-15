@@ -28,19 +28,19 @@
   </teiHeader>
   <text xml:lang="ta">
     <body>
-      <div xml:id="Aink64-kilavi">
-        <p type="edition">talaimakaṉ parattaiyarōṭu puṉalāṭiṉāṉ eṉpatu aṟinta talaimakaḷ avaṉ maṟaittuḻic colliyatu.
+      <div rend="parallel">
+        <p xml:id="Aink64-kilavi">talaimakaṉ parattaiyarōṭu puṉalāṭiṉāṉ eṉpatu aṟinta talaimakaḷ avaṉ maṟaittuḻic colliyatu.
         </p>
-        <p type="translation" xml:lang="en"> </p>
+        <p xml:lang="en"> </p>
       </div>
-      <div xml:id="Aink64">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="Aink64">
           <l>alamara lāyamō ṭamartuṇai taḻīi</l>
           <l>nalamiku putuppuṉa lāṭak kaṇṭō</l>
           <l>roruvaru miruvaru mallar</l>
           <l>palarē teyyavem maṟaiyā tīmē.</l>
         </lg>
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
 
 
           <l> While you bathed in the delightful fresh flood, </l>
@@ -199,4 +199,93 @@
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry>
 </standOff>
-</TEI>
+<standOff corresp="#Aink64-kilavi" type="wordsplit">
+<interp type="alignment" select="0">68MG14M,82MG</interp>
+<entry>
+<form>talaimakaṉ</form>
+<def>hero</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>parattaiyarōṭu</form>
+<def>other woman</def>
+<gramGrp>
+  <gram type="role">sociative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>puṉal</form>
+<def>flood</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>āṭiṉāṉ</form>
+<def>he bathed</def>
+<gramGrp>
+  <gram type="role">masculine singular</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>eṉpatu</form>
+<def>say-it</def>
+<gramGrp>
+  <gram type="role">participial noun</gram>
+  <gram type="role">neuter singular</gram>
+  <gram type="role">imperfect aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>aṟinta</form>
+<def>known</def>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>talaimakaḷ</form>
+<def>heroine</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+  <gram type="role">singular</gram>
+  <gram type="role">feminine</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>avaṉ</form>
+<def>that-one</def>
+<gramGrp>
+  <gram type="role">singular</gram>
+  <gram type="role">masculine</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>maṟaitt<c type="elided">u</c></form>
+<def>hidden</def>
+<form type="sandhi">maṟaitt</form>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>uḻi<c type="geminated">c</c></form>
+<def>place</def>
+<gramGrp>
+  <gram type="role">postposition</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>colliyatu</form>
+<def>spoken-it</def>
+<gramGrp>
+  <gram type="role">participial noun</gram>
+  <gram type="role">neuter singular</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+</standOff></TEI>

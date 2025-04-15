@@ -28,21 +28,21 @@
   </teiHeader>
   <text xml:lang="ta">
     <body>
-      <div xml:id="Aink100-kilavi">
-        <p type="edition">vāyiṉērtaṟ poruṭṭu mukam pukuvāṉ vēṇṭi iyaṟpaḻittuḻit talaimakaḷ iyaṟpaṭa
+      <div rend="parallel">
+        <p xml:id="Aink100-kilavi">vāyiṉērtaṟ poruṭṭu mukam pukuvāṉ vēṇṭi iyaṟpaḻittuḻit talaimakaḷ iyaṟpaṭa
           moḻinta tiṟam talaimakaṟkut tōḻi colliyatu.
         </p>
-        <p type="translation" xml:lang="en"> </p>
+        <p xml:lang="en"> </p>
       </div>
-      <div xml:id="Aink100">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="Aink100">
           <l>puṉalāṭu makaḷi riṭṭa voḷḷiḻai</l>
           <l>maṇalāṭu cimaiyat terumai kiḷaikkum</l>
           <l>yāṇa rūraṉ makaḷivaḷ</l>
           <l>pāṇar narampiṉu miṉkiḷa viyaḷē.</l>
         </lg>
 
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
 
           <l> This girl is the daughter/ girl of the man from a fertile village,</l>
           <l rend="indent2"> where the buffalo unearths, on dancing peaks of sand, </l>
@@ -207,4 +207,136 @@
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry>
 </standOff>
-</TEI>
+<standOff corresp="#Aink100-kilavi" type="wordsplit">
+<interp type="alignment" select="0">5ML39MG61M,106MG</interp>
+<entry>
+<form>vāyil</form>
+<def>door</def>
+<form type="sandhi">vāyiṉ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>nērtal</form>
+<def>consenting</def>
+<form type="sandhi">ṉērtaṟ</form>
+<gramGrp>
+  <gram type="role">verbal noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>poruṭṭu</form>
+<def>because</def>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">neuter singular</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>mukam</form>
+<def>face</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>pukuvāṉ</form>
+<def>enter</def>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vēṇṭi</form>
+<def>wanted</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>iyal</form>
+<def>nature</def>
+<form type="sandhi">iyaṟ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>paḻitt<c type="elided">u</c></form>
+<def>belittled</def>
+<form type="sandhi">paḻitt</form>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>uḻi<c type="geminated">t</c></form>
+<def>place</def>
+<gramGrp>
+  <gram type="role">postposition</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>talaimakaḷ</form>
+<def>heroine</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+  <gram type="role">singular</gram>
+  <gram type="role">feminine</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>iyal</form>
+<def>nature</def>
+<form type="sandhi">iyaṟ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>paṭa</form>
+<def>happen</def>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>moḻinta</form>
+<def>spoken</def>
+<gramGrp>
+  <gram type="role">perfective aspect</gram>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tiṟam</form>
+<def>issue</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>talaimakaṟku<c type="geminated">t</c></form>
+<def>hero</def>
+<gramGrp>
+  <gram type="role">dative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tōḻi</form>
+<def>confidante</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>colliyatu</form>
+<def>spoken-it</def>
+<gramGrp>
+  <gram type="role">participial noun</gram>
+  <gram type="role">neuter singular</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+</standOff></TEI>

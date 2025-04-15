@@ -23,15 +23,15 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="Aink316">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="Aink316">
 <l>poṉcey pāṇṭiṟ polaṅkala nantat</l>
 <l>tēraka lalku lavvari vāṭa</l>
 <l>viṟantōr maṉṟa tāmē piṟaṅkumalaip</l>
 <l>pullarai yōmai nīṭiya</l>
 <l>pulivaḻaṅ katara kāṉat tāṉē</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
   <l>Alas! He traversed the forest with paths,</l>
   <l>where in the lofty mountains Toothbrush trees with dark trunks grow long,</l>
   <l>and tigers roam about –</l>

@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -16,7 +14,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>    
         </msDesc>
@@ -26,14 +24,14 @@
   </teiHeader>
 <text xml:lang="ta" type="edition">
   <body>
-    <div xml:id="Aink117">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="Aink117">
 <l>amma vāḻi tōḻi nalaṉē</l>
 <l>iṉṉa tākutal koṭitē puṉṉai</l>
 <l>yaṇimalar tuṟaitoṟum varikku</l>
 <l>maṇinīrc cērppaṉai maṟavā tīmē</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 <l>Oh friend, listen!</l>
 <l>It is harsh that [your] beauty has become like this.</l>
 <l>Please do not forget the man from the shore with sapphire waters</l>

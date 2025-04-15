@@ -28,13 +28,13 @@
   </teiHeader>
   <text xml:lang="ta">
     <body>
-      <div xml:id="Aink48-kilavi">
-        <p type="edition">parattaiyarmāṭṭu oḻukāniṉṟu taṉ maṉaikkaṭ ceṉṟa talaimakaṟkut talaimakaḷ
+      <div rend="parallel">
+        <p xml:id="Aink48-kilavi">parattaiyarmāṭṭu oḻukāniṉṟu taṉ maṉaikkaṭ ceṉṟa talaimakaṟkut talaimakaḷ
           colliyatu.</p>
-        <p type="translation" xml:lang="en"> </p>
+        <p xml:lang="en"> </p>
       </div>
-      <div xml:id="Aink48">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="Aink48">
           <l> valaival pāṇmakaṉ vāleyiṟṟu maṭamakaḷ </l>
           <l> varāal corinta vaṭṭiyuṇ maṉaiyōḷ</l>
           <l> yāṇṭukaḻi veṇṇe ṉiṟaikku mūra</l>
@@ -42,7 +42,7 @@
           <l> yāṇṭuccey kuṟiyō ṭīṇṭunī varalē.</l>
         </lg>
 
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
           <l> O man from a village! </l>
           <l rend="indent2"> Where a wife [takes] year-old, white paddy </l>
           <l rend="indent2"> and fills a basket [already] emptied of Varāal fish </l>
@@ -277,4 +277,93 @@
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry>
 </standOff>
-</TEI>
+<standOff corresp="#Aink48-kilavi" type="wordsplit">
+<interp type="alignment" select="0">76M,75MG</interp>
+<entry>
+<form>parattaiyar</form>
+<def>other woman</def>
+<gramGrp>
+  <gram type="role">honorific</gram>
+  <gram type="role">third person</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>māṭṭu</form>
+<def>place</def>
+<gramGrp>
+  <gram type="role">postposition</gram>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>oḻukā</form>
+<def>conducted</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>niṉṟu</form>
+<def>stood</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>taṉ</form>
+<def>self</def>
+<gramGrp>
+  <gram type="role">singular</gram>
+  <gram type="role">oblique</gram>
+  <gram type="role">third person</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>maṉai<c type="geminated">k</c></form>
+<def>house</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kaṇ</form>
+<def>place</def>
+<form type="sandhi">kaṭ</form>
+<gramGrp>
+  <gram type="role">postposition</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ceṉṟa</form>
+<def>gone</def>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>talaimakaṟku<c type="geminated">t</c></form>
+<def>hero</def>
+<gramGrp>
+  <gram type="role">dative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>talaimakaḷ</form>
+<def>heroine</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+  <gram type="role">singular</gram>
+  <gram type="role">feminine</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>colliyatu</form>
+<def>spoken-it</def>
+<gramGrp>
+  <gram type="role">participial noun</gram>
+  <gram type="role">neuter singular</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+</standOff></TEI>

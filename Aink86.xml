@@ -23,19 +23,19 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="Aink86-kilavi">
-      <p type="edition">putalvaṉ kūṟiya māṟṟam talaimakaṭkup pāṅkāyiṉār kūṟak kēṭṭāṉ eṉpatu āṟinta parattai ataṟkup pulantu talaimakaṟkuc colliyatu.
+    <div rend="parallel">
+      <p xml:id="Aink86-kilavi">putalvaṉ kūṟiya māṟṟam talaimakaṭkup pāṅkāyiṉār kūṟak kēṭṭāṉ eṉpatu aṟinta parattai ataṟkup pulantu talaimakaṟkuc colliyatu.
       </p>
-      <p type="translation" xml:lang="en"> </p>
+      <p xml:lang="en"> </p>
     </div>
-    <div xml:id="Aink86">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="Aink86">
 <l>veṇṭalaik kurukiṉ meṉpaṟai viḷikkura</l>
 <l>ṉīḷvaya ṉaṇṇi yimiḻu mūra</l>
 <l>vemmiva ṇalkuta laritu</l>
 <l>nummaṉai maṭantaiyoṭu talaippey tīmē.</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 
 <l>   O man from a village</l> 
 <l rend="indent4"> 	that resounds with </l> 
@@ -211,4 +211,122 @@
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry>
 </standOff>
-</TEI>
+<standOff corresp="#Aink86-kilavi" type="wordsplit">
+<interp type="alignment" select="0">37MG74M,111MG</interp>
+<entry>
+<form>putalvaṉ</form>
+<def>son</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+  <gram type="role">singular</gram>
+  <gram type="role">masculine</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kūṟiya</form>
+<def>told</def>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>māṟṟam</form>
+<def>reply</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>talaimakaṭku<c type="geminated">p</c></form>
+<def>heroine</def>
+<gramGrp>
+  <gram type="role">dative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>pāṅk<c type="elided">u</c></form>
+<def>closeness</def>
+<form type="sandhi">pāṅk</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>āyiṉār</form>
+<def>become-they</def>
+<gramGrp>
+  <gram type="role">participial noun</gram>
+  <gram type="role">third person</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kūṟa<c type="geminated">k</c></form>
+<def>tell</def>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kēṭṭāṉ</form>
+<def>he heard</def>
+<gramGrp>
+  <gram type="role">masculine singular</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>eṉpatu</form>
+<def>say-it</def>
+<gramGrp>
+  <gram type="role">participial noun</gram>
+  <gram type="role">neuter singular</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>aṟinta</form>
+<def>known</def>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>parattai</form>
+<def>other woman</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ataṟku<c type="geminated">p</c></form>
+<def>that</def>
+<gramGrp>
+  <gram type="role">dative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>pulantu</form>
+<def>been-vexed</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>talaimakaṟku<c type="geminated">c</c></form>
+<def>hero</def>
+<gramGrp>
+  <gram type="role">dative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>colliyatu</form>
+<def>spoken-it</def>
+<gramGrp>
+  <gram type="role">participial noun</gram>
+  <gram type="role">neuter singular</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+</standOff></TEI>

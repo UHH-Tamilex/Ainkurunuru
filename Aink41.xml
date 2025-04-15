@@ -22,20 +22,20 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="Aink41-kilavi">
-        <p type="edition">kaḻaṟit teruṭṭaṟ pālarākiya akampukal marapiṉ vāyilkaḷ pukuntuḻit
+      <div rend="parallel">
+        <p xml:id="Aink41-kilavi">kaḻaṟit teruṭṭaṟ pālarākiya akampukal marapiṉ vāyilkaḷ pukuntuḻit
           talaivaṉaiyum pāṇaṉ mutalākiya pakkattāraiyum ikaḻntu talaivi kūṟiyatu.</p>
-        <p type="translation" xml:lang="en"> </p>
+        <p xml:lang="en"> </p>
       </div>
 
-      <div xml:id="Aink41">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="Aink41">
           <l> taṉpārpput tiṉṉu maṉpiṉ mutalaiyoṭu</l>
           <l>veṇpūm poykait tavaṉū reṉpa ataṉāṟ</l>
           <l>ṟaṉco luṇarntōr mēṉi</l>
           <l>poṉpōṟ ceyyu mūrkiḻa vōṉē.</l>
         </lg>
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
           <l>There is a pond in his village with white flowers [in it]</l>
           <l>and crocodiles without hearts that eat their own young, they say.</l>
           <l>That is why he,</l>
@@ -229,4 +229,152 @@
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry>
 </standOff>
-</TEI>
+<standOff corresp="#Aink41-kilavi" type="wordsplit">
+<interp type="alignment" select="0">55MG14MG29MG26M,126MG</interp>
+<entry>
+<form>kaḻaṟi<c type="geminated">t</c></form>
+<def>exhorted</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>teruṭṭal</form>
+<def>understanding clearly</def>
+<form type="sandhi">teruṭṭaṟ</form>
+<gramGrp>
+  <gram type="role">verbal noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>pālar</form>
+<def>many-they</def>
+<gramGrp>
+  <gram type="role">honorific</gram>
+  <gram type="role">third person</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ākiya</form>
+<def>become</def>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>akam</form>
+<def>inside</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>pukal</form>
+<def>rejoice</def>
+<gramGrp>
+  <gram type="role">verbal root</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>marapiṉ</form>
+<def>usage</def>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vāyilkaḷ</form>
+<def>mediators</def>
+<gramGrp>
+  <gram type="role">plural</gram>
+  <gram type="role">third person</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>pukunt<c type="elided">u</c></form>
+<def>entered</def>
+<form type="sandhi">pukunt</form>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>uḻi<c type="geminated">t</c></form>
+<def>place</def>
+<gramGrp>
+  <gram type="role">postposition</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>talaivaṉai-<c type="glide">y</c>um</form>
+<def>hero</def>
+<form type="simple">talaivaṉai</form>
+<gramGrp>
+  <gram type="role">singular</gram>
+  <gram type="role">masculine</gram>
+  <gram type="role">accusative</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>pāṇaṉ</form>
+<def>bard</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+  <gram type="role">singular</gram>
+  <gram type="role">masculine</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>mutal</form>
+<def>beginning</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ākiya</form>
+<def>become</def>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>pakkattārai-<c type="glide">y</c>um</form>
+<def>side-they</def>
+<form type="simple">pakkattārai</form>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">accusative</gram>
+  <gram type="role">honorific</gram>
+  <gram type="role">third person</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>ikaḻntu</form>
+<def>slighted</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>talaivi</form>
+<def>heroine</def>
+<gramGrp>
+  <gram type="role">singular</gram>
+  <gram type="role">feminine</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kūṟiyatu</form>
+<def>told-it</def>
+<gramGrp>
+  <gram type="role">participial noun</gram>
+  <gram type="role">neuter singular</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+</standOff></TEI>

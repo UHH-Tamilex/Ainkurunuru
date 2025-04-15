@@ -22,20 +22,20 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="Aink43-kilavi">
-        <p type="edition">pāṉaṉ vāyilākap pukuntu teḷippa maṟutta talaimakaḷ pāṇaṉōṭu talaivaṉ
+      <div rend="parallel">
+        <p xml:id="Aink43-kilavi">pāṇaṉ vāyilākap pukuntu teḷippa maṟutta talaimakaḷ pāṇaṉōṭu talaivaṉ
           pukuntu teḷittuḻic colliyatu.</p>
-        <p type="translation" xml:lang="en"> </p>
+        <p xml:lang="en"> </p>
       </div>
 
-      <div xml:id="Aink43">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="Aink43">
           <l> ampaṇat taṉṉa yāmai yēṟic</l>
           <l> cempi ṉaṉṉa pārppuppala tuñcum</l>
           <l> yāṇa rūra niṉṉiṉum</l>
           <l> pāṇaṉ poyyaṉ palacū ḷiṉaṉē.</l>
         </lg>
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
 
           <l> O man from the fertile village! </l>
           <l rend="indent2"> Where many young [tortoises] </l>
@@ -179,4 +179,107 @@
 </entry>
 </standOff>
 
-</TEI>
+<standOff corresp="#Aink43-kilavi" type="wordsplit">
+<interp type="alignment" select="0">74MG14M,88MG</interp>
+<entry>
+<form>pāṇaṉ</form>
+<def>bard</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+  <gram type="role">singular</gram>
+  <gram type="role">masculine</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vāyil</form>
+<def>mediator</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>āka<c type="geminated">p</c></form>
+<def>become</def>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>pukuntu</form>
+<def>entered</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>teḷippa</form>
+<def>make-clear</def>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>maṟutta</form>
+<def>refused</def>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>talaimakaḷ</form>
+<def>heroine</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+  <gram type="role">singular</gram>
+  <gram type="role">feminine</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>pāṇaṉōṭu</form>
+<def>bard</def>
+<gramGrp>
+  <gram type="role">singular</gram>
+  <gram type="role">masculine</gram>
+  <gram type="role">sociative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>talaivaṉ</form>
+<def>hero</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>pukuntu</form>
+<def>entered</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>teḷitt<c type="elided">u</c></form>
+<def>made-clear</def>
+<form type="sandhi">teḷitt</form>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>uḻi<c type="geminated">c</c></form>
+<def>place</def>
+<gramGrp>
+  <gram type="role">postposition</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>colliyatu</form>
+<def>spoken-it</def>
+<gramGrp>
+  <gram type="role">participial noun</gram>
+  <gram type="role">neuter singular</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+</standOff></TEI>

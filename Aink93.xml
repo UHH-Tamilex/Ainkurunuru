@@ -28,22 +28,22 @@
   </teiHeader>
   <text xml:lang="ta">
     <body>
-      <div xml:id="Aink93-kilavi">
-        <p type="edition">muyakkam peṟṟavaḻip piṟanta veṟi nāṟṟattāl paṇṭaiyaḷavaṉṟi vaṇṭukaḷ
+      <div rend="parallel">
+        <p xml:id="Aink93-kilavi">muyakkam peṟṟavaḻip piṟanta veṟi nāṟṟattāl paṇṭaiyaḷavaṉṟi vaṇṭukaḷ
           moyttaṉavāka, ‘itaṟkuk kāraṇam eṉ’ eṉṟu viṉāviya cevilittāykkuk kūṟuvāḷ pōṉṟu talaimakaṉ
           ciṟaipuṟattāṉākat tōḻi colliyatu.
         </p>
-        <p type="translation" xml:lang="en"> </p>
+        <p xml:lang="en"> </p>
       </div>
-      <div xml:id="Aink93">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="Aink93">
           <l>erumainal lēṟṟiṉa mēya larunteṉap</l>
           <l>pacumō rōṭamō ṭāmpa lollā</l>
           <l>ceyta viṉaiya maṉṟa palpoḻiṟ</l>
           <l>ṟātuṇ veṟukkaiya vākiyivaḷ</l>
           <l>pōtaviḻ mucci yūtum vaṇṭē.</l>
         </lg>
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
 
 <l>           The bees, rejecting white lotus and green Catechu plants, </l> 
 <l rend="indent2">           because those have [already] been fed on </l> 
@@ -265,4 +265,204 @@
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry>
 </standOff>
-</TEI>
+<standOff corresp="#Aink93-kilavi" type="wordsplit">
+<interp type="alignment" select="0">49MG96MG26M,74MG97MG</interp>
+<entry>
+<form>muyakkam</form>
+<def>embrace</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>peṟṟa</form>
+<def>obtained</def>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vaḻi<c type="geminated">p</c></form>
+<def>way</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>piṟanta</form>
+<def>born</def>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>veṟi</form>
+<def>Veṟi dance</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>nāṟṟattāl</form>
+<def>dance</def>
+<gramGrp>
+  <gram type="role">instrumental</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>paṇṭai</form>
+<def>former</def>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>aḷav<c type="elided">u</c></form>
+<def>measure</def>
+<form type="sandhi"><c type="glide">y</c>aḷav</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>aṉṟi</form>
+<def>besides</def>
+<gramGrp>
+  <gram type="role">postposition</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vaṇṭukaḷ</form>
+<def>bees</def>
+<gramGrp>
+  <gram type="role">plural</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>moyttaṉa</form>
+<def>swarmed-they</def>
+<gramGrp>
+  <gram type="role">participial noun</gram>
+  <gram type="role">neuter plural</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">v</c>āka</form>
+<def>become</def>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>‘itaṟku<c type="geminated">k</c></form>
+<def>this</def>
+<gramGrp>
+  <gram type="role">dative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kāraṇam</form>
+<def>reason</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>eṉ’</form>
+<def>what</def>
+</entry>
+<entry>
+<form>eṉṟu</form>
+<def>said</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>viṉāviya</form>
+<def>asked</def>
+<gramGrp>
+  <gram type="role">perfective aspect</gram>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>cevili<c type="geminated">t</c></form>
+<def>foster-mother</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tāykku<c type="geminated">k</c></form>
+<def>mother</def>
+<gramGrp>
+  <gram type="role">dative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kūṟuvāḷ</form>
+<def>talk-she</def>
+<gramGrp>
+  <gram type="role">participial noun</gram>
+  <gram type="role">singular</gram>
+  <gram type="role">feminine</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>pōṉṟu</form>
+<def>been-similar</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>talaimakaṉ</form>
+<def>hero</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ciṟai<c type="geminated"/></form>
+<def>fence</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>puṟattāṉ</form>
+<def>outside-he</def>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">singular</gram>
+  <gram type="role">masculine</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>āka<c type="geminated">t</c></form>
+<def>become</def>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tōḻi</form>
+<def>confidante</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>colliyatu</form>
+<def>spoken-it</def>
+<gramGrp>
+  <gram type="role">participial noun</gram>
+  <gram type="role">neuter singular</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+</standOff></TEI>

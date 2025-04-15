@@ -23,14 +23,14 @@
         <body>
 
         
-            <div xml:id="Aink404">
-                <lg type="edition">
+            <div rend="parallel">
+                <lg xml:id="Aink404">
                     <l>vāṇuta larivai makaṉmulai yūṭṭat</l>
                     <l>tāṉavaḷ ciṟupuṟaṅ kavaiyiṉa ṉaṉṟu</l>
                     <l>naṟumpūn taṇpuṟa vaṇinta</l>
                     <l>kuṟumpal poṟaiya nāṭukiḻa vōṉē.</l>
                 </lg>
-                <p type="translation" xml:lang="en">
+                <p xml:lang="en">
                     While the young woman with the bright forehead nursed [her] son at her chest,
                     that lord of the land with many small hills covered in cool forests with lovely
                     fragrant flowers, he embraced the small of her back.

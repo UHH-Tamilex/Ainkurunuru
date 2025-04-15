@@ -22,13 +22,13 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="Aink5-kilavi">
-        <p type="edition"> ituvumatu. </p>
-        <p type="translation" xml:lang="en"> </p>
+      <div rend="parallel">
+        <p xml:id="Aink5-kilavi"> ituvumatu. </p>
+        <p xml:lang="en"> </p>
       </div>
 
-      <div xml:id="Aink5">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="Aink5">
           <l> vāḻi yātaṉ vāḻi yaviṉi</l>
           <l> paciyil lākuka piṇicē ṇīṅkuka</l>
           <l> veṉavēṭ ṭōḷē yāyē yāmē</l>
@@ -36,7 +36,7 @@
           <l> taṇṭuṟai yūraṉ ṟērem</l>
           <l> muṉkaṭai niṟka veṉavēṭ ṭēmē.</l>
         </lg>
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
 <l>          'Long live Ātan! Long live Aviṉi!</l>
 <l>          May there be no hunger! May sickness go far away!'</l>
 <l>          That's what our mother wants. As for us:</l>
@@ -282,4 +282,20 @@
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry>
 </standOff>
-</TEI>
+<standOff corresp="#Aink5-kilavi" type="wordsplit">
+<interp type="alignment" select="0">3MG7M,10MG</interp>
+<entry>
+<form>itu-<c type="glide">v</c>um</form>
+<def>this</def>
+<form type="simple">itu</form>
+<gramGrp>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>atu</form>
+<def>that</def>
+<gramGrp>
+</gramGrp>
+</entry>
+</standOff></TEI>

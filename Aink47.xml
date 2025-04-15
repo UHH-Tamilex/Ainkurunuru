@@ -28,13 +28,13 @@
   </teiHeader>
   <text xml:lang="ta">
     <body>
-      <div xml:id="Aink47-kilavi">
-        <p type="edition">pāṉaṟku vayil maṟutta talaimakaḷ piṉ appāṇaṉōṭu talaimakaṉ pukuntu taṉ
+      <div rend="parallel">
+        <p xml:id="Aink47-kilavi">pāṇaṟku vayil maṟutta talaimakaḷ piṉ appāṇaṉōṭu talaimakaṉ pukuntu taṉ
           kātaṉmai kūṟiyavaḻic colliyatu.</p>
-        <p type="translation" xml:lang="en"> </p>
+        <p xml:lang="en"> </p>
       </div>
-      <div xml:id="Aink47">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="Aink47">
           <l>muḷḷeyiṟṟup pāṇmaka ḷiṉkeṭiṟu corinta</l>
           <l>vakaṉperu vaṭṭi niṟaiya maṉaiyō</l>
           <l>ḷarikāṟ perumpayaṟu niṟaikku mūra</l>
@@ -42,7 +42,7 @@
           <l>pāṇaṉ pōlap palapoyt tallē.</l>
         </lg>
 
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
 
           <l> O man from the village! </l>
           <l rend="indent2"> Where a wife [takes] big green-gram, its stalks cut off, and fills</l>
@@ -262,4 +262,108 @@
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry>
 </standOff>
-</TEI>
+<standOff corresp="#Aink47-kilavi" type="wordsplit">
+<interp type="alignment" select="0">91M,90MG</interp>
+<entry>
+<form>pāṇaṟku</form>
+<def>bard</def>
+<gramGrp>
+  <gram type="role">dative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vayil</form>
+<def>door</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>maṟutta</form>
+<def>refused</def>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>talaimakaḷ</form>
+<def>heroine</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+  <gram type="role">singular</gram>
+  <gram type="role">feminine</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>piṉ</form>
+<def>after</def>
+</entry>
+<entry>
+<form>a<c type="geminated">p</c></form>
+<def>that-</def>
+</entry>
+<entry>
+<form>pāṇaṉōṭu</form>
+<def>bard</def>
+<gramGrp>
+  <gram type="role">singular</gram>
+  <gram type="role">masculine</gram>
+  <gram type="role">sociative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>talaimakaṉ</form>
+<def>hero</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>pukuntu</form>
+<def>entered</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>taṉ</form>
+<def>self</def>
+<gramGrp>
+  <gram type="role">singular</gram>
+  <gram type="role">oblique</gram>
+  <gram type="role">third person</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kātaṉmai</form>
+<def>lovingness</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kūṟiya</form>
+<def>spoken</def>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vaḻi<c type="geminated">c</c></form>
+<def>way</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>colliyatu</form>
+<def>spoken-it</def>
+<gramGrp>
+  <gram type="role">participial noun</gram>
+  <gram type="role">neuter singular</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+</standOff></TEI>

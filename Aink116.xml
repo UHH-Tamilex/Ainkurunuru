@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -16,7 +14,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>    
         </msDesc>
@@ -26,14 +24,14 @@
   </teiHeader>
 <text xml:lang="ta" type="edition">
   <body>
-    <div xml:id="poem116">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="Aink116">
 <l>amma vāḻi tōḻi nāmaḻa</l>
 <l>nīla viruṅkaḻi nīlaṅ kūmpu</l>
 <l>mālaivan taṉṟu maṉṟa</l>
 <l>kālai yaṉṉa kālaimun tuṟuttē</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 <l>Oh friend, listen!</l>
 <l>So that we cry,</l>
 <l>The evening in which the blueness of dark blue lotuses close</l>
@@ -43,7 +41,7 @@
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">42ML12MG24MG5M2GM,89M</interp>
+<standOff type="wordsplit" corresp="#Aink116"><interp type="alignment" select="0">42ML12MG24MG5M2GM,89M</interp>
 <entry>
 <form>amma</form>
 <def>alas</def>

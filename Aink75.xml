@@ -28,21 +28,21 @@
   </teiHeader>
   <text xml:lang="ta">
     <body>
-      <div xml:id="Aink75-kilavi">
-        <p type="edition">parattaiyōṭu puṉalāṭi vanta talaimakaṉ ataṉai maṟaittuk kūṟiyavaḻit tōḻi
+      <div rend="parallel">
+        <p xml:id="Aink75-kilavi">parattaiyōṭu puṉalāṭi vanta talaimakaṉ ataṉai maṟaittuk kūṟiyavaḻit tōḻi
           kūṟiyatu.
         </p>
-        <p type="translation" xml:lang="en"> </p>
+        <p xml:lang="en"> </p>
       </div>
-      <div xml:id="Aink75">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="Aink75">
           <l>palariva ṇovvāy makiḻna vataṉā</l>
           <l>lalartoṭaṅ kiṉṟā lūrē malara</l>
           <l>toṉṉilai marutattup peruntuṟai</l>
           <l>niṉṉō ṭāṭiṉa ṭaṇpuṉa latuvē.</l>
         </lg>
 
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
 
           <l> You are not like everyone else here, o delightful man. </l>
           <l> That's the reason that gossip has arised in the village.</l>
@@ -210,4 +210,87 @@
 <note> gen. for loc.?</note>
 </entry>
 </standOff>
-</TEI>
+<standOff corresp="#Aink75-kilavi" type="wordsplit">
+<interp type="alignment" select="0">74M,73MG</interp>
+<entry>
+<form>parattaiyōṭu</form>
+<def>other woman</def>
+<gramGrp>
+  <gram type="role">sociative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>puṉal</form>
+<def>flood</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>āṭi</form>
+<def>bathed</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vanta</form>
+<def>come</def>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>talaimakaṉ</form>
+<def>hero</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ataṉai</form>
+<def>that</def>
+<gramGrp>
+  <gram type="role">accusative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>maṟaittu<c type="geminated">k</c></form>
+<def>hidden</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kūṟiya</form>
+<def>told</def>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vaḻi<c type="geminated">t</c></form>
+<def>way</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tōḻi</form>
+<def>confidante</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kūṟiyatu</form>
+<def>told-it</def>
+<gramGrp>
+  <gram type="role">participial noun</gram>
+  <gram type="role">neuter singular</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+</standOff></TEI>

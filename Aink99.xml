@@ -28,21 +28,21 @@
   </teiHeader>
   <text xml:lang="ta">
     <body>
-      <div xml:id="Aink99-kilavi">
-        <p type="edition">tōḻi mutalāyiṉār talaimakaṉ koṭumai kūṟi vilakkavum talaimakaḷ vāyil
+      <div rend="parallel">
+        <p xml:id="Aink99-kilavi">tōḻi mutalāyiṉār talaimakaṉ koṭumai kūṟi vilakkavum talaimakaḷ vāyil
           nērntuḻi avaṉ uvantu colliyatu.
         </p>
-        <p type="translation" xml:lang="en"> </p>
+        <p xml:lang="en"> </p>
       </div>
-      <div xml:id="Aink99">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="Aink99">
           <l>paḻaṉap pākaṉ muyiṟumūcu kuṭampai</l>
           <l>kaḻaṉi yerumai katiroṭu mayakkum</l>
           <l>pūkkaña lūraṉ makaḷiva</l>
           <l>ṇōykkumarun tākiya paṇaittō ḷōḷē.</l>
         </lg>
 
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
 
 
           <l> This girl is the daughter/girl of the man from a village dense with flowers,</l>
@@ -205,4 +205,114 @@
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry>
 </standOff>
-</TEI>
+<standOff corresp="#Aink99-kilavi" type="wordsplit">
+<interp type="alignment" select="0">43MG23MG23M,90MG</interp>
+<entry>
+<form>tōḻi</form>
+<def>confidante</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>mutal</form>
+<def>beginning</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>āyiṉār</form>
+<def>become-they</def>
+<gramGrp>
+  <gram type="role">participial noun</gram>
+  <gram type="role">third person</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>talaimakaṉ</form>
+<def>hero</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>koṭumai</form>
+<def>cruelty</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kūṟi</form>
+<def>told</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vilakka-<c type="glide">v</c>um</form>
+<def>hinder</def>
+<form type="simple">vilakka</form>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>talaimakaḷ</form>
+<def>heroine</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+  <gram type="role">singular</gram>
+  <gram type="role">feminine</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vāyil</form>
+<def>door</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>nērnt<c type="elided">u</c></form>
+<def>granted</def>
+<form type="sandhi">nērnt</form>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>uḻi</form>
+<def>place</def>
+<gramGrp>
+  <gram type="role">postposition</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>avaṉ</form>
+<def>that-one</def>
+<gramGrp>
+  <gram type="role">singular</gram>
+  <gram type="role">masculine</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>uvantu</form>
+<def>rejoiced</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>colliyatu</form>
+<def>spoken-it</def>
+<gramGrp>
+  <gram type="role">participial noun</gram>
+  <gram type="role">neuter singular</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+</standOff></TEI>

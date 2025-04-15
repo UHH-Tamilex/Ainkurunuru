@@ -22,20 +22,20 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="Aink30-kilavi">
-        <p type="edition"> varaivetir koḷḷār tamar avaṇ maṟuppuḻit tōḻi cevilikku aṟattoṭu niṉṟatu. </p>
-        <p type="translation" xml:lang="en"> </p>
+      <div rend="parallel">
+        <p xml:id="Aink30-kilavi"> varaivetir koḷḷār tamar avaṇ maṟuppuḻit tōḻi cevilikku aṟattoṭu niṉṟatu. </p>
+        <p xml:lang="en"> </p>
       </div>
 
-      <div xml:id="Aink30">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="Aink30">
           <l> vēppunaṉai yaṉṉa neṭuṅkaṭ kaḷvaṉ</l>
           <l> ṟaṇṇaka maṇṇaḷai niṟaiya nelli</l>
           <l> ṉirumpū vuṟaikku mūraṟkivaḷ</l>
           <l> peruṅkavi ṉiḻappa tevaṉko laṉṉāy.</l>
 
         </lg>
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
           <l> The man from the village </l>
           <l rend="indent2"> where the dark paddy flowers drip [pollen]</l>
           <l rend="indent2"> so that the cool interior earth holes of crabs</l>
@@ -217,4 +217,79 @@
 </gramGrp>
 </entry>
 </standOff>
-</TEI>
+<standOff corresp="#Aink30-kilavi" type="wordsplit">
+<interp type="alignment" select="0">6MG25MG33M,65MG</interp>
+<entry>
+<form>varaiv<c type="elided">u</c></form>
+<def>marriage</def>
+<form type="sandhi">varaiv</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>etirkoḷḷār</form>
+<def>accept-not-they</def>
+<gramGrp>
+  <gram type="role">third person</gram>
+  <gram type="role">negative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tamar</form>
+<def>self-they</def>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">third person</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>avaṇ</form>
+<def>there</def>
+</entry>
+<entry>
+<form>maṟupp<c type="elided">u</c></form>
+<def>refused</def>
+<form type="sandhi">maṟupp</form>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>uḻi<c type="geminated">t</c></form>
+<def>place</def>
+<gramGrp>
+  <gram type="role">postposition</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tōḻi</form>
+<def>confidante</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>cevilikku</form>
+<def>foster-mother</def>
+<gramGrp>
+  <gram type="role">dative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>aṟattoṭu</form>
+<def>duty</def>
+<gramGrp>
+  <gram type="role">sociative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>niṉṟatu</form>
+<def>stood-it</def>
+<gramGrp>
+  <gram type="role">participial noun</gram>
+  <gram type="role">neuter singular</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+</standOff></TEI>

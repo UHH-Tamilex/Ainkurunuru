@@ -24,13 +24,13 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="Aink135">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="Aink135">
 <l>paitala mallēm pāṇa paṇaittō</l>
 <l>ḷaitamain takaṉṟa valku</l>
 <l>ṉeytalaṅ kaṇṇiyai nērtaṉām peṟiṉē</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
   <l>Oh bard, we will not have sadness</l>
     <l>If we obtain a meeting with the young lady of the Neytal [region]</l>
       <l>With bamboo-shoulders [and] wonderful, fitted, wide hips.</l>

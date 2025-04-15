@@ -28,14 +28,14 @@
   </teiHeader>
   <text xml:lang="ta">
     <body>
-      <div xml:id="Aink70-kilavi">
-        <p type="edition">parattaiyarōṭu poḻutupōkki neṭitu tuyttuvanta talaimakaṉōṭu
+      <div rend="parallel">
+        <p xml:id="Aink70-kilavi">parattaiyarōṭu poḻutupōkki neṭitu tuyttuvanta talaimakaṉōṭu
           talaimakaḷpulantu colliyatu.
         </p>
-        <p type="translation" xml:lang="en"> </p>
+        <p xml:lang="en"> </p>
       </div>
-      <div xml:id="Aink70">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="Aink70">
           <l>paḻaṉap paṉmī ṉarunta nārai</l>
           <l>kaḻaṉi marutiṉ ceṉṉic cēkku</l>
           <l>mānīrp poykai yāṇa rūra</l>
@@ -43,7 +43,7 @@
           <l>pēe yaṉaiyamiyāñ cēypayan taṉamē.</l>
         </lg>
 
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
 
           <l> O man from a fertile village with ponds of great water!</l>
           <l rend="indent2"> Where the crane, after eating many fish in the tank,</l>
@@ -250,4 +250,84 @@
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry>
 </standOff>
-</TEI>
+<standOff corresp="#Aink70-kilavi" type="wordsplit">
+<interp type="alignment" select="0">82M,81MG</interp>
+<entry>
+<form>parattaiyarōṭu</form>
+<def>other woman</def>
+<gramGrp>
+  <gram type="role">sociative</gram>
+  <gram type="role">honorific</gram>
+  <gram type="role">third person</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>poḻutu</form>
+<def>time of day</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>pōkki</form>
+<def>made-go</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>neṭitu</form>
+<def>long-it</def>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">neuter singular</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tuyttu</form>
+<def>enjoyed</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vanta</form>
+<def>come</def>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>talaimakaṉōṭu</form>
+<def>hero</def>
+<gramGrp>
+  <gram type="role">sociative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>talaimakaḷ</form>
+<def>heroine</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+  <gram type="role">singular</gram>
+  <gram type="role">feminine</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>pulantu</form>
+<def>been-vexed</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>colliyatu</form>
+<def>spoken-it</def>
+<gramGrp>
+  <gram type="role">participial noun</gram>
+  <gram type="role">neuter singular</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+</standOff></TEI>

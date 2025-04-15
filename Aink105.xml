@@ -24,14 +24,14 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="Aink105">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="Aink105">
 <l>aṉṉai vāḻi vēṇ ṭaṉṉai muḻaṅkukaṭaṟ</l>
 <l>ṟiraitaru muttam veṇmaṇa limaikkun</l>
 <l>ṟaṇṇan tuṟaivaṉ vanteṉap</l>
 <l>poṉṉiṉuñ civantaṉṟu kaṇṭici ṉutalē</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 <l>  Oh mother, please mother,</l>
 <l>Because the man of the cool harbour</l>
 <l>In which pearls that are given by the waves</l>

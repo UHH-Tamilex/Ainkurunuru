@@ -28,19 +28,19 @@
   </teiHeader>
   <text xml:lang="ta">
     <body>
-      <div xml:id="Aink60-kilavi">
-        <p type="edition">varaiyātoḻukum talaimakaṉ iravukkuṟi vantuḻit tōḻi colliyatu.
+      <div rend="parallel">
+        <p xml:id="Aink60-kilavi">varaiyātoḻukum talaimakaṉ iravukkuṟi vantuḻit tōḻi colliyatu.
         </p>
-        <p type="translation" xml:lang="en"> </p>
+        <p xml:lang="en"> </p>
       </div>
-      <div xml:id="Aink60">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="Aink60">
           <l>paḻaṉak kampuḷ payirppeṭai yakavuṅ</l>
           <l>kaḻaṉi yūraniṉ moḻiva leṉṟun</l>
           <l>tuñcumaṉai neṭunakar varuti</l>
           <l>yañcā yōviva ṭantaikai vēlē.</l>
         </lg>
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
 
 
           <l> O man from the village of paddy-fields </l>
@@ -222,4 +222,74 @@
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry>
 </standOff>
-</TEI>
+<standOff corresp="#Aink60-kilavi" type="wordsplit">
+<interp type="alignment" select="0">8MG30MG18M,57MG</interp>
+<entry>
+<form>varaiyāt<c type="elided">u</c></form>
+<def>marry-not</def>
+<form type="sandhi">varaiyāt</form>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+  <gram type="role">negative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>oḻukum</form>
+<def>flowing</def>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>talaimakaṉ</form>
+<def>hero</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>iravu<c type="geminated">k</c></form>
+<def>night</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kuṟi</form>
+<def>tryst</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vant<c type="elided">u</c></form>
+<def>come</def>
+<form type="sandhi">vant</form>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>uḻi<c type="geminated">t</c></form>
+<def>place</def>
+<gramGrp>
+  <gram type="role">postposition</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tōḻi</form>
+<def>confidante</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>colliyatu</form>
+<def>spoken-it</def>
+<gramGrp>
+  <gram type="role">participial noun</gram>
+  <gram type="role">neuter singular</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+</standOff></TEI>

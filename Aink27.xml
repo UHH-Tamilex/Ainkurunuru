@@ -22,21 +22,21 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="Aink27-kilavi">
-        <p type="edition"> talaimakaḷ maṉaikkaṇ varuṅkālattu vārātu tāḻttuḻi ‘puṟattoḻukkam
+      <div rend="parallel">
+        <p xml:id="Aink27-kilavi"> talaimakaḷ maṉaikkaṇ varuṅkālattu vārātu tāḻttuḻi ‘puṟattoḻukkam
           uḷatāyiṟṟu’ eṉak karuti varuntum talaimakaṭkut tōḻi colliyatu. </p>
-        <p type="translation" xml:lang="en"> </p>
+        <p xml:lang="en"> </p>
       </div>
 
-      <div xml:id="Aink27">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="Aink27">
           <l> cennelañ ceṟuviṟ katirkoṇṭu kaḷvaṉ</l>
           <l> ṟaṇṇaka maṇṇaḷaic cellu mūraṟ</l>
           <l> kelvaḷai nekiḻac cāa</l>
           <l> yalla luḻappa tevaṉko laṉṉāy.</l>
 
         </lg>
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
           <l> The fact that [we] bear unhappiness,</l>
           <l> being so exhausted that [our] bright bangles become loose </l>
             <l>because of the man from the village</l>
@@ -203,4 +203,142 @@
 </gramGrp>
 </entry>
 </standOff>
-</TEI>
+<standOff corresp="#Aink27-kilavi" type="wordsplit">
+<interp type="alignment" select="0">42MG10MG11MG52M,117MG</interp>
+<entry>
+<form>talaimakaḷ</form>
+<def>heroine</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+  <gram type="role">singular</gram>
+  <gram type="role">feminine</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>maṉai<c type="geminated">k</c></form>
+<def>house</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kaṇ</form>
+<def>place</def>
+<gramGrp>
+  <gram type="role">postposition</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>varum</form>
+<def>coming</def>
+<form type="sandhi">varuṅ</form>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kālattu</form>
+<def>time</def>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vārātu</form>
+<def>come-not</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+  <gram type="role">negative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tāḻtt<c type="elided">u</c></form>
+<def>lowered</def>
+<form type="sandhi">tāḻtt</form>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>uḻi</form>
+<def>place</def>
+<gramGrp>
+  <gram type="role">postposition</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>‘puṟatt<c type="elided">u</c></form>
+<def>outside</def>
+<form type="sandhi">‘puṟatt</form>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>oḻukkam</form>
+<def>conduct</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>uḷat<c type="elided">u</c></form>
+<def>exists-it</def>
+<form type="sandhi">uḷat</form>
+<gramGrp>
+  <gram type="role">neuter singular</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>āyiṟṟu’</form>
+<def>it became</def>
+<gramGrp>
+  <gram type="role">neuter singular</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>eṉa<c type="geminated">k</c></form>
+<def>say</def>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>karuti</form>
+<def>considered</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>varuntum</form>
+<def>suffering</def>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>talaimakaṭku<c type="geminated">t</c></form>
+<def>heroine</def>
+<gramGrp>
+  <gram type="role">dative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tōḻi</form>
+<def>confidante</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>colliyatu</form>
+<def>spoken-it</def>
+<gramGrp>
+  <gram type="role">participial noun</gram>
+  <gram type="role">neuter singular</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+</standOff></TEI>

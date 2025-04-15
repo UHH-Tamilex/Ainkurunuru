@@ -28,21 +28,21 @@
   </teiHeader>
   <text xml:lang="ta">
     <body>
-      <div xml:id="Aink84-kilavi">
-        <p type="edition">parattaiyar maṉaikkaṇ taṅkip puṇarccik kuṟiyōṭu vāyil vēṇṭi vanta
+      <div rend="parallel">
+        <p xml:id="Aink84-kilavi">parattaiyar maṉaikkaṇ taṅkip puṇarccik kuṟiyōṭu vāyil vēṇṭi vanta
           talaimakaṟkut tōḻi colliyatu.
         </p>
-        <p type="translation" xml:lang="en"> </p>
+        <p xml:lang="en"> </p>
       </div>
-      <div xml:id="Aink84">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="Aink84">
           <l>ceviyiṟ kēṭpiṉuñ colliṟantu vekuḷvōḷ</l>
           <l>kaṇṇiṟ kāṇi ṉeṉṉā kuvaḷko</l>
           <l>ṉaṟuvī yaimpāṉ makaḷi rāṭun</l>
           <l>taiit taṇkayam pōlap</l>
           <l>palarpaṭin tuṇṇuniṉ parattai mārpē.</l>
         </lg>
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
 
           <l> Even if she [only] hears [it] with [her] ears, she'll be furious beyond words. </l>
           <l> [But] what will happen to her if, with [her own] eyes, she sees</l>
@@ -254,4 +254,94 @@
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry>
 </standOff>
-</TEI>
+<standOff corresp="#Aink84-kilavi" type="wordsplit">
+<interp type="alignment" select="0">85M,84MG</interp>
+<entry>
+<form>parattaiyar</form>
+<def>other woman</def>
+<gramGrp>
+  <gram type="role">honorific</gram>
+  <gram type="role">third person</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>maṉai<c type="geminated">k</c></form>
+<def>house</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kaṇ</form>
+<def>place</def>
+<gramGrp>
+  <gram type="role">postposition</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>taṅki<c type="geminated">p</c></form>
+<def>stayed</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>puṇarcci<c type="geminated">k</c></form>
+<def>union</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kuṟiyōṭu</form>
+<def>tryst</def>
+<gramGrp>
+  <gram type="role">sociative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vāyil</form>
+<def>mediation</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vēṇṭi</form>
+<def>wanted</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vanta</form>
+<def>come</def>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>talaimakaṟku<c type="geminated">t</c></form>
+<def>hero</def>
+<gramGrp>
+  <gram type="role">dative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tōḻi</form>
+<def>confidante</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>colliyatu</form>
+<def>spoken-it</def>
+<gramGrp>
+  <gram type="role">participial noun</gram>
+  <gram type="role">neuter singular</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+</standOff></TEI>

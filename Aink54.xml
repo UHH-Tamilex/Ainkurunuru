@@ -28,14 +28,14 @@
   </teiHeader>
   <text xml:lang="ta">
     <body>
-      <div xml:id="Aink54-kilavi">
-        <p type="edition">vāyil vēṇṭivanta talaimakaṟkut talaimakaḷ kuṟippaṟinta tōḻi avaṉ koṭumai
+      <div rend="parallel">
+        <p xml:id="Aink54-kilavi">vāyil vēṇṭivanta talaimakaṟkut talaimakaḷ kuṟippaṟinta tōḻi avaṉ koṭumai
           kūṟi vāyil maṟuttatu.
         </p>
-        <p type="translation" xml:lang="en"> </p>
+        <p xml:lang="en"> </p>
       </div>
-      <div xml:id="Aink54">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="Aink54">
           <l>tiṇṭērt teṉṉava ṉaṉṉāṭ ṭuḷḷatai</l>
           <l>vēṉi lāyiṉun taṇpuṉa loḻukun</l>
           <l>tēṉū raṉṉaviva ṭerivaḷai nekiḻa</l>
@@ -45,7 +45,7 @@
         </lg>
 
 
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
 
 
           <l> If you mount [i.e. drive off in your chariot], </l>
@@ -297,4 +297,105 @@
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry>
 </standOff>
-</TEI>
+<standOff corresp="#Aink54-kilavi" type="wordsplit">
+<interp type="alignment" select="0">44MG40M,84MG</interp>
+<entry>
+<form>vāyil</form>
+<def>door</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vēṇṭi</form>
+<def>wanted</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vanta</form>
+<def>come</def>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>talaimakaṟku<c type="geminated">t</c></form>
+<def>hero</def>
+<gramGrp>
+  <gram type="role">dative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>talaimakaḷ</form>
+<def>heroine</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+  <gram type="role">singular</gram>
+  <gram type="role">feminine</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kuṟipp<c type="elided">u</c></form>
+<def>intention</def>
+<form type="sandhi">kuṟipp</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>aṟinta</form>
+<def>known</def>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tōḻi</form>
+<def>confidante</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>avaṉ</form>
+<def>that-one</def>
+<gramGrp>
+  <gram type="role">singular</gram>
+  <gram type="role">masculine</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>koṭumai</form>
+<def>cruelty</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kūṟi</form>
+<def>told</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vāyil</form>
+<def>door</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>maṟuttatu</form>
+<def>refused-it</def>
+<gramGrp>
+  <gram type="role">participial noun</gram>
+  <gram type="role">neuter singular</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+</standOff></TEI>

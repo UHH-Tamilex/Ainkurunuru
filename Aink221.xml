@@ -23,18 +23,18 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="Aink221-kilavi">
-      <p type="edition">  oruvaḻittaṇantu  varaitaṟku vēṇṭuvaṉa muṭittu varuval eṉṟu talaimakaṉ kūṟakkēṭṭa talaimakaḷ avaṉ ciṟaippuṟattāṉāyk kēṭpat tōḻikkuc colliyatu</p>
-<p type="translation" xml:lang="en">What the heroine, who listened as the hero said, “I will come, going away briefly and completing whatever is necessary for the marriage,” relayed to her friend as the hero listened behind the hedge. </p>
+    <div rend="parallel">
+      <p xml:id="Aink221-kilavi">  oruvaḻittaṇantu  varaitaṟku vēṇṭuvaṉa muṭittu varuval eṉṟu talaimakaṉ kūṟakkēṭṭa talaimakaḷ avaṉ ciṟaippuṟattāṉāyk kēṭpat tōḻikkuc colliyatu</p>
+<p xml:lang="en">What the heroine, who listened as the hero said, “I will come, going away briefly and completing whatever is necessary for the marriage,” relayed to her friend as the hero listened behind the hedge. </p>
       </div>
-    <div xml:id="Aink221">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="Aink221">
 <l>amma vāḻi tōḻi kātalar</l>
 <l>pāvai yaṉṉaveṉ ṉāykaviṉ ṟolaiya</l>
 <l>naṉmā mēṉi pacappac</l>
 <l>celva leṉpatam malaikeḻu nāṭē</l>
 </lg> 
-<lg type="translation" xml:lang="en"> 
+<lg xml:lang="en"> 
 <l>  Alas, O friend, </l>
 <l>“I shall leave,” my lover says, </l>
 <l>“for [my] town with mountains,”</l>

@@ -23,19 +23,19 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="Aink78-kilavi">
-      <p type="edition">ituvumatu.
+    <div rend="parallel">
+      <p xml:id="Aink78-kilavi">ituvumatu.
       </p>
-      <p type="translation" xml:lang="en"> </p>
+      <p xml:lang="en"> </p>
     </div>
-    <div xml:id="Aink78">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="Aink78">
 <l>katirilai neṭuvēṟ kaṭumāṉ kiḷḷi</l>
 <l>matilkol yāṉaiyiṟ kataḻpuneṟi vanta</l>
 <l>ciṟaiyaḻi putuppuṉa lāṭuka</l>
 <l>memmoṭu koṇmōven tōḷpurai puṇaiyē.</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 
 <l>   Let's bathe in the new dam-destroying floods </l> 
 <l>   which have come rapidly on their way</l> 
@@ -236,4 +236,20 @@
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry>
 </standOff>
-</TEI>
+<standOff corresp="#Aink78-kilavi" type="wordsplit">
+<interp type="alignment" select="0">3MG7M,10MG</interp>
+<entry>
+<form>itu-<c type="glide">v</c>um</form>
+<def>this</def>
+<form type="simple">itu</form>
+<gramGrp>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>atu</form>
+<def>that</def>
+<gramGrp>
+</gramGrp>
+</entry>
+</standOff></TEI>

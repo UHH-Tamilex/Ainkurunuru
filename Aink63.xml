@@ -23,19 +23,19 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="Aink63-kilavi">
-      <p type="edition">parattaiyiṟ pirintuvanta talaimakaṉōṭu talaimakaḷ pulantu kūṟiyatu.
+    <div rend="parallel">
+      <p xml:id="Aink63-kilavi">parattaiyiṟ pirintuvanta talaimakaṉōṭu talaimakaḷ pulantu kūṟiyatu.
       </p>
-      <p type="translation" xml:lang="en"> </p>
+      <p xml:lang="en"> </p>
     </div>
-    <div xml:id="Aink63">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="Aink63">
 <l>poykaip paḷḷip pulavunāṟu nīrnāy</l>
 <l>vāḷai nāḷirai peṟūu mūra</l>
 <l>vennalan tolaiva tāyiṉun</l>
 <l>tuṉṉalam perumapiṟart tōynta mārpē.</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 
 
 <l>   O man from a village! </l> 
@@ -214,4 +214,61 @@
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry>
 </standOff>
-</TEI>
+<standOff corresp="#Aink63-kilavi" type="wordsplit">
+<interp type="alignment" select="0">62M,61MG</interp>
+<entry>
+<form>parattaiyiṉ</form>
+<def>other woman</def>
+<form type="sandhi">parattaiyiṟ</form>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>pirintu</form>
+<def>separated</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vanta</form>
+<def>come</def>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>talaimakaṉōṭu</form>
+<def>hero</def>
+<gramGrp>
+  <gram type="role">sociative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>talaimakaḷ</form>
+<def>heroine</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+  <gram type="role">singular</gram>
+  <gram type="role">feminine</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>pulantu</form>
+<def>been-vexed</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kūṟiyatu</form>
+<def>told-it</def>
+<gramGrp>
+  <gram type="role">participial noun</gram>
+  <gram type="role">neuter singular</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+</standOff></TEI>
