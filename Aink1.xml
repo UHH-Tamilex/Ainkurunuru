@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -278,7 +276,7 @@
   <gram type="role">first person</gram>
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
-<note xmlns="http://www.tei-c.org/ns/1.0">The poet appears to make a deliberate distinction
+<note>The poet appears to make a deliberate distinction
         between the participial noun in line 3 (vēṭṭō­ḷ) and the finite form in line 6 (vēṭṭēm-ē).
         The perfective participial noun (vēṭṭōḷ) suggests a mother who 'one who has the habit of
         wanting' (i.e. she has wanted in the past and will continue to do so). Vēṭṭēm (not vēṭṭōm,
