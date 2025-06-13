@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <title xml:lang="ta">Aiṅkuṟunūṟu</title> 407. <persName xml:lang="ta"></persName>
+        </title>
+        <editor role="translator">Leo Nelson-Jones</editor>
+
+      </titleStmt>
+      <publicationStmt>
+        <p />
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>
+              <p></p>
+            </summary>
+          </msContents>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change />
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <div rend="parallel">
+        <lg xml:id="Aink414">
+          <l>puḷḷu māvum puṇarntiṉi tukaḷak</l>
+          <l>kōṭṭavuṅ koṭiyavum pūppala paḻuṉi</l>
+          <l>melliya larivai kaṇṭiku</l>
+          <l>malla lākiya maṇaṅkamaḻ puṟavē</l>
+        </lg>
+        <p xml:lang="en">
+          As the birds and the animals unite and sweetly jump around, the many flowers on the tree
+          branches and creepers [now] having grown, we saw the sweet smelling woodland
+          which has become so rich, O soft-natured young women!
+        </p>
+      </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#Aink414">
+    <interp type="alignment" select="0">3MG3MLMG10MG4MG11MG9MG38ML25M2GM,115M</interp>
+    <entry>
+      <form>puḷ-<c type="geminated">ḷ</c>um</form>
+      <def>birds</def>
+      <form type="simple">puḷ</form>
+      <gramGrp>
+        <gram type="role">noun</gram>
+      </gramGrp>
+      <gramGrp type="particle">
+        <m type="enclitic">um</m>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>mā-<c type="glide">v</c>um</form>
+      <def>animals</def>
+      <form type="simple">mā</form>
+      <gramGrp>
+        <gram type="role">noun</gram>
+      </gramGrp>
+      <gramGrp type="particle">
+        <m type="enclitic">um</m>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>puṇarnt<c type="elided">u</c></form>
+      <def>uniting</def>
+      <form type="sandhi">puṇarnt</form>
+      <gramGrp>
+        <gram type="role">absolutive</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>iṉit<c type="elided">u</c></form>
+      <def>sweetly</def>
+      <form type="sandhi">iṉit</form>
+      <gramGrp>
+        <gram type="role">adverb</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>ukaḷa<c type="geminated">k</c></form>
+      <def>jumping</def>
+      <gramGrp>
+        <gram type="role">infinitive</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>kōṭṭa-<c type="glide">v</c>um</form>
+      <def>branches</def>
+      <form type="simple">kōṭṭa</form>
+      <gramGrp>
+        <gram type="role">pronominalised noun</gram>
+        <gram type="role">neuter plural</gram>
+      </gramGrp>
+      <gramGrp type="particle">
+        <m type="enclitic">um</m>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>koṭiya-<c type="glide">v</c>um</form>
+      <def>creepers</def>
+      <form type="simple">koṭiya</form>
+      <gramGrp>
+        <gram type="role">pronominalised noun</gram>
+        <gram type="role">neuter plural</gram>
+      </gramGrp>
+      <gramGrp type="particle">
+        <m type="enclitic">um</m>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>pū<c type="geminated">p</c></form>
+      <def>flower</def>
+      <gramGrp>
+        <gram type="role">noun</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>pala</form>
+      <def>many</def>
+      <gramGrp>
+        <gram type="role">pronominalised noun</gram>
+        <gram type="role">neuter plural</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>paḻuṉi</form>
+      <def>mature</def>
+      <gramGrp>
+        <gram type="role">absolutive</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>mel</form>
+      <def>soft</def>
+      <gramGrp>
+        <gram type="role">adjective</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form><c type="geminated">l</c>iyal</form>
+      <def>nature</def>
+      <gramGrp>
+        <gram type="role">noun</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>arivai</form>
+      <def>young woman</def>
+      <gramGrp>
+        <gram type="role">noun</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>kaṇṭikum</form>
+      <def>see</def>
+      <gramGrp>
+        <gram type="role">perfective aspect</gram>
+        <gram type="role">plural</gram>
+        <gram type="role">first person</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>mallal</form>
+      <def>abundance</def>
+      <gramGrp>
+        <gram type="role">noun</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>ākiya</form>
+      <def>become</def>
+      <gramGrp>
+        <gram type="role">perfective aspect</gram>
+        <gram type="role">peyareccam</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>maṇam</form>
+      <def>fragrance</def>
+      <form type="sandhi">maṇaṅ</form>
+      <gramGrp>
+        <gram type="role">noun</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>kamaḻ</form>
+      <def>be fragrant</def>
+      <gramGrp>
+        <gram type="role">verbal root</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>puṟav<c type="elided">u</c>-ē</form>
+      <def>woodland</def>
+      <form type="simple">puṟavu</form>
+      <form type="sandhi">puṟav</form>
+      <gramGrp>
+        <gram type="role">noun</gram>
+      </gramGrp>
+      <gramGrp type="particle">
+        <m type="enclitic">ē</m>
+      </gramGrp>
+    </entry>
+  </standOff>
+</TEI>
