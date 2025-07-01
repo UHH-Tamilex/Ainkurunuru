@@ -58,7 +58,7 @@
 <form>viṉavuval</form>
 <def>I-ask</def>
 <gramGrp>
-  <gram type="role">imperfect aspect</gram>
+  <gram type="role">imperfective aspect</gram>
   <gram type="role">singular</gram>
   <gram type="role">first person</gram>
 </gramGrp>
@@ -149,7 +149,7 @@
 <gramGrp>
   <gram type="role">neuter plural</gram>
   <gram type="role">third person</gram>
-  <gram type="role">imperfect aspect</gram>
+  <gram type="role">imperfective aspect</gram>
 </gramGrp>
 </entry></standOff>
 </TEI>

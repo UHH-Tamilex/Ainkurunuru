@@ -90,7 +90,7 @@
 <def>calling/keening</def>
 <form type="sandhi"><c type="glide">y</c>akavuṅ</form>
 <gramGrp>
-  <gram type="role">imperfect aspect</gram>
+  <gram type="role">imperfective aspect</gram>
   <gram type="role">peyareccam</gram>
 </gramGrp>
 </entry>
@@ -124,7 +124,7 @@
 <form>moḻival</form>
 <def>I shall speak</def>
 <gramGrp>
-  <gram type="role">imperfect aspect</gram>
+  <gram type="role">imperfective aspect</gram>
   <gram type="role">singular</gram>
   <gram type="role">first person</gram>
 </gramGrp>
@@ -142,7 +142,7 @@
 <def>sleeping</def>
 <form type="sandhi">tuñcum</form>
 <gramGrp>
-  <gram type="role">imperfect aspect</gram>
+  <gram type="role">imperfective aspect</gram>
   <gram type="role">peyareccam</gram>
 </gramGrp>
 </entry>
