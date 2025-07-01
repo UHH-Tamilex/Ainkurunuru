@@ -1,4 +1,6 @@
-<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?><?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
      <titleStmt>
@@ -28,7 +30,7 @@
 <l>kaṇpora viḷaṅkiya katirteṟu vaippiṉ</l>
 <l>maṇpurai perukiya maramuḷi kāṉa</l>
 <l>miṟantaṉa rōnaṅ kātalar</l>
-<l>maṟantaṉa rōti maṟavā nammē</l>
+<l>maṟantaṉa rōtiṉ maṟavā nammē</l>
       </lg>
       <lg type="translation" xml:lang="en">
 <l>Our lover has traversed the forest where parched trees </l>
@@ -40,7 +42,7 @@
   </body>
 </text>
 <standOff type="wordsplit" corresp="#Aink319">
-<interp type="alignment" select="0">53ML17MG21MG3MG10MGM,110M</interp>
+<interp type="alignment" select="0">53ML17MG21MG14MGM,110M</interp>
 <entry>
 <form>kaṇ</form>
 <def>eye</def>
@@ -169,7 +171,10 @@
 <entry>
 <form>til</form>
 <def>alas</def>
-<form type="sandhi">ti</form>
+<form type="sandhi">tiṉ</form>
+<gramGrp>
+  <gram type="role">interjection</gram>
+</gramGrp>
 </entry>
 <entry>
 <form>maṟavā</form>
