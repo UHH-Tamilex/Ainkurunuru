@@ -1,4 +1,6 @@
-<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?><?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -41,7 +43,8 @@
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#Aink371"><interp type="alignment" select="0">58MR76MGM,137M</interp>
+<standOff type="wordsplit" corresp="#Aink371">
+<interp type="alignment" select="0">58MR16MG60MGM,138M</interp>
 <entry>
 <form>maḷḷar</form>
 <def>warrior</def>
@@ -130,18 +133,14 @@
 </gramGrp>
 </entry>
 <entry>
-<form><c type="glide">v</c>ākuka</form>
-<def>may-become</def>
+<form><c type="glide">v</c>ākuka-tilla</form>
+<def>may become</def>
+<form type="simple">ākuka</form>
+<form type="sandhi"><c type="glide">v</c>ākuka</form>
 <gramGrp>
   <gram type="role">optative</gram>
 </gramGrp>
-</entry>
-<entry>
-<form>tilla</form>
-<def>indeed</def>
-<gramGrp>
-  <gram type="role">interjection</gram>
-</gramGrp>
+<gramGrp type="particle"><m type="enclitic">tilla</m></gramGrp>
 </entry>
 <entry>
 <form><c type="glide">v</c>aṟa</form>
@@ -235,5 +234,6 @@
   <gram type="role">noun</gram>
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
-</entry></standOff>
+</entry>
+</standOff>
 </TEI>
