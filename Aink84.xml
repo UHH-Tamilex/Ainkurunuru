@@ -98,7 +98,7 @@
 <def>she will be angry</def>
 <gramGrp>
   <gram type="role">feminine singular</gram>
-  <gram type="role">imperfect aspect</gram>
+  <gram type="role">imperfective aspect</gram>
 </gramGrp>
 </entry>
 <entry>
@@ -129,7 +129,7 @@
 <form type="sandhi"><c type="geminated">ṉ</c>ākuvaḷ</form>
 <gramGrp>
   <gram type="role">feminine singular</gram>
-  <gram type="role">imperfect aspect</gram>
+  <gram type="role">imperfective aspect</gram>
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">kol</m></gramGrp>
 </entry>
@@ -169,7 +169,7 @@
 <def>bathing</def>
 <form type="sandhi">āṭun</form>
 <gramGrp>
-  <gram type="role">imperfect aspect</gram>
+  <gram type="role">imperfective aspect</gram>
   <gram type="role">peyareccam</gram>
 </gramGrp>
 </entry>
@@ -222,7 +222,7 @@
 <def>eating</def>
 <form type="sandhi">uṇṇun</form>
 <gramGrp>
-  <gram type="role">imperfect aspect</gram>
+  <gram type="role">imperfective aspect</gram>
   <gram type="role">peyareccam</gram>
 </gramGrp>
 </entry>

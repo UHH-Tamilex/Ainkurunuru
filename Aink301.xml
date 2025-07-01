@@ -111,7 +111,7 @@
 <def>go-they</def>
 <gramGrp>
   <gram type="role">participial noun</gram>
-  <gram type="role">imperfect aspect</gram>
+  <gram type="role">imperfective aspect</gram>
   <gram type="role">plural</gram>
   <gram type="role">third person</gram>
 </gramGrp>
@@ -128,7 +128,7 @@
 <def>covering</def>
 <gramGrp>
   <gram type="role">peyareccam</gram>
-  <gram type="role">imperfect aspect</gram>
+  <gram type="role">imperfective aspect</gram>
 </gramGrp>
 </entry>
 <entry>
@@ -148,7 +148,7 @@
 <gramGrp>
   <gram type="role">singular</gram>
   <gram type="role">second person</gram>
-  <gram type="role">imperfect aspect</gram>
+  <gram type="role">imperfective aspect</gram>
 </gramGrp>
 </entry>
 <entry>
@@ -184,7 +184,7 @@
 <def>she will suffer</def>
 <gramGrp>
   <gram type="role">feminine singular</gram>
-  <gram type="role">imperfect aspect</gram>
+  <gram type="role">imperfective aspect</gram>
 </gramGrp>
 </entry>
 <entry>
