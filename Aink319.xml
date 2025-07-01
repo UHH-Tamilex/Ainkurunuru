@@ -42,7 +42,7 @@
   </body>
 </text>
 <standOff type="wordsplit" corresp="#Aink319">
-<interp type="alignment" select="0">53ML17MG21MG14MGM,110M</interp>
+<interp type="alignment" select="0">53ML17MG21MG13MG2M,110M</interp>
 <entry>
 <form>kaṇ</form>
 <def>eye</def>
@@ -185,10 +185,9 @@
 </gramGrp>
 </entry>
 <entry>
-<form>nam<c type="geminated">m</c>-ē</form>
+<form>nam-<c type="geminated">m</c>ē</form>
 <def>us</def>
 <form type="simple">nam</form>
-<form type="sandhi">nam<c type="geminated">m</c></form>
 <gramGrp>
   <gram type="role">oblique</gram>
 </gramGrp>
