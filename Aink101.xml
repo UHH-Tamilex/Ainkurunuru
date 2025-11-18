@@ -29,7 +29,7 @@
     <div rend="parallel">
       <p xml:id="Aink101-kilavi">aṟattoṭu niṉṟapiṉṉar varaitaṟporuṭṭup pirinta talaimakaṉ varaivōṭu pukuntavaḻit tōḻi cevilikkuk kāṭṭic colliyatu. 
       </p>
-      <p xml:lang="en">Pointedly said by the confidante to the foster mother, after having stood with righteousness, about the hero who separated for the reason of marriage, [now] entering with a proposal for marriage.</p>
+      <p xml:lang="en">Pointedly said by the confidante to the foster mother, after having stood with the truth, about the hero who separated for the reason of marriage, [now] entering with a proposal for marriage.</p>
     </div>
     <div rend="parallel">
       <lg xml:id="Aink101">
@@ -248,6 +248,8 @@
 <def>man from the-sea</def>
 <gramGrp>
   <gram type="role">noun</gram>
+  <gram type="role">masculine</gram>
+  <gram type="role">singular</gram>
 </gramGrp>
 </entry>
 <entry>
