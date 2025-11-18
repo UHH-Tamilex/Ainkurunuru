@@ -1,99 +1,111 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta">Aiṅkuṟunūṟu</title> 101.<persName xml:lang="ta"> Ammūvaṉār.</persName></title>
-
-        <editor role="translator">Neela_Bhaskar</editor>
+            <title xml:lang="ta">Aiṅkuṟunūṟu</title> <num>101</num>.
+            <persName xml:lang="ta">Ammūvaṉār</persName>
+        </title>     
       </titleStmt>
+      <publicationStmt><p/></publicationStmt>
       <sourceDesc>
         <msDesc xml:lang="en">
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p/>
+            <summary><p></p>
             </summary>
           </msContents>    
         </msDesc>
       </sourceDesc>
     </fileDesc>
-    <revisionDesc/>
+    <revisionDesc><change/></revisionDesc>
   </teiHeader>
-  <text xml:lang="ta" type="edition">
-    <body>
-        <div rend="parallel">
-          <p xml:id="Aink101-kilavi">
-            tāykku uraitta pattu </p>
-          <p xml:lang="en">
-The ten that was narrated to the Mother
-          </p>
-        </div>
-        <div rend="parallel">
-            <lg xml:id="Aink101">
-              <l> aṉṉai vāḻivēṇ ṭaṉṉai yutukkā </l>
-              <l> ṇērkoṭip pācaṭumpu pariyavūr piḻipu</l>
-                        <l> neytaṉ mayakki vantaṉṟu niṉmakaḷ</l>
-                        <l> pūppō luṇkaṇ marīiya</l>
-                        <l> nōykkumarun tākiya koṇkaṉ ṟērē </l>
-            </lg>
-            <lg xml:lang="en">
-<l> Oh mother, please mother </l>
-<l> Look there! </l>
-<l> As the rising creepers of the green Aṭumpu are torn up </l>
-<l> Rising and falling, </l>
-<l> Having made the Neytal plant fall </l>
-<l> The chariot of the sea-man that is the antidote </l>
-<l> To the affliction that is set into the flower-like, kohled eyes </l>
-<l> Of your daughter </l>
-<l> Has come. </l>
-            </lg>
-        </div>
-    </body>
-  </text>
-  <standOff type="wordsplit" corresp="#Aink101">
-<interp type="alignment" select="0">13MG23MG16MG64MG14MGM,136M</interp>
+<text xml:lang="ta" type="edition">
+  <body>
+    <div rend="parallel">
+      <p xml:id="Aink101-kilavi">aṟattoṭu niṉṟapiṉṉar varaitaṟporuṭṭup pirinta talaimakaṉ varaivōṭu pukuntavaḻit tōḻi cevilikkuk kāṭṭic colliyatu. 
+      </p>
+      <p xml:lang="en">Pointedly said by the confidante to the foster mother, after having stood with righteousness, about the hero who separated for the reason of marriage, [now] entering with a proposal for marriage.</p>
+    </div>
+    <div rend="parallel">
+      <lg xml:id="Aink101">
+<l>aṉṉai vāḻivēṇ ṭaṉṉai yutukkā</l>
+<l>ṇērkoṭip pācaṭumpu pariyavūr piḻipu</l>
+<l>neytaṉ mayakki vantaṉṟu niṉmakaḷ</l>
+<l>puppō luṇkaṇ marīiya</l>
+<l>nōykkumarun tākiya koṇkaṉ ṟērē.</l>
+</lg>
+<lg xml:lang="en">
+<l>Oh mother, please mother,  Look there!</l>
+<l>The chariot of the sea-man that is the antidote</l>
+<l>To the affliction that joins into the flower-like, kajaled eyes of your daughter,</l>
+<l>Has come, making the Neytal plant fade, rising and falling,</l>
+<l>[And] so that the beautiful creepers of the green Aṭumpu are torn up.</l>
+</lg>
+    </div>
+  </body>
+</text>
+<standOff type="wordsplit" corresp="#Aink101"><interp type="alignment" select="0">13MG23MG16MG64MG14MG2M,136MG</interp>
 <entry>
 <form>aṉṉai</form>
 <def>mother</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
 </entry>
 <entry>
 <form>vāḻi</form>
 <def>live-you</def>
 <gramGrp>
-  <gram type="role">subjuntive</gram>
+  <gram type="role">subjunctive</gram>
 </gramGrp>
 </entry>
 <entry>
 <form>vēṇṭ<c type="elided">u</c></form>
-<def>be necessary</def>
+<def>be-necessary</def>
 <form type="sandhi">vēṇṭ</form>
 <gramGrp>
-  <gram type="role">imperative</gram>
+  <gram type="role">verbal root</gram>
 </gramGrp>
 </entry>
 <entry>
 <form>aṉṉai</form>
 <def>mother</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
 </entry>
 <entry>
 <form><c type="glide">y</c>utu<c type="geminated">k</c></form>
 <def>there</def>
+<gramGrp>
+  <gram type="role">neuter singular</gram>
+</gramGrp>
 </entry>
 <entry>
 <form>kāṇ</form>
-<def>to look</def>
+<def>see</def>
 <gramGrp>
-  <gram type="role">imperative</gram>
+  <gram type="role">verbal root</gram>
 </gramGrp>
 </entry>
 <entry>
 <form>ēr</form>
-<def>straight</def>
+<def>beautiful</def>
+<gramGrp>
+  <gram type="role">root noun</gram>
+</gramGrp>
 </entry>
 <entry>
 <form>koṭi<c type="geminated">p</c></form>
 <def>creeper</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
 </entry>
 <entry>
 <form>pāc<c type="elided">u</c></form>
@@ -105,7 +117,10 @@ The ten that was narrated to the Mother
 </entry>
 <entry>
 <form>aṭumpu</form>
-<def>Aṭumpu</def>
+<def>Aṭumpu plant</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
 </entry>
 <entry>
 <form>pariya</form>
@@ -116,23 +131,26 @@ The ten that was narrated to the Mother
 </entry>
 <entry>
 <form><c type="glide">v</c>ūrp<c type="elided">u</c></form>
-<def>rise</def>
+<def>ascended</def>
 <form type="sandhi"><c type="glide">v</c>ūrp</form>
 <gramGrp>
-  <gram type="role">verbal root</gram>
+  <gram type="role">absolutive</gram>
 </gramGrp>
 </entry>
 <entry>
 <form>iḻipu</form>
-<def>fall</def>
+<def>fallen</def>
 <gramGrp>
-  <gram type="role">verbal root</gram>
+  <gram type="role">absolutive</gram>
 </gramGrp>
 </entry>
 <entry>
 <form>neytal</form>
-<def>Neytal</def>
+<def>blue-waterlily</def>
 <form type="sandhi">neytaṉ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
 </entry>
 <entry>
 <form>mayakki</form>
@@ -147,71 +165,99 @@ The ten that was narrated to the Mother
 <gramGrp>
   <gram type="role">neuter singular</gram>
   <gram type="role">perfective aspect</gram>
+  <gram type="role">third person</gram>
 </gramGrp>
 </entry>
 <entry>
 <form>niṉ</form>
 <def>your</def>
 <gramGrp>
-  <gram type="role">genitive</gram>
+  <gram type="role">oblique</gram>
 </gramGrp>
 </entry>
 <entry>
 <form>makaḷ</form>
-<def>daughter</def>
+<def>woman</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
 </entry>
 <entry>
 <form>pū<c type="geminated">p</c></form>
 <def>flower</def>
+<form type="sandhi">pu<c type="geminated">p</c></form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
 </entry>
 <entry>
 <form>pōl</form>
-<def>like</def>
+<def>be-similar</def>
+<gramGrp>
+  <gram type="role">verbal root</gram>
+</gramGrp>
 </entry>
 <entry>
 <form>uṇ</form>
-<def>kohl</def>
+<def>kajal</def>
+<gramGrp>
+  <gram type="role">feminine</gram>
+  <gram type="role">noun</gram>
+</gramGrp>
 </entry>
 <entry>
 <form>kaṇ</form>
 <def>eye</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
 </entry>
 <entry>
 <form>marīiya</form>
-<def>set into</def>
+<def>joined</def>
 <gramGrp>
+  <gram type="role">perfective aspect</gram>
   <gram type="role">peyareccam</gram>
 </gramGrp>
 </entry>
 <entry>
 <form>nōykku</form>
-<def>affliction</def>
+<def>pain</def>
 <gramGrp>
   <gram type="role">dative</gram>
 </gramGrp>
 </entry>
 <entry>
 <form>marunt<c type="elided">u</c></form>
-<def>antidote</def>
+<def>remedy</def>
 <form type="sandhi">marunt</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
 </entry>
 <entry>
 <form>ākiya</form>
-<def>be</def>
+<def>become</def>
 <gramGrp>
+  <gram type="role">perfective aspect</gram>
   <gram type="role">peyareccam</gram>
 </gramGrp>
 </entry>
 <entry>
 <form>koṇkaṉ</form>
-<def>sea man</def>
+<def>man from the-sea</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
 </entry>
 <entry>
 <form>tēr-ē</form>
 <def>chariot</def>
 <form type="simple">tēr</form>
 <form type="sandhi">ṟēr</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
-</entry>
-</standOff>
+</entry></standOff>
 </TEI>
