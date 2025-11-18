@@ -82,7 +82,9 @@ And this is that
 <form>nam</form>
 <def>our</def>
 <gramGrp>
-  <gram type="role">neuter plural</gram>
+  <gram type="role">plural</gram>
+  <gram type="role">first person</gram>
+  <gram type="role">pronoun</gram>
   <gram type="role">oblique</gram>
 </gramGrp>
 </entry>
