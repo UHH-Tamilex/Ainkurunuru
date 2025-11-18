@@ -38,26 +38,29 @@ And this is that
                         
             </lg>
             <lg xml:lang="en">
-<l> Oh mother, please mother </l>
-<l> In order for the unending grief that has affliction to abate,</l>
-<l> The sound of his chariot’s bells must tinkle joyfully </l>
-<l> Like the (call of) birds in our town </l>
-<l> (With) the blue-hued big ocean. </l>
+              <l>Oh mother, please mother!</l>
+              <l>The sound of his chariotbells will tinkle joyfully</l>
+                <l>Like the [call of] birds in our town with the great, blue-hued ocean</l>
+                  <l>In order for [this] endless, sorrowful grief  to go away.</l>
             </lg>
         </div>
     </body>
   </text>
   <standOff type="wordsplit" corresp="#Aink102">
-<interp type="alignment" select="0">13MG14ML29MG18MG29MGM,109M</interp>
+<interp type="alignment" select="0">13MG14ML29MG9MR9MG29MGM,110M</interp>
 <entry>
 <form>aṉṉai</form>
 <def>mother</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
 </entry>
 <entry>
 <form>vāḻi</form>
 <def>live</def>
 <gramGrp>
-  <gram type="role">subjuntive</gram>
+  <gram type="role">subjunctive</gram>
+  <gram type="role">second person</gram>
 </gramGrp>
 </entry>
 <entry>
@@ -65,20 +68,30 @@ And this is that
 <def>be necessary</def>
 <form type="sandhi">vēṇṭ</form>
 <gramGrp>
-  <gram type="role">imperative</gram>
+  <gram type="role">verbal root</gram>
 </gramGrp>
 </entry>
 <entry>
 <form>aṉṉai</form>
 <def>mother</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
 </entry>
 <entry>
-<form>nam<c type="geminated">m</c></form>
+<form>nam</form>
 <def>our</def>
+<gramGrp>
+  <gram type="role">neuter plural</gram>
+  <gram type="role">oblique</gram>
+</gramGrp>
 </entry>
 <entry>
-<form>ūr</form>
+<form><c type="geminated">m</c>ūr</form>
 <def>town</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
 </entry>
 <entry>
 <form>nīl</form>
@@ -98,24 +111,30 @@ And this is that
 </entry>
 <entry>
 <form>perum</form>
-<def>big</def>
+<def>great</def>
 <form type="sandhi">peruṅ</form>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
 </entry>
 <entry>
 <form>kaṭal</form>
 <def>ocean</def>
 <form type="sandhi">kaṭaṟ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
 </entry>
 <entry>
 <form>puḷḷiṉ</form>
-<def>bird like</def>
+<def>bird</def>
 <gramGrp>
-  <gram type="role">comparative</gram>
+  <gram type="role">oblique</gram>
 </gramGrp>
 </entry>
 <entry>
 <form>āṉātu</form>
-<def>seize</def>
+<def>not-ending</def>
 <gramGrp>
   <gram type="role">absolutive</gram>
   <gram type="role">negative</gram>
@@ -125,6 +144,9 @@ And this is that
 <form>tuṉp<c type="elided">u</c></form>
 <def>sorrow</def>
 <form type="sandhi">tuṉp</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
 </entry>
 <entry>
 <form>uṟu</form>
@@ -134,15 +156,16 @@ And this is that
 </gramGrp>
 </entry>
 <entry>
-<form>tuyara</form>
+<form>tuyaram</form>
 <def>grief</def>
+<form type="sandhi">tuyaran</form>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
 <form>nīṅka</form>
-<def>abate</def>
+<def>leave</def>
 <gramGrp>
   <gram type="role">infinitive</gram>
 </gramGrp>
@@ -164,7 +187,7 @@ And this is that
 </entry>
 <entry>
 <form><c type="glide">v</c>icaikkum</form>
-<def>tinkle</def>
+<def>make-music</def>
 <gramGrp>
   <gram type="role">habitual future</gram>
 </gramGrp>
@@ -179,6 +202,9 @@ And this is that
 <entry>
 <form>tēr</form>
 <def>chariot</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
 </entry>
 <entry>
 <form>maṇi<c type="geminated">k</c></form>
