@@ -25,6 +25,12 @@
 <text xml:lang="ta" type="edition">
   <body>
     <div rend="parallel">
+      <p xml:id="Aink103-kilavi">
+        putalvaṉ peṟṟuḻit talaimakaṉ maṉaikkaṭ ceṉṟa cevilikku muṉpu aṟattoṭu niṉṟu vatuvai kūṭṭiya tōḻi avaṉūr naṉmai kāṭṭic colliyatu </p>
+      <p xml:lang="en">
+        Spoken by the confidante who made the wedding come together, standing with the truth in front of the foster mother who went to the house of the hero, when [they] obtained a son.      </p>
+    </div>
+    <div rend="parallel">
       <lg xml:id="poem104">
 <l>aṉṉai vāḻi vēṇ ṭaṉṉai nammūrp</l>
 <l>palarmaṭi poḻuti ṉalamikac cāay</l>
@@ -34,9 +40,9 @@
  <lg xml:lang="en">
 <l> Oh mother, please mother </l>
 <l> That is the town of the son of the wealthy man from the sea </l>
-<l> With a moving chariot that arrived in our town in the middle [of the night], </l>
-<l> In the time when everyone was sleeping, </l>
-<l> [My]beauty having become greatly exhausted. </l>
+<l> With a moving chariot that arrived in our town at midnight, </l>
+<l> In the time when most were resting, </l>
+<l> [My] beauty having become greatly exhausted. </l>
             </lg>
     </div>
   </body>
@@ -177,9 +183,12 @@
 </entry>
 <entry>
 <form>koṇkaṉ</form>
-<def>man from the-sea</def>
+<def>man-from-the-sea</def>
 <gramGrp>
   <gram type="role">noun</gram>
+  <gram type="role">masculine</gram>
+  <gram type="role">singular</gram>
+
 </gramGrp>
 </entry>
 <entry>
