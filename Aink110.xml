@@ -7,8 +7,9 @@
       <titleStmt>
         <title>
             <title xml:lang="ta">Aiṅkuṟunūṟu</title> <num>110</num>.
-            <persName xml:lang="ta"></persName>
+            <persName xml:lang="ta">Ammūvaṉār</persName>
         </title>     
+        <editor role="translator">Neela Bhaskar</editor>             
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
       <sourceDesc>
@@ -27,6 +28,11 @@
 <text xml:lang="ta" type="edition">
   <body>
     <div rend="parallel">
+      <p xml:id="Aink103-kilavi">
+        notumalar varaiviṉkaṇ tōḻi cevilikku aṟattoṭu niṉṟatu </p>    <p xml:lang="en">
+          The confidant standing with to truth to the foster mother, at [the time of] strangers [making] a marriage [proposal. </p>
+         </div>
+    <div rend="parallel">
       <lg xml:id="poemXX">
 <l>aṉṉai vāḻivēṇ ṭaṉṉai puṉṉai</l>
 <l>poṉṉiṟam viriyum pūkkeḻu tuṟaivaṉai</l>
@@ -36,10 +42,10 @@
       </lg>
       <lg xml:lang="en">
        <l> Oh mother, please mother</l>
-      <l>We would say about the man from the fords abundant with flowers</l>
+      <l>We would say about the man from the ghat abundant with flowers</l>
       <l>That bloom golden-hued [on] the Puṉṉai, ‘[He is] our Lord’.</l>
       <l>This village in unision says something else.</l>
-      <l>Will it happen that way? May fate live long!</l>
+      <l>Will it happen/Is it right that way? May fate live long!</l>
               </lg>
     </div>
   </body>
