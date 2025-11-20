@@ -25,6 +25,11 @@
 <text xml:lang="ta" type="edition">
   <body>
     <div rend="parallel">
+      <p xml:id="Aink103-kilavi">
+        aṟattoṭunilai piṟantapiṉṉum varaivu nīṭiṟṟāka maṟṟoru kulamakaḷai varaiyuṅkoleṉṟu aiyuṟṟu cevili kuṟippaṟitatōḻi avaṭkuc colliyatu</p>      <p xml:lang="en">
+        Spoken by the confidante who knew [her] intention to her - the foster mother - [she] being full of doubt, thinking, ‘because of the postponement of the marriage even after the state of truth was born, perhaps [he] married another community’s girl?’
+</p> </div>
+    <div rend="parallel">
       <lg xml:id="Aink108">
 <l>aṉṉai vāḻi vēṇ ṭaṉṉai kaḻiya</l>
 <l>muṇṭaka malarun taṇ kaṭaṟ cērppa</l>
@@ -42,7 +47,7 @@
   </body>
 </text>
 <standOff type="wordsplit" corresp="#Aink108">
-<interp type="alignment" select="0">13MG19ML26ML17MG7MG4ML9MGM,103M</interp>
+<interp type="alignment" select="0">13MG12ML7ML26ML17MG7MG4ML9MGM,104M</interp>
 <entry>
 <form>aṉṉai</form>
 <def>mother</def>
@@ -54,6 +59,8 @@
 <form>vāḻi</form>
 <def>live-you</def>
 <gramGrp>
+  <gram type="role">subjunctive</gram>
+  <gram type="role">second person</gram>
 </gramGrp>
 </entry>
 <entry>
@@ -72,10 +79,17 @@
 </gramGrp>
 </entry>
 <entry>
-<form>kaḻiya</form>
+<form>kaḻi</form>
 <def>backwaters</def>
 <gramGrp>
-  <gram type="role">infinitive</gram>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>am</form>
+<def>pretty</def>
+<gramGrp>
+  <gram type="role">adjective</gram>
 </gramGrp>
 </entry>
 <entry>
@@ -102,7 +116,7 @@
 </entry>
 <entry>
 <form>kaṭal</form>
-<def>sea</def>
+<def>ocean</def>
 <form type="sandhi">kaṭaṟ</form>
 <gramGrp>
   <gram type="role">noun</gram>
@@ -110,7 +124,7 @@
 </entry>
 <entry>
 <form>cērppaṉ</form>
-<def>coast-he</def>
+<def>shore-he</def>
 <gramGrp>
   <gram type="role">pronominalised noun</gram>
   <gram type="role">masculine singular</gram>
