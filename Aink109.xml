@@ -25,6 +25,10 @@
 <text xml:lang="ta" type="edition">
   <body>
     <div rend="parallel">
+      <p xml:id="Aink103-kilavi">
+        aṟattoṭu niṉṟapiṉpu varaivāṉpirinta talaimakaṉ kaṭitiṉ vāratavaḻi aiyuṟṟacevili avaṉ nummaittuṟantāṉpōlum; nuṅkaṭku avaṉ kūṟiyatiṟam yātu eṉṟāṭkut tōḻi colliyatu. </p>      <p xml:lang="en">
+          Spoken by the confident to her - the foster mother [was was] full of doubt when the hero who separated because of the marriage did not come [back] quickly [even] after standing with the truth, ‘ who said, ‘it seems he has abandoned us. What is the reason he said to you?’</p> </div>
+    <div rend="parallel">
       <lg xml:id="Aink109">
 <l>aṉṉai vāḻivēṇ ṭaṉṉai neyta</l>
 <l>ṉīrppaṭar tūmpiṉ pūkkeḻu tuṟaiva</l>
@@ -42,7 +46,8 @@
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#Aink109"><interp type="alignment" select="0">13MG11ML34ML45MGM,108M</interp>
+<standOff type="wordsplit" corresp="#Aink109">
+<interp type="alignment" select="0">13MG11ML34ML16MG29M2GM,110M</interp>
 <entry>
 <form>aṉṉai</form>
 <def>mother</def>
@@ -54,11 +59,12 @@
 <form>vāḻi</form>
 <def>live-you</def>
 <gramGrp>
-  <gram type="role">subjuntive</gram>
+  <gram type="role">subjunctive</gram>
+  <gram type="role">second person</gram>
 </gramGrp>
 </entry>
 <entry>
-<form>vēṇṭ’</form>
+<form>vēṇṭ<c type="elided">u</c></form>
 <def>be-necessary</def>
 <form type="sandhi">vēṇṭ</form>
 <gramGrp>
@@ -97,6 +103,7 @@
 </entry>
 <entry>
 <form>tūmpiṉ</form>
+<def>Tūmpu-plant</def>
 <gramGrp>
   <gram type="role">oblique</gram>
 </gramGrp>
@@ -150,21 +157,17 @@
 </entry>
 <entry>
 <form>kālai</form>
-<def>morning</def>
+<def>time</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
-<form><c type="glide">y</c>evaṉ</form>
+<form><c type="glide">y</c>evaṉ-kol</form>
 <def>what</def>
-</entry>
-<entry>
-<form>kol</form>
-<def>fell</def>
-<gramGrp>
-  <gram type="role">verbal root</gram>
-</gramGrp>
+<form type="simple">evaṉ</form>
+<form type="sandhi"><c type="glide">y</c>evaṉ</form>
+<gramGrp type="particle"><m type="enclitic">kol</m></gramGrp>
 </entry>
 <entry>
 <form>pal</form>
@@ -194,6 +197,8 @@
 <def>he</def>
 <gramGrp>
   <gram type="role">pronoun</gram>
+  <gram type="role">masculine singular</gram>
+  <gram type="role">third person</gram>
 </gramGrp>
 </entry>
 <entry>
@@ -205,12 +210,14 @@
 </gramGrp>
 </entry>
 <entry>
-<form>poḻut-ē</form>
+<form>poḻut<c type="elided">u</c>-ē</form>
 <def>time</def>
-<form type="simple">poḻut</form>
+<form type="simple">poḻutu</form>
+<form type="sandhi">poḻut</form>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
-</entry></standOff>
+</entry>
+</standOff>
 </TEI>
