@@ -26,6 +26,12 @@
 <text xml:lang="ta" type="edition">
   <body>
     <div rend="parallel">
+      <p xml:id="Aink103-kilavi">
+        aṟattoṭu niṉṟatōḻi atu vaṟpuṟuppāṉ vēṇṭic cevilikkuc colliyatu</p>
+      <p xml:lang="en">
+        Spoken by the confidante who stood with the truth to the foster mother, the courageous man [= hero] (?) desiring that. </p>
+    </div>
+    <div rend="parallel">
       <lg xml:id="Aink106">
 <l>aṉṉai vāḻi vēṇ ṭaṉṉai yavarnāṭṭut</l>
 <l>tutikkā laṉṉan tuṇaicettu mitikkun</l>
@@ -33,32 +39,34 @@
 <l>ḷaṅkali ḻākaṅ kaṇṭici ṉiṉaintē</l>
 </lg>
 <lg xml:lang="en">
-<l>  Oh mother, please mother,</l>
-<l>If you look, having thought [about it],</l>
-<l>Her pretty, shining body will shine</l>
-<l>Even more than the conches</l>
-<l>On the cool ocean in his land</l>
-<l>Upon which the goose with quivering legs steps,</l>
-<l>Thinking that [it was its] mate.</l>
+<l>  Oh mother, please mother, If you look, having thought [about it],</l>
+<l>Her pretty, shining body will shine even more than the conches</l>
+<l>On the cool ocean in his land upon which </l>
+<l>The goose [with] quivering legs steps, thinking that [it was its] mate.</l>
 </lg>
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#Aink106"><interp type="alignment" select="0">13MG95MG6MGM,118M</interp>
+<standOff type="wordsplit" corresp="#Aink106">
+<interp type="alignment" select="0">13MG63MG32ML6M2GM,120M</interp>
 <entry>
 <form>aṉṉai</form>
 <def>mother</def>
-</entry>
-<entry>
-<form>vāḻi</form>
-<def>live</def>
 <gramGrp>
-  <gram type="role">subjuntive</gram>
+  <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
-<form>vēṇṭ’</form>
-<def>be necessary</def>
+<form>vāḻi</form>
+<def>live-you</def>
+<gramGrp>
+  <gram type="role">subjunctive</gram>
+  <gram type="role">second person</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vēṇṭ<c type="elided">u</c></form>
+<def>be-necessary</def>
 <form type="sandhi">vēṇṭ</form>
 <gramGrp>
   <gram type="role">verbal root</gram>
@@ -144,11 +152,13 @@
 </gramGrp>
 </entry>
 <entry>
-<form>vaḷaiyiṉum</form>
+<form>vaḷaiyiṉ-um</form>
 <def>conch</def>
+<form type="simple">vaḷaiyiṉ</form>
 <gramGrp>
-  <gram type="role">concessive</gram>
+  <gram type="role">oblique</gram>
 </gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
 </entry>
 <entry>
 <form>ilaṅkum</form>
@@ -160,6 +170,10 @@
 <entry>
 <form>ivaḷ</form>
 <def>she</def>
+<gramGrp>
+  <gram type="role">pronoun</gram>
+  <gram type="role">feminine singular</gram>
+</gramGrp>
 </entry>
 <entry>
 <form>am</form>
@@ -189,16 +203,19 @@
 <def>look-if</def>
 <gramGrp>
   <gram type="role">conditional</gram>
+  <gram type="role">second person</gram>
+  <gram type="role">singular</gram>
 </gramGrp>
 </entry>
 <entry>
-<form>niṉaint-ē</form>
+<form>niṉaint<c type="elided">u</c>-ē</form>
 <def>think</def>
-<form type="simple">niṉaint</form>
-<form type="sandhi">iṉaint</form>
+<form type="simple">niṉaintu</form>
+<form type="sandhi">ṉiṉaint</form>
 <gramGrp>
   <gram type="role">absolutive</gram>
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
-</entry></standOff>
+</entry>
+</standOff>
 </TEI>
