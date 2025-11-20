@@ -25,6 +25,13 @@
 <text xml:lang="ta">
   <body>
     <div rend="parallel">
+      <p xml:id="Aink103-kilavi">
+        aṟattoṭu niṉṟapiṉ vēṇṭuvaṉa tarutaṟkup pirinta talaimakaṉ varaivoṭuvantuḻi muṉpu talaimakaḷ nutaṟkaṭ pacuppunīṅkumvaṇṇam tōṉṟiya katirppukkāṭṭic cevilikkut tōḻi colliyatu.  </p>
+      <p xml:lang="en">
+        After having stood with the truth, spoken by the confidante to the foster mother, showing the brightness [of] the colour of palour leaving in the forehead of the heroine, [right] before when the hero who had separated in order to give the things that were desired, came with a marriage [proposal], 
+      </p>
+    </div>
+    <div rend="parallel">
       <lg xml:id="Aink105">
 <l>aṉṉai vāḻi vēṇ ṭaṉṉai muḻaṅkukaṭaṟ</l>
 <l>ṟiraitaru muttam veṇmaṇa limaikkun</l>
@@ -36,14 +43,13 @@
 <l>Because the man of the cool harbour</l>
 <l>In which pearls that are given by the waves</l>
 <l>Of the roaring ocean glitter upon the white sand came,</l>
-<l>If you look,</l>
-<l>[Her] forehead has reddened even more than gold.</l>
+<l>If you look, [her] forehead has reddened even more than gold.</l>
 </lg>
     </div>
   </body>
 </text>
 <standOff type="wordsplit" corresp="#Aink105">
-<interp type="alignment" select="0">13MG66MG10MG20MG4MGM,119M</interp>
+<interp type="alignment" select="0">13MG76MG20ML4MGM,118M</interp>
 <entry>
 <form>aṉṉai</form>
 <def>mother</def>
@@ -53,19 +59,17 @@
 </entry>
 <entry>
 <form>vāḻi</form>
-<def>live</def>
+<def>live-you</def>
 <gramGrp>
-  <gram type="role">subjuntive</gram>
-  <gram type="role">singular</gram>
+  <gram type="role">subjunctive</gram>
   <gram type="role">second person</gram>
 </gramGrp>
 </entry>
 <entry>
 <form>vēṇṭ<c type="elided">u</c></form>
-<def>be necessary</def>
+<def>be-necessary</def>
 <form type="sandhi">vēṇṭ</form>
 <gramGrp>
-  <gram type="role">imperative</gram>
   <gram type="role">verbal root</gram>
 </gramGrp>
 </entry>
@@ -133,7 +137,6 @@
 <def>glitter</def>
 <form type="sandhi">imaikkun</form>
 <gramGrp>
-  <gram type="role">imperfective aspect</gram>
   <gram type="role">peyareccam</gram>
 </gramGrp>
 </entry>
@@ -154,18 +157,10 @@
 </gramGrp>
 </entry>
 <entry>
-<form>vant<c type="elided">u</c></form>
+<form>vanteṉa<c type="geminated">p</c></form>
 <def>come</def>
-<form type="sandhi">vant</form>
 <gramGrp>
   <gram type="role">absolutive</gram>
-</gramGrp>
-</entry>
-<entry>
-<form>eṉa<c type="geminated">p</c></form>
-<def>say</def>
-<gramGrp>
-  <gram type="role">infinitive</gram>
 </gramGrp>
 </entry>
 <entry>
@@ -173,16 +168,17 @@
 <def>gold</def>
 <form type="simple">poṉṉiṉ</form>
 <gramGrp>
-  <gram type="role">comparative</gram>
+  <gram type="role">oblique</gram>
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
 </entry>
 <entry>
 <form>civantaṉṟu</form>
-<def>redden</def>
+<def>reddened</def>
 <gramGrp>
   <gram type="role">neuter singular</gram>
   <gram type="role">perfective aspect</gram>
+  <gram type="role">third person</gram>
 </gramGrp>
 </entry>
 <entry>
@@ -191,13 +187,14 @@
 <gramGrp>
   <gram type="role">conditional</gram>
   <gram type="role">second person</gram>
+  <gram type="role">singular</gram>
 </gramGrp>
 </entry>
 <entry>
 <form>nutal-ē</form>
 <def>forehead</def>
 <form type="simple">nutal</form>
-<form type="sandhi">utal</form>
+<form type="sandhi">ṉutal</form>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
