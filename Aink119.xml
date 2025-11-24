@@ -25,6 +25,12 @@
 <text xml:lang="ta" type="edition">
   <body>
     <div rend="parallel">
+      <p xml:id="Aink119-kilavi">
+        varaitaṟku vēṇṭuvaṉa muyalvēm eṉaccolli varaiyātu celuttukiṉṟa talaimakaṉ ciṟaippuṟattāṉāṉamai yaṟinta talaimakaḷ tōḻikkuc colliyatu</p>    <p xml:lang="en">
+        Spoken to the confidante by the heroine who knew of him - the  hero who proceeds to not marrying [her], [despite] saying, ‘We will try [for] the things that are necessary for the marriage’ - being at the outer fence.
+ </p>
+            </div>  
+    <div rend="parallel">
       <lg xml:id="Aink119">
 <l>amma vāḻi tōḻi naṉṟu</l>
 <l>meyyā maiyi ṉētila paṟṟi</l>
@@ -33,14 +39,15 @@
 </lg>
 <lg xml:lang="en">
 <l>Oh friend, listen!</l>
-<l>The man from the shore with soft lands who did not come,</l>
+<l>The man from the shore with soft lands - the one who did not come,</l>
 <l>Having grasped strange ways due to his great ignorance,</l>
 <l>Is very much without love.</l>
 </lg>
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#Aink119"><interp type="alignment" select="0">16M2G26MG4MG10M2G22MGM,86M</interp>
+<standOff type="wordsplit" corresp="#Aink119">
+<interp type="alignment" select="0">16M2G26MG4MG10M2G8MG14MGM,87M</interp>
 <entry>
 <form>amma</form>
 <def>alas</def>
@@ -52,7 +59,7 @@
 <form>vāḻi</form>
 <def>live-you</def>
 <gramGrp>
-  <gram type="role">subjuntive</gram>
+  <gram type="role">subjunctive</gram>
   <gram type="role">singular</gram>
   <gram type="role">second person</gram>
 </gramGrp>
@@ -139,8 +146,9 @@
 </gramGrp>
 </entry>
 <entry>
-<form>pula<c type="geminated">k</c></form>
+<form>pula<c type="uncertain">m</c><c type="geminated">k</c></form>
 <def>soil</def>
+<form type="sandhi">pula<c type="geminated">k</c></form>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -162,5 +170,6 @@
   <gram type="role">singular</gram>
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
-</entry></standOff>
+</entry>
+</standOff>
 </TEI>
