@@ -25,6 +25,12 @@
 <text xml:lang="ta" type="edition">
   <body>
     <div rend="parallel">
+  <p xml:id="Aink114-kilavi">
+        iṟceṟippuṇṭa piṉṉum varaintu koḷḷa niṉaiyātu talaimakaṉ vantāṉāka ataṉaiyaṟinta talaimakaḷ avaṉ kēṭkumāṟṟāl tōḻikkuc colliyatu</p>    <p xml:lang="en">
+          Spoken by the heroine who learned of the hero coming - [he] without thinking to make a marriage proposal even after [she] was locked up in the house - to the confidante, because of the way in which he had been listening [to them].
+        </p>
+        </div>
+        <div rend="parallel">
       <lg xml:id="Aink115">
 <l>amma vāḻi tōḻi paṉmā</l>
 <l>nuṇmaṇa laṭaikarai nammō ṭāṭiya</l>
@@ -50,7 +56,7 @@
 <form>vāḻi</form>
 <def>live-you</def>
 <gramGrp>
-  <gram type="role">subjuntive</gram>
+  <gram type="role">subjunctive</gram>
   <gram type="role">singular</gram>
   <gram type="role">second person</gram></gramGrp>
 </entry>
@@ -170,7 +176,7 @@
 </entry>
 <entry>
 <form>kaṭi</form>
-<def>scent</def>
+<def>guard</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
