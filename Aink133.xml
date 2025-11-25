@@ -25,6 +25,12 @@
 <text xml:lang="ta" type="edition">
   <body>
     <div rend="parallel">
+      <p xml:id="Aink132-kilavi">
+        vāyilāyp pukunta pāṇaṉ talaimakaḷ tōḷmelivu kaṇṭu maṉaippuṟattup pōyvanta tuṇaiyāṉē ivvāṟu vēṟupaṭutal takātu eṉṟāṟku avaḷ colliyatu.</p>    <p xml:lang="en">
+          Spoken by her (the heroine) to him (the bard) who said, ’Such a change because of the aprtner who went out of the house [and] came [back] will not be appropriate’ [the bard] who entered through the entrance, having seen the softness of the heroine’s shoulders.
+ </p>
+ </div>
+    <div rend="parallel">
       <lg xml:id="Aink133">
 <l>yāṉevaṉ ceykō pāṇavā ṉātu</l>
 <l>mellam pulampaṉ pirinteṉap</l>
@@ -144,7 +150,7 @@
 </entry>
 <entry>
 <form>puri</form>
-<def>desire</def>
+<def>twisted</def>
 <gramGrp>
   <gram type="role">verbal root</gram>
 </gramGrp>
