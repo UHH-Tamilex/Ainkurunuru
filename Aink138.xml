@@ -25,6 +25,12 @@
 <text xml:lang="ta" type="edition">
   <body>
     <div rend="parallel">
+      <p xml:id="Aink132-kilavi">
+        talaimakaṉ vāyilpeṟṟup pukuntatu aṟiyātu vanta pāṇaṟkut talaimakaḷ nakaiyāṭic colliyatu. </p>    <p xml:lang="en">
+          Said with a laugh by the heroine to the bard who came without knowing of the hero’s entry/arrival, having been granted entry.
+ </p>
+ </div> 
+    <div rend="parallel">
       <lg xml:id="Aink138">
 <l>paṇpilai maṉṟa pāṇa vivvū</l>
 <l>raṉpila kaṭiya kaḻaṟi</l>
@@ -39,7 +45,8 @@
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#Aink138"><interp type="alignment" select="0">4MG4MG18MG39MGM,70M</interp>
+<standOff type="wordsplit" corresp="#Aink138">
+<interp type="alignment" select="0">4MG4MG18MG22MG17MGM,71M</interp>
 <entry>
 <form>paṇp<c type="elided">u</c></form>
 <def>character</def>
@@ -94,9 +101,9 @@
 </entry>
 <entry>
 <form>kaṭiya</form>
-<def>to-reject</def>
+<def>cruel-they</def>
 <gramGrp>
-  <gram type="role">infinitive</gram>
+  <gram type="role">neuter plural</gram>
 </gramGrp>
 </entry>
 <entry>
@@ -115,8 +122,9 @@
 </gramGrp>
 </entry>
 <entry>
-<form>pula<c type="geminated">k</c></form>
+<form>pula<c type="uncertain">m</c><c type="geminated">k</c></form>
 <def>soil</def>
+<form type="sandhi">pula<c type="geminated">k</c></form>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -138,5 +146,6 @@
   <gram type="role">imperfective aspect</gram>
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
-</entry></standOff>
+</entry>
+</standOff>
 </TEI>
