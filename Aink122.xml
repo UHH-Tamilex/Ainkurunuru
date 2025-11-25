@@ -25,6 +25,8 @@
 <text xml:lang="ta" type="edition">
   <body>
     <div rend="parallel">
+            </div>     
+    <div rend="parallel">
       <lg xml:id="Aink122">
 <l>kaṇṭiku mallamō koṇkaniṉ kēḷē</l>
 <l>yoḷḷiḻai yuyarmaṇal vīḻnteṉa</l>
@@ -32,7 +34,7 @@
 </lg>
 <lg xml:lang="en">
 <l>We have seen your friend, haven't we, oh man from the maritime tract?</l>
-<l>She who asked the white wader, because of having dropped</l>
+<l>The one who asks the white wader, because of having dropped</l>
 <l>Her bright jewels in the raised sands?</l>
 </lg>
     </div>
@@ -141,12 +143,14 @@
 </entry>
 <entry>
 <form>viṉavuvōḷ-ē</form>
-<def>asked-she</def>
+<def>ask-she</def>
 <form type="simple">viṉavuvōḷ</form>
 <gramGrp>
   <gram type="role">participial noun</gram>
   <gram type="role">feminine singular</gram>
   <gram type="role">imperfective aspect</gram>
+  <gram type="role">third person</gram>
+
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry></standOff>
