@@ -1,4 +1,6 @@
-<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?><?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -43,7 +45,7 @@
   </body>
 </text>
 <standOff type="wordsplit" corresp="#Aink332">
-<interp type="alignment" select="0">36MG32MG15M2G31MG4M,123M</interp>
+<interp type="alignment" select="0">36MG32MG15M2G31MG2MG2M,124M</interp>
 <entry>
 <form>amma</form>
 <def>alas</def>
@@ -55,7 +57,6 @@
 <form>vāḻi</form>
 <def>live-you</def>
 <gramGrp>
-  <gram type="role">subjuntive</gram>
 </gramGrp>
 </entry>
 <entry>
@@ -222,12 +223,15 @@
 </gramGrp>
 </entry>
 <entry>
-<form>avvē</form>
+<form>a<c type="geminated">v</c>-<c type="glide">v</c>ē</form>
 <def>they</def>
+<form type="simple">a</form>
+<form type="sandhi">a<c type="geminated">v</c></form>
 <gramGrp>
   <gram type="role">pronoun</gram>
   <gram type="role">neuter plural</gram>
 </gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry>
 </standOff>
 </TEI>
