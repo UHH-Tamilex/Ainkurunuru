@@ -25,20 +25,27 @@
 <text xml:lang="ta" type="edition">
   <body>
     <div rend="parallel">
+      <p xml:id="Aink132-kilavi">
+        āṟṟāmai vāyilākap pukuntirunta talaimakaṟkup pāṇaṉ vantuḻi talaimakaḷ colliyatu</p>    <p xml:lang="en">
+          Said by the heroine when the bard came for [= on behalf of] the hero who had entered, unable to bear [the wait], through the entrance.
+ </p>
+ </div> 
+    <div rend="parallel">
       <lg xml:id="Aink139">
 <l>amma vāḻi koṇka vemvayiṉ</l>
 <l>māṇala maruṭṭu niṉṉiṉum</l>
 <l>pāṇa ṉallōr nalañcitaik kummē</l>
 </lg>
 <lg xml:lang="en">
-  <l>Oh man from the maritime tract, listen! </l>
+  <l>Oh man from the maritime tract! </l>
     <l>The bard makes waste the beauty of beautiful girls </l>
       <l>Even more than you who disturbs our glorious beauty.</l>
 </lg>
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#Aink139"><interp type="alignment" select="0">24ML4ML6MR13ML20MGM,73M</interp>
+<standOff type="wordsplit" corresp="#Aink139">
+<interp type="alignment" select="0">24ML4ML6MR6MG7ML20MGM,74M</interp>
 <entry>
 <form>amma</form>
 <def>alas</def>
@@ -47,7 +54,6 @@
 <form>vāḻi</form>
 <def>live-you</def>
 <gramGrp>
-  <gram type="role">subjuntive</gram>
   <gram type="role">singular</gram>
   <gram type="role">second person</gram>
 </gramGrp>
@@ -100,19 +106,21 @@
 </gramGrp>
 </entry>
 <entry>
-<form>niṉṉiṉum</form>
+<form>niṉṉiṉ-um</form>
 <def>you</def>
+<form type="simple">niṉṉiṉ</form>
 <gramGrp>
   <gram type="role">personal pronoun</gram>
   <gram type="role">singular</gram>
   <gram type="role">second person</gram>
-  <gram type="role">concessive</gram>
 </gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
 </entry>
 <entry>
 <form>pāṇaṉ</form>
 <def>bard</def>
 <gramGrp>
+  <gram type="role">masculine singular</gram>
   <gram type="role">noun</gram>
 </gramGrp>
 </entry>
@@ -140,8 +148,9 @@
 <form type="simple">citaikkum</form>
 <form type="sandhi">citaikkum<c type="geminated">m</c></form>
 <gramGrp>
-  <gram type="role">peyareccam</gram>
+  <gram type="role">habitual future</gram>
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
-</entry></standOff>
+</entry>
+</standOff>
 </TEI>
