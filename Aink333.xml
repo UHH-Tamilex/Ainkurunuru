@@ -1,4 +1,6 @@
-<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?><?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -41,7 +43,8 @@
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#Aink333"><interp type="alignment" select="0">24MG4MG4MG40M2GMG16MG19MG12MG4M,133M</interp>
+<standOff type="wordsplit" corresp="#Aink333">
+<interp type="alignment" select="0">24MG4MG4MG40MG17MG19MG12MG2MG2M,132M</interp>
 <entry>
 <form>amma</form>
 <def>alas</def>
@@ -53,7 +56,6 @@
 <form>vāḻi</form>
 <def>live-you</def>
 <gramGrp>
-  <gram type="role">subjuntive</gram>
 </gramGrp>
 </entry>
 <entry>
@@ -100,14 +102,14 @@
 </gramGrp>
 </entry>
 <entry>
-<form>kal<c type="geminated">l</c></form>
+<form>kal</form>
 <def>rock</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
-<form>uṭai</form>
+<form><c type="geminated">l</c>uṭai</form>
 <def>have</def>
 <gramGrp>
   <gram type="role">verbal root</gram>
@@ -130,14 +132,14 @@
 </gramGrp>
 </entry>
 <entry>
-<form>puḷ<c type="geminated">ḷ</c></form>
+<form>puḷ</form>
 <def>bird</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
-<form>iṉa<c type="geminated">p</c></form>
+<form><c type="geminated">ḷ</c>iṉa<c type="geminated">p</c></form>
 <def>kind</def>
 <gramGrp>
   <gram type="role">noun</gram>
@@ -160,9 +162,9 @@
 </gramGrp>
 </entry>
 <entry>
-<form>(i)yāam</form>
+<form><c type="inserted">i</c>yāam</form>
 <def>we</def>
-<form type="sandhi">iyāan</form>
+<form type="sandhi"><c type="inserted">i</c>yāan</form>
 <gramGrp>
   <gram type="role">pronoun</gram>
   <gram type="role">plural</gram>
@@ -188,7 +190,6 @@
 <form>uṟaitum</form>
 <def>live</def>
 <gramGrp>
-  <gram type="role">subjuntive</gram>
   <gram type="role">plural</gram>
   <gram type="role">first person</gram>
 </gramGrp>
@@ -209,7 +210,6 @@
 <form>uṟaiti</form>
 <def>live</def>
 <gramGrp>
-  <gram type="role">subjuntive</gram>
   <gram type="role">singular</gram>
   <gram type="role">second person</gram>
 </gramGrp>
@@ -224,11 +224,15 @@
 </gramGrp>
 </entry>
 <entry>
-<form>avvē</form>
+<form>a<c type="geminated">v</c>-<c type="glide">v</c>ē</form>
 <def>those</def>
+<form type="simple">a</form>
+<form type="sandhi">a<c type="geminated">v</c></form>
 <gramGrp>
   <gram type="role">pronoun</gram>
   <gram type="role">neuter plural</gram>
 </gramGrp>
-</entry></standOff>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+</standOff>
 </TEI>

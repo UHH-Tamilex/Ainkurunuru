@@ -1,4 +1,6 @@
-<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?><?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -48,7 +50,8 @@
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#Aink201"><interp type="alignment" select="0">13MG16ML20MG36MG16M,50MG54M</interp>
+<standOff type="wordsplit" corresp="#Aink201">
+<interp type="alignment" select="0">13MG16ML44MG12MG14MG2M,106M</interp>
 <entry>
 <form>aṉṉāy</form>
 <def>mother</def>
@@ -60,7 +63,6 @@
 <form>vāḻi</form>
 <def>live</def>
 <gramGrp>
-  <gram type="role">subjuntive</gram>
 </gramGrp>
 </entry>
 <entry>
@@ -107,9 +109,8 @@
 </gramGrp>
 </entry>
 <entry>
-<form>taḻāi</form>
+<form>taḻai</form>
 <def>foliage</def>
-<form type="sandhi">taḻai</form>
 </entry>
 <entry>
 <form><c type="glide">y</c>āyiṉa</form>
@@ -140,18 +141,19 @@
 </gramGrp>
 </entry>
 <entry>
-<form><c type="glide">y</c>arumpiṉa<c type="glide">v</c>ē</form>
+<form><c type="glide">y</c>arumpiṉa-<c type="glide">v</c>ē</form>
 <def>bud-they(pl.|p.a.)-</def>
+<form type="simple">arumpiṉa</form>
+<form type="sandhi"><c type="glide">y</c>arumpiṉa</form>
 <gramGrp>
   <gram type="role">plural</gram>
   <gram type="role">perfective aspect</gram>
 </gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry>
 <entry>
 <form><c type="glide">y</c>eṉṉa</form>
 <def>what</def>
-<gramGrp>
-</gramGrp>
 </entry>
 <entry>
 <form>maram-kol</form>
@@ -178,12 +180,16 @@
 </gramGrp>
 </entry>
 <entry>
-<form>a<c type="glide">v</c><c type="geminated">v</c>ē</form>
+<form>a<c type="geminated">v</c>-<c type="glide">v</c>ē</form>
 <def>they</def>
+<form type="simple">a</form>
+<form type="sandhi">a<c type="geminated">v</c></form>
 <gramGrp>
   <gram type="role">neuter plural</gram>
 </gramGrp>
-</entry></standOff>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+</standOff>
 <standOff corresp="#Aink201-kilavi" type="wordsplit">
 <interp type="alignment" select="0">84M,83MG</interp>
 <entry>
