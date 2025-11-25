@@ -25,6 +25,12 @@
 <text xml:lang="ta" type="edition">
   <body>
     <div rend="parallel">
+      <p xml:id="Aink131-kilavi">
+        vāyil vēṇṭi vanta pāṇaṉ talaimakaṉ kātaṉmai kūṟiṉāṉākat talaimakaḷ vāyilmaṟuppāḷ avaṟkuk kūṟiyatu</p>    <p xml:lang="en">
+          Spoken by the heroine to him - the bard - as one who denies entry, the bard who came, hoping to enter speaking of the affection of the hero.
+ </p>
+            </div>  
+    <div rend="parallel">
       <lg xml:id="Aink131">
 <l>naṉṟē pāṇa koṇkaṉatu naṭpē</l>
 <l>tillai vēli yivvūrk</l>
@@ -38,7 +44,8 @@
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#Aink131"><interp type="alignment" select="0">4M2G18M2G39MGM,67M</interp>
+<standOff type="wordsplit" corresp="#Aink131">
+<interp type="alignment" select="0">4M2G18M2G39MGM,67M</interp>
 <entry>
 <form>naṉṟ<c type="elided">u</c>-ē</form>
 <def>good-it</def>
@@ -100,17 +107,10 @@
 </gramGrp>
 </entry>
 <entry>
-<form>kal</form>
-<def>stone</def>
+<form>kalleṉ</form>
+<def>'kal'-say/loud</def>
 <gramGrp>
-  <gram type="role">noun</gram>
-</gramGrp>
-</entry>
-<entry>
-<form><c type="geminated">l</c>eṉ</form>
-<def>say</def>
-<gramGrp>
-  <gram type="role">infinitive</gram>
+  <gram type="role">adverb</gram>
 </gramGrp>
 </entry>
 <entry>
@@ -136,5 +136,6 @@
   <gram type="role">noun</gram>
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
-</entry></standOff>
+</entry>
+</standOff>
 </TEI>
