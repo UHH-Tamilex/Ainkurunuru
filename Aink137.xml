@@ -24,6 +24,12 @@
   </teiHeader>
 <text xml:lang="ta" type="edition">
   <body>
+      <div rend="parallel">
+        <p xml:id="Aink132-kilavi">
+          talaimakaṉ vāyilpeṟṟup pukuntu nīṅkiṉaviṭattum avaṉ muṉpu ceyta tīṅku niṉaintu talaimakaḷ vēṟupaṭṭiruntāḷāka iṉi inta vēṟupāṭu eṉ eṉṟu viṉaviya pāṇaṟku avaḷ colliyatu. </p>    <p xml:lang="en">
+            Spoken by her - the heroine - as one who had changed, to the bard who asked, ‘what is this change now?’, [she] thinking of the place in which the hero, having gained entry [and] entered, left; and of the wrongs he did earlier.
+   </p>
+   </div>    
     <div rend="parallel">
       <lg xml:id="Aink137">
 <l>niṉṉoṉṟu viṉavuval pāṇa nummūrt</l>
