@@ -25,6 +25,12 @@
 <text xml:lang="ta" type="edition">
   <body>
     <div rend="parallel">
+      <p xml:id="Aink132-kilavi">
+        pāṇaṉ tūtākic cella vēṇṭum kuṟippiṉaḷākiya talaimakaḷ avaṟkut taṉ melivukāṭṭic colliyatu. </p>    <p xml:lang="en">
+        Spoken by the heroine who became one with the intention of the bard, becoming a messenger, needing to go [to the hero], having shown him her weakness of body.
+ </p>
+ </div> 
+    <div rend="parallel">
       <lg xml:id="Aink140">
 <l>kāṇmati pāṇanī yuraittaṟ kuriyai</l>
 <l>tuṟaikeḻu koṇkaṉ pirinteṉa</l>
@@ -33,7 +39,7 @@
 <lg xml:lang="en">
   <l>Look, oh bard; You have the right to narrate</l>
     <l>The state in which the lustrous, luminous bangles have left [my] wrist </l>
-      <l>Since the man from the maritime tract that has ghats separatred [from me].</l>
+      <l>Since the man from the maritime tract with ghats separatred [from me].</l>
 </lg>
     </div>
   </body>
