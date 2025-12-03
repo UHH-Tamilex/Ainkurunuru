@@ -32,8 +32,8 @@
 </lg>
 <lg xml:lang="en">
   <l>The man from the ghat</l>
-  <l>Where Ñāḻal trees on the dunes with small leaves [and] big branches </l>
-    <l>Curve from floods </l>
+  <l>Where Ñāḻal trees on the dunes with small leaves [on] big branches </l>
+    <l>Curve [because of] floods </l>
         <l>Has removed the pallor of the dark girl.</l>
       </lg>
     </div>
@@ -124,10 +124,12 @@
 </entry>
 <entry>
 <form>nīkkiṉaṉ</form>
-<def>remove</def>
+<def>removed-he</def>
 <gramGrp>
   <gram type="role">perfective aspect</gram>
   <gram type="role">masculine singular</gram>
+  <gram type="role">third person</gram>
+
 </gramGrp>
 </entry>
 <entry>
