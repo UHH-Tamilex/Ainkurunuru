@@ -25,6 +25,13 @@
 <text xml:lang="ta" type="edition">
   <body>
     <div rend="parallel">
+      <p xml:id="Aink132-kilavi">
+        puṟattu taṅkivanta talaimakaṟkut tōḻi colliyatu</p>    <p xml:lang="en">
+          Spoken by the confidante to the hero who came, having stayed elsewhere.
+ 
+ </p>
+ </div>
+    <div rend="parallel">
       <lg xml:id="Aink143">
 <l>ekkar ñāḻaṟ puḷḷimi ḻakaṉṟuṟai</l>
 <l>yiṉiya ceyta niṉṟupiṉ</l>
@@ -39,7 +46,8 @@
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#Aink143"><interp type="alignment" select="0">62ML9MG2M,74MG</interp>
+<standOff type="wordsplit" corresp="#Aink143">
+<interp type="alignment" select="0">62ML3MR6MG2M,75MG</interp>
 <entry>
 <form>ekkar</form>
 <def>dune</def>
@@ -56,14 +64,14 @@
 </gramGrp>
 </entry>
 <entry>
-<form>puḷ<c type="geminated">ḷ</c></form>
+<form>puḷ</form>
 <def>bird</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
-<form>imiḻ</form>
+<form><c type="geminated">ḷ</c>imiḻ</form>
 <def>chirp</def>
 <gramGrp>
   <gram type="role">verbal root</gram>
@@ -98,6 +106,7 @@
 <gramGrp>
   <gram type="role">neuter plural</gram>
   <gram type="role">perfective aspect</gram>
+  <gram type="role">third person</gram>
 </gramGrp>
 </entry>
 <entry>
@@ -127,6 +136,8 @@
 <gramGrp>
   <gram type="role">neuter plural</gram>
   <gram type="role">perfective aspect</gram>
+  <gram type="role">third person</gram>
+
 </gramGrp>
 </entry>
 <entry>
@@ -139,9 +150,9 @@
 </gramGrp>
 </entry>
 <entry>
-<form>taṭa</form>
+<form>taṭa<c type="uncertain">m</c></form>
 <def>broad</def>
-<form type="sandhi">ṭaṭa</form>
+<form type="sandhi">ṭaṭam</form>
 <gramGrp>
   <gram type="role">adjective</gram>
 </gramGrp>
@@ -163,5 +174,6 @@
   <gram type="role">noun</gram>
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
-</entry></standOff>
+</entry>
+</standOff>
 </TEI>
