@@ -55,7 +55,10 @@
 </entry>
 <entry>
 <form>ceruntiyoṭu</form>
-<def>pear-tree</def>
+<def>Cerunti-tree</def>
+<gramGrp>
+  <gram type="role">proper name</gram>
+</gramGrp>
 </entry>
 <entry>
 <form>kamaḻa<c type="geminated">t</c></form>
@@ -106,6 +109,8 @@
 <gramGrp>
   <gram type="role">neuter plural</gram>
   <gram type="role">perfective aspect</gram>
+  <gram type="role">third person</gram>
+
 </gramGrp>
 </entry>
 <entry>
