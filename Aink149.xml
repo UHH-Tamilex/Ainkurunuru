@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+            <title xml:lang="ta">Aiṅkuṟunūṟu</title> <num>149</num>.
+            <persName xml:lang="ta">Ammūvaṉār</persName>
+        </title>    
+        <editor role="translator">Neela Bhaskar</editor>                       
+      </titleStmt>
+      <publicationStmt><p/></publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc><change/></revisionDesc>
+  </teiHeader>
+<text xml:lang="ta" type="edition">
+  <body>
+    <div rend="parallel">
+      <p xml:id="Aink148-kilavi">
+        varainteytiya talaimakaṉ talaiviyōṭu paḷḷiyiṭattiruntuḻit tōḻi vāḻttiyatu </p>    <p xml:lang="en">
+          The praise made by confidante, when the hero, having obtained [a status of] marriage, was in the bedroom with the heroine.  </p>
+ </div>     
+    <div rend="parallel">
+      <lg xml:id="Aink149">
+<l>ekkar ñāḻaṟ pūvi ṉaṉṉa</l>
+<l>cuṇaṅkuvaḷa riḷamulai maṭantaik</l>
+<l>kaṇaṅkuvaḷart takaṟal vallā tīmē</l>
+      </lg>
+      <lg xml:lang="en">
+        <l> Do not have the ability to leave</l>
+        <l> - Having made raised torment [within her] - </l>
+        <l> The lady with young breasts upon which beauty-spots grow</l>
+        <l>Like Ñāḻal flowers in the dunes.</l>
+               </lg>
+    </div>
+  </body>
+</text>
+<standOff type="wordsplit" corresp="#Aink149"><interp type="alignment" select="0">49MG13MG14MGM,80M</interp>
+<entry>
+<form>ekkar</form>
+<def>dune</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ñāḻal</form>
+<def>Ñāḻal tree</def>
+<form type="sandhi">ñāḻaṟ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>pūviṉ</form>
+<def>flower</def>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>aṉṉa</form>
+<def>like</def>
+<gramGrp>
+  <gram type="role">comparative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>cuṇaṅku</form>
+<def>beauty spot</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vaḷar</form>
+<def>grow</def>
+<gramGrp>
+  <gram type="role">verbal root</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>iḷa</form>
+<def>young</def>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>mulai</form>
+<def>breast</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>maṭantaikk<c type="elided">u</c></form>
+<def>girl</def>
+<form type="sandhi">maṭantaikk</form>
+<gramGrp>
+  <gram type="role">dative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>aṇaṅku</form>
+<def>torment</def>
+<gramGrp>
+  <gram type="role">root noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vaḷartt<c type="elided">u</c></form>
+<def>made-grow</def>
+<form type="sandhi">vaḷartt</form>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>akaṟal</form>
+<def>leaving</def>
+<gramGrp>
+  <gram type="role">verbal noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vallātīm-ē</form>
+<def>to-be-able</def>
+<form type="simple">vallātīm</form>
+<gramGrp>
+  <gram type="role">negative</gram>
+  <gram type="role">imperative</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry></standOff>
+</TEI>
