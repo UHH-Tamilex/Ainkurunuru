@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+            <title xml:lang="ta">Aiṅkuṟunūṟu</title> <num>150</num>.
+            <persName xml:lang="ta">Ammūvaṉār</persName>
+        </title>   
+        <editor role="translator">Neela Bhaskar</editor>                         
+      </titleStmt>
+      <publicationStmt><p/></publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc><change/></revisionDesc>
+  </teiHeader>
+<text xml:lang="ta" type="edition">
+  <body>
+    <div rend="parallel">
+      <p xml:id="Aink150-kilavi">
+        muṉṉorukāṟ pirintuvanta talaimakaṉ piṉṉum pirintuvantuḻi avaṉai muyaṅkāḷāka, tōḻi, nī ivvāṟu ceytaṟkukkāraṇam eṉ eṉṟu viṉaviyavaḻit talaimakaḷ tōḻikkut talaimakaṉ kēṭpac colliyatu. </p>    <p xml:lang="en">
+        Spoken by the heroine - as the hero was listening - to the confidante, the confidante having asked, ‘What is the reason for you behaving this way?’, - [the heroine] being one who did not embrace him when he came [back] after having separated [from her] again/afterwords, [that] hero who [already] came, having separated once previously.
+  </p>
+ </div>      
+    <div rend="parallel">
+      <lg xml:id="Aink150">
+<l>ekkar ñāḻa naṟumalarp peruñciṉaip</l>
+<l>puṇari tiḷaikkun tuṟaivaṉ</l>
+<l>puṇarvi ṉiṉṉā ṉarumpuṇar viṉaṉē</l>
+      </lg>
+      <lg xml:lang="en">
+        <l>The man from the ghat where the ocean bubbles [with]</l>
+        <l>Great branches with fragrant blossoms of the Ñāḻal tree in the dunes</l>
+        <l>Is not pleasing with respect to uniting. He rarely unites [with me].</l>
+              </lg>
+    </div>
+  </body>
+</text>
+<standOff type="wordsplit" corresp="#Aink150"><interp type="alignment" select="0">9MR71MGM,83M</interp>
+<entry>
+<form>ekkar</form>
+<def>dune</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ñāḻal</form>
+<def>Ñāḻal tree</def>
+<form type="sandhi">ñāḻan</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>naṟu</form>
+<def>fragrant</def>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>malar<c type="geminated">p</c></form>
+<def>blossom</def>
+<gramGrp>
+  <gram type="role">root noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>perum</form>
+<def>big</def>
+<form type="sandhi">peruñ</form>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ciṉai<c type="geminated">p</c></form>
+<def>branch</def>
+<gramGrp>
+  <gram type="role">root noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>puṇari</form>
+<def>ocean</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tiḷaikkum</form>
+<def>bubbling-</def>
+<form type="sandhi">tiḷaikkun</form>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tuṟaivaṉ</form>
+<def>ghat-he</def>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">masculine singular</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>puṇarviṉ</form>
+<def>uniting</def>
+<gramGrp>
+  <gram type="role">verbal noun</gram>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>iṉṉāṉ</form>
+<def>pleasing-not-he</def>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">masculine singular</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>arum</form>
+<def>difficult</def>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>puṇarviṉaṉ-ē</form>
+<def>unite-he</def>
+<form type="simple">puṇarviṉaṉ</form>
+<gramGrp>
+  <gram type="role">third person</gram>
+  <gram type="role">masculine singular</gram>
+  <gram type="role">imperfective aspect</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry></standOff>
+</TEI>
