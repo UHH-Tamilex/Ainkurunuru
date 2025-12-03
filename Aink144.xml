@@ -25,14 +25,21 @@
 <text xml:lang="ta" type="edition">
   <body>
     <div rend="parallel">
+      <p xml:id="Aink132-kilavi">
+        talaimakaṉ varaintu kōṭal niṉaiyātu kaḷavoḻukkamē virumpi oḻukāniṉṟā ṉeṉpatu aṟintu vēṟupaṭṭa talaimakaḷ, ‘avaṉ kūṟiyavāṟṟāl iṉi kaṭitiṉ varaivaṉ; āṟṟāyākātoḻiyavēṇṭum’ eṉṟa tōḻikkuc colliyatu</p>    <p xml:lang="en">
+         Spoken by the heroine who changed [her mind], having known that the hero, not thinking of providing, having married [her], desiring only a secret relationship, behaves thus, to the confidante who said ‘Because of the way he spoke/promised, now he will marry [you] quickly; it is necessary to behave without getting impatient’.
+ 
+ </p>
+ </div>
+    <div rend="parallel">
       <lg xml:id="Aink144">
 <l>ekkar ñāḻa liṇarpaṭu potumpart</l>
 <l>taṉikkuru kuṟaṅkun tuṟaivaṟ</l>
 <l>kiṉippacan taṉṟeṉ māmaik kaviṉē</l>
 </lg>
 <lg xml:lang="en">
-  <l>My black beauty has now become pale</l>
-  <l>For the man from the ghat in which the single kuruku bird slumbers alone</l>
+  <l>My dark beauty has now become pale</l>
+  <l>For the man from the ghat in which the single wader bird slumbers alone</l>
     <l>On a branch of the Ñāḻal tree on the dune, from which clusters fall. </l>
       </lg>
     </div>
@@ -62,7 +69,7 @@
 </entry>
 <entry>
 <form>paṭu</form>
-<def>happen</def>
+<def>fall</def>
 <gramGrp>
   <gram type="role">verbal root</gram>
 </gramGrp>
@@ -91,7 +98,7 @@
 </entry>
 <entry>
 <form>uṟaṅkum</form>
-<def>slumbering-</def>
+<def>slumbering</def>
 <form type="sandhi">uṟaṅkun</form>
 <gramGrp>
   <gram type="role">peyareccam</gram>
@@ -118,6 +125,7 @@
 <gramGrp>
   <gram type="role">neuter singular</gram>
   <gram type="role">perfective aspect</gram>
+  <gram type="role">third person</gram>
 </gramGrp>
 </entry>
 <entry>
