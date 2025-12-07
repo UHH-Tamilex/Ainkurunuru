@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+            <title xml:lang="ta">Aiṅkuṟunūṟu</title> <num>151</num>.
+            <persName xml:lang="ta">Ammūvaṉār</persName>
+        </title> 
+        <editor role="translator">Neela Bhaskar</editor>                              
+      </titleStmt>
+      <publicationStmt><p/></publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc><change/></revisionDesc>
+  </teiHeader>
+<text xml:lang="ta" type="edition">
+  <body>
+    <div rend="parallel">
+      <p xml:id="Aink150-kilavi">
+        vāyilvēṇṭiya tōḻikkut talaimakaḷ vāyiṉmaṟuppāḷ colliyatu </p>    <p xml:lang="en">
+          Spoken by the heroine to the confidante who wanted entry [for the hero], as one who refused entry [to him].
+  </p>
+ </div>      
+    <div rend="parallel">
+      <lg xml:id="Aink151">
+<l>veḷḷāṅ kurukiṉ piḷḷai cetteṉak</l>
+<l>kāṇiya ceṉṟa maṭanaṭai nārai</l>
+<l>mitippa nakka kaṇpō ṉeytal</l>
+<l>kaṭkamaḻn tāṉāt tuṟaivaṟku</l>
+<l>nekka neñca nērkal lēṉē</l>
+      </lg>
+      <lg xml:lang="en">
+        <l>To the man from the ghat, in which the nectar of the Neytal flower</l>
+          <l>Like naked [=open] eyes being fragrant, does not end,</l> 
+        <l>As the wader with an inexperienced gait that went to see,</l>
+        <l> - Since the hatchling of the white wader died - </l>
+        <l>Stamped on [that young one].</l>
+       <l>I am not in agreement [with a/my] heart that has become soft.</l>
+      </lg>
+    </div>
+  </body>
+</text>
+<standOff type="wordsplit" corresp="#Aink151"><interp type="alignment" select="0">23MG19MR28ML15MG24MR9MGM,125M</interp>
+<entry>
+<form>veḷḷām</form>
+<def>white</def>
+<form type="sandhi">veḷḷāṅ</form>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kurukiṉ</form>
+<def>wader</def>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>piḷḷai</form>
+<def>young-one</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>cett<c type="elided">u</c></form>
+<def>to-die</def>
+<form type="sandhi">cett</form>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>eṉa<c type="geminated">k</c></form>
+<def>say</def>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kāṇiya</form>
+<def>see</def>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ceṉṟa</form>
+<def>gone-</def>
+<gramGrp>
+  <gram type="role">perfective aspect</gram>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>maṭam</form>
+<def>inexperience</def>
+<form type="sandhi">maṭan</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>naṭai</form>
+<def>gait</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>nārai</form>
+<def>wader</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>mitippa</form>
+<def>stamp-on</def>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>nakka</form>
+<def>naked</def>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kaṇ</form>
+<def>eye</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>pōl</form>
+<def>be-similar</def>
+<form type="sandhi">pōṉ</form>
+<gramGrp>
+  <gram type="role">verbal root</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>neytal</form>
+<def>blue-waterlily</def>
+<form type="sandhi">ṉeytal</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kaḷ</form>
+<def>nectar</def>
+<form type="sandhi">kaṭ</form>
+<gramGrp>
+  <gram type="role">feminine</gram>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kamaḻnt<c type="elided">u</c></form>
+<def>was-fragrant</def>
+<form type="sandhi">kamaḻnt</form>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>āṉā<c type="geminated">t</c></form>
+<def>end-not</def>
+<gramGrp>
+  <gram type="role">negative</gram>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tuṟaivaṟku</form>
+<def>ghat-he</def>
+<gramGrp>
+  <gram type="role">dative</gram>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">masculine singular</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>nekka</form>
+<def>became-soft</def>
+<gramGrp>
+  <gram type="role">perfective aspect</gram>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>neñcam</form>
+<def>heart</def>
+<form type="sandhi">neñcan</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>nērkallēṉ-ē</form>
+<def>I-am-not-in-agreement</def>
+<form type="simple">nērkallēṉ</form>
+<gramGrp>
+  <gram type="role">negative</gram>
+  <gram type="role">singular</gram>
+  <gram type="role">first person</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry></standOff>
+</TEI>
