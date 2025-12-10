@@ -1,12 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?><?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>
-          <title xml:lang="ta">Aiṅkuṟunūṟu</title> 220.
+          <title xml:lang="ta">Aiṅkuṟunūṟu</title> 222.
           <persName xml:lang="ta">Kapilar</persName> 
       </title> 
       <editor role="translator">Maanasa Visweswaran</editor>  
@@ -17,7 +14,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>    
         </msDesc>
@@ -41,9 +38,9 @@
       <lg xml:lang="en">
           <l>  Alas, O friend, </l>
           <l rend="indent">is the fading of my forehead, with its few strands of hair,</l>
-          <l rend="indent indent">because he, with the fragrant, cool chest, </l>
-          <l rend="indent indent indent">who [used to] come often to our village and stay,</l>
-          <l rend="indent indent"> no longer comes here?  </l>
+          <l rend="indent2">because he, with the fragrant, cool chest, </l>
+          <l rend="indent3">who [used to] come often to our village and stay,</l>
+          <l rend="indent2"> no longer comes here?  </l>
             
       </lg>
     </div>
@@ -206,4 +203,162 @@
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry></standOff>
-</TEI>
+<standOff corresp="#Aink222-kilavi" type="wordsplit">
+<interp type="alignment" select="0">16MG6MG48MG66M,139M</interp>
+<entry>
+<form>kuṟi</form>
+<def>tryst</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>iraṇṭaṉ</form>
+<def>two-it</def>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kaṇ<c type="geminated">ṇ</c>-um</form>
+<def>place</def>
+<form type="simple">kaṇ</form>
+<form type="sandhi">kaṇ<c type="geminated">ṇ</c></form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>vant<c type="elided">u</c></form>
+<def>come</def>
+<form type="sandhi">vant</form>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>oḻukum</form>
+<def>following-accordingly</def>
+<form type="sandhi">oḻukun</form>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>talaimakaṉ</form>
+<def>hero</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="geminated">ṉ</c>iṭai</form>
+<def>middle</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>iṭṭu</form>
+<def>placed</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vantu</form>
+<def>come</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ciṟaippuṟattu</form>
+<def>fence</def>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>niṉṟ<c type="elided">u</c></form>
+<def>stood</def>
+<form type="sandhi">niṉṟ</form>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>uḻi</form>
+<def>place</def>
+</entry>
+<entry>
+<form>niṉ</form>
+<def>your</def>
+<gramGrp>
+  <gram type="role">singular</gram>
+  <gram type="role">oblique</gram>
+  <gram type="role">second person</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>nutal</form>
+<def>forehead</def>
+<form type="sandhi">ṉutal</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>pacattaṟku<c type="geminated">k</c></form>
+<def>becoming-pale</def>
+<gramGrp>
+  <gram type="role">verbal noun</gram>
+  <gram type="role">dative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kāraṇam</form>
+<def>reason</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>eṉṉai</form>
+<def>what</def>
+</entry>
+<entry>
+<form><c type="glide">y</c>eṉṟa</form>
+<def>said</def>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tōḻikku<c type="geminated">t</c></form>
+<def>confidante</def>
+<gramGrp>
+  <gram type="role">dative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>talaimakaḷ</form>
+<def>heroine</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+  <gram type="role">singular</gram>
+  <gram type="role">feminine</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>colliyatu</form>
+<def>spoken-it</def>
+<gramGrp>
+  <gram type="role">participial noun</gram>
+  <gram type="role">neuter singular</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+</standOff></TEI>
