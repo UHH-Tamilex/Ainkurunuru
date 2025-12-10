@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <title xml:lang="ta">Aiṅkuṟunūṟu</title> 220.
+          <persName xml:lang="ta">Kapilar</persName> 
+      </title> 
+      <editor role="translator">Maanasa Visweswaran</editor>  
+    </titleStmt>
+    <publicationStmt><p/></publicationStmt>
+    <sourceDesc>
+      <msDesc xml:lang="en">
+        <msIdentifier>
+        </msIdentifier>
+         <msContents>
+          <summary><p/>
+          </summary>
+        </msContents>    
+      </msDesc>
+    </sourceDesc>
+  </fileDesc>
+  <revisionDesc><change/></revisionDesc>
+</teiHeader>
+<text xml:lang="ta">
+<body>
+  <div rend="parallel">
+    <p xml:id="Aink222-kilavi">  kuṟiyiraṇṭaṉkaṇṇum vantoḻukun talaimakaṉ ṉiṭaiyiṭṭu vantu ciṟaippuṟattu niṉṟuḻi niṉṉutal pacattaṟkuk kāraṇam eṉṉai yeṉṟa tōḻikkut talaimakaḷ colliyatu </p>
+<p xml:lang="en">What the heroine said to the confidante who asked, “What is the cause of your forehead growing pale?”, when the hero—who would ordinarily come to both trysts—had arrived after an interval and [now] stood behind the hedge. </p>
+    </div>
+  <div rend="parallel">
+    <lg xml:id="Aink222">
+<l>amma vāḻi tōḻi nammūr</l>
+<l>naḷintuvan tuṟaiyu naṟuntaṇ mārpa</l>
+<l>ṉivaṇiṉi vārā māṟukol</l>
+<l>ciṉṉirai yōtiyeṉ ṉutalpacap patuvē</l>
+</lg> 
+<lg xml:lang="en"> 
+<l>  Alas, O friend, </l>
+<l rend="indent">is the fading of my forehead, with its few strands of hair,</l>
+<l rend="indent indent">because he, with the fragrant, cool chest, </l>
+<l rend="indent indent indent">who [used to] come often to our village and stay,</l>
+<l rend="indent indent"> no longer comes here?  </l>
+      </lg>
+    </div>
+  </body>
+</text>
+<standOff type="wordsplit" corresp="#Aink222"><interp type="alignment" select="0">29MG6MR29MG32MG2M,102M</interp>
+<entry>
+<form>amma</form>
+<def>alas</def>
+<gramGrp>
+  <gram type="role">interjection</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vāḻi</form>
+<def>live-you</def>
+<gramGrp>
+  <gram type="role">singular</gram>
+  <gram type="role">second person</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tōḻi</form>
+<def>confidante</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>nam<c type="geminated">m</c></form>
+<def>our</def>
+<gramGrp>
+  <gram type="role">plural</gram>
+  <gram type="role">oblique</gram>
+  <gram type="role">first person</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ūr</form>
+<def>village</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>naḷintu</form>
+<def>been-dense</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vant<c type="elided">u</c></form>
+<def>come</def>
+<form type="sandhi">vant</form>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>uṟaiyum</form>
+<def>remaining</def>
+<form type="sandhi">uṟaiyun</form>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>naṟum</form>
+<def>fragrant</def>
+<form type="sandhi">naṟun</form>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>taṇ</form>
+<def>cool</def>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>mārvaṉ</form>
+<def>chest</def>
+<form type="sandhi">mārpaṉ</form>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">singular</gram>
+  <gram type="role">masculine</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ivaṇ</form>
+<def>here</def>
+<gramGrp>
+</gramGrp>
+</entry>
+<entry>
+<form>iṉi</form>
+<def>now</def>
+<gramGrp>
+</gramGrp>
+</entry>
+<entry>
+<form>vārāmāṟu-kol</form>
+<def>come-not</def>
+<form type="simple">vārāmāṟu</form>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">kol</m></gramGrp>
+</entry>
+<entry>
+<form>cil</form>
+<def>few</def>
+<form type="sandhi">ciṉ</form>
+<gramGrp>
+  <gram type="role">pronoun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>nirai</form>
+<def>row</def>
+<form type="sandhi">ṉirai</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>ōti</form>
+<def>hair</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>eṉ</form>
+<def>my</def>
+<gramGrp>
+  <gram type="role">singular</gram>
+  <gram type="role">oblique</gram>
+  <gram type="role">first person</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>nutal</form>
+<def>forehead</def>
+<form type="sandhi">ṉutal</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>pacappatu-<c type="glide">v</c>ē</form>
+<def>fading</def>
+<form type="simple">pacappatu</form>
+<gramGrp>
+  <gram type="role">verbal noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry></standOff>
+</TEI>
