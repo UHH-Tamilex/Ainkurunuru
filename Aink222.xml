@@ -10,40 +10,41 @@
           <persName xml:lang="ta">Kapilar</persName> 
       </title> 
       <editor role="translator">Maanasa Visweswaran</editor>  
-    </titleStmt>
-    <publicationStmt><p/></publicationStmt>
-    <sourceDesc>
-      <msDesc xml:lang="en">
-        <msIdentifier>
-        </msIdentifier>
-         <msContents>
-          <summary><p/>
-          </summary>
-        </msContents>    
-      </msDesc>
-    </sourceDesc>
-  </fileDesc>
-  <revisionDesc><change/></revisionDesc>
-</teiHeader>
-<text xml:lang="ta">
-<body>
-  <div rend="parallel">
-    <p xml:id="Aink222-kilavi">  kuṟiyiraṇṭaṉkaṇṇum vantoḻukun talaimakaṉ ṉiṭaiyiṭṭu vantu ciṟaippuṟattu niṉṟuḻi niṉṉutal pacattaṟkuk kāraṇam eṉṉai yeṉṟa tōḻikkut talaimakaḷ colliyatu </p>
-<p xml:lang="en">What the heroine said to the confidante who asked, “What is the cause of your forehead growing pale?”, when the hero—who would ordinarily come to both trysts—had arrived after an interval and [now] stood behind the hedge. </p>
-    </div>
-  <div rend="parallel">
-    <lg xml:id="Aink222">
+      </titleStmt>
+      <publicationStmt><p/></publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc><change/></revisionDesc>
+  </teiHeader>
+  <text xml:lang="ta">
+    <body>
+      <div rend="parallel">
+        <p xml:id="Aink222-kilavi">  kuṟiyiraṇṭaṉkaṇṇum vantoḻukun talaimakaṉ ṉiṭaiyiṭṭu vantu ciṟaippuṟattu niṉṟuḻi niṉṉutal pacattaṟkuk kāraṇam eṉṉai yeṉṟa tōḻikkut talaimakaḷ colliyatu </p>
+        <p xml:lang="en">What the heroine said to the confidante who asked, “What is the cause of your forehead growing pale?”, when the hero—who would ordinarily come to both trysts—had arrived after an interval and [now] stood behind the hedge. </p>
+      </div>
+      <div rend="parallel">
+      <lg xml:id="Aink222">
 <l>amma vāḻi tōḻi nammūr</l>
 <l>naḷintuvan tuṟaiyu naṟuntaṇ mārpa</l>
 <l>ṉivaṇiṉi vārā māṟukol</l>
 <l>ciṉṉirai yōtiyeṉ ṉutalpacap patuvē</l>
-</lg> 
-<lg xml:lang="en"> 
-<l>  Alas, O friend, </l>
-<l rend="indent">is the fading of my forehead, with its few strands of hair,</l>
-<l rend="indent indent">because he, with the fragrant, cool chest, </l>
-<l rend="indent indent indent">who [used to] come often to our village and stay,</l>
-<l rend="indent indent"> no longer comes here?  </l>
+      </lg>
+      <lg xml:lang="en">
+          <l>  Alas, O friend, </l>
+          <l rend="indent">is the fading of my forehead, with its few strands of hair,</l>
+          <l rend="indent indent">because he, with the fragrant, cool chest, </l>
+          <l rend="indent indent indent">who [used to] come often to our village and stay,</l>
+          <l rend="indent indent"> no longer comes here?  </l>
+            
       </lg>
     </div>
   </body>
