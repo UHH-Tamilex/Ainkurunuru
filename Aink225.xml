@@ -302,8 +302,19 @@
 </gramGrp>
 </entry>
 <entry>
-<form>oruvaḻittaṇantu</form>
-<def>become-temporarily-absent</def>
+<form>oru</form>
+<def>one</def>
+</entry>
+<entry>
+<form>vaḻi<c type="geminated">t</c></form>
+<def>way</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>taṇantu</form>
+<def>departed</def>
 <gramGrp>
   <gram type="role">absolutive</gram>
 </gramGrp>
