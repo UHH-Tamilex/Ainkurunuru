@@ -3,9 +3,10 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta">Aiṅkuṟuṉūṟu </title> <num>228</num>.
-            <persName xml:lang="ta">Kapilar </persName>
-        </title>     
+          <title xml:lang="ta">Aiṅkuṟunūṟu</title> 228.
+          <persName xml:lang="ta">Kapilar</persName> 
+      </title> 
+      <editor role="translator">Maanasa Visweswaran</editor>  
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
       <sourceDesc>
@@ -24,7 +25,7 @@
 <text xml:lang="ta" type="edition">
   <body>
     <div rend="parallel">
-      <p xml:id="Aink227-kilavi">talaimakaṉ varaivu vēṇṭiviṭat tamar maṟuttuḻi yavar kēṭkumāṟṟāṉ ṟalaimakaṭkuc colluvāḷāyt tōḻi yaṟattoṭu niṉṟatu.</p>
+      <p xml:id="Aink228-kilavi">talaimakaṉ varaivu vēṇṭiviṭat tamar maṟuttuḻi yavar kēṭkumāṟṟāṉ ṟalaimakaṭkuc colluvāḷāyt tōḻi yaṟattoṭu niṉṟatu.</p>
       <p xml:lang="en"> The confidante standing with virtue; [the confidante] who spoke to the heroine in a manner [the hero] could hear, when [her] people refused as the hero requested [for her hand in] marriage. 
       </p>
     </div>
