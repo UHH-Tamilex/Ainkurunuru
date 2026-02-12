@@ -49,7 +49,8 @@
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#Aink222"><interp type="alignment" select="0">29MG6MR29MG19ML14MGM,103M</interp>
+<standOff type="wordsplit" corresp="#Aink222">
+<interp type="alignment" select="0">29MG6MR29MG32MG2M,102M</interp>
 <entry>
 <form>amma</form>
 <def>alas</def>
@@ -73,7 +74,7 @@
 </gramGrp>
 </entry>
 <entry>
-<form>nam<c type="geminated">m</c></form>
+<form>nam</form>
 <def>our</def>
 <gramGrp>
   <gram type="role">plural</gram>
@@ -82,7 +83,7 @@
 </gramGrp>
 </entry>
 <entry>
-<form>ūr</form>
+<form><c type="geminated">m</c>ūr</form>
 <def>village</def>
 <gramGrp>
   <gram type="role">noun</gram>
@@ -127,13 +128,7 @@
 </gramGrp>
 </entry>
 <entry>
-<<<<<<< HEAD
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
 <form>mārpaṉ</form>
-=======
-<form>mārpaṉ</form>
->>>>>>> 37cb58f3997edd54ee135b0fb1c780443920dc0f
 <def>chest</def>
 <form type="sandhi">mārpaṉ</form>
 <gramGrp>
@@ -145,14 +140,10 @@
 <entry>
 <form>ivaṇ</form>
 <def>here</def>
-<gramGrp>
-</gramGrp>
 </entry>
 <entry>
 <form>iṉi</form>
 <def>now</def>
-<gramGrp>
-</gramGrp>
 </entry>
 <entry>
 <form>vārāmāṟu-kol</form>
@@ -211,7 +202,8 @@
   <gram type="role">verbal noun</gram>
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
-</entry></standOff>
+</entry>
+</standOff>
 <standOff corresp="#Aink222-kilavi" type="wordsplit">
 <interp type="alignment" select="0">16MG6MG48MG66M,139M</interp>
 <entry>
