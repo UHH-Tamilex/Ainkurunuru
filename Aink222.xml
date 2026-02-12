@@ -1,17 +1,7 @@
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?><?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-=======
-=======
->>>>>>> Stashed changes
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
 <?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -27,15 +17,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
             <summary><p/>
-=======
-            <summary><p></p>
->>>>>>> Stashed changes
-=======
-            <summary><p></p>
->>>>>>> Stashed changes
             </summary>
           </msContents>    
         </msDesc>
@@ -43,8 +25,6 @@
     </fileDesc>
     <revisionDesc><change/></revisionDesc>
   </teiHeader>
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
   <text xml:lang="ta">
     <body>
       <div rend="parallel">
@@ -52,27 +32,11 @@
         <p xml:lang="en">What the heroine said to the confidante who asked, “What is the cause of your forehead growing pale?”, when the hero—who would ordinarily come to both trysts—had arrived after an interval and [now] stood behind the hedge. </p>
       </div>
       <div rend="parallel">
-=======
-=======
->>>>>>> Stashed changes
-<text xml:lang="ta" type="edition">
-  <body>
-    <div rend="parallel">
-      <p xml:id="Aink222-kilavi">  kuṟiyiraṇṭaṉkaṇṇum vantoḻukun talaimakaṉ iṭaiyiṭṭu vantu ciṟaipuṟattu niṉṟuḻi niṉṉutaṟ pacattaṟkuk kāraṇam eṉṉai yeṉṟa tōḻikkut talaimakaḷ colliyatu. </p>
-<p xml:lang="en">What the heroine told the confidante, who asked, "What is the reason for your forehead to fade?" when the hero, who [was once] regular, coming to both trysts, [now] came after an interval and stood behind a hedge. </p>
-      </div>
-    <div rend="parallel">
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
       <lg xml:id="Aink222">
 <l>amma vāḻi tōḻi nammūr</l>
 <l>naḷintuvan tuṟaiyu naṟuntaṇ mārpa</l>
 <l>ṉivaṇiṉi vārā māṟukol</l>
 <l>ciṉṉirai yōtiyeṉ ṉutalpacap patuvē</l>
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
       </lg>
       <lg xml:lang="en">
           <l>  Alas, O friend, </l>
@@ -85,27 +49,7 @@
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#Aink222"><interp type="alignment" select="0">29MG6MR29MG32MG2M,102M</interp>
-=======
-=======
->>>>>>> Stashed changes
-</lg> 
-<lg xml:lang="en"> 
-<l> Alas, O friend, </l>
-<l>is the fading of my forehead, with its few strands of hair</l>
-<l>because he, with the fragrant, cool chest, </l>
-<l>who often came to our village and stayed, </l>
-<l>no longer comes? </l>
-
-</lg>
-    </div>
-  </body>
-</text>
 <standOff type="wordsplit" corresp="#Aink222"><interp type="alignment" select="0">29MG6MR29MG19ML14MGM,103M</interp>
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
 <entry>
 <form>amma</form>
 <def>alas</def>
@@ -146,15 +90,7 @@
 </entry>
 <entry>
 <form>naḷintu</form>
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<def>been-dense</def>
-=======
-<def>been-close-together</def>
->>>>>>> Stashed changes
-=======
-<def>been-close-together</def>
->>>>>>> Stashed changes
+<def>been dense</def>
 <gramGrp>
   <gram type="role">absolutive</gram>
 </gramGrp>
@@ -169,15 +105,7 @@
 </entry>
 <entry>
 <form>uṟaiyum</form>
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
 <def>remaining</def>
-=======
-<def>remaining-</def>
->>>>>>> Stashed changes
-=======
-<def>remaining-</def>
->>>>>>> Stashed changes
 <form type="sandhi">uṟaiyun</form>
 <gramGrp>
   <gram type="role">peyareccam</gram>
@@ -199,19 +127,15 @@
 </gramGrp>
 </entry>
 <entry>
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <form>mārpaṉ</form>
+=======
+<form>mārpaṉ</form>
+>>>>>>> 37cb58f3997edd54ee135b0fb1c780443920dc0f
 <def>chest</def>
 <form type="sandhi">mārpaṉ</form>
-=======
-<form>mārpaṉ</form>
-<def>chest-he</def>
->>>>>>> Stashed changes
-=======
-<form>mārpaṉ</form>
-<def>chest-he</def>
->>>>>>> Stashed changes
 <gramGrp>
   <gram type="role">pronominalised noun</gram>
   <gram type="role">singular</gram>
@@ -231,32 +155,11 @@
 </gramGrp>
 </entry>
 <entry>
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
 <form>vārāmāṟu-kol</form>
 <def>come-not</def>
 <form type="simple">vārāmāṟu</form>
 <gramGrp>
   <gram type="role">peyareccam</gram>
-=======
-=======
->>>>>>> Stashed changes
-<form>vārā</form>
-<def>come-not</def>
-<gramGrp>
-  <gram type="role">peyareccam</gram>
-  <gram type="role">negative</gram>
-</gramGrp>
-</entry>
-<entry>
-<form>māṟu-kol</form>
-<def>because</def>
-<form type="simple">māṟu</form>
-<gramGrp>
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">kol</m></gramGrp>
 </entry>
@@ -284,18 +187,8 @@
 </gramGrp>
 </entry>
 <entry>
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
 <form><c type="glide">y</c>eṉ</form>
 <def>my</def>
-=======
-<form><c type="glide">y</c>eṉ<c type="geminated">ṉ</c></form>
-<def>my-</def>
->>>>>>> Stashed changes
-=======
-<form><c type="glide">y</c>eṉ<c type="geminated">ṉ</c></form>
-<def>my-</def>
->>>>>>> Stashed changes
 <gramGrp>
   <gram type="role">singular</gram>
   <gram type="role">oblique</gram>
@@ -311,29 +204,14 @@
 </gramGrp>
 </entry>
 <entry>
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
 <form>pacappatu-<c type="glide">v</c>ē</form>
 <def>fading</def>
 <form type="simple">pacappatu</form>
-=======
-=======
->>>>>>> Stashed changes
-<form>pacappatu<c type="glide">v</c>-ē</form>
-<def>fading</def>
-<form type="simple">pacappatu</form>
-<form type="sandhi">pacappatu<c type="glide">v</c></form>
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
 <gramGrp>
   <gram type="role">verbal noun</gram>
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry></standOff>
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
 <standOff corresp="#Aink222-kilavi" type="wordsplit">
 <interp type="alignment" select="0">16MG6MG48MG66M,139M</interp>
 <entry>
@@ -493,9 +371,3 @@
 </gramGrp>
 </entry>
 </standOff></TEI>
-=======
-</TEI>
->>>>>>> Stashed changes
-=======
-</TEI>
->>>>>>> Stashed changes
