@@ -14,7 +14,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>    
         </msDesc>
@@ -25,8 +25,8 @@
   <text xml:lang="ta" type="edition">
     <body>
       <div rend="parallel">
-        <p xml:id="Aink230-kilavi">talaimakaṉ varaivu vēṇṭiviṭat tamar maṟuttuḻi yavar kēṭkumāṟṟāṉ ṟalaimakaṭkuc colluvāḷāyt tōḻi yaṟattoṭu niṉṟatu.</p>
-        <p xml:lang="en"> The confidante standing with virtue; [the confidante] who spoke to the heroine in a manner [the hero] could hear, when [her] people refused as the hero requested [for her hand in] marriage. 
+        <p xml:id="Aink230-kilavi">talaimakaṉ varaivu vēṇṭit tamarai viṭuttuḻi maṟuppar kollō veṉṟ accamuṟukiṉṟa talaivikkut tōḻi colliyatu.</p>
+        <p xml:lang="en"> What the confidante said to the heroine, who was anxious that [her relatives] would refuse when the hero sent his relatives to ask for [her hand in] marriage. 
         </p>
       </div>
       <div rend="parallel">
@@ -252,4 +252,106 @@
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry></standOff>
-</TEI>
+<standOff corresp="#Aink230-kilavi" type="wordsplit">
+<interp type="alignment" select="0">36MG11MG9MG38M,96MG</interp>
+<entry>
+<form>talaimakaṉ</form>
+<def>hero</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>varaivu</form>
+<def>marriage</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vēṇṭi<c type="geminated">t</c></form>
+<def>wanted</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tamarai</form>
+<def>self-they</def>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">plural</gram>
+  <gram type="role">third person</gram>
+  <gram type="role">accusative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>viṭutt<c type="elided">u</c></form>
+<def>sent</def>
+<form type="sandhi">viṭutt</form>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>uḻi</form>
+<def>when</def>
+</entry>
+<entry>
+<form>maṟuppar-kollō</form>
+<def>refuse-they</def>
+<form type="simple">maṟuppar</form>
+<gramGrp>
+  <gram type="role">participial noun</gram>
+  <gram type="role">plural</gram>
+  <gram type="role">third person</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">kollō</m></gramGrp>
+</entry>
+<entry>
+<form><c type="glide">v</c>eṉṟ<c type="elided">u</c></form>
+<def>said</def>
+<form type="sandhi"><c type="glide">v</c>eṉṟ</form>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>accam</form>
+<def>fear</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>uṟukiṉṟa</form>
+<def>having</def>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+  <gram type="role">present tense</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>talaivikku<c type="geminated">t</c></form>
+<def>heroine</def>
+<gramGrp>
+  <gram type="role">dative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tōḻi</form>
+<def>confidante</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>colliyatu</form>
+<def>spoken-it</def>
+<gramGrp>
+  <gram type="role">participial noun</gram>
+  <gram type="role">neuter singular</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+</standOff></TEI>
