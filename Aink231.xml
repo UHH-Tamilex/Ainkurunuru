@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?><?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -52,7 +55,8 @@
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#Aink231"><interp type="alignment" select="0">13MG33MG46MG5M,100M</interp>
+<standOff type="wordsplit" corresp="#Aink231">
+<interp type="alignment" select="0">13MG33MG46MG5M,100M</interp>
 <entry>
 <form>yāṅku</form>
 <def>how</def>
@@ -168,11 +172,13 @@
 <entry>
 <form>pirivu-teyyō</form>
 <def>separation</def>
-<form type="sandhi">pirivuteyyō</form>
+<form type="simple">pirivu</form>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
-</entry></standOff>
+<gramGrp type="particle"><m type="enclitic">teyyō</m></gramGrp>
+</entry>
+</standOff>
 <standOff corresp="#Aink231-kilavi" type="wordsplit">
 <interp type="alignment" select="0">46M,45MG</interp>
 <entry>
