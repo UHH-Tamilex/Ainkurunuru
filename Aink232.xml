@@ -21,9 +21,14 @@
     </fileDesc>
     <revisionDesc><change/></revisionDesc>
   </teiHeader>
-<text xml:lang="ta" type="edition">
-  <body>
-    <div rend="parallel">
+  <text xml:lang="ta" type="edition">
+    <body>
+      <div rend="parallel">
+        <p xml:id="Aink231-kilavi">oruvaḻit taṇantu vanta talaimakaṉ nāṉ pirinta nāṭkaṇ nīr eṉ ceytīr eṉak kēṭkat tōḻi avaṟkuc colliyatu.</p>
+        <p xml:lang="en"> What the confidante told the hero who had gone away briefly and returned, when he asked, “What did you do during the days I was separated [from you]?” 
+        </p>
+      </div>
+      <div rend="parallel">
       <lg xml:id="Aink232">
 <l>pōtār kūnta liyalaṇi yaḻuṅka</l>
 <l>vēti lāḷaṉai nīpirin tataṟkē</l>
@@ -31,7 +36,14 @@
 <l>peyalā ṉāveṉ kaṇṇē teyyō</l>
       </lg>
       <lg xml:lang="en">
-<!--put your translation here-->
+        <l>As the natural beauty</l>  
+        <l>[of her whose] tresses are full of buds</l> 
+        <l rend="indent2">is being spoiled,</l> 
+        
+        <l rend="space">O stranger, because you have separated,</l>
+        <l rend="indent">as my ornaments, [whose] gems shine [like] fire, become wet,</l>
+        <l rend="indent">my eyes do not cease from weeping — alas.</l>
+        
       </lg>
     </div>
   </body>
@@ -181,4 +193,130 @@
 </gramGrp>
 </entry>
 </standOff>
-</TEI>
+<standOff corresp="#Aink231-kilavi" type="wordsplit">
+<interp type="alignment" select="0">88M,87MG</interp>
+<entry>
+<form>oru</form>
+<def>one</def>
+</entry>
+<entry>
+<form>vaḻi<c type="geminated">t</c></form>
+<def>way</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>taṇantu</form>
+<def>departed</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vanta</form>
+<def>come</def>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>talaimakaṉ</form>
+<def>hero</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>nāṉ</form>
+<def>I</def>
+<gramGrp>
+  <gram type="role">pronoun</gram>
+  <gram type="role">singular</gram>
+  <gram type="role">first person</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>pirinta</form>
+<def>separated</def>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>nāṭkaḷ</form>
+<def>days</def>
+<form type="sandhi">nāṭkaṇ</form>
+<gramGrp>
+  <gram type="role">neuter plural</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>nīr</form>
+<def>you</def>
+<gramGrp>
+  <gram type="role">pronoun</gram>
+  <gram type="role">plural</gram>
+  <gram type="role">second person</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>eṉ</form>
+<def>my</def>
+<gramGrp>
+  <gram type="role">singular</gram>
+  <gram type="role">oblique</gram>
+  <gram type="role">first person</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ceytīr</form>
+<def>did-you</def>
+<gramGrp>
+  <gram type="role">plural</gram>
+  <gram type="role">second person</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>eṉa<c type="geminated">k</c></form>
+<def>say</def>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kēṭka<c type="geminated">t</c></form>
+<def>hear</def>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tōḻi</form>
+<def>confidante</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>avaṟku<c type="geminated">c</c></form>
+<def>that-one</def>
+<gramGrp>
+  <gram type="role">singular</gram>
+  <gram type="role">masculine</gram>
+  <gram type="role">dative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>colliyatu</form>
+<def>spoken-it</def>
+<gramGrp>
+  <gram type="role">participial noun</gram>
+  <gram type="role">neuter singular</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+</standOff></TEI>
