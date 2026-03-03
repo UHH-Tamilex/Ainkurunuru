@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?><?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <title xml:lang="ta">Aiṅkuṟunūṟu</title> 233.
+          <persName xml:lang="ta">Kapilar</persName> 
+      </title> 
+      <editor role="translator">Maanasa Visweswaran</editor>  
+      </titleStmt>
+      <publicationStmt><p/></publicationStmt>
+      <sourceDesc>
+     
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p/>
+            </summary>
+          </msContents>    
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc><change/></revisionDesc>
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+    <div rend="parallel">
+      <p xml:id="Aink234-kilavi">iṭaiviṭātu vantoḻukāniṉṟē kaḷavu nīṭāmal varaitaṟku muyalkiṉṟa talaimakaṉ talaimakaḷ vēṟupāṭu kaṇṭ itaṟkuk kāraṇam eṉṉeṉṟu viṉāviyavaḻi niṉṉaik kaṉaviṟ kaṇṭu viḻittukkāṇāḷāy vantateṉat tōḻi colli varaivu muṭukkiyatu.  </p>
+      <p xml:lang="en"> What the confidante urged, saying,
+        “It [her condition] came about because she saw you in a dream and, having woken, did not see you,”
+        when the hero—who, having acted accordingly, coming without interval, 
+        and who, seeing the change in the heroine and seeking to marry her,
+        asked, “What is the reason for this?”
+        
+      </p>
+    </div>
+
+    <div rend="parallel">
+      <lg xml:id="Aink234">
+<l>miṉṉavir vayaṅkiḻai ñekiḻac cāay</l>
+<l>naṉṉutal pacattal yāvatu tuṉṉik</l>
+<l>kaṉaviṟ kāṇu mivaḷē</l>
+<l>naṉaviṟ kāṇāṇiṉ mārpē teyyō</l>
+      </lg>
+      <lg xml:lang="en">
+        <l>Because her good forehead has become pale,</l>
+        <l>having become exhausted so that her glowing jewels,</l>
+        <l>shining like lightning, come loose,</l>
+        <l>she indeed, who approaches anything and sees you in her dreams,</l>
+        <l>does not see your chest in reality — alas!</l>
+        
+      </lg>
+    </div>
+  </body>
+</text>
+<standOff type="wordsplit" corresp="#Aink234"><interp type="alignment" select="0">14MG59MG13ML6M2G6M,103M</interp>
+<entry>
+<form>miṉ</form>
+<def>lightning</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="geminated">ṉ</c>avir</form>
+<def>shine</def>
+<gramGrp>
+  <gram type="role">verbal root</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vayaṅk<c type="elided">u</c></form>
+<def>glow</def>
+<form type="sandhi">vayaṅk</form>
+<gramGrp>
+  <gram type="role">verbal root</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>iḻai</form>
+<def>jewel</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ñekiḻa<c type="geminated">c</c></form>
+<def>loosen</def>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>cāay</form>
+<def>exhausted</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>nal</form>
+<def>good</def>
+<form type="sandhi">naṉ</form>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>nutal</form>
+<def>forehead</def>
+<form type="sandhi">ṉutal</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>pacattal</form>
+<def>becoming-pale</def>
+<gramGrp>
+  <gram type="role">verbal noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>yāvatu</form>
+<def>anything</def>
+</entry>
+<entry>
+<form>tuṉṉi<c type="geminated">k</c></form>
+<def>approached</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kaṉaviṉ</form>
+<def>dream</def>
+<form type="sandhi">kaṉaviṟ</form>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kāṇum</form>
+<def>seeing</def>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ivaḷ-ē</form>
+<def>this one</def>
+<form type="simple">ivaḷ</form>
+<gramGrp>
+  <gram type="role">singular</gram>
+  <gram type="role">feminine</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+<entry>
+<form>naṉaviṉ</form>
+<def>reality</def>
+<form type="sandhi">naṉaviṟ</form>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kāṇāḷ</form>
+<def>not-see</def>
+<form type="sandhi">kāṇāṇ</form>
+<gramGrp>
+  <gram type="role">singular</gram>
+  <gram type="role">feminine</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>niṉ</form>
+<def>your</def>
+<form type="sandhi">ṇiṉ</form>
+<gramGrp>
+  <gram type="role">singular</gram>
+  <gram type="role">oblique</gram>
+  <gram type="role">second person</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>mārp<c type="elided">u</c>-ēteyyō</form>
+<def>chest</def>
+<form type="sandhi">mārpēteyyō</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry></standOff>
+<standOff corresp="#Aink234-kilavi" type="wordsplit">
+<interp type="alignment" select="0">14MG9M2G66MG73MG32M,198MG</interp>
+<entry>
+<form>iṭai</form>
+<def>middle</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>viṭātu</form>
+<def>let-go-not</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vant<c type="elided">u</c></form>
+<def>come</def>
+<form type="sandhi">vant</form>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>oḻukāniṉṟ<c type="elided">u</c>-ē</form>
+<def>acted-accordingly</def>
+<form type="simple">oḻukāniṉṟu</form>
+<form type="sandhi">oḻukāniṉṟ</form>
+<gramGrp>
+  <gram type="role">present tense</gram>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+<entry>
+<form>kaḷavu</form>
+<def>secrecy</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>nīṭāmal</form>
+<def>prolonged-not</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>varaitaṟku</form>
+<def>marrying</def>
+<gramGrp>
+  <gram type="role">verbal noun</gram>
+  <gram type="role">dative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>muyalkiṉṟa</form>
+<def>making-effort</def>
+<gramGrp>
+  <gram type="role">present tense</gram>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>talaimakaṉ</form>
+<def>hero</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>talaimakaḷ</form>
+<def>heroine</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+  <gram type="role">singular</gram>
+  <gram type="role">feminine</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vēṟupāṭu</form>
+<def>difference</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kaṇṭ<c type="elided">u</c></form>
+<def>seen</def>
+<form type="sandhi">kaṇṭ</form>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>itaṟku<c type="geminated">k</c></form>
+<def>this</def>
+<gramGrp>
+  <gram type="role">dative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kāraṇam</form>
+<def>reason</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>eṉ</form>
+<def>what</def>
+</entry>
+<entry>
+<form><c type="geminated">ṉ</c>eṉṟu</form>
+<def>said</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>viṉāviya</form>
+<def>asked</def>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vaḻi</form>
+<def>way</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>niṉṉai<c type="geminated">k</c></form>
+<def>you</def>
+<gramGrp>
+  <gram type="role">singular</gram>
+  <gram type="role">accusative</gram>
+  <gram type="role">second person</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kaṉaviṉ</form>
+<def>dream</def>
+<form type="sandhi">kaṉaviṟ</form>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kaṇṭu</form>
+<def>seen</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>viḻittu<c type="geminated">k</c></form>
+<def>opened-the-eyes</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kāṇāḷ</form>
+<def>not-see</def>
+<gramGrp>
+  <gram type="role">singular</gram>
+  <gram type="role">feminine</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>āy</form>
+<def>become</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vantat<c type="elided">u</c></form>
+<def>come-it</def>
+<form type="sandhi">vantat</form>
+<gramGrp>
+  <gram type="role">verbal noun</gram>
+  <gram type="role">neuter singular</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>eṉa<c type="geminated">t</c></form>
+<def>say</def>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tōḻi</form>
+<def>confidante</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>colli</form>
+<def>spoken</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>varaivu</form>
+<def>marriage</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>muṭukkiyatu</form>
+<def>urged-it</def>
+<gramGrp>
+  <gram type="role">verbal noun</gram>
+  <gram type="role">neuter singular</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+</standOff></TEI>
