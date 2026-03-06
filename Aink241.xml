@@ -1,22 +1,21 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?><?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta">Aiṅkuṟunūṟu </title> <num>241</num>.
-            <persName xml:lang="ta">Kapilar </persName>
-        </title>     
+          <title xml:lang="ta">Aiṅkuṟunūṟu</title> 241.
+          <persName xml:lang="ta">Kapilar</persName> 
+      </title> 
+      <editor role="translator">Maanasa Visweswaran</editor>  
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
       <sourceDesc>
+     
         <msDesc xml:lang="en">
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>    
         </msDesc>
@@ -24,8 +23,16 @@
     </fileDesc>
     <revisionDesc><change/></revisionDesc>
   </teiHeader>
-<text xml:lang="ta" type="edition">
-  <body>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <div rend="parallel">
+        <p xml:id="Aink241-kilavi">iṟceṟittavaḻit talaimakaṭk eytiya melivu kaṇṭ iḵt eṟṟiṉāṉ āyiṟṟ eṉṟu vēlaṉaik kēṭpat tuṇintuḻi yaṟattoṭu nilai tuṇinta tōḻi cevili kēṭkum āṟṟāl talaimakaṭkuc colliyatu.  </p>
+        <p xml:lang="en"> Seeing the weakness the heroine had come to when she was confined in the house, and deciding to ask the Vēlaṉ priest, saying, “Why did this happen?”, what the confidante—resolved to stand firm in duty—told the heroine in such a way that the foster-mother could hear.
+          
+        </p>
+      </div>
+      <div rend="parallel">
+      <lg xml:id="Aink237">
     <div rend="parallel">
       <lg xml:id="Aink241">
 <l>nammuṟu tuyara nōkki yaṉṉai</l>
@@ -34,7 +41,13 @@
 <l>yaṟiyumō tilla ceṟiyeyiṟ ṟōyē</l>
       </lg>
       <lg xml:lang="en">
-<!--put your translation here-->
+        <l>Having seen our misery,</l> 
+        <l>if mother brings [us] a Vēlan priest,</l>
+        <l>would that Vēlan priest know</l>
+        <l>of the intimacy with the man</l>
+        <l>from the land scented with fragrance?</l>
+        <l rend="space">O girl with closely set teeth?</l>
+        
       </lg>
     </div>
   </body>
@@ -51,7 +64,7 @@
 </entry>
 <entry>
 <form><c type="geminated">m</c>uṟu</form>
-<def>experience</def>
+<def>have</def>
 <gramGrp>
   <gram type="role">verbal root</gram>
 </gramGrp>
