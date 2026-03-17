@@ -54,7 +54,8 @@
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#Aink246"><interp type="alignment" select="0">14MG46ML37ML23MGM,125M</interp>
+<standOff type="wordsplit" corresp="#Aink246">
+<interp type="alignment" select="0">14MG46ML37ML23MGM,125M</interp>
 <entry>
 <form>veṟi</form>
 <def>Veṟi dance</def>
@@ -82,7 +83,7 @@
 </entry>
 <entry>
 <form>kaṟiya</form>
-<def>black</def>
+<def>pepper</def>
 <gramGrp>
   <gram type="role">adjective</gram>
 </gramGrp>
@@ -223,7 +224,8 @@
   <gram type="role">noun</gram>
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
-</entry></standOff>
+</entry>
+</standOff>
 <standOff corresp="#Aink246-kilavi" type="wordsplit">
 <interp type="alignment" select="0">13MG36MG29MG35M,115MG</interp>
 <entry>
