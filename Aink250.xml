@@ -3,7 +3,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-          <title xml:lang="ta">Aiṅkuṟunūṟu</title> 249.
+          <title xml:lang="ta">Aiṅkuṟunūṟu</title> 250.
           <persName xml:lang="ta">Kapilar</persName> 
       </title> 
       <editor role="translator">Maanasa Visweswaran</editor>  
@@ -42,12 +42,15 @@
           <l>pūṇṭāṅ kiḷamulai yaṇaṅki yōṉē</l>
         </lg>
         <lg xml:lang="en">
-          <l>Oh Molucca-bean unaware of the occurrence of falsehood,</l>
-          <l>the truth, in fact, </l>
-          <l>is that he who tormented her ornament-bearing young breasts, </l>
-          <l> – our master of the woodland with bloomed creepers,</l>
-          <l>where naïve peacocks dance in the forests of sapphire mountains, </l>
-          <l>is not the victorious Vēḷ worthy of manhood. </l>
+          <l>O Molucca bean, unaware of the occurrence of falsehood,</l>
+          <l>the truth, in fact, is this:</l>
+
+          <l rend="space">he who tormented her ornament-bearing young breasts—</l>
+          <l>our lord of the woodland with bloomed creepers,</l>
+          <l>where naïve peacocks dance</l>
+          <l>in the forests of sapphire mountains—</l>
+
+          <l rend="space">is not the victorious Vēḷ worthy of manhood.</l>
         </lg>
       </div>
     </body>
