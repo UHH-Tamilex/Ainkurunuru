@@ -1,22 +1,21 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?><?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta">Aiṅkuṟunūṟu </title> <num>259</num>.
-            <persName xml:lang="ta">Kapilar </persName>
-        </title>     
+          <title xml:lang="ta">Aiṅkuṟunūṟu</title> 259.
+          <persName xml:lang="ta">Kapilar</persName> 
+      </title> 
+      <editor role="translator">Maanasa Visweswaran</editor>  
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
       <sourceDesc>
+     
         <msDesc xml:lang="en">
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>    
         </msDesc>
@@ -24,9 +23,15 @@
     </fileDesc>
     <revisionDesc><change/></revisionDesc>
   </teiHeader>
-<text xml:lang="ta" type="edition">
-  <body>
-    <div rend="parallel">
+  <text xml:lang="ta" type="edition">
+    <body>
+      <div rend="parallel">
+        <p xml:id="Aink259-kilavi">varaiyat tuṇinta talaimakaṉ varaivu muṭittaṟkut talaimakaḷ varuntukiṉṟa varuttam tōḻi kāṭṭak kaṇṭu iṉi yatu kaṭuka muṭiyum eṉa vuvanta vuḷḷattaṉāyt taṉṉuḷḷē colliyatu.
+          </p>
+        <p xml:lang="en">What the hero, who had resolved to marry, said within himself, having seen as the confidante showed [him] the heroine’s distress [at the delay] in completing the marriage, and becoming inwardly glad that now it could be quickly accomplished.   
+        </p>
+      </div>
+      <div rend="parallel">
       <lg xml:id="Aink259">
 <l>kuṉṟak kuṟavaṉ kātaṉ maṭamakaṇ</l>
 <l>maṉṟa vēṅkai malarcila koṇṭu</l>
@@ -36,7 +41,19 @@
 <l>kaliḻnta kaṇṇaḷem maṇaṅki yōḷē</l>
       </lg>
       <lg xml:lang="en">
-<!--put your translation here-->
+        <l>The beloved, naïve daughter of the hill-dweller—</l>
+        <l>she with wet, fragrant hands, who,</l>
+        
+        <l rend="space">having taken a few blossoms</l>
+        <l>of the kino tree in the village common,</l>
+        <l>and having praised the family deity,</l>
+        <l>the god who dwells in the mountain,</l>
+        <l>made offerings of honey—</l>
+        
+        <l rend="space">being fragrant like blooming Malabar glory lilies,</l>
+        <l>she with eyes that have wept—</l>
+        
+        <l rend="space">is the one who has tormented us.</l>
       </lg>
     </div>
   </body>
