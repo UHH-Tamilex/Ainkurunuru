@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?><?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <title xml:lang="ta">Aiṅkuṟunūṟu</title> 258.
+          <persName xml:lang="ta">Kapilar</persName> 
+      </title> 
+      <editor role="translator">Maanasa Visweswaran</editor>  
+      </titleStmt>
+      <publicationStmt><p/></publicationStmt>
+      <sourceDesc>
+     
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p/>
+            </summary>
+          </msContents>    
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc><change/></revisionDesc>
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <div rend="parallel">
+        <p xml:id="Aink258-kilavi">varaivu vēṇṭiviṭa maṟuttuḻit tamarkk uraippāḷāy varaiyātu vantoḻukum 
+          talaimakaṟkut tōḻi yavaṉ malai kāṇṭalē paṟṟākat tāṅkaḷ uyir vāḻkiṉṟamai tōṉṟac colliyatu.
+          </p>
+        <p xml:lang="en">What the confidante—being one who, having requested marriage and been refused, spoke as one addressing her people—told the hero who kept coming without marrying, so as to make it apparent that they live, holding only the sight of his mountain as their support.   
+        </p>
+      </div>
+      <div rend="parallel">
+      <lg xml:id="Aink258">
+<l>kuṉṟak kuṟavaṉ kātaṉ maṭamaka</l>
+<l>ḷaṇimayi laṉṉa vacainaṭaik koṭicciyaip</l>
+<l>peruvarai nāṭaṉ varaiyu māyiṟ</l>
+<l>koṭuttaṉe māyiṉō naṉṟē</l>
+<l>yiṉṉu māṉātu naṉṉuta ṟuyarē</l>
+      </lg>
+      <lg xml:lang="en">
+        <l>If the man from the land of the great hills</l>
+        <l>were to marry the girl like a creeper,</l>
+        <l>with a swaying gait</l>
+        <l>like that of the beautiful peacock,</l>
+        
+        <l rend="indent2">that beloved, naïve daughter</l>
+        <l rend="indent2">of the hill dweller,</l>
+        <l rend="space">only if we were to give her away,</l>
+        <l>that would be good.</l>
+        <l rend="space">[Otherwise], the suffering</l>
+        <l>of her good forehead</l>
+        <l>would not cease now.</l>
+        
+      </lg>
+    </div>
+  </body>
+</text>
+<standOff type="wordsplit" corresp="#Aink258"><interp type="alignment" select="0">22MR79MG5M2G20ML4MGM,137M</interp>
+<entry>
+<form>kuṉṟa<c type="geminated">k</c></form>
+<def>hill</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kuṟavaṉ</form>
+<def>hill inhabitant</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+  <gram type="role">singular</gram>
+  <gram type="role">masculine</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kātal</form>
+<def>love</def>
+<form type="sandhi">kātaṉ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>maṭa<c type="uncertain">m</c></form>
+<def>inexperience</def>
+<form type="sandhi">maṭam</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>makaḷ</form>
+<def>woman</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>aṇi</form>
+<def>adorn</def>
+<gramGrp>
+  <gram type="role">verbal root</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>mayil</form>
+<def>peacock</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>aṉṉa</form>
+<def>like</def>
+</entry>
+<entry>
+<form><c type="glide">v</c>acai</form>
+<def>move</def>
+<gramGrp>
+  <gram type="role">verbal root</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>naṭai<c type="geminated">k</c></form>
+<def>gait</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>koṭicciyai<c type="geminated">p</c></form>
+<def>creeper-she</def>
+<gramGrp>
+  <gram type="role">accusative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>peru</form>
+<def>big</def>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>varai</form>
+<def>mountain</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>nāṭaṉ</form>
+<def>land-he</def>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">singular</gram>
+  <gram type="role">masculine</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>varaiyum</form>
+<def>marries</def>
+<gramGrp>
+  <gram type="role">habitual future</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>āyiṉ</form>
+<def>if</def>
+<form type="sandhi">āyiṟ</form>
+<gramGrp>
+  <gram type="role">conditional</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>koṭuttaṉem</form>
+<def>we have given</def>
+<gramGrp>
+  <gram type="role">first person</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>āyiṉ-ō</form>
+<def>if</def>
+<form type="simple">āyiṉ</form>
+<gramGrp>
+  <gram type="role">conditional</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ō</m></gramGrp>
+</entry>
+<entry>
+<form>naṉṟ<c type="elided">u</c>-ē</form>
+<def>good-it</def>
+<form type="simple">naṉṟu</form>
+<form type="sandhi">naṉṟ</form>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">neuter singular</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>iṉṉum</form>
+<def>now</def>
+</entry>
+<entry>
+<form>āṉātu</form>
+<def>end not it</def>
+<gramGrp>
+  <gram type="role">neuter singular</gram>
+  <gram type="role">negative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>nal</form>
+<def>good</def>
+<form type="sandhi">naṉ</form>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>nutal</form>
+<def>forehead</def>
+<form type="sandhi">ṉutaṟ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tuyar-ē</form>
+<def>misery</def>
+<form type="simple">tuyar</form>
+<form type="sandhi">ṟuyar</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry></standOff>
+<standOff corresp="#Aink258-kilavi" type="wordsplit">
+<interp type="alignment" select="0">22MG11MG23MG39MG5MG41M,145MG</interp>
+<entry>
+<form>varaivu</form>
+<def>marriage</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vēṇṭi</form>
+<def>wanted</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>viṭa</form>
+<def>let-go</def>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>maṟutt<c type="elided">u</c></form>
+<def>refused</def>
+<form type="sandhi">maṟutt</form>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>uḻi<c type="geminated">t</c></form>
+<def>when</def>
+</entry>
+<entry>
+<form>tamarkk<c type="elided">u</c></form>
+<def>self-they</def>
+<form type="sandhi">tamarkk</form>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">dative</gram>
+  <gram type="role">third person</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>uraippāḷ</form>
+<def>talk-she</def>
+<gramGrp>
+  <gram type="role">participial noun</gram>
+  <gram type="role">singular</gram>
+  <gram type="role">feminine</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>āy</form>
+<def>become</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>varaiyātu</form>
+<def>marry not</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+  <gram type="role">negative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vant<c type="elided">u</c></form>
+<def>come</def>
+<form type="sandhi">vant</form>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>oḻukum</form>
+<def>flowing</def>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>talaimakaṟku<c type="geminated">t</c></form>
+<def>hero</def>
+<gramGrp>
+  <gram type="role">dative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tōḻi</form>
+<def>confidante</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>avaṉ</form>
+<def>that one</def>
+<gramGrp>
+  <gram type="role">singular</gram>
+  <gram type="role">masculine</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>malai</form>
+<def>mountain</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kāṇṭal-ē</form>
+<def>seeing</def>
+<form type="simple">kāṇṭal</form>
+<gramGrp>
+  <gram type="role">verbal noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+<entry>
+<form>paṟṟ<c type="elided">u</c></form>
+<def>support</def>
+<form type="sandhi">paṟṟ</form>
+<gramGrp>
+  <gram type="role">root noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>āka<c type="geminated">t</c></form>
+<def>become</def>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tāṅkaḷ</form>
+<def>they</def>
+<gramGrp>
+  <gram type="role">pronoun</gram>
+  <gram type="role">plural</gram>
+  <gram type="role">third person</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>uyir</form>
+<def>life</def>
+<gramGrp>
+  <gram type="role">root noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vāḻkiṉṟamai</form>
+<def>having-lived</def>
+<gramGrp>
+  <gram type="role">verbal noun</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tōṉṟa<c type="geminated">c</c></form>
+<def>appear</def>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>colliyatu</form>
+<def>spoken-it</def>
+<gramGrp>
+  <gram type="role">participial noun</gram>
+  <gram type="role">neuter singular</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+</standOff></TEI>
