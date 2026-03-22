@@ -40,14 +40,14 @@
       <lg xml:lang="en">
         <l>The land</l>
         <l>to which you depart—</l>
-        <l rend="space">for the beautiful, red-streaked long eyes</l>
-        <l>of the small woman</l>
-        <l>with lustrous bangles</l>
-        <l>to weep—</l>
-        <l>[that woman]</l>
-        <l>whom the man, [her father], the hill-dweller,</l>
-        <l>who cherished and supplicated the god,</l>
-        <l>obtained—</l>
+        <l rend="space indent">for the beautiful, red-streaked long eyes</l>
+        <l rend="indent">of the small woman</l>
+        <l rend="indent">with lustrous bangles</l>
+        <l rend="indent">to weep—</l>
+        <l rend="indent2">[that woman]</l>
+        <l rend="indent2">whom the man, [her father], the hill-dweller,</l>
+        <l rend="indent2">who cherished and supplicated the god,</l>
+        <l rend="indent2">obtained—</l>
         <l rend="space">alas—</l>
         <l>is far!</l>
         
