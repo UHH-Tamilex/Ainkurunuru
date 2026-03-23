@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?><?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <title xml:lang="ta">Aiṅkuṟunūṟu</title>261.
+          <persName xml:lang="ta">Kapilar</persName> 
+      </title> 
+      <editor role="translator">Maanasa Visweswaran</editor>  
+      </titleStmt>
+      <publicationStmt><p/></publicationStmt>
+      <sourceDesc>
+     
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p/>
+            </summary>
+          </msContents>    
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc><change/></revisionDesc>
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <div rend="parallel">
+        <p xml:id="Aink261-kilavi">allakuṟippaṭṭut talaimakaṉ nīṅkiṉamai aṟiyātāḷ pōṉṟu tōḻi piṟṟai ñāṉṟ avaṉ ciṟaippuṟattāṉāy niṟpat talaimakaṭkuc colliyatu.
+          </p>
+        <p xml:lang="en">
+          
+
+What the confidante, who pretended not to know that the hero had been misled by a false sign and had left, told the heroine, as the hero stood behind the hedge on a later day.
+            
+        </p>
+      </div>
+      <div rend="parallel">
+      <lg xml:id="Aink261">
+<l>meṉṟiṉai mēynta taṟukaṭ paṉṟi</l>
+<l>vaṉka laṭukkattut tuñcu nāṭa</l>
+<l>ṉentai yaṟita lañcikko</l>
+<l>latuvē maṉṟa vārā maiyē</l>
+      </lg>
+      <lg xml:lang="en">
+        <l>Did the man from the land where</l>
+        <l>cruel boars that graze on tender millet,</l>
+        <l>sleep on the mountain slopes with hard stones,</l>
+        <l rend="space">not come,</l>
+        <l>having feared</l>
+        <l>that my father would know?</l>
+        
+      </lg>
+    </div>
+  </body>
+</text>
+<standOff type="wordsplit" corresp="#Aink261"><interp type="alignment" select="0">47MR22MG6MG14MG2M,95M</interp>
+<entry>
+<form>mel</form>
+<def>tender</def>
+<form type="sandhi">meṉ</form>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tiṉai</form>
+<def>millet</def>
+<form type="sandhi">ṟiṉai</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>mēynta</form>
+<def>grazed</def>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>taṟukaṇ</form>
+<def>cruelty</def>
+<form type="sandhi">taṟukaṭ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>paṉṟi</form>
+<def>boar</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>val</form>
+<def>hard</def>
+<form type="sandhi">vaṉ</form>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kal</form>
+<def>stone</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>aṭukkattu<c type="geminated">t</c></form>
+<def>mountain side</def>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tuñcum</form>
+<def>sleeping</def>
+<form type="sandhi">tuñcun</form>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>nāṭaṉ</form>
+<def>land-he</def>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">singular</gram>
+  <gram type="role">masculine</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>entai</form>
+<def>my father</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>aṟital</form>
+<def>knowing</def>
+<gramGrp>
+  <gram type="role">verbal noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>añci<c type="geminated">k</c>-kol</form>
+<def>feared</def>
+<form type="simple">añci</form>
+<form type="sandhi">añci<c type="geminated">k</c></form>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">kol</m></gramGrp>
+</entry>
+<entry>
+<form>atu-<c type="glide">v</c>ēmaṉṟa</form>
+<def>that</def>
+<form type="simple">atu</form>
+<gramGrp type="particle"><m type="enclitic">ēmaṉṟa</m></gramGrp>
+</entry>
+<entry>
+<form>vārāmai-<c type="glide">y</c>ē</form>
+<def>coming-not</def>
+<form type="simple">vārāmai</form>
+<gramGrp>
+  <gram type="role">verbal noun</gram>
+  <gram type="role">negative</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry></standOff>
+</TEI>
