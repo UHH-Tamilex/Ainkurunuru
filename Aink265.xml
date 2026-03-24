@@ -1,22 +1,21 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?><?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta">Aiṅkuṟunūṟu </title> <num>265</num>.
-            <persName xml:lang="ta">Kapilar </persName>
-        </title>     
+          <title xml:lang="ta">Aiṅkuṟunūṟu</title> 265.
+          <persName xml:lang="ta">Kapilar</persName> 
+      </title> 
+      <editor role="translator">Maanasa Visweswaran</editor>  
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
       <sourceDesc>
+     
         <msDesc xml:lang="en">
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>    
         </msDesc>
@@ -24,9 +23,15 @@
     </fileDesc>
     <revisionDesc><change/></revisionDesc>
   </teiHeader>
-<text xml:lang="ta" type="edition">
-  <body>
-    <div rend="parallel">
+  <text xml:lang="ta" type="edition">
+    <body>
+      <div rend="parallel">
+        <p xml:id="Aink265-kilavi">parattai yiṭattāṉ āka voḻukukiṉṟa talaimakaṉ viṭutta vāyiṉ mākkaṭkut talaimakaḷ colliyatu.
+          </p>
+        <p xml:lang="en">What the heroine told the mediator people sent by the hero who kept being at the place of the concubine.
+        </p>
+      </div>
+      <div rend="parallel">
       <lg xml:id="Aink265">
 <l>pulikol peṇpāṟ pūvarik kuruḷai</l>
 <l>vaḷaiveṇ maruppiṟ kēḻal purakkuṅ</l>
@@ -34,7 +39,13 @@
 <l>poṉpōṟ putalvaṉō ṭeṉṉīt tōṉē</l>
       </lg>
       <lg xml:lang="en">
-<!--put your translation here-->
+        <l>The man from the land of hills</l>
+        <l>where a boar, with curved white tusks,</l>
+        <l>protects a piglet with beautiful stripes,</l>
+        <l>because its female was killed by a tiger—</l>
+        <l rend="space">he has forgotten me,</l>
+        <l>leaving me with my son, [precious] as gold.</l>
+        
       </lg>
     </div>
   </body>
@@ -107,7 +118,7 @@
 </entry>
 <entry>
 <form>maruppiṉ</form>
-<def>horn</def>
+<def>tusk</def>
 <form type="sandhi">maruppiṟ</form>
 <gramGrp>
   <gram type="role">oblique</gram>
