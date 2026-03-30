@@ -26,7 +26,7 @@
   <text xml:lang="ta" type="edition">
     <body>
       <div rend="parallel">
-        <p xml:id="Aink274-kilavi">varaiviṭai vaittup pirintuḻi āṟṟuvikkum tōḻikkut talaimakaḷ colliyatu.
+        <p xml:id="Aink274-kilavi">varaiviṭai vaittup pirintuḻi yāṟṟuvikkum tōḻikkut talaimakaḷ colliyatu.
           </p>
         <p xml:lang="en"> What the heroine said to the confidante who consoles her when [the hero], having fixed the marriage, had separated.
           
@@ -253,7 +253,7 @@
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry></standOff>
 <standOff corresp="#Aink274-kilavi" type="wordsplit">
-<interp type="alignment" select="0">6MG17MG41M,65MG</interp>
+<interp type="alignment" select="0">6MG17MG42M,66MG</interp>
 <entry>
 <form>varaiv<c type="elided">u</c></form>
 <def>marriage</def>
@@ -287,11 +287,9 @@
 <entry>
 <form>uḻi</form>
 <def>place</def>
-<gramGrp>
-</gramGrp>
 </entry>
 <entry>
-<form>āṟṟuvikkum</form>
+<form><c type="glide">y</c>āṟṟuvikkum</form>
 <def>reassuring</def>
 <gramGrp>
   <gram type="role">peyareccam</gram>
