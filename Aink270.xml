@@ -1,22 +1,21 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?><?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta">Aiṅkuṟunūṟu </title> <num>270</num>.
-            <persName xml:lang="ta">Kapilar </persName>
-        </title>     
+          <title xml:lang="ta">Aiṅkuṟunūṟu</title> 270.
+          <persName xml:lang="ta">Kapilar</persName> 
+      </title> 
+      <editor role="translator">Maanasa Visweswaran</editor>  
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
       <sourceDesc>
+     
         <msDesc xml:lang="en">
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>    
         </msDesc>
@@ -24,9 +23,15 @@
     </fileDesc>
     <revisionDesc><change/></revisionDesc>
   </teiHeader>
-<text xml:lang="ta" type="edition">
-  <body>
-    <div rend="parallel">
+  <text xml:lang="ta" type="edition">
+    <body>
+      <div rend="parallel">
+        <p xml:id="Aink270-kilavi">varaivu kāraṇamāka neṭṭiṭai kaḻintu poruḷvayiṟ pōkiya talaimakaṉ vantamai yaṟinta tōḻi yuvanta vuḷḷattaḷāyt talaimakaṭkuc colliyatu. 
+          </p>
+        <p xml:lang="en"> What the confidante, knowing that the hero—who had gone away for the sake of wealth—had returned after a long interval for the sake of marriage, said to the heroine, being inwardly glad.
+        </p>
+      </div>
+      <div rend="parallel">
       <lg xml:id="Aink270">
 <l>kiḻaṅkakaḻ kēḻa luḻuta cilampiṟ</l>
 <l>ṟalaiviḷai kāṉavar koytaṉar peyarum</l>
@@ -35,7 +40,15 @@
 <l>tāmvan taṉarnaṅ kāta lōrē</l>
       </lg>
       <lg xml:lang="en">
-<!--put your translation here-->
+        <l>Thinking of the pain in which [you] cry,</l>
+        <l>even if you see the tall mountain range</l>
+        <l>that takes on loneliness,</l>
+        <l>with lacklustre hills where forest people</l>
+        <l>leave, having plucked the first harvest </l>
+        <l rend="indent2">on the mountain slope ploughed </l>
+        <l rend="indent2">by boars that dig up bulbous roots—</l>
+        <l>our lover came.</l>
+        
       </lg>
     </div>
   </body>
@@ -225,4 +238,141 @@
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry></standOff>
-</TEI>
+<standOff corresp="#Aink270-kilavi" type="wordsplit">
+<interp type="alignment" select="0">21MG98M,119MG</interp>
+<entry>
+<form>varaivu</form>
+<def>marriage</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kāraṇam</form>
+<def>reason</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>āka</form>
+<def>become</def>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>neṭṭ<c type="elided">u</c></form>
+<def>long</def>
+<form type="sandhi">neṭṭ</form>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>iṭai</form>
+<def>middle</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kaḻintu</form>
+<def>passed</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>poruḷ</form>
+<def>wealth</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vayiṉ</form>
+<def>side</def>
+<form type="sandhi">vayiṟ</form>
+<gramGrp>
+</gramGrp>
+</entry>
+<entry>
+<form>pōkiya</form>
+<def>gone</def>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>talaimakaṉ</form>
+<def>hero</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vantamai</form>
+<def>having-come</def>
+<gramGrp>
+  <gram type="role">verbal noun</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>aṟinta</form>
+<def>known</def>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tōḻi</form>
+<def>confidante</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>uvanta</form>
+<def>delighted</def>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">v</c>uḷḷattaḷ</form>
+<def>heart-she</def>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">singular</gram>
+  <gram type="role">feminine</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>āy<c type="geminated">t</c></form>
+<def>become</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>talaimakaṭku<c type="geminated">c</c></form>
+<def>heroine</def>
+<gramGrp>
+  <gram type="role">dative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>colliyatu</form>
+<def>spoken-it</def>
+<gramGrp>
+  <gram type="role">participial noun</gram>
+  <gram type="role">neuter singular</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+</standOff></TEI>
