@@ -6,17 +6,19 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta">Aiṅkuṟunūṟu</title> <num>233</num>.
-            <persName xml:lang="ta">Kapilar </persName>
-        </title>     
+          <title xml:lang="ta">Aiṅkuṟunūṟu</title> 233.
+          <persName xml:lang="ta">Kapilar</persName> 
+      </title> 
+      <editor role="translator">Maanasa Visweswaran</editor>  
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
       <sourceDesc>
+     
         <msDesc xml:lang="en">
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>    
         </msDesc>
@@ -24,8 +26,14 @@
     </fileDesc>
     <revisionDesc><change/></revisionDesc>
   </teiHeader>
-<text xml:lang="ta" type="edition">
-  <body>
+  <text xml:lang="ta" type="edition">
+    <body>
+    <div rend="parallel">
+      <p xml:id="Aink233-kilavi">oruvaḻittaṇantu varaiya vēṇṭum eṉṟa talaimakaṟkut tōḻi colliyatu. </p>
+      <p xml:lang="en"> What the confidante told the hero, who said, “It is necessary [for me] to go away briefly and [then] marry.”
+      </p>
+    </div>
+ 
     <div rend="parallel">
       <lg xml:id="Aink233">
 <l>varuvai yallai vāṭainaṉi koṭitē</l>
@@ -34,12 +42,17 @@
 <l>kalluṭai nāṭṭuc cella ṟeyyō</l>
       </lg>
       <lg xml:lang="en">
-<!--put your translation here-->
+        <l>You will not come. The northern winds are severe.</l> 
+        <l>Do not go to your mountain land,</l>
+        <l>where the waterfalls cascade, sounding “ol,”</l>
+        <l>gathering choice gems from the slopes of the difficult mountain.</l>
+        
       </lg>
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#Aink233"><interp type="alignment" select="0">27M2G75M2G4M,110M</interp>
+<standOff type="wordsplit" corresp="#Aink233">
+<interp type="alignment" select="0">27M2G75M2G4M,110M</interp>
 <entry>
 <form>varuvai</form>
 <def>you come</def>
@@ -154,7 +167,7 @@
 </entry>
 <entry>
 <form>kal</form>
-<def>stone</def>
+<def>mountain</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -178,5 +191,6 @@
   <gram type="role">imperative</gram>
   <gram type="role">negative</gram>
 </gramGrp>
-</entry></standOff>
+</entry>
+</standOff>
 </TEI>
