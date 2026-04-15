@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?><?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <title xml:lang="ta">Aiṅkuṟunūṟu</title> 287.
+          <persName xml:lang="ta">Kapilar</persName> 
+      </title> 
+      <editor role="translator">Maanasa Visweswaran</editor>  
+      </titleStmt>
+      <publicationStmt><p/></publicationStmt>
+      <sourceDesc>
+     
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p/>
+            </summary>
+          </msContents>    
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc><change/></revisionDesc>
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <div rend="parallel">
+        <p xml:id="Aink287-kilavi">iṉṉanāḷil varaival eṉak kūṟi annāḷil varaiyātu piṉ avvāṟu kūṟum talaimakaṟkut tōḻi kūṟiyatu.
+           </p>
+        <p xml:lang="en"> What the confidante said to the hero, who had said, “I will marry [her] on such-and-such a day,” but did not marry [her] on that day, and later spoke again in the same way.</p>
+      </div>
+      <div rend="parallel">
+      <lg xml:id="Aink287">
+<l>neṭuvarai micaiyatu kuṟuṅkāl varuṭai</l>
+<l>tiṉaipāy kiḷḷai verūu nāṭa</l>
+<l>vallai maṉṟa poyttal</l>
+<l>vallāy maṉṟanī yallatu ceyalē</l>
+      </lg>
+      <lg xml:lang="en">
+        <l>O man from the land where parakeets that pervade the millet fields</l>
+        <l>fear the short-legged mountain sheep on the summit of the high hills,</l>
+        <l>you are indeed capable of lying—</l>
+        <l>but you are certainly incapable of doing what is improper.</l>
+        
+      </lg>
+    </div>
+  </body>
+</text>
+<standOff type="wordsplit" corresp="#Aink287"><interp type="alignment" select="0">52MR47MGM,102M</interp>
+<entry>
+<form>neṭu</form>
+<def>tall</def>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>varai</form>
+<def>mountain</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>micaiyatu</form>
+<def>elevation-it</def>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">neuter singular</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kuṟum</form>
+<def>short</def>
+<form type="sandhi">kuṟuṅ</form>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kāl</form>
+<def>leg</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>varuṭai</form>
+<def>mountain sheep</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tiṉai</form>
+<def>millet</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>pāy</form>
+<def>spread</def>
+<gramGrp>
+  <gram type="role">verbal root</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kiḷḷai</form>
+<def>parakeet</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>verūum</form>
+<def>being frightened</def>
+<form type="sandhi">verūun</form>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>nāṭa</form>
+<def>land-he</def>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">singular</gram>
+  <gram type="role">masculine</gram>
+  <gram type="role">vocative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vallai</form>
+<def>you are capable</def>
+<gramGrp>
+  <gram type="role">second person</gram>
+  <gram type="role">singular</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>maṉṟa</form>
+<def>indeed</def>
+<gramGrp>
+  <gram type="role">interjection</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>poyttal</form>
+<def>lying</def>
+<gramGrp>
+  <gram type="role">verbal noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vallāy</form>
+<def>you are not capable</def>
+<gramGrp>
+  <gram type="role">second person</gram>
+  <gram type="role">singular</gram>
+  <gram type="role">negative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>maṉṟa</form>
+<def>indeed</def>
+<gramGrp>
+  <gram type="role">interjection</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>nī</form>
+<def>you</def>
+<gramGrp>
+  <gram type="role">pronoun</gram>
+  <gram type="role">singular</gram>
+  <gram type="role">second person</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>allatu</form>
+<def>that-which-is-not</def>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">neuter singular</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ceyal-ē</form>
+<def>doing</def>
+<form type="simple">ceyal</form>
+<gramGrp>
+  <gram type="role">verbal noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry></standOff>
+<standOff corresp="#Aink287-kilavi" type="wordsplit">
+<interp type="alignment" select="0">81M,80MG</interp>
+<entry>
+<form>iṉṉa</form>
+<def>like-this</def>
+<gramGrp>
+  <gram type="role">plural</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>nāḷil</form>
+<def>day</def>
+<gramGrp>
+  <gram type="role">locative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>varaival</form>
+<def>I will marry</def>
+<gramGrp>
+  <gram type="role">singular</gram>
+  <gram type="role">first person</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>eṉa<c type="geminated">k</c></form>
+<def>say</def>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kūṟi</form>
+<def>told</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>a<c type="geminated">n</c></form>
+<def>that</def>
+</entry>
+<entry>
+<form>nāḷil</form>
+<def>day</def>
+<gramGrp>
+  <gram type="role">locative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>varaiyātu</form>
+<def>marry not</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+  <gram type="role">negative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>piṉ</form>
+<def>after</def>
+</entry>
+<entry>
+<form>avvāṟu</form>
+<def>in that manner</def>
+</entry>
+<entry>
+<form>kūṟum</form>
+<def>talking</def>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>talaimakaṟku<c type="geminated">t</c></form>
+<def>hero</def>
+<gramGrp>
+  <gram type="role">dative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tōḻi</form>
+<def>confidante</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kūṟiyatu</form>
+<def>told-it</def>
+<gramGrp>
+  <gram type="role">participial noun</gram>
+  <gram type="role">neuter singular</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+</standOff></TEI>
