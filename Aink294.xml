@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?><?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <title xml:lang="ta">Aiṅkuṟunūṟu</title> 294.
+          <persName xml:lang="ta">Kapilar</persName> 
+      </title> 
+      <editor role="translator">Maanasa Visweswaran</editor>  
+      </titleStmt>
+      <publicationStmt><p/></publicationStmt>
+      <sourceDesc>
+     
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p/>
+            </summary>
+          </msContents>    
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc><change/></revisionDesc>
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <div rend="parallel">
+        <p xml:id="Aink294-kilavi">vatuvai cellāniṉṟuḻit talaimakaṟkut tōḻi kūṟiyatu.</p>
+        <p xml:lang="en"> 
+          What the confidante told the hero when the marriage was going on.                 
+        </p>
+      </div>
+      <div rend="parallel">
+      <lg xml:id="Aink294">
+<l>erimaruḷ vēṅkai yirunta tōkai</l>
+<l>yiḻaiyaṇi maṭantaiyiṟ ṟōṉṟu nāṭa</l>
+<l>viṉitucey taṉaiyā ṉuntai vāḻiyar</l>
+<l>naṉmaṉai vatuvai yayaravivaḷ</l>
+<l>piṉṉiruṅ kūntaṉ malaraṇin tōyē</l>
+      </lg>
+      <lg xml:lang="en">
+        <l>O man from the land where</l>
+        <l>a peacock, perched on the kino-tree with flame-like [flowers],</l>
+        <l>appears like a girl adorned in jewels—</l>
+        <l>since what you have done is pleasing, long live your father!</l>
+        <l rend="space">As the good house engages in marriage,</l>
+        <l>you adorned her braided dark tresses with blossoms.</l>
+        
+      </lg>
+    </div>
+  </body>
+</text>
+<standOff type="wordsplit" corresp="#Aink294"><interp type="alignment" select="0">51MR21ML42MG22MGM,141M</interp>
+<entry>
+<form>eri</form>
+<def>flame</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>maruḷ</form>
+<def>resemble</def>
+<gramGrp>
+  <gram type="role">verbal root</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vēṅkai</form>
+<def>kino tree</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>irunta</form>
+<def>sat</def>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tōkai</form>
+<def>peacock</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>iḻai</form>
+<def>jewel</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>aṇi</form>
+<def>adorn</def>
+<gramGrp>
+  <gram type="role">verbal root</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>maṭantaiyiṉ</form>
+<def>girl</def>
+<form type="sandhi">maṭantaiyiṟ</form>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tōṉṟum</form>
+<def>appearing</def>
+<form type="sandhi">ṟōṉṟun</form>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>nāṭa</form>
+<def>land-he</def>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">singular</gram>
+  <gram type="role">masculine</gram>
+  <gram type="role">vocative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">v</c>iṉitu</form>
+<def>pleasant-it</def>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">neuter singular</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ceytaṉaiyāl</form>
+<def>you-did</def>
+<form type="sandhi">ceytaṉaiyāṉ</form>
+<gramGrp>
+  <gram type="role">conditional</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>nuntai</form>
+<def>your father</def>
+<form type="sandhi">ṉuntai</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vāḻiyar</form>
+<def>may live</def>
+<gramGrp>
+  <gram type="role">optative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>naṉ</form>
+<def>good</def>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>maṉai</form>
+<def>house</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vatuvai</form>
+<def>wedding</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>ayara</form>
+<def>engage</def>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">v</c>ivaḷ</form>
+<def>this one</def>
+<gramGrp>
+  <gram type="role">singular</gram>
+  <gram type="role">feminine</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>piṉṉ<c type="elided">u</c></form>
+<def>braid</def>
+<form type="sandhi">piṉṉ</form>
+<gramGrp>
+  <gram type="role">verbal root</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>irum</form>
+<def>dark</def>
+<form type="sandhi">iruṅ</form>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kūntal</form>
+<def>tresses</def>
+<form type="sandhi">kūntaṉ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>malar</form>
+<def>blossom</def>
+<gramGrp>
+  <gram type="role">root noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>aṇintōy-ē</form>
+<def>you adorned</def>
+<form type="simple">aṇintōy</form>
+<gramGrp>
+  <gram type="role">singular</gram>
+  <gram type="role">second person</gram>
+  <gram type="role">perfective aspect</gram>
+  <gram type="role">participial noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry></standOff>
+<standOff corresp="#Aink294-kilavi" type="wordsplit">
+<interp type="alignment" select="0">16MG30M,46MG</interp>
+<entry>
+<form>vatuvai</form>
+<def>bride</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>cellāniṉṟ<c type="elided">u</c></form>
+<def>happened</def>
+<form type="sandhi">cellāniṉṟ</form>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+  <gram type="role">present tense</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>uḻi<c type="geminated">t</c></form>
+<def>when</def>
+<gramGrp>
+</gramGrp>
+</entry>
+<entry>
+<form>talaimakaṟku<c type="geminated">t</c></form>
+<def>hero</def>
+<gramGrp>
+  <gram type="role">dative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tōḻi</form>
+<def>confidante</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kūṟiyatu</form>
+<def>told-it</def>
+<gramGrp>
+  <gram type="role">participial noun</gram>
+  <gram type="role">neuter singular</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+</standOff></TEI>
