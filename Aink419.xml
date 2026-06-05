@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?><?xml-stylesheet type="text/xsl" href="edition.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title>
+            <title xml:lang="ta">Aiṅkuṟunūṟu</title> 419. <persName xml:lang="ta"/>
+          </title>
+          <editor role="translator">Leo Nelson-Jones</editor>
+  
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc>
+          <msDesc xml:lang="en">
+            <msIdentifier>
+            </msIdentifier>
+            <msContents>
+              <summary>
+                <p/>
+              </summary>
+            </msContents>
+          </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+        <change/>
+      </revisionDesc>
+    </teiHeader>
+    <text xml:lang="ta" type="edition">
+      <body>
+        <div rend="parallel">
+          <p xml:id="Aink419-kilavi">iṉpa nukarccikku ēṟṟa paruvam vantuḻit talaimakaḷoṭu puṟaviṟ ceṉṟa talaimakaṉ avviṭattu mākkaḷai avaṭkuk kāṭṭic colliyatu.</p>
+          <p xml:lang="en">The hero, who had gone to the woodland with the talaimakal on returning at the season suitable for the enjoyment of pleasure, after showing her the people in that place, spoke [this].</p>
+        </div>
+        <div rend="parallel">
+          <lg xml:id="Aink419">        
+<l>uyirkalan toṉṟiya ceyirtīr kēṇmaip</l>
+<l>pirintuṟa laṟiyā viruntu kavavi</l>
+<l>nampō ṉayavarap puṇarntaṉa</l>
+<l>kaṇṭiku maṭavaral puṟaviṉ māvē.</l>
+          </lg>
+          <lg xml:lang="en">
+           <l>The faultless intimacy in which lives join and become one -</l>
+            <l>not knowing how to live apart, embracing anew,<note xml:lang="en" place="foot"><q xml:lang="ta-Latn"><hi rend="italic">viruntu</hi></q> is not clear to me. I have taken here in the sense of 'new', found in Pari 6: 40, but I see another compelling alternative. One can also read <q xml:lang="ta-Latn"><hi rend="italic">iruntu</hi></q>, taking the intial <foreign xml:lang="ta-Latn">v-</foreign> as an intervocalic glide. In that case, the phrase could be translated as: 'remaining [togehter] and embracing', or something similar. Because of the regenerative properties associated with rainfall, I opted for translation presented in the body.</note></l>
+            <l>they united in desire, just like us.</l>
+            <l>O young woman, Let us see those animals in the woodlands.</l>
+          </lg>
+        </div>
+      </body>
+    </text>
+    <standOff corresp="#Aink419-kilavi" type="wordsplit">
+<interp type="alignment" select="0">4MR26MG79M,110MG</interp>
+<entry>
+<form>iṉpam</form>
+<def>pleasure</def>
+<form type="sandhi">iṉpan</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>nukarccikku</form>
+<def>enjoyment</def>
+<gramGrp>
+  <gram type="role">dative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ēṟṟa</form>
+<def>been suitable</def>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>paruvam</form>
+<def>season</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vant<c type="elided">u</c></form>
+<def>come</def>
+<form type="sandhi">vant</form>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>uḻi<c type="geminated">t</c></form>
+<def>place</def>
+<gramGrp>
+</gramGrp>
+</entry>
+<entry>
+<form>talaimakaḷoṭu</form>
+<def>heroine</def>
+<gramGrp>
+  <gram type="role">sociative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>puṟaviṉ</form>
+<def>woodland</def>
+<form type="sandhi">puṟaviṟ</form>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ceṉṟa</form>
+<def>gone</def>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>talaimakaṉ</form>
+<def>hero</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>a<c type="geminated">v</c></form>
+<def>that</def>
+<gramGrp>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">v</c>iṭattu</form>
+<def>place</def>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>mākkaḷai</form>
+<def>people</def>
+<gramGrp>
+  <gram type="role">accusative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>avaṭku<c type="geminated">k</c></form>
+<def>that one</def>
+<gramGrp>
+  <gram type="role">singular</gram>
+  <gram type="role">feminine</gram>
+  <gram type="role">dative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kāṭṭi<c type="geminated">c</c></form>
+<def>showed</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>colliyatu</form>
+<def>spoken</def>
+<gramGrp>
+  <gram type="role">participial noun</gram>
+  <gram type="role">neuter singular</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+</standOff></TEI>
