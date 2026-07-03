@@ -1,18 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?><?xml-stylesheet type="text/xsl" href="edition.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>
-          <title xml:lang="ta">Aiṅkuṟunūṟu</title> 414. <persName xml:lang="ta"></persName>
+          <title xml:lang="ta">Aiṅkuṟunūṟu</title> 414. <persName xml:lang="ta"/>
         </title>
         <editor role="translator">Leo Nelson-Jones</editor>
 
       </titleStmt>
       <publicationStmt>
-        <p />
+        <p/>
       </publicationStmt>
       <sourceDesc>
         <msDesc xml:lang="en">
@@ -20,18 +17,22 @@
           </msIdentifier>
           <msContents>
             <summary>
-              <p></p>
+              <p/>
             </summary>
           </msContents>
         </msDesc>
       </sourceDesc>
     </fileDesc>
     <revisionDesc>
-      <change />
+      <change/>
     </revisionDesc>
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
+      <div rend="parallel">
+        <p xml:id="Aink414-kilavi">ituvum atu.</p>
+        <p xml:lang="en">And this is that.</p>
+      </div>
       <div rend="parallel">
         <lg xml:id="Aink414">
           <l>puḷḷu māvum puṇarntiṉi tukaḷak</l>
@@ -39,11 +40,12 @@
           <l>melliya larivai kaṇṭiku</l>
           <l>malla lākiya maṇaṅkamaḻ puṟavē</l>
         </lg>
-        <p xml:lang="en">
-          As the birds and the animals united and sweetly jumped around, we saw the sweet smelling woodland
-          which had become so rich after the many flowers had grown on the tree
-          branches and creepers, O soft-natured young women!
-        </p>
+        <lg xml:lang="en">
+          <l>As the birds and animals unite and sweetly play,</l>
+          <l>the many flowers on the tree branches and creepers [now] having grown,</l> 
+          <l>O soft-natured young women, let us see </l>
+          <l>the sweet-smeeling woodland that has become fertile.</l>
+        </lg>
       </div>
     </body>
   </text>
@@ -213,4 +215,20 @@
       </gramGrp>
     </entry>
   </standOff>
-</TEI>
+<standOff corresp="#Aink414-kilavi" type="wordsplit">
+<interp type="alignment" select="0">3MG7M,10MG</interp>
+<entry>
+<form>itu-<c type="glide">v</c>um</form>
+<def>this</def>
+<form type="simple">itu</form>
+<gramGrp>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>atu</form>
+<def>that</def>
+<gramGrp>
+</gramGrp>
+</entry>
+</standOff></TEI>
