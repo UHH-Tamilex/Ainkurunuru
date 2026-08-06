@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?><?xml-stylesheet type="text/xsl" href="edition.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title>
+            <title xml:lang="ta">Aiṅkuṟunūṟu</title> 428. <persName xml:lang="ta"/>
+          </title>
+          <editor role="translator">Leo Nelson-Jones</editor>
+  
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc>
+          <msDesc xml:lang="en">
+            <msIdentifier>
+            </msIdentifier>
+            <msContents>
+              <summary>
+                <p/>
+              </summary>
+            </msContents>
+          </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+        <change/>
+      </revisionDesc>
+    </teiHeader>
+    <text xml:lang="ta" type="edition">
+      <body>
+        <div rend="parallel">
+          <p xml:id="Aink428-kilavi">piriyum kol eṉṟu aiyuṟṟa talaimakaḷ aiyam tīrat talaimakaṉ colliyatu.</p>
+          <p xml:lang="en">In order to clear the doubt of the heroine who had the doubt 'will [he] separate?', the hero spoke [this].</p>
+            </div>
+        <div rend="parallel">
+          <lg xml:id="Aink428">        
+            <l>tērcela vaḻuṅkat tiruviṟ kōli</l>
+            <l>yārkali yeḻili cōrtoṭaṅ kiṉṟē</l>           
+            <l>vēntuviṭu viḻuttoḻi loḻiya</l>                
+            <l>yāṉṟoṭaṅ kiṉaṉā ṉiṟpuṟan taravē</l></lg>  
+ <lg xml:lang="en">
+    <l>To stop the journey of the chariot, the cloud of roaring sound<note xml:lang="en" place="foot"><foreign xml:lang="ta-Latn">ārkali</foreign>: <foreign xml:lang="ta-Latn">ār</foreign> can either be taken as the root 'to roar' or 'to be full' and it can either directly modify <foreign xml:lang="ta-Latn">kali</foreign> ('sound'), as understood in the present translation, or it can modify <foreign xml:lang="ta-Latn">eḻili</foreign> ('cloud'), if one takes the meaning 'to be full'. In practice, these differences affect the poem very little. In any case, the cloud is thundering and begins to rain. It is either explicitly stated that it is full and thundering, or, becasue of the fact that it is thundering, it is implied that it is full of rain.</note></l>
+<l>has formed<note xml:lang="en" place="foot">The commentary printed in the Saiva Sidhanta 1966 edition, written by Pō. Vē. Cōmasuntaraṉār, suggests the <foreign xml:lang="ta-Latn">viṉaiyeccam kōli</foreign> ought to be understood as 'having bent', or something similar. So far as I know, that is not a standard meaning of <foreign xml:lang="ta-Latn">kōlutal</foreign>. I imagine this interpretation is guided by the metaphor of a the bow, but I think it is unnecessary.</note> a brilliant bow and begun to pour.<note xml:lang="en" place="foot">What exactly does <foreign xml:lang="ta-Latn">cōr</foreign> mean here? Its standard semantic sense is 'to languish', 'to droop', or 'to slip down', though the meaning of 'to ooze' or 'to trickle' is also attested. There is both the idea of slackening and some sort of downward direction of some liquid. Considering the context of a thundering cloud stopping the hero's journey, 'pour' seems an appropraite extension.</note></l>
+<l>The excellent task dispatched by the king [now] ceased,</l>
+<l>I have begun to protect you.</l>                      
+
+          </lg>                      
+        </div>
+      </body>
+    </text>
+    <standOff corresp="#Aink428" type="wordsplit">
+<interp type="alignment" select="0">8MG43M2G38MG2ML11MG2M,110M</interp>
+<entry>
+<form>tēr</form>
+<def>chariot</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>celav<c type="elided">u</c></form>
+<def>going</def>
+<form type="sandhi">celav</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>aḻuṅka<c type="geminated">t</c></form>
+<def>prevent</def>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tiru</form>
+<def>brilliance</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vil</form>
+<def>bow</def>
+<form type="sandhi">viṟ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kōli</form>
+<def>formed</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>ār</form>
+<def>roar</def>
+<gramGrp>
+  <gram type="role">verbal root as adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kali</form>
+<def>sound</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>eḻili</form>
+<def>cloud</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>cōr</form>
+<def>drip</def>
+<gramGrp>
+  <gram type="role">verbal root</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>toṭaṅkiṉṟ<c type="elided">u</c>-ē</form>
+<def>it began</def>
+<form type="simple">toṭaṅkiṉṟu</form>
+<form type="sandhi">toṭaṅkiṉṟ</form>
+<gramGrp>
+  <gram type="role">neuter singular</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+<entry>
+<form>vēntu</form>
+<def>king</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>viṭu</form>
+<def>release</def>
+<gramGrp>
+  <gram type="role">verbal root</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>viḻu<c type="geminated">t</c></form>
+<def>excellent</def>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>toḻil</form>
+<def>task</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>oḻiya</form>
+<def>stay behind</def>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>yāṉ</form>
+<def>I</def>
+<gramGrp>
+  <gram type="role">singular</gram>
+  <gram type="role">first person</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>toṭaṅkiṉaṉ-āl</form>
+<def>I began</def>
+<form type="simple">toṭaṅkiṉaṉ</form>
+<form type="sandhi">ṟoṭaṅkiṉaṉ</form>
+<gramGrp>
+  <gram type="role">perfective aspect</gram>
+  <gram type="role">singular</gram>
+  <gram type="role">first person</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">āl</m></gramGrp>
+</entry>
+<entry>
+<form>niṉ</form>
+<def>you</def>
+<form type="sandhi">ṉiṟ</form>
+<gramGrp>
+  <gram type="role">singular</gram>
+  <gram type="role">oblique</gram>
+  <gram type="role">second person</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>puṟantara-<c type="glide">v</c>ē</form>
+<def>protect</def>
+<form type="simple">puṟantara</form>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+</standOff><standOff corresp="#Aink428-kilavi" type="wordsplit">
+<interp type="alignment" select="0">7MG54M,61MG</interp>
+<entry>
+<form>piriyum-kol</form>
+<def>separate</def>
+<form type="simple">piriyum</form>
+<gramGrp>
+  <gram type="role">habitual future</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">kol</m></gramGrp>
+</entry>
+<entry>
+<form>eṉṟu</form>
+<def>said</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>aiyuṟṟa</form>
+<def>doubted</def>
+<gramGrp>
+  <gram type="role">perfective aspect</gram>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>talaimakaḷ</form>
+<def>heroine</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+  <gram type="role">singular</gram>
+  <gram type="role">feminine</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>aiyam</form>
+<def>doubt</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tīra<c type="geminated">t</c></form>
+<def>end</def>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>talaimakaṉ</form>
+<def>hero</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>colliyatu</form>
+<def>spoken</def>
+<gramGrp>
+  <gram type="role">verbal noun</gram>
+  <gram type="role">neuter singular</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+</standOff></TEI>

@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?><?xml-stylesheet type="text/xsl" href="edition.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title>
+            <title xml:lang="ta">Aiṅkuṟunūṟu</title> 429. <persName xml:lang="ta"/>
+          </title>
+          <editor role="translator">Leo Nelson-Jones</editor>
+  
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc>
+          <msDesc xml:lang="en">
+            <msIdentifier>
+            </msIdentifier>
+            <msContents>
+              <summary>
+                <p/>
+              </summary>
+            </msContents>
+          </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+        <change/>
+      </revisionDesc>
+    </teiHeader>
+    <text xml:lang="ta" type="edition">
+      <body>
+        <div rend="parallel">
+          <p xml:id="Aink429-kilavi">kuṟippiṉāl pirivu uṇarntu vēṟuppaṭṭa talaimakaḷ uṭampaṭuvāḷāka vēntaṟku uṟṟuḻip piriyum talaimakaṉ colliyatu.</p>
+          <p xml:lang="en">So that the heroine who had, on understanding the [imminent] separation through [his] signs, would agree, the hero who is separating for a royal emergency spoke [this].</p>
+            </div>
+        <div rend="parallel">
+          <lg xml:id="Aink429">        
+            <l>palliruṅ kūntal pacappu nīviṭiṟ</l>
+                <l>celvēn tilla yāmē ceṟṟār</l>                
+                <l>velkoṭi yaraṇa murukkiya</l>               
+                <l>kallā yāṉai ventupakai velaṟkē.</l></lg>  
+ <lg xml:lang="en">                    
+<l>O one with the thick dark hair, if you let go of [your] pallor</l>
+<l>I will go to be be victoious over the enemies of the king</l>
+<l>whose unlearned<note xml:lang="en" place="foot">The connotations of <foreign xml:lang="ta-Latn">kallā</foreign> are normally that a human has not been fully educated - possibly a sign of lower status or of vulgarity. Here, one could be tempted to translate with something like 'untamed'; however, that would be an undesirable trait of an elephant in the hero's king's army. Rather, I understand that suggests the elephents are brutish. I am not certain on this point, though, so I have provided a literal translation.</note> elephants have ruined</l>
+<l>the forts with victory flags of those who resist.</l>
+          </lg>                      
+        </div>
+      </body>
+    </text>
+    <standOff corresp="#Aink429" type="wordsplit">
+<interp type="alignment" select="0">34MG8MG21ML34M2G2M,103MG</interp>
+<entry>
+<form>pal</form>
+<def>many</def>
+<gramGrp>
+  <gram type="role">pronoun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="geminated">l</c>irum</form>
+<def>dark</def>
+<form type="sandhi"><c type="geminated">l</c>iruṅ</form>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kūntal</form>
+<def>tresses</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>pacappu</form>
+<def>pallor</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>nī</form>
+<def>you</def>
+<gramGrp>
+  <gram type="role">pronoun</gram>
+  <gram type="role">singular</gram>
+  <gram type="role">second person</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>viṭiṉ</form>
+<def>let go if</def>
+<form type="sandhi">viṭiṟ</form>
+<gramGrp>
+  <gram type="role">conditional</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>celvēm-tilla</form>
+<def>we go</def>
+<form type="simple">celvēm</form>
+<form type="sandhi">celvēn</form>
+<gramGrp>
+  <gram type="role">imperfective aspect</gram>
+  <gram type="role">plural</gram>
+  <gram type="role">first person</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">tilla</m></gramGrp>
+</entry>
+<entry>
+<form>yām-ē</form>
+<def>we</def>
+<form type="simple">yām</form>
+<gramGrp>
+  <gram type="role">pronoun</gram>
+  <gram type="role">plural</gram>
+  <gram type="role">first person</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+<entry>
+<form>ceṟṟār</form>
+<def>resisted</def>
+<gramGrp>
+  <gram type="role">participial noun</gram>
+  <gram type="role">third person</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vel</form>
+<def>be victorious</def>
+<gramGrp>
+  <gram type="role">verbal root</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>koṭi</form>
+<def>flag</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>araṇam</form>
+<def>fortress</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>murukkiya</form>
+<def>ruined</def>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kallā</form>
+<def>not learn</def>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+  <gram type="role">negative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>yāṉai</form>
+<def>elephant</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vēntu</form>
+<def>king</def>
+<form type="sandhi">ventu</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>pakai</form>
+<def>enmity</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>velaṟk<c type="elided">u</c>-ē</form>
+<def>being-victorious</def>
+<form type="simple">velaṟku</form>
+<form type="sandhi">velaṟk</form>
+<gramGrp>
+  <gram type="role">dative</gram>
+  <gram type="role">verbal noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+</standOff><standOff corresp="#Aink429-kilavi" type="wordsplit">
+<interp type="alignment" select="0">99M,98MG</interp>
+<entry>
+<form>kuṟippiṉāl</form>
+<def>allusion</def>
+<gramGrp>
+  <gram type="role">instrumental</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>pirivu</form>
+<def>separation</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>uṇarntu</form>
+<def>realised</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vēṟuppaṭṭa</form>
+<def>undergone changes</def>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>talaimakaḷ</form>
+<def>heroine</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+  <gram type="role">singular</gram>
+  <gram type="role">feminine</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>uṭampaṭuvāḷ</form>
+<def>agree</def>
+<gramGrp>
+  <gram type="role">participial noun</gram>
+  <gram type="role">feminine singular</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>āka</form>
+<def>become</def>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vēntaṟku</form>
+<def>king</def>
+<gramGrp>
+  <gram type="role">singular</gram>
+  <gram type="role">masculine</gram>
+  <gram type="role">dative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>uṟṟuḻi<c type="geminated">p</c></form>
+<def>emergency</def>
+<gramGrp>
+</gramGrp>
+</entry>
+<entry>
+<form>piriyum</form>
+<def>separating</def>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>talaimakaṉ</form>
+<def>hero</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>colliyatu</form>
+<def>spoken-it</def>
+<gramGrp>
+  <gram type="role">verbal noun</gram>
+  <gram type="role">neuter singular</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+</standOff></TEI>
