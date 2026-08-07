@@ -3,7 +3,7 @@
       <fileDesc>
         <titleStmt>
           <title>
-            <title xml:lang="ta">Aiṅkuṟunūṟu</title> 435. <persName xml:lang="ta"/>
+            <title xml:lang="ta">Aiṅkuṟunūṟu</title> 440. <persName xml:lang="ta"/>
           </title>
           <editor role="translator">Leo Nelson-Jones</editor>
   
@@ -30,24 +30,24 @@
     <text xml:lang="ta" type="edition">
       <body>
         <div rend="parallel">
-            <p xml:id="Aink435-kilavi">pirivu uṭampaṭṭum āṟṟāyākiṉṟatu eṉṉai eṉṟu viṉaviyavaḻi avar pōṉa curam pōkaṟku aritu eṉṟu āṟṟēṉ ākiṉṟēṉ eṉṟa talaimakaṭku vēṉiṟkālam kaḻintatu; kārpparuvattōṟṟattilē pirintār ākalāṉ accuram naṉṟu eṉat tōḻi colli āṟṟuvittatu.</p>
+            <p xml:id="Aink440-kilavi">pirivu uṭampaṭṭum āṟṟāyākiṉṟatu eṉṉai eṉṟu viṉaviyavaḻi avar pōṉa curam pōkaṟku aritu eṉṟu āṟṟēṉ ākiṉṟēṉ eṉṟa talaimakaṭku vēṉiṟkālam kaḻintatu; kārpparuvattōṟṟattilē pirintār ākalāṉ accuram naṉṟu eṉat tōḻi colli āṟṟuvittatu.</p>
             <p xml:lang="en">After asking, 'And having agreed to the separation, why is it that you have become unable to endure [it]?', to the heroine who said, 'Thinking of the wasteland through which he goes that is difficult to traverse, I have become unable to endure [it]', so as to say, 'The hot season has passed; because he left when the rainy season appeared, that wasteland is good', the confidante reassured [the heroine] by speaking [this].<note place="foot" xml:lang="en">This <foreign xml:lang="ta-Latn">kiḷavi</foreign> is appended to the previous poem, 431, but there is a note that it belongs to the whole decad. For the reader's convenience, it is provided here, although it is not in fact present in the edition.</note></p>
               </div>
         <div rend="parallel">
-          <lg xml:id="Aink435">        
+          <lg xml:id="Aink440">        
 <l>naṉṟē kātalar ceṉṟa vāṟē</l>
-<l>nilaṉaṇi neytaṉ malarap</l>
-<l>polaṉaṇi koṉṟaiyum piṭavamu muṭaittē.</l>
+<l>taṇpeya laḷitta poḻuti</l>
+<l>ṉoṇcuṭart tōṉṟiyun taḷavamu muṭaittē.</l>
         </lg>  
  <lg xml:lang="en">                    
     <l>The way along which the lover went is good --</l>
-<l>as the blue water lily that adorns the ground blossoms,</l>
-<l>it has piṭavu and laburnum adorned with gold too.</l>
+<l>at the time the cool rain has granted<note place="foot" xml:lang="en">I understand this phrase refers to the rainy season.</note></l>
+<l>it has brightly glowing Malabar glory lilies and gloden jasmine too.</l>
 </lg>                      
         </div>
       </body>
     </text>
-    <standOff corresp="#Aink435-kilavi" type="wordsplit">
+    <standOff corresp="#Aink440-kilavi" type="wordsplit">
         <interp type="alignment" select="0">14M2G133MG52M,128MG72MG</interp>
         <entry>
         <form>pirivu</form>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?><?xml-stylesheet type="text/xsl" href="edition.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title>
+            <title xml:lang="ta">Aiṅkuṟunūṟu</title> 449. <persName xml:lang="ta"/>
+          </title>
+          <editor role="translator">Leo Nelson-Jones</editor>
+  
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc>
+          <msDesc xml:lang="en">
+            <msIdentifier>
+            </msIdentifier>
+            <msContents>
+              <summary>
+                <p/>
+              </summary>
+            </msContents>
+          </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+        <change/>
+      </revisionDesc>
+    </teiHeader>
+    <text xml:lang="ta" type="edition">
+      <body>
+        <div rend="parallel">
+            <p xml:id="Aink449-kilavi">pācaṟaikkaṇ vēntaṉoṭu viṉaipporuṭṭāl pōntirunta talaimakaṉ avvēntaṉ māṟṟuvēntar tarutiṟaikoṇṭu  mīḷvāṉākap poruntuḻit tāṉum mīṭcikkut tēr camaitta  ellaik kaṇṇē avvaracaṉ poruttam tavirntu mīṇṭum viṉaimēṟ koṇṭāṉākac colliyatu.</p>
+            <p xml:lang="en"></p>
+              </div>
+        <div rend="parallel">
+          <lg xml:id="Aink449">        
+            <l>murampukaṇ ṇuṭaiyat tiriyun tikiriyoṭu</l>
+            <l>paṇainilai muṇaiiya vayamāp puṇarntu</l>
+            <l>tiṇṇitiṉ māṇṭaṉṟu tērē</l>
+            <l>yoṇṇutaṟ kāṇkuvam vēntuviṉai viṭiṉē.</l>
+        </lg>  
+ <lg xml:lang="en">                    
+<l></l>
+</lg>                      
+        </div>
+      </body>
+    </text>
+    </TEI>

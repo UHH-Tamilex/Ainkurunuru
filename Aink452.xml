@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?><?xml-stylesheet type="text/xsl" href="edition.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title>
+            <title xml:lang="ta">Aiṅkuṟunūṟu</title> 452. <persName xml:lang="ta"/>
+          </title>
+          <editor role="translator">Leo Nelson-Jones</editor>
+  
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc>
+          <msDesc xml:lang="en">
+            <msIdentifier>
+            </msIdentifier>
+            <msContents>
+              <summary>
+                <p/>
+              </summary>
+            </msContents>
+          </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+        <change/>
+      </revisionDesc>
+    </teiHeader>
+    <text xml:lang="ta" type="edition">
+      <body>
+        <div rend="parallel">
+            <p xml:id="Aink452-kilavi">kuṟitta paruvattu vārātu talaimakaṉ (TT, C3, C4, G1: talaimakaḷ) pakaimēl muyalkiṉṟa muyaṟci kēṭṭa talaimakaḷ kūṟiyatu.</p>
+            <p xml:lang="en"></p>
+              </div>
+        <div rend="parallel">
+          <lg xml:id="Aink452">        
+            <l>vaṟanta ñālan teḷirppa vīcik</l>
+            <l>kaṟaṅkukura leḻili kārcey taṉṟē</l>
+            <l>pakaiveṅ kātalar tiṟaitaru muyaṟci</l>
+            <l>meṉṟō ḷāykaviṉ maṟaiyap</l>
+            <l>poṉpuṉai pīrat talarcey taṉṟē.</l>
+        </lg>  
+ <lg xml:lang="en">                    
+<l></l>
+</lg>                      
+        </div>
+      </body>
+    </text>
+    </TEI>

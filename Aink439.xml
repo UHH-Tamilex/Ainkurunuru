@@ -3,7 +3,7 @@
       <fileDesc>
         <titleStmt>
           <title>
-            <title xml:lang="ta">Aiṅkuṟunūṟu</title> 435. <persName xml:lang="ta"/>
+            <title xml:lang="ta">Aiṅkuṟunūṟu</title> 439. <persName xml:lang="ta"/>
           </title>
           <editor role="translator">Leo Nelson-Jones</editor>
   
@@ -30,24 +30,24 @@
     <text xml:lang="ta" type="edition">
       <body>
         <div rend="parallel">
-            <p xml:id="Aink435-kilavi">pirivu uṭampaṭṭum āṟṟāyākiṉṟatu eṉṉai eṉṟu viṉaviyavaḻi avar pōṉa curam pōkaṟku aritu eṉṟu āṟṟēṉ ākiṉṟēṉ eṉṟa talaimakaṭku vēṉiṟkālam kaḻintatu; kārpparuvattōṟṟattilē pirintār ākalāṉ accuram naṉṟu eṉat tōḻi colli āṟṟuvittatu.</p>
+            <p xml:id="Aink439-kilavi">pirivu uṭampaṭṭum āṟṟāyākiṉṟatu eṉṉai eṉṟu viṉaviyavaḻi avar pōṉa curam pōkaṟku aritu eṉṟu āṟṟēṉ ākiṉṟēṉ eṉṟa talaimakaṭku vēṉiṟkālam kaḻintatu; kārpparuvattōṟṟattilē pirintār ākalāṉ accuram naṉṟu eṉat tōḻi colli āṟṟuvittatu.</p>
             <p xml:lang="en">After asking, 'And having agreed to the separation, why is it that you have become unable to endure [it]?', to the heroine who said, 'Thinking of the wasteland through which he goes that is difficult to traverse, I have become unable to endure [it]', so as to say, 'The hot season has passed; because he left when the rainy season appeared, that wasteland is good', the confidante reassured [the heroine] by speaking [this].<note place="foot" xml:lang="en">This <foreign xml:lang="ta-Latn">kiḷavi</foreign> is appended to the previous poem, 431, but there is a note that it belongs to the whole decad. For the reader's convenience, it is provided here, although it is not in fact present in the edition.</note></p>
               </div>
         <div rend="parallel">
-          <lg xml:id="Aink435">        
+          <lg xml:id="Aink439">        
 <l>naṉṟē kātalar ceṉṟa vāṟē</l>
-<l>nilaṉaṇi neytaṉ malarap</l>
-<l>polaṉaṇi koṉṟaiyum piṭavamu muṭaittē.</l>
+<l>kuruntaṅ kaṇṇik kōvalar</l>
+<l>peruntaṇ ṇilaiya pākkamu muṭaittē.</l>
         </lg>  
  <lg xml:lang="en">                    
     <l>The way along which the lover went is good --</l>
-<l>as the blue water lily that adorns the ground blossoms,</l>
-<l>it has piṭavu and laburnum adorned with gold too.</l>
+<l>it has villages too that are large and cool</l>
+<l>of the cowherds with wild-lime chaplets.</l> 
 </lg>                      
         </div>
       </body>
     </text>
-    <standOff corresp="#Aink435-kilavi" type="wordsplit">
+    <standOff corresp="#Aink439-kilavi" type="wordsplit">
         <interp type="alignment" select="0">14M2G133MG52M,128MG72MG</interp>
         <entry>
         <form>pirivu</form>
@@ -308,4 +308,109 @@
         </gramGrp>
         </entry>
         </standOff>
-        </TEI>
+        <standOff corresp="#Aink439" type="wordsplit">
+<interp type="alignment" select="0">4M2G16M2G43MG8M2G2M,79MG</interp>
+<entry>
+<form>naṉṟ<c type="elided">u</c>-ē</form>
+<def>good</def>
+<form type="simple">naṉṟu</form>
+<form type="sandhi">naṉṟ</form>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">neuter singular</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+<entry>
+<form>kātalar</form>
+<def>lover</def>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">third person</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ceṉṟa</form>
+<def>gone</def>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">v</c>āṟ<c type="elided">u</c>-ē</form>
+<def>way</def>
+<form type="simple">āṟu</form>
+<form type="sandhi"><c type="glide">v</c>āṟ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+<entry>
+<form>kuruntam</form>
+<def>Wild-lime tree</def>
+<form type="sandhi">kuruntaṅ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kaṇṇi<c type="geminated">k</c></form>
+<def>chaplet</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kōvalar</form>
+<def>cowherd</def>
+<gramGrp>
+  <gram type="role">third person</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>perum</form>
+<def>big</def>
+<form type="sandhi">perun</form>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>taṇ</form>
+<def>cool</def>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>nilaiya</form>
+<def>state</def>
+<form type="sandhi">ṇilaiya</form>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">neuter plural</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>pākkam-um</form>
+<def>village</def>
+<form type="simple">pākkam</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>uṭaitt<c type="elided">u</c>-ē</form>
+<def>possess</def>
+<form type="simple">uṭaittu</form>
+<form type="sandhi">uṭaitt</form>
+<gramGrp>
+  <gram type="role">participial noun</gram>
+  <gram type="role">neuter singular</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+</standOff></TEI>
