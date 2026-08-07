@@ -3,7 +3,7 @@
       <fileDesc>
         <titleStmt>
           <title>
-            <title xml:lang="ta">Aiṅkuṟunūṟu</title> 435. <persName xml:lang="ta"/>
+            <title xml:lang="ta">Aiṅkuṟunūṟu</title> 437. <persName xml:lang="ta"/>
           </title>
           <editor role="translator">Leo Nelson-Jones</editor>
   
@@ -30,24 +30,24 @@
     <text xml:lang="ta" type="edition">
       <body>
         <div rend="parallel">
-            <p xml:id="Aink435-kilavi">pirivu uṭampaṭṭum āṟṟāyākiṉṟatu eṉṉai eṉṟu viṉaviyavaḻi avar pōṉa curam pōkaṟku aritu eṉṟu āṟṟēṉ ākiṉṟēṉ eṉṟa talaimakaṭku vēṉiṟkālam kaḻintatu; kārpparuvattōṟṟattilē pirintār ākalāṉ accuram naṉṟu eṉat tōḻi colli āṟṟuvittatu.</p>
+            <p xml:id="Aink437-kilavi">pirivu uṭampaṭṭum āṟṟāyākiṉṟatu eṉṉai eṉṟu viṉaviyavaḻi avar pōṉa curam pōkaṟku aritu eṉṟu āṟṟēṉ ākiṉṟēṉ eṉṟa talaimakaṭku vēṉiṟkālam kaḻintatu; kārpparuvattōṟṟattilē pirintār ākalāṉ accuram naṉṟu eṉat tōḻi colli āṟṟuvittatu.</p>
             <p xml:lang="en">After asking, 'And having agreed to the separation, why is it that you have become unable to endure [it]?', to the heroine who said, 'Thinking of the wasteland through which he goes that is difficult to traverse, I have become unable to endure [it]', so as to say, 'The hot season has passed; because he left when the rainy season appeared, that wasteland is good', the confidante reassured [the heroine] by speaking [this].<note place="foot" xml:lang="en">This <foreign xml:lang="ta-Latn">kiḷavi</foreign> is appended to the previous poem, 431, but there is a note that it belongs to the whole decad. For the reader's convenience, it is provided here, although it is not in fact present in the edition.</note></p>
               </div>
         <div rend="parallel">
-          <lg xml:id="Aink435">        
+          <lg xml:id="Aink437">        
 <l>naṉṟē kātalar ceṉṟa vāṟē</l>
-<l>nilaṉaṇi neytaṉ malarap</l>
-<l>polaṉaṇi koṉṟaiyum piṭavamu muṭaittē.</l>
+<l>yālit taṇmaḻai talaiiya</l>
+<l>vāliya malarnta mullaiyu muṭaittē.</l>
         </lg>  
  <lg xml:lang="en">                    
     <l>The way along which the lover went is good --</l>
-<l>as the blue water lily that adorns the ground blossoms,</l>
-<l>it has piṭavu and laburnum adorned with gold too.</l>
+<l>it has jasmine too that blossomed into white<note place="foot" xml:lang="en"><foreign xml:lang="ta-Latn">vāliya</foreign>, currently unattested in the Tamilex corpus, is a pronominalised form of the the word <foreign xml:lang="ta-Latn">vāl</foreign> ('white, pure'). One could speculate that it is used in apposition to <foreign xml:lang="ta-Latn">mullai</foreign>, essentially functioning as an adjective ('white/pure jasmine'), though in that case one would have to account for the fact thastandard word order has been inverted - one would expect <foreign xml:lang="ta-Latn">malarnta vāliya mullai</foreign> ('white jasmine that has blossomed'). This may be to retain the <foreign xml:lang="ta-Latn">etukai</foreign> in the last two lines, but this is not a consistent feature of this decad or this section of the text. Hence, I have tried to translate in line with the syntax suggested by the current word order - the jasmine blossom in white things (their flowers).</note></l>
+<l>where the hail and cool rains fell.</l>
 </lg>                      
         </div>
       </body>
     </text>
-    <standOff corresp="#Aink435-kilavi" type="wordsplit">
+    <standOff corresp="#Aink437-kilavi" type="wordsplit">
         <interp type="alignment" select="0">14M2G133MG52M,128MG72MG</interp>
         <entry>
         <form>pirivu</form>
@@ -308,4 +308,108 @@
         </gramGrp>
         </entry>
         </standOff>
-        </TEI>
+        <standOff corresp="#Aink437" type="wordsplit">
+<interp type="alignment" select="0">4M2G16M2G42MG9M2G2M,79MG</interp>
+<entry>
+<form>naṉṟ<c type="elided">u</c>-ē</form>
+<def>good</def>
+<form type="simple">naṉṟu</form>
+<form type="sandhi">naṉṟ</form>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">neuter singular</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+<entry>
+<form>kātalar</form>
+<def>lover</def>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">third person</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ceṉṟa</form>
+<def>gone</def>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">v</c>āṟ<c type="elided">u</c>-ē</form>
+<def>way</def>
+<form type="simple">āṟu</form>
+<form type="sandhi"><c type="glide">v</c>āṟ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>āli<c type="geminated">t</c></form>
+<def>hail</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>taṇ</form>
+<def>cool</def>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>maḻai</form>
+<def>rain</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>talaiiya</form>
+<def>showered</def>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vāliya</form>
+<def>pure</def>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">neuter plural</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>malarnta</form>
+<def>blossomed</def>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>mullai-<c type="glide">y</c>um</form>
+<def>jasmine</def>
+<form type="simple">mullai</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>uṭaitt<c type="elided">u</c>-ē</form>
+<def>possess</def>
+<form type="simple">uṭaittu</form>
+<form type="sandhi">uṭaitt</form>
+<gramGrp>
+  <gram type="role">participial noun</gram>
+  <gram type="role">neuter singular</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+</standOff></TEI>
