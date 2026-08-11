@@ -31,7 +31,7 @@
       <body>
         <div rend="parallel">
             <p xml:id="Aink444-kilavi">ituvumatu.</p>
-            <p xml:lang="en"></p>
+            <p xml:lang="en">And this is that.</p>
               </div>
         <div rend="parallel">
           <lg xml:id="Aink444">        
@@ -42,9 +42,234 @@
 <l>tiṉṉun taṉṉāṭṭu muṉṉutal peṟiṉē.</l>
         </lg>  
  <lg xml:lang="en">                    
-<l></l>
+<l>Would that I might see the simple one with large shoulders</l>
+<l>if the enmity subsides of the king of the victorious spear</l>
+<l>with elephants of broad tusks whose rings were split<note xml:lang="en" place="foot"><foreign xml:lang="ta-Latn">toṭi piḷantu</foreign>: does this refer to the elephants splitting the rings on their tusks as they charge fortress walls or is that that they, in the process of charginng fortress walls split enemy warriors' armlets, thereby blunting their sharp ends? I find it easier to construe and make sense of the poem taking the first interpretation as the cause -- the elephants charge of the fortress -- fits more cleanly.</note> and sharp tips blunted</l>
+<l>as they charged the high-walled fortress</l>
+<l>and he begins to think<note xml:lang="en" place="foot">I see multiple options for how to understand <foreign xml:lang="ta-Latn">uṉṉutal peṟiṉ</foreign>: as currently translated, it is a euphamistic way to express that the king, once calmed, may want to return home. One could literally render it as 'if he gets to thinking about his land', which I did not as I felt the register was off. The other option is to dissolve the sandhi differently and read <foreign xml:lang="ta-Latn">muṉṉutal peṟiṉ</foreign>, in which case the king might 'get to approaching his land', or something of the sort. <foreign xml:lang="ta-Latn">muṉṉutal</foreign> is, however, not attested in the Caṅkam corpus (that I have been able to find, at least), hence the present translation.</note> of his land once again.</l>
+
 </lg>                      
         </div>
       </body>
     </text>
-    </TEI>
+    <standOff corresp="#Aink444-kilavi" type="wordsplit">
+<interp type="alignment" select="0">3MG7M,10MG</interp>
+<entry>
+<form>itu-<c type="glide">v</c>um</form>
+<def>this</def>
+<form type="simple">itu</form>
+<gramGrp>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>atu</form>
+<def>that</def>
+<gramGrp>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#Aink444" type="wordsplit">
+<interp type="alignment" select="0">25MG64MGMG28MG12M2G14MG2M,152MG</interp>
+<entry>
+<form>perum</form>
+<def>big</def>
+<form type="sandhi">perun</form>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tōḷ</form>
+<def>shoulder</def>
+<form type="sandhi">tōṇ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>maṭavaral</form>
+<def>simplicity</def>
+<form type="sandhi">maṭavaraṟ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kāṇkuvem-tilla</form>
+<def>see</def>
+<form type="simple">kāṇkuvem</form>
+<form type="sandhi">kāṇkuven</form>
+<gramGrp>
+  <gram type="role">imperfective aspect</gram>
+  <gram type="role">plural</gram>
+  <gram type="role">first person</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">tilla</m></gramGrp>
+</entry>
+<entry>
+<form>nīṇ</form>
+<def>high</def>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>matil</form>
+<def>fortification</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>araṇam</form>
+<def>fortress</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>pāynteṉa<c type="geminated">t</c></form>
+<def>jumped</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+  <gram type="role">causative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>toṭi</form>
+<def>bracelet</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>piḷantu</form>
+<def>split</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vai<c type="geminated">n</c></form>
+<def>sharpness</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>nuti</form>
+<def>tip</def>
+<gramGrp>
+</gramGrp>
+</entry>
+<entry>
+<form>maḻukiya</form>
+<def>become blunt</def>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>taṭam</form>
+<def>broad</def>
+<form type="sandhi">taṭaṅ</form>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kōṭṭ(u)</form>
+<def>tusk</def>
+<form type="sandhi">kōṭṭi</form>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>yāṉai</form>
+<def>elephant</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>veṉ</form>
+<def>victory</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vēl</form>
+<def>spear</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vēntaṉ</form>
+<def>king</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+  <gram type="role">singular</gram>
+  <gram type="role">masculine</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>pakai</form>
+<def>enmity</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>taṇint<c type="elided">u</c></form>
+<def>decreased</def>
+<form type="sandhi">taṇint</form>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>iṉṉum</form>
+<def>again</def>
+<form type="sandhi">iṉṉun</form>
+<gramGrp>
+</gramGrp>
+</entry>
+<entry>
+<form>taṉ</form>
+<def>self</def>
+<gramGrp>
+  <gram type="role">singular</gram>
+  <gram type="role">oblique</gram>
+  <gram type="role">third person</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>nāṭṭ<c type="elided">u</c>-um</form>
+<def>land</def>
+<form type="simple">nāṭṭu</form>
+<form type="sandhi">ṉāṭṭ</form>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>uṉṉutal</form>
+<def>considering</def>
+<gramGrp>
+  <gram type="role">verbal noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>peṟiṉ-ē</form>
+<def>obtain</def>
+<form type="simple">peṟiṉ</form>
+<gramGrp>
+  <gram type="role">conditional</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+</standOff></TEI>

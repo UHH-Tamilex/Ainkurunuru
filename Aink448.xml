@@ -30,8 +30,8 @@
     <text xml:lang="ta" type="edition">
       <body>
         <div rend="parallel">
-            <p xml:id="Aink448-kilavi">vēntaṟku uṟṟuḻippirinta talaimakaṉ paruvam vantaviṭattiṉum mīḷappeṟātu aracaṉ (C1: araicaṉ) ceytiyum paruvattiṉ ceytiyum taṉ ceytiyum kūṟi āṟṟāṉ āyatu.</p>
-            <p xml:lang="en"></p>
+            <p xml:id="Aink448-kilavi">vēntaṟku uṟṟuḻippirinta talaimakaṉ paruvam vantaviṭattiṉum mīḷappeṟātu aracaṉ ceytiyum paruvattiṉ ceytiyum taṉ ceytiyum kūṟi āṟṟāṉ āyatu.</p>
+            <p xml:lang="en">The hero, who had separated for a royal emergency, not obtaining [leave] to return even when the season [of his intended departure] had arrived, decalring the act of the king, the act of the season, and his own act, spoke [this].</p>
               </div>
         <div rend="parallel">
           <lg xml:id="Aink448">        
@@ -48,4 +48,156 @@
         </div>
       </body>
     </text>
-    </TEI>
+    <standOff corresp="#Aink448-kilavi" type="wordsplit">
+<interp type="alignment" select="0">52MG24MG18MG11MG18M,126MG</interp>
+<entry>
+<form>vēntaṟku</form>
+<def>king</def>
+<gramGrp>
+  <gram type="role">singular</gram>
+  <gram type="role">masculine</gram>
+  <gram type="role">dative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>uṟṟuḻi<c type="geminated">p</c></form>
+<def>emergency</def>
+<gramGrp>
+</gramGrp>
+</entry>
+<entry>
+<form>pirinta</form>
+<def>separated</def>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>talaimakaṉ</form>
+<def>hero</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>paruvam</form>
+<def>season</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vanta</form>
+<def>come</def>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">v</c>iṭattiṉ-um</form>
+<def>place</def>
+<form type="simple">iṭattiṉ</form>
+<form type="sandhi"><c type="glide">v</c>iṭattiṉ</form>
+<gramGrp>
+  <gram type="role">neuter singular</gram>
+  <gram type="role">postposition</gram>
+  <gram type="role">locative</gram>
+  <gram type="role">oblique</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>mīḷa<c type="geminated">p</c></form>
+<def>return</def>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>peṟātu</form>
+<def>not obtain</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+  <gram type="role">negative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>aracaṉ</form>
+<def>king</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+  <gram type="role">singular</gram>
+  <gram type="role">masculine</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ceyti-<c type="glide">y</c>um</form>
+<def>doing</def>
+<form type="simple">ceyti</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>paruvattiṉ</form>
+<def>season</def>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ceyti-<c type="glide">y</c>um</form>
+<def>doing</def>
+<form type="simple">ceyti</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>taṉ</form>
+<def>self</def>
+<gramGrp>
+  <gram type="role">singular</gram>
+  <gram type="role">oblique</gram>
+  <gram type="role">third person</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ceyti-<c type="glide">y</c>um</form>
+<def>doing</def>
+<form type="simple">ceyti</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>kūṟi</form>
+<def>told</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>āṟṟāṉ</form>
+<def>be unable</def>
+<gramGrp>
+  <gram type="role">participial noun</gram>
+  <gram type="role">singular</gram>
+  <gram type="role">masculine</gram>
+  <gram type="role">negative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>āyatu</form>
+<def>become</def>
+<gramGrp>
+  <gram type="role">participial noun</gram>
+  <gram type="role">neuter singular</gram>
+</gramGrp>
+</entry>
+</standOff></TEI>
