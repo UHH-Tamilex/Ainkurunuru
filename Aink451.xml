@@ -31,7 +31,7 @@
       <body>
         <div rend="parallel">
             <p xml:id="Aink451-kilavi">vēntaṟku uṟṟuḻip pirinta talaimakaṉ kuṟitta paruvam niṉaintu āṟṟiyirunta talaimakaḷ apparuva varaviṉkaṇ pācaṟaiyiṉiṉṟum vantār aracaṉ ceyti kūṟak kēṭṭu āṟṟāḷāyc colliyatu.</p>
-            <p xml:lang="en"></p>
+            <p xml:lang="en">Considering the season indicated by the hero who had separated for a royal emergency, the heroine who had endured it, having become unable to endure on hearing the news of the king told by those who had come from the warcamp at the coming of that season, spoke [this].</p>
               </div>
         <div rend="parallel">
           <lg xml:id="Aink451">        
@@ -41,9 +41,332 @@
             <l>yāṟṟavu miruttal vēntaṉatu toḻilē.</l>
         </lg>  
  <lg xml:lang="en">                    
-<l></l>
+<l>Along with the season made by the rains, the one who left so I am desolate -</l>
+<l>how is there desisting from [being] a guest brought on chariot?<note xml:lang="en" place="foot">The literal translation obscures the point of this line somwhat. As I understand it, the point of the heroine's speech is to say that the king has no choice to be on the fronlines of the battle - it is his ultimate duty -- but the hero, on the other hand, ought to be returning to her.</note></l>
+<l>Regarding the army that is difficult to oppose,</l>
+<l>staying [there] longer<note xml:lang="en" place="foot"><foreign xml:lang="ta-Latn">āṟṟavum</foreign> is an intensiying adverb, hence 'longer' in dureation to period of time.</note> is the task of the king.</l>
+
 </lg>                      
         </div>
       </body>
     </text>
-    </TEI>
+    <standOff corresp="#Aink451-kilavi" type="wordsplit">
+<interp type="alignment" select="0">83MG20ML50M,154MG</interp>
+<entry>
+<form>vēntaṟku</form>
+<def>king</def>
+<gramGrp>
+  <gram type="role">singular</gram>
+  <gram type="role">masculine</gram>
+  <gram type="role">dative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>uṟṟuḻi<c type="geminated">p</c></form>
+<def>emergency</def>
+<gramGrp>
+</gramGrp>
+</entry>
+<entry>
+<form>pirinta</form>
+<def>separated</def>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>talaimakaṉ</form>
+<def>hero</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kuṟitta</form>
+<def>intended</def>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>paruvam</form>
+<def>season</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>niṉaintu</form>
+<def>thought</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>āṟṟi</form>
+<def>been able</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>irunta</form>
+<def>been</def>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>talaimakaḷ</form>
+<def>heroine</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+  <gram type="role">singular</gram>
+  <gram type="role">feminine</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>a<c type="geminated">p</c></form>
+<def>that</def>
+<gramGrp>
+</gramGrp>
+</entry>
+<entry>
+<form>paruvam</form>
+<def>season</def>
+<form type="sandhi">paruva</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>varaviṉ</form>
+<def>coming</def>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kaṇ</form>
+<def>place</def>
+<gramGrp>
+  <gram type="role">postposition</gram>
+  <gram type="role">locative</gram>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>pācaṟaiyiṉ</form>
+<def>warcamp</def>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>niṉṟum</form>
+<def>from</def>
+<form type="sandhi">ṉiṉṟum</form>
+<gramGrp>
+  <gram type="role">ablative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vantār</form>
+<def>came</def>
+<gramGrp>
+  <gram type="role">third person</gram>
+  <gram type="role">participial noun</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>aracaṉ</form>
+<def>king</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+  <gram type="role">singular</gram>
+  <gram type="role">masculine</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ceyti</form>
+<def>actions</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kūṟa<c type="geminated">k</c></form>
+<def>tell</def>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kēṭṭu</form>
+<def>heard</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>āṟṟāḷ</form>
+<def>be able not</def>
+<gramGrp>
+  <gram type="role">singular</gram>
+  <gram type="role">feminine</gram>
+  <gram type="role">participial noun</gram>
+  <gram type="role">negative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>āy<c type="geminated">c</c></form>
+<def>become</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>colliyatu</form>
+<def>spoken</def>
+<gramGrp>
+  <gram type="role">verbal noun</gram>
+  <gram type="role">neuter singular</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#Aink451" type="wordsplit">
+<interp type="alignment" select="0">66MG43MG2M,112MG</interp>
+<entry>
+<form>kār</form>
+<def>rainy season</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>cey</form>
+<def>make</def>
+<gramGrp>
+  <gram type="role">verbal root</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kālaiyoṭu</form>
+<def>time</def>
+<gramGrp>
+  <gram type="role">sociative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kaiyaṟa<c type="geminated">p</c></form>
+<def>be desolate</def>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>pirintōr</form>
+<def>separated</def>
+<gramGrp>
+  <gram type="role">participial noun</gram>
+  <gram type="role">honorific</gram>
+  <gram type="role">third person</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tēr</form>
+<def>chariot</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>taru</form>
+<def>bring</def>
+<gramGrp>
+  <gram type="role">verbal root</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>viruntiṉ</form>
+<def>guest</def>
+<form type="sandhi">viruntiṟ</form>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tavirkutal</form>
+<def>refraining</def>
+<form type="sandhi">ṟavirkutal</form>
+<gramGrp>
+  <gram type="role">verbal noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>yāvatu</form>
+<def>what</def>
+</entry>
+<entry>
+<form>māṟṟ<c type="elided">u</c></form>
+<def>opposition</def>
+<form type="sandhi">māṟṟ</form>
+<gramGrp>
+  <gram type="role">root noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>arum</form>
+<def>difficult</def>
+<form type="sandhi">arun</form>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tāṉai</form>
+<def>army</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>nōkki</form>
+<def>looked at</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>āṟṟavum</form>
+<def>much</def>
+</entry>
+<entry>
+<form>iruttal</form>
+<def>being</def>
+<gramGrp>
+  <gram type="role">verbal noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vēntaṉatu</form>
+<def>king</def>
+<gramGrp>
+  <gram type="role">genitive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>toḻil-ē</form>
+<def>task</def>
+<form type="simple">toḻil</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+</standOff></TEI>
