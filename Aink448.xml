@@ -43,7 +43,12 @@
             <l>tuñcā talamara ṉāmetirn taṉamē.</l>
         </lg>  
  <lg xml:lang="en">                    
-<l></l>
+<l>As the rattling<note xml:lang="en" place="foot">The edition consulted records <foreign xml:lang="ta-Latn">taḻaṅkukural</foreign> as a variant, which I think is the intended meaning of the phrase. The contracted form <foreign xml:lang="ta-Latn">taḻaṅkural</foreign> is presumably a shortening for the sake of metre, as the longer version would be hypermetrical, and it is common enough to be lexicalised in the TL. <foreign xml:lang="ta-Latn">taḻaṅ(ku)kural muracam</foreign> is a common formula, connoting a loud banging war drum.</note> wardrums sound in the morning,</l>
+<l>the king of fierce anger accepted the task.</l>
+<l>As the jasmine in the soft depressions flower,</l>
+<l>the rainy season of raging rains and intense drops accepts [its task].<note xml:lang="en" place="foot"><foreign xml:lang="ta-Latn">erirtal</foreign> here doesn't have an obvious object, so I supply 'the task' - the subject of each of the three sentences of the poem is seemingly bound to some undertaking in response to an external factor, i.e. have a task they much undertake.</note></l>
+<l>Everyime [I] remember [her] pretty delicate hair,</l>
+<l>I accept tossing and turning without sleep.</l>
 </lg>                      
         </div>
       </body>
@@ -199,5 +204,238 @@
   <gram type="role">participial noun</gram>
   <gram type="role">neuter singular</gram>
 </gramGrp>
+</entry>
+</standOff><standOff corresp="#Aink448" type="wordsplit">
+<interp type="alignment" select="0">60MG60M2G29MG8ML12MG2M,176MG</interp>
+<entry>
+<form>taḻaṅkural</form>
+<def>rattling sound</def>
+<form type="sandhi">taḻaṅkuraṉ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>muracam</form>
+<def>drum</def>
+<form type="sandhi">muracaṅ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kālai</form>
+<def>morning</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>iyampa<c type="geminated">k</c></form>
+<def>sound</def>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kaṭum</form>
+<def>harsh</def>
+<form type="sandhi">kaṭuñ</form>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ciṉa</form>
+<def>anger</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vēntaṉ</form>
+<def>king</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+  <gram type="role">singular</gram>
+  <gram type="role">masculine</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>toḻil</form>
+<def>task</def>
+<form type="sandhi">ṟoḻil</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>etirntaṉaṉ-ē</form>
+<def>accept</def>
+<form type="simple">etirntaṉaṉ</form>
+<gramGrp>
+  <gram type="role">masculine singular</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+<entry>
+<form>mel</form>
+<def>tender</def>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="geminated">l</c>aval</form>
+<def>shallow depression</def>
+<form type="sandhi"><c type="geminated">l</c>avaṉ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>maruṅkiṉ</form>
+<def>side</def>
+<gramGrp>
+  <gram type="role">postposition</gram>
+  <gram type="role">locative</gram>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>mullai</form>
+<def>jasmine</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>pūppa<c type="geminated">p</c></form>
+<def>flower</def>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>poṅku</form>
+<def>increase</def>
+<gramGrp>
+  <gram type="role">verbal root</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>peyal</form>
+<def>raining</def>
+<form type="sandhi">peyaṟ</form>
+<gramGrp>
+  <gram type="role">verbal noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kaṉai</form>
+<def>be intense</def>
+<gramGrp>
+  <gram type="role">verbal root</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tuḷi</form>
+<def>drop</def>
+<gramGrp>
+  <gram type="role">root noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kār</form>
+<def>rainy season</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>etirntaṉṟ<c type="elided">u</c>-ē</form>
+<def>accept</def>
+<form type="simple">etirntaṉṟu</form>
+<form type="sandhi">etirntaṉṟ</form>
+<gramGrp>
+  <gram type="role">neuter singular</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>am</form>
+<def>pretty</def>
+<form type="sandhi"><c type="glide">y</c>añ</form>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>cil</form>
+<def>few</def>
+<gramGrp>
+  <gram type="role">pronoun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ōtiyai</form>
+<def>hair</def>
+<gramGrp>
+  <gram type="role">accusative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>uḷḷu</form>
+<def>think</def>
+<gramGrp>
+  <gram type="role">verbal root</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>toṟum</form>
+<def>ever</def>
+<form type="sandhi">toṟun</form>
+<gramGrp>
+  <gram type="role">postposition</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tuñcāt<c type="elided">u</c></form>
+<def>sleep not</def>
+<form type="sandhi">tuñcāt</form>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+  <gram type="role">negative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>alamaral</form>
+<def>whirling</def>
+<form type="sandhi">alamaraṉ</form>
+<gramGrp>
+  <gram type="role">verbal noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>nām</form>
+<def>we</def>
+<form type="sandhi">ṉām</form>
+<gramGrp>
+  <gram type="role">plural</gram>
+  <gram type="role">first person</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>etirntaṉam-ē</form>
+<def>accept</def>
+<form type="simple">etirntaṉam</form>
+<gramGrp>
+  <gram type="role">perfective aspect</gram>
+  <gram type="role">plural</gram>
+  <gram type="role">first person</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry>
 </standOff></TEI>
