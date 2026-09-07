@@ -25,6 +25,10 @@
 <text xml:lang="ta" type="edition">
   <body>
     <div rend="parallel">
+      <p xml:id="Aink103-kilavi">
+        tōḻi cevilikku aṟattoṭunilai kuṟittuk kūṟiyatu</p>      <p xml:lang="en">
+          Spoken by the confidante to the foster mother, intending upon standing with the truth.</p> </div>
+    <div rend="parallel">
       <lg xml:id="Aink107">
 <l>aṉṉai vāḻivēṇ ṭaṉṉaiyeṉ ṟōḻi</l>
 <l>cuṭarnutal pacappac cāayp paṭarmelintu</l>
@@ -42,21 +46,26 @@
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#Aink107"><interp type="alignment" select="0">13MG84ML2MG4MGM,108M</interp>
+<standOff type="wordsplit" corresp="#Aink107">
+<interp type="alignment" select="0">13MG84ML2M2G4MGM,109M</interp>
 <entry>
 <form>aṉṉai</form>
 <def>mother</def>
-</entry>
-<entry>
-<form>vāḻi</form>
-<def>live</def>
 <gramGrp>
-  <gram type="role">subjuntive</gram>
+  <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
-<form>vēṇṭ’</form>
-<def>be necessary</def>
+<form>vāḻi</form>
+<def>live-you</def>
+<gramGrp>
+  <gram type="role">subjunctive</gram>
+  <gram type="role">second person</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vēṇṭ<c type="elided">u</c></form>
+<def>be-necessary</def>
 <form type="sandhi">vēṇṭ</form>
 <gramGrp>
   <gram type="role">verbal root</gram>
@@ -65,10 +74,19 @@
 <entry>
 <form>aṉṉai</form>
 <def>mother</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
 </entry>
 <entry>
 <form><c type="glide">y</c>eṉ</form>
 <def>my</def>
+<gramGrp>
+  <gram type="role">personal pronoun</gram>
+  <gram type="role">singular</gram>
+  <gram type="role">first person</gram>
+  <gram type="role">oblique</gram>
+</gramGrp>
 </entry>
 <entry>
 <form>tōḻi</form>
@@ -82,7 +100,7 @@
 <form>cuṭar</form>
 <def>bright</def>
 <gramGrp>
-  <gram type="role">adjective</gram>
+  <gram type="role">verbal root</gram>
 </gramGrp>
 </entry>
 <entry>
@@ -110,7 +128,7 @@
 <form>paṭar</form>
 <def>affliction</def>
 <gramGrp>
-  <gram type="role">noun</gram>
+  <gram type="role">root noun</gram>
 </gramGrp>
 </entry>
 <entry>
@@ -150,20 +168,27 @@
 </gramGrp>
 </entry>
 <entry>
-<form>kēṭṭoṟum</form>
-<def>hear-whenever</def>
-<form type="sandhi">kēṭṭoṟun</form>
+<form>kēḷ</form>
+<def>hear</def>
+<form type="sandhi">kēṭ</form>
 <gramGrp>
-  <gram type="role">indefinite</gram>
+  <gram type="role">verbal root</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>toṟum</form>
+<def>ever</def>
+<form type="sandhi">ṭoṟun</form>
+<gramGrp>
+  <gram type="role">postposition</gram>
 </gramGrp>
 </entry>
 <entry>
 <form>tuñcāḷ</form>
-<def>sleepless</def>
+<def>sleepless-she</def>
 <gramGrp>
-  <gram type="role">feminine</gram>
+  <gram type="role">feminine singular</gram>
   <gram type="role">third person</gram>
-  <gram type="role">singular</gram>
 </gramGrp>
 </entry>
 <entry>
@@ -175,9 +200,9 @@
 </gramGrp>
 </entry>
 <entry>
-<form>nōk-ō</form>
+<form>nōk<c type="elided">u</c>-ō</form>
 <def>hurt</def>
-<form type="simple">nōk</form>
+<form type="simple">nōku</form>
 <form type="sandhi">ṉōk</form>
 <gramGrp>
   <gram type="role">verbal root</gram>
@@ -194,5 +219,6 @@
   <gram type="role">first person</gram>
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
-</entry></standOff>
+</entry>
+</standOff>
 </TEI>

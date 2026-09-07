@@ -25,6 +25,12 @@
 <text xml:lang="ta" type="edition">
   <body>
     <div rend="parallel">
+      <p xml:id="Aink119-kilavi">
+        varaiviṭaivaittup pirinta talaimakaṉ vantu ciṟaippuṟattāṉākat tōḻikkuc colliyatu </p>    <p xml:lang="en">
+          Spoken by the hero who had separated as one who was at the outer fence, [he] having placed a gap in the marriage [proposal], to the confidante.
+ </p>
+            </div>  
+    <div rend="parallel">
       <lg xml:id="Aink120">
 <l>amma vāḻi tōḻi nalamika</l>
 <l>nalla vāyiṉa vaḷiyameṉ ṟōḷē</l>
@@ -55,7 +61,7 @@
 <gramGrp>
   <gram type="role">singular</gram>
   <gram type="role">second person</gram>
-  <gram type="role">subjuntive</gram>
+  <gram type="role">subjunctive</gram>
 </gramGrp>
 </entry>
 <entry>

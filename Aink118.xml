@@ -25,6 +25,12 @@
 <text xml:lang="ta" type="edition">
   <body>
     <div rend="parallel">
+      <p xml:id="Aink118-kilavi">
+        ciṟaippuṟamākat talaimakaḷ tōḻikkuc colliyatu; tōḻivāyiṉ maṟutta talaimakaḷ piṉpu talaimakaṉ vantuḻi nikaḻntataṉai avaṭkuk kūṟiyatūumām</p>    <p xml:lang="en">
+          Spoken by the heroine to the heroine, [the hero] being at the outer fence. It could also be said to the confidante, that which had happened when the hero came after the heroine, who rejected [him] through the confidante.
+            </p>
+            </div>  
+    <div rend="parallel">
       <lg xml:id="Aink118">
 <l>amma vāḻi tōḻi yāṉiṉ</l>
 <l>ṟaṟaṉi lāḷaṟ kaṇṭa poḻutiṟ</l>
@@ -49,7 +55,7 @@
 <form>vāḻi</form>
 <def>live-you</def>
 <gramGrp>
-  <gram type="role">subjuntive</gram>
+  <gram type="role">subjunctive</gram>
   <gram type="role">singular</gram>
   <gram type="role">second person</gram></gramGrp>
 </entry>
@@ -110,19 +116,19 @@
 </entry>
 <entry>
 <form>ciṉavuveṉ</form>
-<def>I-enraged</def>
+<def>I-enrage</def>
 <gramGrp>
-  <gram type="role">perfective aspect</gram>
+  <gram type="role">imperfective aspect</gram>
   <gram type="role">singular</gram>
   <gram type="role">first person</gram>
 </gramGrp>
 </entry>
 <entry>
 <form>takaikkuveṉ</form>
-<def>I-stopped</def>
+<def>I-stop</def>
 <form type="sandhi">ṟakaikkuveṉ</form>
 <gramGrp>
-  <gram type="role">perfective aspect</gram>
+  <gram type="role">imperfective aspect</gram>
   <gram type="role">singular</gram>
   <gram type="role">first person</gram>
 </gramGrp>
@@ -160,9 +166,9 @@
 </entry>
 <entry>
 <form>peyar</form>
-<def>stir</def>
+<def>move</def>
 <gramGrp>
-  <gram type="role">noun</gram>
+  <gram type="role">verbal root</gram>
 </gramGrp>
 </entry>
 <entry>

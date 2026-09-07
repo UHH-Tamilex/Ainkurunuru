@@ -1,0 +1,216 @@
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?><?xml-stylesheet type="text/xsl" href="edition.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title>
+            <title xml:lang="ta">Aiṅkuṟunūṟu</title> 413.
+            <persName xml:lang="ta">Pēyaṉār.</persName>
+        </title>   
+        <editor role="translator">Leo Nelson-Jones</editor>  
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc>
+          <msDesc xml:lang="en">
+            <msIdentifier>
+            </msIdentifier>
+            <msContents>
+              <summary>
+                <p/>
+              </summary>
+            </msContents>
+          </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+        <change/>
+      </revisionDesc>
+    </teiHeader>
+    <text xml:lang="ta" type="edition">
+      <body> 
+        <div rend="parallel">
+            <p xml:id="Aink413-kilavi">ituvumatu.</p>
+<p xml:lang="en">And this is that.</p>
+</div>
+        <div rend="parallel">
+                <lg xml:id="Aink413">
+                    <l>niṉṉuta ṉāṟu naṟuntaṇ puṟavi</l>
+                    <l>niṉṉē pōla maññai yālak</l>
+                    <l>kārtoṭaṅ kiṉṟāṟ poḻutē</l>
+                    <l>pēriya larivai nānayat takavē.</l>
+          </lg>
+          <lg xml:lang="en">
+            <l>In the fragrant cool woodland, as fragrant as your forehead,</l>
+            <l>as the peacocks dance just like you,</l>
+            <l>the time of the rainy season has indeed begun</l>
+            <l>[in a way] fit for our desire, O great-natured young woman.</l>
+          </lg>
+        </div>
+      </body>
+    </text>
+    <standOff corresp="#Aink413-kilavi" type="wordsplit">
+<interp type="alignment" select="0">3MG7M,10MG</interp>
+<entry>
+<form>itu-<c type="glide">v</c>um</form>
+<def>this</def>
+<form type="simple">itu</form>
+<gramGrp>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>atu</form>
+<def>that</def>
+<gramGrp>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#Aink413" type="wordsplit">
+<interp type="alignment" select="0">8ML3MR14MR4MG28M2G7M2G16MR9MG3M,101MG</interp>
+<entry>
+<form>niṉ</form>
+<def>your</def>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>nutal</form>
+<def>forehead</def>
+<form type="sandhi">ṉutaṉ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>nāṟum</form>
+<def>emit fragrance</def>
+<form type="sandhi">ṉāṟun</form>
+<gramGrp>
+  <gram type="role">imperfective aspect</gram>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>naṟum</form>
+<def>fragrant</def>
+<form type="sandhi">naṟun</form>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>taṇ</form>
+<def>cool</def>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>puṟavil</form>
+<def>woodland</def>
+<form type="sandhi">puṟavin</form>
+<gramGrp>
+  <gram type="role">locative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>niṉṉ-ē</form>
+<def>you</def>
+<form type="simple">niṉṉ</form>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+<entry>
+<form>pōla</form>
+<def>resemble</def>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>maññai</form>
+<def>peacock</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>āla<c type="geminated">k</c></form>
+<def>dance</def>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kār</form>
+<def>rainy season</def>
+</entry>
+<entry>
+<form>toṭaṅkiṉṟ<c type="elided">u</c>-āl</form>
+<def>began</def>
+<form type="simple">toṭaṅkiṉṟu</form>
+<form type="sandhi">toṭaṅkiṉṟ</form>
+<gramGrp>
+  <gram type="role">neuter singular</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">āl</m></gramGrp>
+</entry>
+<entry>
+<form>poḻut<c type="elided">u</c>-ē</form>
+<def>time</def>
+<form type="simple">poḻutu</form>
+<form type="sandhi">poḻut</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+<entry>
+<form>pēr</form>
+<def>great</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>iyal</form>
+<def>nature</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>arivai</form>
+<def>young women</def>
+</entry>
+<entry>
+<form>nām</form>
+<def>we</def>
+<form type="sandhi">nān</form>
+<gramGrp>
+  <gram type="role">plural</gram>
+  <gram type="role">first person</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>nayam</form>
+<def>desire</def>
+<form type="sandhi">nayat</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>taka-<c type="glide">v</c>ē</form>
+<def>be appropriate</def>
+<form type="simple">taka</form>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+</standOff></TEI>

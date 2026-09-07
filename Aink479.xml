@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?><?xml-stylesheet type="text/xsl" href="edition.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title>
+            <title xml:lang="ta">Aiṅkuṟunūṟu</title> 479. <persName xml:lang="ta">Pēyaṉār.</persName>
+          </title>
+          <editor role="translator">Leo Nelson-Jones</editor>
+  
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc>
+          <msDesc xml:lang="en">
+            <msIdentifier>
+            </msIdentifier>
+            <msContents>
+              <summary>
+                <p/>
+              </summary>
+            </msContents>
+          </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+        <change/>
+      </revisionDesc>
+    </teiHeader>
+    <text xml:lang="ta" type="edition">
+      <body>
+        <div rend="parallel">
+            <p xml:id="Aink479-kilavi">talaivi viṭat tūtāyc ceṉṟa pāṇaṉ māṟṟam kūṟak kēṭṭa talaimakaṉ ivvāṭai varuttattiṟku maruntāka iṉṉum kūṟa vēṇṭum eṉak kūṟiyatu.</p>
+            <p xml:lang="en"></p>
+              </div>
+        <div rend="parallel">
+          <lg xml:id="Aink479">        
+            <l>collumati pāṇa collutō ṟiṉiya</l>
+            <l>nāṭiṭai vilaṅkiya vemvayi ṉāṭoṟu</l>
+            <l>marumpaṉi kalanta varuḷil vāṭai</l>
+            <l>taṉimai yeḷḷum poḻutiṟ</l>
+            <l>paṉimalark kaṇṇi kūṟiya temakkē.</l>
+        </lg>  
+ <lg xml:lang="en">                    
+<l></l>
+</lg>                      
+        </div>
+      </body>
+    </text>
+    </TEI>

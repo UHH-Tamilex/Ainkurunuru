@@ -25,6 +25,12 @@
 <text xml:lang="ta" type="edition">
   <body>
     <div rend="parallel">
+      <p xml:id="Aink116-kilavi">
+        eṟpāṭṭiṉkaṇ talaimakaṉ ciṟaipuṟattu niṉṟu kēṭpat talaimakaḷ tōḻikkuc colliyatu</p>    <p xml:lang="en">
+          Spoken by the heroine to the confidante, as the hero stood listening at the outer fence in the early morning.
+            </p>
+            </div>
+    <div rend="parallel">
       <lg xml:id="Aink116">
 <l>amma vāḻi tōḻi nāmaḻa</l>
 <l>nīla viruṅkaḻi nīlaṅ kūmpu</l>
@@ -33,10 +39,9 @@
 </lg>
 <lg xml:lang="en">
 <l>Oh friend, listen!</l>
-<l>So that we cry,</l>
-<l>The evening in which the blueness of dark blue lotuses close</l>
-<l>Has indeed come, resembling the morning,</l>
-<l>The wind being early.</l>
+<l>The evening in which the blue of dark blue lotuses close</l>
+<l>Has indeed come so that we cry,</l> 
+<l>Resembling the morning, the wind being early.</l>
 </lg>
     </div>
   </body>
@@ -50,7 +55,7 @@
 <form>vāḻi</form>
 <def>live-you</def>
 <gramGrp>
-  <gram type="role">subjuntive</gram>
+  <gram type="role">subjunctive</gram>
   <gram type="role">singular</gram>
   <gram type="role">second person</gram>  </gramGrp>
 </entry>
@@ -127,6 +132,8 @@
 <gramGrp>
   <gram type="role">neuter singular</gram>
   <gram type="role">perfective aspect</gram>
+  <gram type="role">third person</gram>
+
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">maṉṟa</m></gramGrp>
 </entry>

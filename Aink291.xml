@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?><?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <title xml:lang="ta">Aiṅkuṟunūṟu</title> 291.
+          <persName xml:lang="ta">Kapilar</persName> 
+      </title> 
+      <editor role="translator">Maanasa Visweswaran</editor>  
+      </titleStmt>
+      <publicationStmt><p/></publicationStmt>
+      <sourceDesc>
+     
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p/>
+            </summary>
+          </msContents>    
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc><change/></revisionDesc>
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <div rend="parallel">
+        <p xml:id="Aink291-kilavi">varaiviṭai vaittup pirintu mīḷkiṉṟa talaimakaṉ colliyatu.</p>
+        <p xml:lang="en"> 
+          What the hero, having fixed the time for marriage and parted, and then returning, said.                  
+        </p>
+      </div>
+      <div rend="parallel">
+      <lg xml:id="Aink291">
+<l>mayilka ḷālak kuṭiñai yiraṭṭun</l>
+<l>tuṟukal laṭukkat tatuvē paṇaittō</l>
+<l>ḷāytaḻai nuṭaṅku malkuṟ</l>
+<l>kātali yuṟaiyu naṉinal lūrē</l>
+      </lg>
+      <lg xml:lang="en">
+        <l>The very good village,</l>
+        <l>where our lover—</l>
+        <l>she of bamboo shoulders</l>
+        <l>and hips on which choice foliage sways—dwells,</l>
+        <l>belongs to the mountain slope</l>
+        <l>of thick rocks,</l>
+        <l>where the owls hoot in alternation</l>
+        <l>as the peacocks cry.</l>
+        
+      </lg>
+    </div>
+  </body>
+</text>
+<standOff type="wordsplit" corresp="#Aink291"><interp type="alignment" select="0">46MG44MR10MGM,104M</interp>
+<entry>
+<form>mayilkaḷ</form>
+<def>peacock</def>
+<gramGrp>
+  <gram type="role">plural</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>āla<c type="geminated">k</c></form>
+<def>cry aloud</def>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kuṭiñai</form>
+<def>owl</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>iraṭṭum</form>
+<def>sounding alternately-</def>
+<form type="sandhi"><c type="glide">y</c>iraṭṭun</form>
+<gramGrp>
+  <gram type="role">imperfective aspect</gram>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tuṟu</form>
+<def>thick</def>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kal</form>
+<def>stone</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="geminated">l</c>aṭukkattatu-<c type="glide">v</c>ē</form>
+<def>it is of the mountain side</def>
+<form type="simple">aṭukkattatu</form>
+<form type="sandhi"><c type="geminated">l</c>aṭukkattatu</form>
+<gramGrp>
+  <gram type="role">neuter singular</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+<entry>
+<form>paṇai<c type="geminated">t</c></form>
+<def>bamboo</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tōḷ</form>
+<def>shoulder</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>āy</form>
+<def>choice</def>
+<gramGrp>
+  <gram type="role">verbal root</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>taḻai</form>
+<def>foliage</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>nuṭaṅkum</form>
+<def>swaying-</def>
+<gramGrp>
+  <gram type="role">imperfective aspect</gram>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>alkul</form>
+<def>hip</def>
+<form type="sandhi">alkuṟ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kātali</form>
+<def>love-she</def>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">feminine singular</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>uṟaiyum</form>
+<def>stays</def>
+<form type="sandhi"><c type="glide">y</c>uṟaiyun</form>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>naṉi</form>
+<def>very</def>
+</entry>
+<entry>
+<form>nal</form>
+<def>good</def>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="geminated">l</c>ūr-ē</form>
+<def>village</def>
+<form type="simple">ūr</form>
+<form type="sandhi"><c type="geminated">l</c>ūr</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry></standOff>
+<standOff corresp="#Aink291-kilavi" type="wordsplit">
+<interp type="alignment" select="0">6MG46M,52MG</interp>
+<entry>
+<form>varaiv<c type="elided">u</c></form>
+<def>marriage</def>
+<form type="sandhi">varaiv</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>iṭai</form>
+<def>middle</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vaittu<c type="geminated">p</c></form>
+<def>placed</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>pirintu</form>
+<def>separated</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>mīḷkiṉṟa</form>
+<def>returning</def>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+  <gram type="role">present tense</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>talaimakaṉ</form>
+<def>hero</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>colliyatu</form>
+<def>spoken-it</def>
+<gramGrp>
+  <gram type="role">participial noun</gram>
+  <gram type="role">neuter singular</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+</standOff></TEI>

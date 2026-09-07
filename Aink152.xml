@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+            <title xml:lang="ta">Aiṅkuṟunūṟu</title> <num>152</num>.
+            <persName xml:lang="ta">Amūvaṉār</persName>
+        </title>    
+        <editor role="translator">Neela Bhaskar</editor>                              
+      </titleStmt>
+      <publicationStmt><p/></publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc><change/></revisionDesc>
+  </teiHeader>
+<text xml:lang="ta" type="edition">
+  <body>
+    <div rend="parallel">
+      <p xml:id="Aink150-kilavi">
+        talaimakaṉ vāyiṉmaṟuttuḻi ivaṉ niṉmēl toṭarcciyiṟ kuṟaivilaṉ aruḷumuṭaiyaṉ; ātalāl, nī ivaṉōṭupulattal takātu eṉa neruṅki vāyilnērvikkuntōḻikku avaḷ colliyatu</p>    <p xml:lang="en">
+          Spoken by her to the confidante who agrees to letting [him] enter, when [the heroine] denied entry [to] the hero, [the confidante] saying ‘He is one without fault in his relationship to you. He is also possessing of kindness/grace. Because of that, you [being] displeased with him is not appropriate.
+  </p>
+ </div>      
+    <div rend="parallel">
+      <lg xml:id="Aink152">
+<l>veḷḷāṅ kurukiṉ piḷḷai cetteṉak</l>
+<l>kāṇiya ceṉṟa maṭanaṭai nārai</l>
+<l>kaiyaṟu piraṟṟu kāṉalam pulampan</l>
+<l>turaivaṉ varaiyu meṉpa</l>
+<l>vaṟavaṉ pōlu maruḷumā ratuvē</l>
+      </lg>
+      <lg xml:lang="en">
+        <l>They say the man from the shore - the man from the ghat</l>
+       <l> With the seashore-grove,</l>
+       <l>The wader with an inexperienced gait having cried helplessly</l>
+        <l>When [it] went to see, since the hatchling of the white wader died,</l>
+       <l> Will marry [her].</l>
+        <l>It is a rare thing how he graces [her] like a man of duty.</l>
+      </lg>
+    </div>
+  </body>
+</text>
+<standOff type="wordsplit" corresp="#Aink152"><interp type="alignment" select="0">23MG101MG2M,128M</interp>
+<entry>
+<form>veḷḷām</form>
+<def>white</def>
+<form type="sandhi">veḷḷāṅ</form>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kurukiṉ</form>
+<def>wader</def>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>piḷḷai</form>
+<def>young-one</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>cett<c type="elided">u</c></form>
+<def>to-die</def>
+<form type="sandhi">cett</form>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>eṉa<c type="geminated">k</c></form>
+<def>say</def>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kāṇiya</form>
+<def>see</def>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ceṉṟa</form>
+<def>gone-</def>
+<gramGrp>
+  <gram type="role">perfective aspect</gram>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>maṭa</form>
+<def>inexperience</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>naṭai</form>
+<def>gait</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>nārai</form>
+<def>wader</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kaiyaṟu</form>
+<def>be-helpless</def>
+<gramGrp>
+  <gram type="role">verbal root</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>piraṟṟu</form>
+<def>shout</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kāṉalam</form>
+<def>seashore grove-</def>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>pulampaṉ</form>
+<def>shore-he</def>
+<form type="sandhi">pulampan</form>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">masculine singular</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tuṟaivaṉ</form>
+<def>ghat-he</def>
+<form type="sandhi">turaivaṉ</form>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">masculine singular</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>varaiyum</form>
+<def>to-marry</def>
+<gramGrp>
+  <gram type="role">habitual future</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>eṉpa</form>
+<def>they say</def>
+<gramGrp>
+  <gram type="role">imperfective aspect</gram>
+  <gram type="role">plural</gram>
+  <gram type="role">third person</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">v</c>aṟavaṉ</form>
+<def>duty-he</def>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">masculine singular</gram>
+  <gram type="role">imperfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>pōlum</form>
+<def>it-seems</def>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>aruḷum</form>
+<def>to-grace</def>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ār</form>
+<def>difficult</def>
+<gramGrp>
+  <gram type="role">verbal root</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>atu-<c type="glide">v</c>ē</form>
+<def>that</def>
+<form type="simple">atu</form>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry></standOff>
+</TEI>

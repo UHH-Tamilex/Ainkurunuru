@@ -1,0 +1,218 @@
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?><?xml-stylesheet type="text/xsl" href="edition.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title>
+            <title xml:lang="ta">Aiṅkuṟunūṟu</title> 412.
+            <persName xml:lang="ta">Pēyaṉār.</persName>
+        </title>   
+        <editor role="translator">Leo Nelson-Jones</editor>  
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc>
+          <msDesc xml:lang="en">
+            <msIdentifier>
+            </msIdentifier>
+            <msContents>
+              <summary>
+                <p/>
+              </summary>
+            </msContents>
+          </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+        <change/>
+      </revisionDesc>
+    </teiHeader>
+    <text xml:lang="ta" type="edition">
+      <body> 
+        <div rend="parallel">
+            <p xml:id="Aink412-kilavi">ituvumatu.</p>
+<p xml:lang="en">And this is that.</p>
+</div>
+        <div rend="parallel">
+                <lg xml:id="Aink412">
+<l>kāyā koṉṟai neytaṉ mullai</l>
+<l>pōtaviḻ taḷavamoṭu piṭavalarntu kaviṉip</l>
+<l>pūvaṇi koṇṭaṉṟāṟ puṟavē</l>
+<l>pēramark kaṇṇi yāṭukam viraintē.</l>
+          </lg>
+          <lg xml:lang="en">
+            <l>The ironwood, the laburnum, the water lily,the jasmine,</l>
+            <l>along with the golden jasmine with opening buds and the <foreign xml:lang="ta-Latn">piṭavu</foreign></l> 
+            <l>- the woodland blossoms, becoming beautiful, and takes the flowers as [its] ornaments.</l>
+            <l>O you with large beuatiful eyes, let us hurry and bathe.</l>
+                     
+          </lg>
+        </div>
+      </body>
+    </text>
+    <standOff corresp="#Aink412-kilavi" type="wordsplit">
+<interp type="alignment" select="0">3MG7M,10MG</interp>
+<entry>
+<form>itu-<c type="glide">v</c>um</form>
+<def>this</def>
+<form type="simple">itu</form>
+<gramGrp>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>atu</form>
+<def>that</def>
+<gramGrp>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#Aink412" type="wordsplit">
+<interp type="alignment" select="0">25MG19MG27M2G7M2G28M2G2M,115MG</interp>
+<entry>
+<form>kāyā</form>
+<def>ironwood tree</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>koṉṟai</form>
+<def>Laburnum tree</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>neytal</form>
+<def>blue waterlily</def>
+<form type="sandhi">neytaṉ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>mullai</form>
+<def>jasmine</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>pōt<c type="elided">u</c></form>
+<def>bud</def>
+<form type="sandhi">pōt</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>aviḻ</form>
+<def>open</def>
+<gramGrp>
+  <gram type="role">verbal root</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>taḷavamoṭu</form>
+<def>red jasmine</def>
+<gramGrp>
+  <gram type="role">sociative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>piṭav<c type="elided">u</c></form>
+<def>Piṭavu-tree</def>
+<form type="sandhi">piṭav</form>
+<gramGrp>
+</gramGrp>
+</entry>
+<entry>
+<form>alarntu</form>
+<def>bloom</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kaviṉi<c type="geminated">p</c></form>
+<def>been beautiful</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>pū</form>
+<def>flower</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">v</c>aṇi</form>
+<def>ornament</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>koṇṭaṉṟ<c type="elided">u</c>-āl</form>
+<def>it took</def>
+<form type="simple">koṇṭaṉṟu</form>
+<form type="sandhi">koṇṭaṉṟ</form>
+<gramGrp>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">āl</m></gramGrp>
+</entry>
+<entry>
+<form>puṟav<c type="elided">u</c>-ē</form>
+<def>dove</def>
+<form type="simple">puṟavu</form>
+<form type="sandhi">puṟav</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+<entry>
+<form>pēr</form>
+<def>big</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>amar<c type="geminated">k</c></form>
+<def>beauty</def>
+<gramGrp>
+  <gram type="role">root noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kaṇṇi</form>
+<def>eye</def>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">singular</gram>
+  <gram type="role">second person</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>āṭukam</form>
+<def>play</def>
+<gramGrp>
+  <gram type="role">plural</gram>
+  <gram type="role">subjunctive</gram>
+  <gram type="role">first person</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>viraint<c type="elided">u</c>-ē</form>
+<def>hastened</def>
+<form type="simple">viraintu</form>
+<form type="sandhi">viraint</form>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+</standOff></TEI>

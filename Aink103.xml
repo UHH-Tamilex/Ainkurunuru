@@ -27,7 +27,7 @@
             aṟattoṭu niṉṟa tōḻi vatuvai nikaḻāniṉṟuḻit tāykkuk
 kāṭṭi uvantu colliyatu. </p>
           <p xml:lang="en">
-
+Spoken joyfully by the confidante who stood with the truth, when the wedding was going on.
           </p>
         </div>
         <div rend="parallel">
@@ -58,17 +58,24 @@ kāṭṭi uvantu colliyatu. </p>
 <form>vāḻi</form>
 <def>live</def>
 <gramGrp>
-  <gram type="role">subjuntive</gram>
+  <gram type="role">subjunctive</gram>
+  <gram type="role">second person</gram>
 </gramGrp>
 </entry>
 <entry>
 <form>vēṇṭ<c type="elided">u</c></form>
 <def>be necessary</def>
 <form type="sandhi">vēṇṭ</form>
+<gramGrp>
+  <gram type="role">verbal root</gram>
+</gramGrp>
 </entry>
 <entry>
 <form>aṉṉai</form>
 <def>mother</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
 </entry>
 <entry>
 <form>puṉṉaiyoṭu</form>
@@ -79,7 +86,10 @@ kāṭṭi uvantu colliyatu. </p>
 </entry>
 <entry>
 <form>ñāḻal</form>
-<def>ñāḻal</def>
+<def>Ñāḻal tree</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
 </entry>
 <entry>
 <form>pūkkum</form>
@@ -90,43 +100,46 @@ kāṭṭi uvantu colliyatu. </p>
 </gramGrp>
 </entry>
 <entry>
-<form>taṇ<c type="geminated">ṇ</c></form>
+<form>taṇ</form>
 <def>cool</def>
 <gramGrp>
   <gram type="role">adjective</gram>
 </gramGrp>
 </entry>
 <entry>
-<form>am</form>
+<form><c type="geminated">ṇ</c>am</form>
 <def>pretty</def>
-<form type="sandhi">an</form>
+<form type="sandhi"><c type="geminated">ṇ</c>an</form>
 <gramGrp>
   <gram type="role">adjective</gram>
 </gramGrp>
 </entry>
 <entry>
 <form>tuṟaivaṉ</form>
-<def>harbour</def>
+<def>harbour-he</def>
 <gramGrp>
   <gram type="role">pronominalised noun</gram>
   <gram type="role">masculine singular</gram>
+  <gram type="role">third person</gram>
 </gramGrp>
 </entry>
 <entry>
 <form>ivaṭk<c type="elided">u</c></form>
-<def>she</def>
+<def>this-one</def>
 <form type="sandhi">ivaṭk</form>
 <gramGrp>
+  <gram type="role">feminine singular</gram>
   <gram type="role">dative</gram>
 </gramGrp>
 </entry>
 <entry>
 <form>amaintaṉaṉ-āl</form>
-<def>be suitable</def>
+<def>be suitable-he</def>
 <form type="simple">amaintaṉaṉ</form>
 <gramGrp>
   <gram type="role">masculine singular</gram>
   <gram type="role">perfective aspect</gram>
+  <gram type="role">third person</gram>
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">āl</m></gramGrp>
 </entry>
@@ -135,6 +148,11 @@ kāṭṭi uvantu colliyatu. </p>
 <def>self</def>
 <form type="simple">tāṉ</form>
 <form type="sandhi">ṟāṉ</form>
+<gramGrp>
+  <gram type="role">pronoun</gram>
+  <gram type="role">singular</gram>
+  <gram type="role">third person</gram>
+</gramGrp>
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry>
 <entry>
@@ -143,6 +161,9 @@ kāṭṭi uvantu colliyatu. </p>
 <form type="sandhi">taṉakk</form>
 <gramGrp>
   <gram type="role">dative</gram>
+  <gram type="role">pronoun</gram>
+  <gram type="role">singular</gram>
+  <gram type="role">third person</gram>
 </gramGrp>
 </entry>
 <entry>
@@ -160,21 +181,34 @@ kāṭṭi uvantu colliyatu. </p>
 </entry>
 <entry>
 <form>ivaḷ</form>
-<def>here</def>
+<def>this-one</def>
 <form type="sandhi">ivaṇ</form>
+<gramGrp>
+  <gram type="role">feminine singular</gram>
+  <gram type="role">pronoun</gram>
+</gramGrp>
 </entry>
 <entry>
 <form>mā</form>
 <def>great</def>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
 </entry>
 <entry>
 <form>mai<c type="geminated">k</c></form>
 <def>dark</def>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
 </entry>
 <entry>
 <form>kaviṉ-ē</form>
 <def>beauty</def>
 <form type="simple">kaviṉ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry>
 </standOff>

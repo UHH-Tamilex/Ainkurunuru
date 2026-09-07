@@ -25,6 +25,11 @@
 <text xml:lang="ta" type="edition">
   <body>
     <div rend="parallel">
+      <p xml:id="Aink103-kilavi">
+        varaiyātu vantu oḻukun talaimakaṉ ciṟaippuṟattu niṉṟu kēṭpa nerunal illattu nikaḻntatu ituveṉat talaimakaḷ tōḻikkuc colliyatu</p>    <p xml:lang="en">
+          Spoken by the heroine to the confidante, saying ’That which happened yesterday at the house was this’, as the hero who behaves, having come without a marriage [proposal], stands at the outer fence, listening.. </p>
+         </div>
+    <div rend="parallel">
       <lg xml:id="Aink113">
 <l>amma vāḻi tōḻi neṉṉa</l>
 <l>lōṅkutirai veṇmaṇa luṭaikkun tuṟaivaṟ</l>
@@ -37,7 +42,7 @@
 <l>The townspeople said, ‘[She is] the girl</l>
 <l>To the man from the ghat upon which high waves break the white sand’.</l>
 <l>Having heard that, mother said, ‘You are like that?’</l>
-<l>Slowly (= carefully), I said, ‘[He is] our Lord’.</l>
+<l>Slowly/carefully, I said, ‘[He is] our Lord’.</l>
 </lg>
     </div>
   </body>
@@ -52,9 +57,9 @@
 <form>vāḻi</form>
 <def>live-you</def>
 <gramGrp>
-  <gram type="role">subjuntive</gram>
-  <gram type="role">singular</gram>
-  <gram type="role">second person</gram></gramGrp>
+  <gram type="role">subjunctive</gram>
+  <gram type="role">second person</gram>
+</gramGrp>
 </entry>
 <entry>
 <form>tōḻi</form>
@@ -115,6 +120,7 @@
   <gram type="role">dative</gram>
   <gram type="role">singular</gram>
   <gram type="role">third person</gram>
+  <gram type="role">honorific</gram>
 </gramGrp>
 </entry>
 <entry>
@@ -123,11 +129,12 @@
 <gramGrp>
   <gram type="role">noun</gram>
   <gram type="role">honorific</gram>
+  <gram type="role">pronominalised noun</gram>
 </gramGrp>
 </entry>
 <entry>
 <form>peṇṭ<c type="elided">u</c></form>
-<def>wife</def>
+<def>girl</def>
 <form type="sandhi">peṇṭ</form>
 <gramGrp>
   <gram type="role">noun</gram>
@@ -185,6 +192,7 @@
 <gramGrp>
   <gram type="role">feminine singular</gram>
   <gram type="role">perfective aspect</gram>
+  <gram type="role">third person</gram>
 </gramGrp>
 </entry>
 <entry>

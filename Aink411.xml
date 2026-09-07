@@ -1,0 +1,372 @@
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?><?xml-stylesheet type="text/xsl" href="edition.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title>
+            <title xml:lang="ta">Aiṅkuṟunūṟu</title> 411.
+            <persName xml:lang="ta">Pēyaṉār.</persName>
+        </title>   
+        <editor role="translator">Leo Nelson-Jones</editor>  
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc>
+          <msDesc xml:lang="en">
+            <msIdentifier>
+            </msIdentifier>
+            <msContents>
+              <summary>
+                <p/>
+              </summary>
+            </msContents>
+          </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+        <change/>
+      </revisionDesc>
+    </teiHeader>
+    <text xml:lang="ta" type="edition">
+      <body> 
+        <div rend="parallel">
+            <p xml:id="Aink411-kilavi">
+                paruvam kuṟittup pirinta talaimakaṉ apparuvattiṟku muṉṉē vantu talaiviyoṭu kūṭic cellā niṉṟuḻip paruvam vantatākat tāṉ paruvattiṟku muṉṉē vantamai tōṉṟak kūṟuvāṉ talaivikku uraittatu.            </p>
+            <p xml:lang="en">
+The hero who had separated after indicating the season [of his return], having returned before that season and having united with the heroine, as the season came when he was going, speaking so it became evident that he had come before the season, told [this] to the heroine.            </p>
+        </div>
+        <div rend="parallel">
+                <lg xml:id="Aink411">
+                    <l>ārkura leḻili yaḻituḷi citaṟik</l>
+                    <l>kārtoṭaṅ kiṉṟāṟ kāmar puṟavē</l>
+                    <l>vīḻtaru putuppuṉa lāṭukan</l>
+                    <l>tāḻiruṅ kūntal vammati viraintē.</l>
+          </lg>
+          <lg xml:lang="en">
+            <l>Scattering ruinous raindrops and with roaing loud clouds,</l>
+            <l>the rainy season did begin. In the lovely woodland,</l>
+            <l>we shall play in the new floods that bring desire.<note xml:lang="en" place="foot"><q xml:lang="ta-Latn"><hi>vīḻ taru</hi></q>, here understood as relative clause meaning 'that bring desire', can equally well be translated as 'that descend'. In that case, <foreign xml:lang="ta-Latn">taru-tal</foreign> would function as an auxilliary verb, signifying an action outside of the control of the speaker. I see no particular reason to choose one interpretation over the other.</note></l> 
+            <l>O one with the dark hanging tresses, come quickly!</l>
+          </lg>
+        </div>
+      </body>
+    </text>
+<standOff corresp="#Aink411-kilavi" type="wordsplit">
+<interp type="alignment" select="0">49MG32MG17MG22MG43M,166MG</interp>
+<entry>
+<form>paruvam</form>
+<def>season</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kuṟittu<c type="geminated">p</c></form>
+<def>intended</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>pirinta</form>
+<def>separated</def>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>talaimakaṉ</form>
+<def>hero</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>a<c type="geminated">p</c></form>
+<def>that</def>
+</entry>
+<entry>
+<form>paruvattiṟku</form>
+<def>season</def>
+<gramGrp>
+  <gram type="role">dative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>muṉ-<c type="geminated">ṉ</c>ē</form>
+<def>before</def>
+<form type="simple">muṉ</form>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+<entry>
+<form>vantu</form>
+<def>come</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>talaiviyoṭu</form>
+<def>heroine</def>
+<gramGrp>
+  <gram type="role">sociative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kūṭi<c type="geminated">c</c></form>
+<def>united</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>cellāniṉṟ<c type="elided">u</c></form>
+<def>going</def>
+<form type="sandhi">cellāniṉṟ</form>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+  <gram type="role">present tense</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>uḻi<c type="geminated">p</c></form>
+<def>place</def>
+</entry>
+<entry>
+<form>paruvam</form>
+<def>season</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vantat<c type="elided">u</c></form>
+<def>come</def>
+<form type="sandhi">vantat</form>
+<gramGrp>
+  <gram type="role">verbal noun</gram>
+  <gram type="role">neuter singular</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>āka<c type="geminated">t</c></form>
+<def>become</def>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tāṉ</form>
+<def>self</def>
+<gramGrp>
+  <gram type="role">pronoun</gram>
+  <gram type="role">singular</gram>
+  <gram type="role">third person</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>paruvattiṟku</form>
+<def>season</def>
+<gramGrp>
+  <gram type="role">dative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>muṉ-<c type="geminated">ṉ</c>ē</form>
+<def>before</def>
+<form type="simple">muṉ</form>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+<entry>
+<form>vantamai</form>
+<def>having-come</def>
+<gramGrp>
+  <gram type="role">verbal noun</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tōṉṟa<c type="geminated">k</c></form>
+<def>appear</def>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kūṟuvāṉ</form>
+<def>spoke</def>
+<gramGrp>
+  <gram type="role">participial noun</gram>
+  <gram type="role">singular</gram>
+  <gram type="role">masculine</gram>
+  <gram type="role">imperfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>talaivikku</form>
+<def>heroine</def>
+<gramGrp>
+  <gram type="role">dative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>uraittatu</form>
+<def>told</def>
+<gramGrp>
+  <gram type="role">participial noun</gram>
+  <gram type="role">neuter singular</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#Aink411" type="wordsplit">
+<interp type="alignment" select="0">39M2G12M2G51M2G2M,109MG</interp>
+<entry>
+<form>ār</form>
+<def>roar</def>
+<gramGrp>
+  <gram type="role">verbal root as adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kural</form>
+<def>voice</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>eḻili</form>
+<def>cloud</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>aḻi</form>
+<def>ruin</def>
+<gramGrp>
+  <gram type="role">verbal root as adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tuḷi</form>
+<def>rain drops</def>
+<gramGrp>
+  <gram type="role">root noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>citaṟi<c type="geminated">k</c></form>
+<def>scattering</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kār</form>
+<def>rainy season</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>toṭaṅkiṉṟ<c type="elided">u</c>-āl</form>
+<def>began</def>
+<form type="simple">toṭaṅkiṉṟu</form>
+<form type="sandhi">toṭaṅkiṉṟ</form>
+<gramGrp>
+  <gram type="role">neuter singular</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">āl</m></gramGrp>
+</entry>
+<entry>
+<form>kāmar</form>
+<def>desireable</def>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>puṟav<c type="elided">u</c>-ē</form>
+<def>woodland</def>
+<form type="simple">puṟavu</form>
+<form type="sandhi">puṟav</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+<entry>
+<form>vīḻtaru</form>
+<def>make desire</def>
+<gramGrp>
+  <gram type="role">verbal root as adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>putu<c type="geminated">p</c></form>
+<def>new</def>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>puṉal</form>
+<def>flood</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>āṭukam</form>
+<def>play/bathe</def>
+<form type="sandhi">āṭukan</form>
+<gramGrp>
+  <gram type="role">subjunctive</gram>
+  <gram type="role">plural</gram>
+  <gram type="role">first person</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tāḻ</form>
+<def>hang down</def>
+<gramGrp>
+  <gram type="role">verbal root as adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>irum</form>
+<def>dark</def>
+<form type="sandhi">iruṅ</form>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kūntal</form>
+<def>tresses</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vammati</form>
+<def>come</def>
+<gramGrp>
+  <gram type="role">imperative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>viraint<c type="elided">u</c>-ē</form>
+<def>be quick</def>
+<form type="simple">viraintu</form>
+<form type="sandhi">viraint</form>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+</standOff></TEI>

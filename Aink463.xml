@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?><?xml-stylesheet type="text/xsl" href="edition.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title>
+            <title xml:lang="ta">Aiṅkuṟunūṟu</title> 463. <persName xml:lang="ta">Pēyaṉār.</persName>
+          </title>
+          <editor role="translator">Leo Nelson-Jones</editor>
+  
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc>
+          <msDesc xml:lang="en">
+            <msIdentifier>
+            </msIdentifier>
+            <msContents>
+              <summary>
+                <p/>
+              </summary>
+            </msContents>
+          </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+        <change/>
+      </revisionDesc>
+    </teiHeader>
+    <text xml:lang="ta" type="edition">
+      <body>
+        <div rend="parallel">
+            <p xml:id="Aink463-kilavi">kuṟitta paruvam varavum talaimakaṉ tāḻttuḻit tōḻi kāraṇam kūṟi varpuṟīiyatu.</p>
+            <p xml:lang="en"></p>
+              </div>
+        <div rend="parallel">
+          <lg xml:id="Aink463">        
+            <l>putaṉmicai naṟumalar kaviṉpeṟat toṭariniṉ</l>
+            <l>nalamiku kūnta ṟakaikoḷap puṉaiya</l>
+            <l>vārā tamaiyalō vilarē nērār</l>
+            <l>nāṭupaṭu naṉkalan tarīiyar</l>
+            <l>nīṭiṉar tōḻinaṅ kāta lōrē.</l>
+            
+        </lg>  
+ <lg xml:lang="en">                    
+<l></l>
+</lg>                      
+        </div>
+      </body>
+    </text>
+    </TEI>

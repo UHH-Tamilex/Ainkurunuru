@@ -25,6 +25,12 @@
 <text xml:lang="ta" type="edition">
   <body>
     <div rend="parallel">
+      <p xml:id="Aink103-kilavi">
+        putalvaṉ peṟṟuḻit talaimakaṉ maṉaikkaṭ ceṉṟa cevilikku muṉpu aṟattoṭu niṉṟu vatuvai kūṭṭiya tōḻi avaṉūr naṉmai kāṭṭic colliyatu </p>
+      <p xml:lang="en">
+        Spoken by the confidante who made the wedding come together, standing with the truth in front of the foster mother who went to the house of the hero, when [they] obtained a son.      </p>
+    </div>
+    <div rend="parallel">
       <lg xml:id="poem104">
 <l>aṉṉai vāḻi vēṇ ṭaṉṉai nammūrp</l>
 <l>palarmaṭi poḻuti ṉalamikac cāay</l>
@@ -34,14 +40,15 @@
  <lg xml:lang="en">
 <l> Oh mother, please mother </l>
 <l> That is the town of the son of the wealthy man from the sea </l>
-<l> With a moving chariot that arrived in our town in the middle [of the night], </l>
-<l> In the time when everyone was sleeping, </l>
-<l> [My]beauty having become greatly exhausted. </l>
+<l> With a moving chariot that arrived in our town at midnight, </l>
+<l> In the time when most were resting, </l>
+<l> [My] beauty having become greatly exhausted. </l>
             </lg>
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#poem104"><interp type="alignment" select="0">13MG28ML4ML25ML24MG2MGM,103M</interp>
+<standOff type="wordsplit" corresp="#poem104">
+<interp type="alignment" select="0">13MG28ML4ML25ML8MG16MG2MGM,104M</interp>
 <entry>
 <form>aṉṉai</form>
 <def>mother</def>
@@ -53,7 +60,8 @@
 <form>vāḻi</form>
 <def>live-you</def>
 <gramGrp>
-  <gram type="role">subjuntive</gram>
+  <gram type="role">subjunctive</gram>
+  <gram type="role">second person</gram>
 </gramGrp>
 </entry>
 <entry>
@@ -72,14 +80,17 @@
 </gramGrp>
 </entry>
 <entry>
-<form>nam<c type="geminated">m</c></form>
+<form>nam</form>
 <def>our</def>
 <gramGrp>
+  <gram type="role">pronoun</gram>
   <gram type="role">oblique</gram>
+  <gram type="role">plural</gram>
+  <gram type="role">first person</gram>
 </gramGrp>
 </entry>
 <entry>
-<form>ūr<c type="geminated">p</c></form>
+<form><c type="geminated">m</c>ūr<c type="geminated">p</c></form>
 <def>village</def>
 <gramGrp>
   <gram type="role">noun</gram>
@@ -87,7 +98,7 @@
 </entry>
 <entry>
 <form>palar</form>
-<def>many</def>
+<def>many-they</def>
 <gramGrp>
   <gram type="role">pronominalised noun</gram>
   <gram type="role">honorific</gram>
@@ -156,24 +167,28 @@
 </entry>
 <entry>
 <form>tēr<c type="geminated">c</c></form>
-<def>search</def>
+<def>chariot</def>
 <form type="sandhi">ṟēr<c type="geminated">c</c></form>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
-<form>celva<c type="geminated">k</c></form>
+<form>celva<c type="uncertain">m</c><c type="geminated">k</c></form>
 <def>prosperity</def>
+<form type="sandhi">celva<c type="geminated">k</c></form>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
 <form>koṇkaṉ</form>
-<def>man from the-sea</def>
+<def>man-from-the-sea</def>
 <gramGrp>
   <gram type="role">noun</gram>
+  <gram type="role">masculine</gram>
+  <gram type="role">singular</gram>
+
 </gramGrp>
 </entry>
 <entry>
@@ -197,5 +212,6 @@
   <gram type="role">noun</gram>
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
-</entry></standOff>
+</entry>
+</standOff>
 </TEI>
