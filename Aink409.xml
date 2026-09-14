@@ -1,0 +1,170 @@
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?><?xml-stylesheet type="text/xsl" href="edition.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title>
+            <title xml:lang="ta">Aiṅkuṟunūṟu</title> 409.
+            <persName xml:lang="ta">Pēyaṉār.</persName>
+        </title>   
+        <editor role="translator">Leo Nelson-Jones</editor>  
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc>
+          <msDesc xml:lang="en">
+            <msIdentifier>
+            </msIdentifier>
+            <msContents>
+              <summary>
+                <p/>
+              </summary>
+            </msContents>
+          </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+        <change/>
+      </revisionDesc>
+    </teiHeader>
+    <text xml:lang="ta" type="edition">
+      <body>
+        <div rend="parallel">
+          <lg xml:id="Aink409">
+            <l>putalvaṟ kavaiiyiṉaṉ ṟantai meṉmoḻip</l>
+            <l>putalvaṉ ṟāyō viruvaruṅ kavaiyiṉa</l>
+            <l>ḷiṉitu maṉṟavavar kiṭakkai</l>
+            <l>naṉiyirum parappiṉiv vulakuṭa ṉuṟumē</l>
+          </lg>
+          <lg xml:lang="en">
+<l>The father embraced [his] son,</l>
+<l>[and] the mother of the softly spoken son embraced them both.</l>
+<l>It is so sweet, their repose, equal to this world</l>
+<l>equal to this world of a most vast<note xml:lang="en" place="foot">This rather clunky phrase is my attempt to retain the flavour of the instensifer <q xml:lang="ta-Latn"><hi rend="italic">naṉi</hi></q>, which qualifies <q xml:lang="ta-Latn"><hi rend="italic">irum</hi></q> ('big, dark').</note> expanse.</l>
+          </lg>
+        </div>
+      </body>
+    </text>
+    <standOff corresp="#Aink409" type="wordsplit">
+<interp type="alignment" select="0">44MG8MG17MG42MG8MGM,125M</interp>
+<entry>
+<form>putalvaṉ</form>
+<def>son</def>
+<form type="sandhi">putalvaṟ</form>
+</entry>
+<entry>
+<form>kavaiiyiṉaṉ</form>
+<def>embraced</def>
+<gramGrp>
+  <gram type="role">masculine singular</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tantai</form>
+<def>father</def>
+<form type="sandhi">ṟantai</form>
+</entry>
+<entry>
+<form>meṉ</form>
+<def>soft</def>
+</entry>
+<entry>
+<form>moḻi<c type="geminated">p</c></form>
+<def>speech</def>
+</entry>
+<entry>
+<form>putalvaṉ</form>
+<def>son</def>
+</entry>
+<entry>
+<form>tāy-ō</form>
+<def>mother</def>
+<form type="simple">tāy</form>
+<form type="sandhi">ṟāy</form>
+<gramGrp type="particle"><m type="enclitic">ō</m></gramGrp>
+</entry>
+<entry>
+<form><c type="glide">v</c>iruvar-um</form>
+<def>two</def>
+<form type="simple">iruvar</form>
+<form type="sandhi"><c type="glide">v</c>iruvar</form>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">plural</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>kavaiyiṉaḷ</form>
+<def>embraced</def>
+<gramGrp>
+  <gram type="role">feminine singular</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>iṉitu-maṉṟa</form>
+<def>sweet</def>
+<form type="simple">iṉitu</form>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">neuter singular</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">maṉṟa</m></gramGrp>
+</entry>
+<entry>
+<form><c type="glide">v</c>avar</form>
+<def>they</def>
+<gramGrp>
+  <gram type="role">pronoun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kiṭakkai</form>
+<def>lying down</def>
+</entry>
+<entry>
+<form>naṉi</form>
+<def>abundantly</def>
+<gramGrp>
+  <gram type="role">adverb</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>irum</form>
+<def>big</def>
+</entry>
+<entry>
+<form>parappiṉ</form>
+<def>expanse</def>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>i<c type="geminated">v</c></form>
+<def>this</def>
+</entry>
+<entry>
+<form><c type="glide">v</c>ulak<c type="elided">u</c></form>
+<def>world</def>
+<form type="sandhi"><c type="glide">v</c>ulak</form>
+</entry>
+<entry>
+<form>uṭaṉ</form>
+<def>together</def>
+<gramGrp>
+  <gram type="role">postposition</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>uṟum-ē</form>
+<def>experience</def>
+<form type="simple">uṟum</form>
+<gramGrp>
+  <gram type="role">habitual future</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+</standOff></TEI>

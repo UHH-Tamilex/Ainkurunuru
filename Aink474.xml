@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?><?xml-stylesheet type="text/xsl" href="edition.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title>
+            <title xml:lang="ta">Aiṅkuṟunūṟu</title> 474. <persName xml:lang="ta">Pēyaṉār.</persName>
+          </title>
+          <editor role="translator">Leo Nelson-Jones</editor>
+  
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc>
+          <msDesc xml:lang="en">
+            <msIdentifier>
+            </msIdentifier>
+            <msContents>
+              <summary>
+                <p/>
+              </summary>
+            </msContents>
+          </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+        <change/>
+      </revisionDesc>
+    </teiHeader>
+    <text xml:lang="ta" type="edition">
+      <body>
+        <div rend="parallel">
+            <p xml:id="Aink474-kilavi">piriviṉkaṇ āṟṟāmai kaṇṭu tūtākicceṉṟu avaṉaik koṇarval eṉṟa pāṇaṉ kēṭpat talaimakaḷ kūṟiyatu.</p>
+            <p xml:lang="en"></p>
+              </div>
+        <div rend="parallel">
+          <lg xml:id="Aink474">        
+            <l>maiyaṟu cuṭarnutal viḷaṅkak kaṟuttōr</l>
+            <l>ceyyaraṇ citaitta cerumiku tāṉaiyoṭu</l>
+            <l>kataḻpari neṭuntē ratarpaṭak kaṭaiic</l>
+            <l>ceṉṟavart tarukuva leṉṉu</l>
+            <l>naṉṟā lamma pāṇaṉa taṟivē.</l>
+        </lg>  
+ <lg xml:lang="en">                    
+<l></l>
+</lg>                      
+        </div>
+      </body>
+    </text>
+    </TEI>

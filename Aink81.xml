@@ -1,4 +1,5 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -375,8 +376,9 @@
 </gramGrp>
 </entry>
 <entry>
-<form>kuṟiṉāṉ</form>
+<form>kūṟiṉāṉ</form>
 <def>he talked</def>
+<form type="sandhi">kuṟiṉāṉ</form>
 <gramGrp>
   <gram type="role">masculine singular</gram>
   <gram type="role">perfective aspect</gram>
