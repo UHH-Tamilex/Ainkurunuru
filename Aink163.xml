@@ -7,7 +7,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta">Aiṅkuṟunūṟu</title> <num>162</num>.
+            <title xml:lang="ta">Aiṅkuṟunūṟu</title> <num>163</num>.
             <persName xml:lang="ta">Ammūvaṉār</persName>
         </title>     
         <editor role="translator" xml:lang="en">Ammūvaṉār</editor>
@@ -29,27 +29,28 @@
 <text xml:lang="ta" type="edition">
   <body>
     <div rend="parallel"> 
-      <p xml:id="Aink161-kilavi">
+      <p xml:id="Aink163-kilavi">
         ituvumatu.</p>    <p xml:lang="en">
         This one is also that [= the previous one].</p>
   </div>  
     <div rend="parallel">
-      <lg xml:id="Aink162">
+      <lg xml:id="Aink163">
 <l>peruṅkaṭaṟ karaiyatu ciṟuveṇ kākkai</l>
-<l>nīttunī riruṅkaḻi yiraitērn tuṇṭu</l>
-<l>pūkkamaḻ potumparc cēkkun</l>
-<l>tuṟaivaṉ collō piṟavā yiṉavē</l>
+<l>yiruṅkaḻit tuvalai yoliyiṟ ṟuñcun</l>
+<l>tuṟaivaṉ ṟuṟanteṉat tuṟante</l>
+<l>ṉiṟaiyēr muṉkai nīṅkiya vaḷaiyē</l>
       </lg>
       <lg xml:lang="en">
-        <l>As for the words of the man from the seashore</l>
-        <l>In which the small, white crow of the vast seashore</l>
-        <l>Rests in a grove in which flowers are fragrant,</l>
-        <l>After having seatched for meat in the backwaters of a dark nature, having swum [there],</l>
-        <l>They have become something else!</l>      </lg>
+        <l>Because the man from the shore - in which the small, white crow</l>
+        <l>Of the vast seashore sleeps among the sound of sprays</l>
+        <l> from the dark backwaters - abandoned [me]</l>
+        <l>I abandoned my bangles which slipped to my  forearms, rising to [my] joint.</l>
+        
+      </lg>
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#Aink162"><interp type="alignment" select="0">58MG39MG11MG2M,113M</interp>
+<standOff type="wordsplit" corresp="#Aink163"><interp type="alignment" select="0">76MG37MG2M,117M</interp>
 <entry>
 <form>perum</form>
 <def>vast</def>
@@ -99,119 +100,118 @@
 </gramGrp>
 </entry>
 <entry>
-<form>nīttu</form>
-<def>swimming</def>
-<gramGrp>
-  <gram type="role">absolutive</gram>
-</gramGrp>
-</entry>
-<entry>
-<form>nīr</form>
-<def>water</def>
-<gramGrp>
-  <gram type="role">noun</gram>
-</gramGrp>
-</entry>
-<entry>
-<form>irum</form>
+<form><c type="glide">y</c>irum</form>
 <def>dark</def>
-<form type="sandhi">iruṅ</form>
+<form type="sandhi"><c type="glide">y</c>iruṅ</form>
 <gramGrp>
   <gram type="role">adjective</gram>
 </gramGrp>
 </entry>
 <entry>
-<form>kaḻi</form>
+<form>kaḻi<c type="geminated">t</c></form>
 <def>backwaters</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
-<form><c type="glide">y</c>irai</form>
-<def>food</def>
+<form>tuvalai</form>
+<def>spray</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
-<form>tērnt<c type="elided">u</c></form>
-<def>searched</def>
-<form type="sandhi">tērnt</form>
+<form><c type="glide">y</c>oliyil</form>
+<def>sound</def>
+<form type="sandhi"><c type="glide">y</c>oliyiṟ</form>
 <gramGrp>
-  <gram type="role">absolutive</gram>
+  <gram type="role">locative</gram>
 </gramGrp>
 </entry>
 <entry>
-<form>uṇṭu</form>
-<def>eating</def>
-<gramGrp>
-  <gram type="role">absolutive</gram>
-</gramGrp>
-</entry>
-<entry>
-<form>pū<c type="geminated">k</c></form>
-<def>flower</def>
-<gramGrp>
-  <gram type="role">noun</gram>
-</gramGrp>
-</entry>
-<entry>
-<form>kamaḻ</form>
-<def>be-fragrant</def>
-<gramGrp>
-  <gram type="role">verbal root</gram>
-</gramGrp>
-</entry>
-<entry>
-<form>potumpar<c type="geminated">c</c></form>
-<def>grove</def>
-<gramGrp>
-  <gram type="role">noun</gram>
-</gramGrp>
-</entry>
-<entry>
-<form>cēkkum</form>
-<def>resting-</def>
-<form type="sandhi">cēkkun</form>
+<form>tuñcum</form>
+<def>sleeps</def>
+<form type="sandhi">ṟuñcun</form>
 <gramGrp>
   <gram type="role">peyareccam</gram>
 </gramGrp>
 </entry>
 <entry>
 <form>tuṟaivaṉ</form>
-<def>ford-he</def>
+<def>ghat-he</def>
 <gramGrp>
   <gram type="role">pronominalised noun</gram>
   <gram type="role">masculine singular</gram>
 </gramGrp>
 </entry>
 <entry>
-<form>col<c type="geminated">l</c>-ō</form>
-<def>word</def>
-<form type="simple">col</form>
-<form type="sandhi">col<c type="geminated">l</c></form>
+<form>tuṟant<c type="elided">u</c></form>
+<def>abandoned</def>
+<form type="sandhi">ṟuṟant</form>
 <gramGrp>
-  <gram type="role">root noun</gram>
-</gramGrp>
-<gramGrp type="particle"><m type="enclitic">ō</m></gramGrp>
-</entry>
-<entry>
-<form>piṟa<c type="glide">v</c></form>
-<def>other.they</def>
-<gramGrp>
-  <gram type="role">neuter plural</gram>
-  <gram type="role">pronoun</gram>
+  <gram type="role">absolutive</gram>
 </gramGrp>
 </entry>
 <entry>
-<form>āyiṉa-<c type="glide">v</c>ē</form>
-<def>they became</def>
-<form type="simple">āyiṉa</form>
+<form>eṉa<c type="geminated">t</c></form>
+<def>say</def>
 <gramGrp>
-  <gram type="role">neuter plural</gram>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tuṟantēṉ</form>
+<def>abandoned-I</def>
+<form type="sandhi">tuṟanteṉ</form>
+<gramGrp>
+  <gram type="role">first person</gram>
+  <gram type="role">singular</gram>
   <gram type="role">perfective aspect</gram>
-  <gram type="role">third person</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>iṟai</form>
+<def>joint</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>ēr</form>
+<def>rise</def>
+<gramGrp>
+  <gram type="role">verbal root</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>muṉ</form>
+<def>in-front</def>
+<gramGrp>
+  <gram type="role">adverb</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kai</form>
+<def>hand</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>nīṅkiya</form>
+<def>left</def>
+<gramGrp>
+  <gram type="role">perfective aspect</gram>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vaḷai-<c type="glide">y</c>ē</form>
+<def>bangle</def>
+<form type="simple">vaḷai</form>
+<gramGrp>
+  <gram type="role">noun</gram>
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry></standOff>
