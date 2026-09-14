@@ -29,7 +29,7 @@
 <text xml:lang="ta" type="edition">
   <body>
     <div rend="parallel"> 
-      <p xml:id="Aink161-kilavi">
+      <p xml:id="Aink162-kilavi">
         ituvumatu.</p>    <p xml:lang="en">
         This one is also that [= the previous one].</p>
   </div>  
@@ -70,7 +70,6 @@
 <form>karaiyatu</form>
 <def>shore</def>
 <gramGrp>
-  <gram type="role">pronominalised noun</gram>
   <gram type="role">neuter singular</gram>
   <gram type="role">genitive</gram>
 </gramGrp>
