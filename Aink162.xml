@@ -28,6 +28,11 @@
   </teiHeader>
 <text xml:lang="ta" type="edition">
   <body>
+    <div rend="parallel"> 
+      <p xml:id="Aink161-kilavi">
+        ituvumatu.</p>    <p xml:lang="en">
+        This one is also that [= the previous one].</p>
+  </div>  
     <div rend="parallel">
       <lg xml:id="Aink162">
 <l>peruṅkaṭaṟ karaiyatu ciṟuveṇ kākkai</l>
