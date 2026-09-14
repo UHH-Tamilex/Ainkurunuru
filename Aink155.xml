@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <script src="./lib/js/xslt-polyfill.min.js" xmlns="http://www.w3.org/1999/xhtml"></script>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+            <title xml:lang="ta">Aiṅkuṟunūṟu</title> <num>155</num>.
+            <persName xml:lang="ta">Ammūvaṉār</persName>
+        </title>     
+        <editor role="translator" xml:lang="en">Ammūvaṉār</editor>
+      </titleStmt>
+      <publicationStmt><p/></publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc><change/></revisionDesc>
+  </teiHeader>
+<text xml:lang="ta" type="edition">
+  <body>
+    <div rend="parallel">
+      <p xml:id="Aink155-kilavi">
+        palavaḻiyāṉum vāyilnērāḷākiya talaimakaḷ makappēṟṟiṟku urittākiya kālaṅkaḻiya oḻukukiṉṟāy eṉa neruṅkiyatōḻikkuc colliyatu.</p>    <p xml:lang="en">
+         Spoken by the heroine who refused entry [to the hero] in many ways, to [her] close confidante, saying 'you are behaving as though the time appropriate for childbirth has [already] passed.'
+  </p>
+</div> 
+    <div rend="parallel">
+      <lg xml:id="Aink155">
+<l>veḷḷāṅ kurukiṉ piḷḷai cetteṉak</l>
+<l>kāṇiya ceṉṟa maṭanaṭai nārai</l>
+<l>pataippat tatainta neytal kaḻiya</l>
+<l>vōtamoṭu peyarun tuṟaivaṟkup</l>
+<l>paiñcāyp pāvai yīṉṟaṉeṉ yāṉē</l>
+      </lg>
+      <lg xml:lang="en">
+       <l> I [already] produced a doll [made of] Paiñcāy grass</l>
+       <l>For the man of the ghat in which the Neytal [flower]</l>
+       <l>That was rubbed -so that it throbbed/fluttered - </l>
+       <l>By the wader with an inexperienced walk</l>
+       <l>That went to see, since the hatchling of the white wader died -</l>
+        <l>Moved along with the flood of backwaters.</l>
+              </lg>
+    </div>
+  </body>
+</text>
+<standOff type="wordsplit" corresp="#Aink155"><interp type="alignment" select="0">23MG40MG68MGM,67MG67M</interp>
+<entry>
+<form>veḷḷām</form>
+<def>white</def>
+<form type="sandhi">veḷḷāṅ</form>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kurukiṉ</form>
+<def>wader</def>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>piḷḷai</form>
+<def>hatchling</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>cett<c type="elided">u</c></form>
+<def>to-die</def>
+<form type="sandhi">cett</form>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>eṉa<c type="geminated">k</c></form>
+<def>say</def>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kāṇiya</form>
+<def>see</def>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ceṉṟa</form>
+<def>gone-</def>
+<gramGrp>
+  <gram type="role">perfective aspect</gram>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>maṭa</form>
+<def>inexperience</def>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>naṭai</form>
+<def>gait</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>nārai</form>
+<def>wader</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>pataippa<c type="geminated">t</c></form>
+<def>to-throb</def>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>taitanta</form>
+<def>to-be-rubbed</def>
+<form type="sandhi">tatainta</form>
+<gramGrp>
+  <gram type="role">perfective aspect</gram>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>neytal</form>
+<def>blue-waterlily</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kaḻiya</form>
+<def>backwaters</def>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">v</c>ōtamoṭu</form>
+<def>flood</def>
+<gramGrp>
+  <gram type="role">sociative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>peyarum</form>
+<def>moving-</def>
+<form type="sandhi">peyarun</form>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tuṟaivaṟku<c type="geminated">p</c></form>
+<def>ghat-he</def>
+<gramGrp>
+  <gram type="role">dative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>paiñcāy<c type="geminated">p</c></form>
+<def>Paiñcāy grass</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>pāvai</form>
+<def>doll</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>īṉṟaṉeṉ</form>
+<def>produced-I</def>
+<gramGrp>
+  <gram type="role">first person</gram>
+  <gram type="role">singular</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>yāṉ-ē</form>
+<def>I</def>
+<form type="simple">yāṉ</form>
+<gramGrp>
+  <gram type="role">singular</gram>
+  <gram type="role">first person</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry></standOff>
+</TEI>
