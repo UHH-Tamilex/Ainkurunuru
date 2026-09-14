@@ -7,7 +7,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta">Aiṅkuṟunūṟu</title> <num>159</num>.
+            <title xml:lang="ta">Aiṅkuṟunūṟu</title> <num>160</num>.
             <persName xml:lang="ta">Ammūvaṉār</persName>
         </title>     
         <editor role="translator" xml:lang="en">Ammūvaṉār</editor>
@@ -28,29 +28,31 @@
   </teiHeader>
 <text xml:lang="ta" type="edition">
   <body>
+    <div rend="parallel"> 
+    <p xml:id="Aink160-kilavi">
+      pulanta kātaṟparattai pulavitīrātu talaimakaṉ vāyilvēṇṭi vantāṉeṉṟatu aṟinta talaimakaḷ vāyiṉmaṟuttatu.</p>    <p xml:lang="en">
+      The heroine who learned that the hero, desiring entry, has come, the sulking of the beloved other woman not having ended.</p>
+</div>  
     <div rend="parallel">
-      <p xml:id="Aink159-kilavi">
-        pulanta kātaṟparattai pulavitīrātu talaimakaṉ vāyilvēṇṭi vantāṉeṉṟatu aṟinta talaimakaḷ vāyiṉmaṟuttatu.</p>    <p xml:lang="en">
-        The heroine who learned that the hero, desiring entry, has come, the sulking of the beloved other woman not having ended. </p>
-</div>    
-    <div rend="parallel">
-      <lg xml:id="Aink159">
+      <lg xml:id="Aink160">
 <l>veḷḷāṅ kurukiṉ piḷḷai cetteṉak</l>
 <l>kāṇiya ceṉṟa maṭanaṭai nārai</l>
-<l>pacitiṉa valkum paṉinīrc cērppa</l>
-<l>niṉṉoṉ ṟirakkuve ṉallēṉ</l>
-<l>ṟantaṉai ceṉmō koṇṭaviva ṇalaṉē</l>
+<l>nontataṉ ṟalaiyu nōymikun tuṟaiva</l>
+<l>paṇṭaiyiṉ mikapperi tiṉaii</l>
+<l>muyaṅkumati peruma mayaṅkiṉaḷ peritē</l>
       </lg>
       <lg xml:lang="en">
-        <l>Oh man of the coast with cool waters, in which the wader with an inexperienced gait</l>
+        <l>Oh man from the ghat in which the suffering topping its pain</l>
+        <l>[It being] a wader with an inexperienced gait</l>
         <l>That went to see, since the hatchling of the white wader died,</l>
-        <l>stays to eat [out of] hunger!</l>
-        <l>I am not one to beg [even] one thing from you!</l>
-        <l>Give back her innocence that you took, [and] go!</l>      </lg>
+        <l>Increases —</l>
+        <l>Being tormented very greatly because of the past,</l>
+        <l>Embrace her, oh great one! She is greatly confused.</l>
+      </lg>
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#Aink159"><interp type="alignment" select="0">23MG64MG26MG11ML4MGM,134M</interp>
+<standOff type="wordsplit" corresp="#Aink160"><interp type="alignment" select="0">23MG33MG11MR34MG37M2GM,145M</interp>
 <entry>
 <form>veḷḷām</form>
 <def>white</def>
@@ -68,7 +70,7 @@
 </entry>
 <entry>
 <form>piḷḷai</form>
-<def>child</def>
+<def>hatchling</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -125,123 +127,117 @@
 </gramGrp>
 </entry>
 <entry>
-<form>paci</form>
-<def>hunger</def>
+<form>nont<c type="elided">u</c></form>
+<def>pain</def>
+<form type="sandhi">nont</form>
 <gramGrp>
-  <gram type="role">root noun</gram>
+  <gram type="role">neuter singular</gram>
+  <gram type="role">oblique</gram>
 </gramGrp>
 </entry>
 <entry>
-<form>tiṉa</form>
-<def>eat</def>
+<form>ataṉ</form>
+<def>it</def>
 <gramGrp>
-  <gram type="role">infinitive</gram>
+  <gram type="role">pronoun</gram>
+  <gram type="role">neuter singular</gram>
+  <gram type="role">oblique</gram>
 </gramGrp>
 </entry>
 <entry>
-<form><c type="glide">v</c>alkum</form>
-<def>staying-</def>
+<form>talaiyum</form>
+<def>take place</def>
+<form type="sandhi">ṟalaiyun</form>
 <gramGrp>
   <gram type="role">peyareccam</gram>
 </gramGrp>
 </entry>
 <entry>
-<form>paṉi</form>
-<def>dew</def>
-<gramGrp>
-  <gram type="role">root noun</gram>
-</gramGrp>
-</entry>
-<entry>
-<form>nīr<c type="geminated">c</c></form>
-<def>water</def>
+<form>nōy</form>
+<def>suffering</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
-<form>cērppa</form>
-<def>coast-he</def>
+<form>mikum</form>
+<def>increases</def>
+<form type="sandhi">mikun</form>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tuṟaiva</form>
+<def>ghat-he</def>
 <gramGrp>
   <gram type="role">vocative</gram>
 </gramGrp>
 </entry>
 <entry>
-<form>niṉ</form>
-<def>your</def>
+<form>paṇṭaiyiṉ</form>
+<def>past</def>
 <gramGrp>
   <gram type="role">oblique</gram>
+  <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
-<form><c type="geminated">ṉ</c>oṉṟ<c type="elided">u</c></form>
-<def>one-it</def>
-<form type="sandhi"><c type="geminated">ṉ</c>oṉṟ</form>
+<form>mika<c type="geminated">p</c></form>
+<def>be-much</def>
 <gramGrp>
+  <gram type="role">adverb</gram>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>perit<c type="elided">u</c></form>
+<def>big-it</def>
+<form type="sandhi">perit</form>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
   <gram type="role">neuter singular</gram>
 </gramGrp>
 </entry>
 <entry>
-<form>irakkuveṉ</form>
-<def>I-beg</def>
+<form>iṉaii</form>
+<def>to-be-tormented</def>
 <gramGrp>
-  <gram type="role">singular</gram>
-  <gram type="role">first person</gram>
-  <gram type="role">imperfective aspect</gram>
+  <gram type="role">absolutive</gram>
 </gramGrp>
 </entry>
 <entry>
-<form>allēṉ</form>
-<def>I-am-not-so</def>
-<gramGrp>
-  <gram type="role">negative</gram>
-  <gram type="role">singular</gram>
-  <gram type="role">first person</gram>
-</gramGrp>
-</entry>
-<entry>
-<form>tantaṉai</form>
-<def>you gave</def>
-<form type="sandhi">ṟantaṉai</form>
-<gramGrp>
-  <gram type="role">perfective aspect</gram>
-  <gram type="role">singular</gram>
-  <gram type="role">second person</gram>
-</gramGrp>
-</entry>
-<entry>
-<form>ceṉm-ō</form>
-<def>go</def>
-<form type="simple">ceṉm</form>
+<form>muyaṅkumati</form>
+<def>embrace</def>
 <gramGrp>
   <gram type="role">imperative</gram>
 </gramGrp>
-<gramGrp type="particle"><m type="enclitic">ō</m></gramGrp>
 </entry>
 <entry>
-<form>koṇṭa</form>
-<def>taken</def>
+<form>peruma</form>
+<def>great-one</def>
+<gramGrp>
+  <gram type="role">vocative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>mayaṅkiṉaḷ</form>
+<def>she-was-confused</def>
 <gramGrp>
   <gram type="role">perfective aspect</gram>
-  <gram type="role">peyareccam</gram>
+  <gram type="role">third person</gram>
+  <gram type="role">singular</gram>
+  <gram type="role">feminine</gram>
 </gramGrp>
 </entry>
 <entry>
-<form><c type="glide">v</c>ivaḷ</form>
-<def>this-one</def>
-<form type="sandhi"><c type="glide">v</c>ivaṇ</form>
+<form>perit<c type="elided">u</c>-ē</form>
+<def>big-it</def>
+<form type="simple">peritu</form>
+<form type="sandhi">perit</form>
 <gramGrp>
-  <gram type="role">feminine singular</gram>
-  <gram type="role">pronoun</gram>
-</gramGrp>
-</entry>
-<entry>
-<form>nalaṉ-ē</form>
-<def>innocence</def>
-<form type="simple">nalaṉ</form>
-<form type="sandhi">ṇalaṉ</form>
-<gramGrp>
-  <gram type="role">noun</gram>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">neuter singular</gram>
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry></standOff>
