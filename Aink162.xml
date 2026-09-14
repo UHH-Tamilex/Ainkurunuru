@@ -7,7 +7,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta">Aiṅkuṟunūṟu</title> <num>161</num>.
+            <title xml:lang="ta">Aiṅkuṟunūṟu</title> <num>162</num>.
             <persName xml:lang="ta">Ammūvaṉār</persName>
         </title>     
         <editor role="translator" xml:lang="en">Ammūvaṉār</editor>
@@ -28,27 +28,23 @@
   </teiHeader>
 <text xml:lang="ta" type="edition">
   <body>
-    <div rend="parallel"> 
-      <p xml:id="Aink161-kilavi">
-        ituvumatu.</p>    <p xml:lang="en">
-        This one is also that [= the previous]. </p>
-  </div>  
     <div rend="parallel">
-      <lg xml:id="Aink161">
+      <lg xml:id="Aink162">
 <l>peruṅkaṭaṟ karaiyatu ciṟuveṇ kākkai</l>
-<l>karuṅkōṭṭup puṉṉait taṅkun tuṟaivaṟkup</l>
-<l>pacantunuta laḻiyac cāay</l>
-<l>nayanta neñca nōyppā laḵtē</l>
+<l>nīttunī riruṅkaḻi yiraitērn tuṇṭu</l>
+<l>pūkkamaḻ potumparc cēkkun</l>
+<l>tuṟaivaṉ collō piṟavā yiṉavē</l>
       </lg>
       <lg xml:lang="en">
-        <l>As [her] forehead is ruined, having become pale,</l>
-        <l>For the man from the seashore where the small, white crow of the vast seashore</l> 
-        <l>Stays on a Puṉṉai tree with black branches,</l>
-        <l>That is [only] part of the pain in her heart that desires [him], having become exhausted.</l>  </lg>
+        <l>As for the words of the man from the seashore</l>
+        <l>In which the small, white crow of the vast seashore</l>
+        <l>Rests in a grove in which flowers are fragrant,</l>
+        <l>After having seatched for meat in the backwaters of a dark nature, having swum [there],</l>
+        <l>They have become something else!</l>      </lg>
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#Aink161"><interp type="alignment" select="0">101MR10M2GM,115M</interp>
+<standOff type="wordsplit" corresp="#Aink162"><interp type="alignment" select="0">58MG39MG11MG2M,113M</interp>
 <entry>
 <form>perum</form>
 <def>vast</def>
@@ -98,108 +94,119 @@
 </gramGrp>
 </entry>
 <entry>
-<form>karum</form>
-<def>black</def>
-<form type="sandhi">karuṅ</form>
+<form>nīttu</form>
+<def>swimming</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>nīr</form>
+<def>water</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>irum</form>
+<def>dark</def>
+<form type="sandhi">iruṅ</form>
 <gramGrp>
   <gram type="role">adjective</gram>
 </gramGrp>
 </entry>
 <entry>
-<form>kōṭṭu<c type="geminated">p</c></form>
-<def>branch</def>
-<gramGrp>
-  <gram type="role">oblique</gram>
-</gramGrp>
-</entry>
-<entry>
-<form>puṉṉai<c type="geminated">t</c></form>
-<def>Puṉṉai tree</def>
+<form>kaḻi</form>
+<def>backwaters</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
-<form>taṅkum</form>
-<def>stays</def>
-<form type="sandhi">taṅkun</form>
+<form><c type="glide">y</c>irai</form>
+<def>food</def>
 <gramGrp>
-  <gram type="role">peyareccam</gram>
+  <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
-<form>tuṟaivaṟku<c type="geminated">p</c></form>
-<def>ghat-he</def>
-<gramGrp>
-  <gram type="role">dative</gram>
-</gramGrp>
-</entry>
-<entry>
-<form>pacantu</form>
-<def>become-pale</def>
+<form>tērnt<c type="elided">u</c></form>
+<def>searched</def>
+<form type="sandhi">tērnt</form>
 <gramGrp>
   <gram type="role">absolutive</gram>
 </gramGrp>
 </entry>
 <entry>
-<form>nutal</form>
-<def>forehead</def>
-<gramGrp>
-  <gram type="role">noun</gram>
-</gramGrp>
-</entry>
-<entry>
-<form>aḻiya<c type="geminated">c</c></form>
-<def>be-ruined</def>
-<gramGrp>
-  <gram type="role">infinitive</gram>
-</gramGrp>
-</entry>
-<entry>
-<form>cāay</form>
-<def>exhausted</def>
+<form>uṇṭu</form>
+<def>eating</def>
 <gramGrp>
   <gram type="role">absolutive</gram>
 </gramGrp>
 </entry>
 <entry>
-<form>nayanta</form>
-<def>longed</def>
+<form>pū<c type="geminated">k</c></form>
+<def>flower</def>
 <gramGrp>
-  <gram type="role">perfective aspect</gram>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kamaḻ</form>
+<def>be-fragrant</def>
+<gramGrp>
+  <gram type="role">verbal root</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>potumpar<c type="geminated">c</c></form>
+<def>grove</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>cēkkum</form>
+<def>resting-</def>
+<form type="sandhi">cēkkun</form>
+<gramGrp>
   <gram type="role">peyareccam</gram>
 </gramGrp>
 </entry>
 <entry>
-<form>neñcam</form>
-<def>heart</def>
-<form type="sandhi">neñcan</form>
+<form>tuṟaivaṉ</form>
+<def>ford-he</def>
 <gramGrp>
-  <gram type="role">noun</gram>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">masculine singular</gram>
 </gramGrp>
 </entry>
 <entry>
-<form>nōy<c type="geminated">p</c></form>
-<def>pain</def>
+<form>col<c type="geminated">l</c>-ō</form>
+<def>word</def>
+<form type="simple">col</form>
+<form type="sandhi">col<c type="geminated">l</c></form>
 <gramGrp>
-  <gram type="role">noun</gram>
+  <gram type="role">root noun</gram>
 </gramGrp>
+<gramGrp type="particle"><m type="enclitic">ō</m></gramGrp>
 </entry>
 <entry>
-<form>pāl</form>
-<def>part</def>
+<form>piṟa<c type="glide">v</c></form>
+<def>other.they</def>
 <gramGrp>
-  <gram type="role">noun</gram>
-</gramGrp>
-</entry>
-<entry>
-<form>aḵt<c type="elided">u</c>-ē</form>
-<def>that</def>
-<form type="simple">aḵtu</form>
-<form type="sandhi">aḵt</form>
-<gramGrp>
-  <gram type="role">neuter singular</gram>
+  <gram type="role">neuter plural</gram>
   <gram type="role">pronoun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>āyiṉa-<c type="glide">v</c>ē</form>
+<def>they became</def>
+<form type="simple">āyiṉa</form>
+<gramGrp>
+  <gram type="role">neuter plural</gram>
+  <gram type="role">perfective aspect</gram>
+  <gram type="role">third person</gram>
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry></standOff>
