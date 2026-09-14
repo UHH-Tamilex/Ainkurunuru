@@ -22,11 +22,17 @@
           </msContents>    
         </msDesc>
       </sourceDesc>
-    </fileDesc>
+    </fileDesc>  
     <revisionDesc><change/></revisionDesc>
   </teiHeader>
 <text xml:lang="ta" type="edition">
   <body>
+    <div rend="parallel">
+      <p xml:id="Aink153-kilavi">
+        parattaiyiṟpirintu vāyilvēṇṭiya talaimakaṉ kēṭkumāṟṟāl vāyilāyppukuntārkkut tōḻikūṟiyatu.</p>    <p xml:lang="en">
+          Spoken by the confidante to him who entered, by the way of the hero who wanted to enter listening, he having separated from the other woman.
+  </p>
+</div> 
     <div rend="parallel">
       <lg xml:id="Aink153">
 <l>veḷḷāṅ kurukiṉ piḷḷai cetteṉak</l>
