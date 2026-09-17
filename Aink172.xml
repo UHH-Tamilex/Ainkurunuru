@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <script src="./lib/js/xslt-polyfill.min.js" xmlns="http://www.w3.org/1999/xhtml"></script>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+            <title xml:lang="ta">Aiṅkuṟunūṟu</title> <num>172</num>.
+            <persName xml:lang="ta">Ammūvaṉār</persName>
+        </title>     
+        <editor role="translator" xml:lang="en">Ammūvaṉār</editor>
+      </titleStmt>
+      <publicationStmt><p/></publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc><change/></revisionDesc>
+  </teiHeader>
+<text xml:lang="ta" type="edition">
+  <body>
+    <div rend="parallel"> 
+      <p xml:id="Aink170-kilavi">
+        talaimakaṉ kuṟivaḻicceṉṟu talaimakaḷaikkaṇṭapāṅkaṉ taṉṉuḷḷē colliyatu.</p>    <p xml:lang="en">
+          Spoken by the hero to his own heart [when his] male friend saw the heroine on the path of [their earlier] tryst .</p>
+  </div> 
+    <div rend="parallel">
+      <lg xml:id="Aink172">
+<l>oṇṭoṭi yarivai koṇṭaṉa ṇeñcē</l>
+<l>vaṇṭimir paṉittuṟait toṇṭi yāṅka</l>
+<l>ṇuravuk kaṭalolit tiraiyeṉa</l>
+<l>viravi ṉāṉun tuyilaṟi yēṉē</l>
+      </lg>
+      <lg xml:lang="en">
+        <l>The young lady with bright bangles has taken my heart.</l>
+        <l>Over there, in Toṇṭi with dewy ghats where bees hum,</l>
+        <l>Like the waves with the sound of the strong ocean,</l>
+        <l>I too know no sleep, although it is night.</l>      </lg>
+    </div>
+  </body>
+</text>
+<standOff type="wordsplit" corresp="#Aink172"><interp type="alignment" select="0">21ML3M2G5MG59MG13MGM,108M</interp>
+<entry>
+<form>oḷ</form>
+<def>bright</def>
+<form type="sandhi">oṇ</form>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>toṭi</form>
+<def>bracelet</def>
+<form type="sandhi">ṭoṭi</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>arivai</form>
+<def>young-woman</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>koṇṭaṉaḷ</form>
+<def>took-she</def>
+<form type="sandhi">koṇṭaṉaṇ</form>
+<gramGrp>
+  <gram type="role">feminine singular</gram>
+  <gram type="role">perfective aspect</gram>
+  <gram type="role">third person</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>neñc<c type="elided">u</c>-ē</form>
+<def>heart</def>
+<form type="simple">neñcu</form>
+<form type="sandhi">ṇeñc</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+<entry>
+<form>vaṇṭ<c type="elided">u</c></form>
+<def>bee</def>
+<form type="sandhi">vaṇṭ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>imir</form>
+<def>hum</def>
+<gramGrp>
+  <gram type="role">verbal root</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>paṉi<c type="geminated">t</c></form>
+<def>dew</def>
+<gramGrp>
+  <gram type="role">root noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tuṟai<c type="geminated">t</c></form>
+<def>ghat</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>toṇṭi</form>
+<def>Toṇṭi</def>
+<gramGrp>
+  <gram type="role">proper name</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>āṅkaṇ</form>
+<def>there</def>
+</entry>
+<entry>
+<form>uravu<c type="geminated">k</c></form>
+<def>strength</def>
+<gramGrp>
+  <gram type="role">root noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kaṭal</form>
+<def>sea</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>oli<c type="geminated">t</c></form>
+<def>sound</def>
+<gramGrp>
+  <gram type="role">verbal root</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tirai</form>
+<def>wave</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>eṉa</form>
+<def>say</def>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">v</c>iraviṉāṉ-um</form>
+<def>night</def>
+<form type="simple">iraviṉāṉ</form>
+<form type="sandhi"><c type="glide">v</c>iraviṉāṉ</form>
+<gramGrp>
+  <gram type="role">locative</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>tuyil</form>
+<def>sleep</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>aṟiyēṉ-ē</form>
+<def>I don't know</def>
+<form type="simple">aṟiyēṉ</form>
+<gramGrp>
+  <gram type="role">negative</gram>
+  <gram type="role">singular</gram>
+  <gram type="role">first person</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry></standOff>
+</TEI>
