@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <script src="./lib/js/xslt-polyfill.min.js" xmlns="http://www.w3.org/1999/xhtml"></script>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+            <title xml:lang="ta">Aiṅkuṟunūṟu</title> <num>176</num>.
+            <persName xml:lang="ta">Ammūvaṉār</persName>
+        </title>     
+        <editor role="translator" xml:lang="en">Ammūvaṉār</editor>
+      </titleStmt>
+      <publicationStmt><p/></publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc><change/></revisionDesc>
+  </teiHeader>
+<text xml:lang="ta" type="edition">
+  <body>
+    <div rend="parallel"> 
+      <p xml:id="Aink176-kilavi">
+       talaimakaḷum tōḻiyum oruṅkuniṉṟuḻi ceṉṟatalaimakaṉ ivaḷ eṉṉai ivaikōṭaṟkuk kāraṇam eṉ eṉṟu tōḻaiyaiviṉāviyatu.</p>    <p xml:lang="en">
+           Asked by the hero who went [over] when the heroine and the confidante were standing together to the confidante, saying 'What is the reason for her capturing of me?'</p>
+  </div> 
+    <div rend="parallel">
+      <lg xml:id="Aink176">
+<l>paṇpum pāyaluṅ koṇṭaṉa ṭoṇṭit</l>
+<l>taṇkamaḻ putumalar nāṟu moṇṭoṭi</l>
+<l>yaitamain takaṉṟa valkuṟ</l>
+<l>koytaḷir mēṉi kūṟumati tavaṟē</l>
+      </lg>
+      <lg xml:lang="en">
+        <l>[The woman with] a body [like] a plucked bud,</l>
+        <l>With bright bangles and wondrous, fitted, wide hips</l>
+        <l>That are fragrant with new blossoms from Toṇṭi that are cool and fragrant,</l>
+        Has taken my [good] nature and my bed [= my sleep].</l>
+        Tell [me my] mistake!</l>      </lg>
+    </div>
+  </body>
+</text>
+<standOff type="wordsplit" corresp="#Aink176"><interp type="alignment" select="0">58MG6MG29M2G8M2GM,108M</interp>
+<entry>
+<form>paṇpum</form>
+<def>nature</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>pāyalum</form>
+<def>bed</def>
+<form type="sandhi">pāyaluṅ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>koṇṭaṉa</form>
+<def>taken-she</def>
+<gramGrp>
+  <gram type="role">feminine singular</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>toṇṭi<c type="geminated">t</c></form>
+<def>Toṇṭi</def>
+<form type="sandhi">ṭoṇṭi<c type="geminated">t</c></form>
+<gramGrp>
+  <gram type="role">proper name</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>taṇ</form>
+<def>cool</def>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kamaḻ</form>
+<def>be-fragrant</def>
+<gramGrp>
+  <gram type="role">verbal root</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>putu</form>
+<def>new</def>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>malar</form>
+<def>blossom</def>
+<gramGrp>
+  <gram type="role">root noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>nāṟum</form>
+<def>being-fragrant-</def>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>oḷ</form>
+<def>bright</def>
+<form type="sandhi">oṇ</form>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>toṭi</form>
+<def>bracelet</def>
+<form type="sandhi">ṭoṭi</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>ait<c type="elided">u</c></form>
+<def>wonderful-it</def>
+<form type="sandhi"><c type="glide">y</c>ait</form>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">neuter singular</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>amaint<c type="elided">u</c></form>
+<def>fitted</def>
+<form type="sandhi">amaint</form>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>akaṉṟa</form>
+<def>wide</def>
+<gramGrp>
+  <gram type="role">perfective aspect</gram>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">v</c>alkul</form>
+<def>hip</def>
+<form type="sandhi"><c type="glide">v</c>alkuṟ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>koy</form>
+<def>pluck</def>
+<gramGrp>
+  <gram type="role">verbal root</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>taḷir</form>
+<def>sprout</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>mēṉi</form>
+<def>body</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kūṟum-mati</form>
+<def>speak</def>
+<form type="sandhi">kūṟumati</form>
+<gramGrp>
+  <gram type="role">imperative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tavaṟ<c type="elided">u</c>-ē</form>
+<def>mistake</def>
+<form type="simple">tavaṟu</form>
+<form type="sandhi">tavaṟ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry></standOff>
+</TEI>
