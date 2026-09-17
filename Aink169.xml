@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <script src="./lib/js/xslt-polyfill.min.js" xmlns="http://www.w3.org/1999/xhtml"></script>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+            <title xml:lang="ta">Aiṅkuṟunūṟu</title> <num>169</num>.
+            <persName xml:lang="ta">Ammūvaṉār</persName>
+        </title>     
+        <editor role="translator" xml:lang="en">Ammūvaṉār</editor>
+      </titleStmt>
+      <publicationStmt><p/></publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc><change/></revisionDesc>
+  </teiHeader>
+<text xml:lang="ta" type="edition">
+  <body>
+    <div rend="parallel"> 
+      <p xml:id="Aink168-kilavi">
+       kātaṟparattaiyaiviṭṭu maṟṟoruttiyuṭaṉ oḻukāniṉṟa talaimakaṉ vāyilvēṇṭi viṭuttuḻi vāyiṉērtalvēṇṭi niṉkaṇ pacantaṉakāṇeṉṟu mukampuku tōḻikkut talaimakaḷ colliyatu.</p>    <p xml:lang="en">
+         Spoken by the heroine to the confidante who entered, saying 'your eyes have turned pale', the hero who was with another lady [after] having left the other beloved woman, desiring a mediator [and] sending [him] ahead, wished [for her] to agree [to let him] enter. </p>
+  </div>  
+    <div rend="parallel">
+      <lg xml:id="Aink169">
+<l>peruṅkaṭaṟ karaiyatu ciṟuveṇ kākkai</l>
+<l>poṉṉiṇar ñāḻaṉ muṇaiyiṟ potiyaviḻ</l>
+<l>puṉṉaiyam pūñciṉaic cēkkun tuṟaiva</l>
+<l>ṉeñcat tuṇmai yaṟintu</l>
+<l>meṉceyap pacakkun tōḻiyeṉ kaṇṇē</l>
+      </lg>
+      <lg xml:lang="en">
+        <l>Despite knowing the truth of [my] heart [about]</l>
+        <l>The man of the shore in which the small white crow</l>
+        <l>Of the seashore rests [in] the flowering branches of the Puṉṉai tree</l>
+        <l>[On which] buds open, if it dislikes the Ñāḻal tree [with] golden clusters,</l>
+        <l>For what [reason] do my eyes become pallid, oh friend?</l>
+              </lg>
+    </div>
+  </body>
+</text>
+<standOff type="wordsplit" corresp="#Aink169"><interp type="alignment" select="0">94ML6MG11M2G28MGM,145M</interp>
+<entry>
+<form>perum</form>
+<def>vast</def>
+<form type="sandhi">peruṅ</form>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kaṭal</form>
+<def>sea</def>
+<form type="sandhi">kaṭaṟ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>karaiyatu</form>
+<def>shore</def>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">neuter singular</gram>
+  <gram type="role">genitive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ciṟu</form>
+<def>small</def>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>veḷ</form>
+<def>white</def>
+<form type="sandhi">veṇ</form>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kākkai</form>
+<def>crow</def>
+<gramGrp>
+  <gram type="role">feminine</gram>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>poṉ</form>
+<def>gold</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="geminated">ṉ</c>iṇar</form>
+<def>cluster</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ñāḻal</form>
+<def>Ñāḻal tree</def>
+<form type="sandhi">ñāḻaṉ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>muṇaiyiṉ</form>
+<def>dislike-if</def>
+<form type="sandhi">muṇaiyiṟ</form>
+<gramGrp>
+  <gram type="role">conditional</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>poti</form>
+<def>buds</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>aviḻ</form>
+<def>open</def>
+<gramGrp>
+  <gram type="role">verbal root</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>puṉṉaiyam</form>
+<def>Puṉṉai tree</def>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>pūm</form>
+<def>flower</def>
+<form type="sandhi">pūñ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ciṉai<c type="geminated">c</c></form>
+<def>branch</def>
+<gramGrp>
+  <gram type="role">root noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>cēkkum</form>
+<def>resting-</def>
+<form type="sandhi">cēkkun</form>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tuṟaivaṉ</form>
+<def>ghat-he</def>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">masculine singular</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>neñcatt<c type="elided">u</c></form>
+<def>heart</def>
+<form type="sandhi">ṉeñcatt</form>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>uṇmai</form>
+<def>existence</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>aṟint<c type="elided">u</c>-um</form>
+<def>known</def>
+<form type="simple">aṟintu</form>
+<form type="sandhi"><c type="glide">y</c>aṟint</form>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>eṉ</form>
+<def>what</def>
+</entry>
+<entry>
+<form>ceya<c type="geminated">p</c></form>
+<def>to make</def>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>pacakkum</form>
+<def>fading</def>
+<form type="sandhi">pacakkun</form>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tōḻi</form>
+<def>confidante</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>eṉ</form>
+<def>my</def>
+<gramGrp>
+  <gram type="role">oblique</gram>
+  <gram type="role">singular</gram>
+  <gram type="role">first person</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kaṇ<c type="geminated">ṇ</c>-ē</form>
+<def>eye</def>
+<form type="simple">kaṇ</form>
+<form type="sandhi">kaṇ<c type="geminated">ṇ</c></form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry></standOff>
+</TEI>
