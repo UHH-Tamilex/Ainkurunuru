@@ -7,7 +7,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta">Aiṅkuṟunūṟu</title> <num>164</num>.
+            <title xml:lang="ta">Aiṅkuṟunūṟu</title> <num>167</num>.
             <persName xml:lang="ta">Ammūvaṉār</persName>
         </title>     
         <editor role="translator" xml:lang="en">Ammūvaṉār</editor>
@@ -28,28 +28,29 @@
   </teiHeader>
 <text xml:lang="ta" type="edition">
   <body>
-      <div rend="parallel"> 
-        <p xml:id="Aink164-kilavi">
-          talaimakaṉukkup puṟattoḻukka muḷatākiyavaḻit talaimakaḷ tōḻikkuc colliyatu.</p>    <p xml:lang="en">
-          Spoken by the heroine to the confidante, as going around with other women was taking place for the hero.</p>
-    </div>  
+    <div rend="parallel"> 
+      <p xml:id="Aink166-kilavi">
+       parattaiyiṟpirinta talaimakaṉviṭa vāyilāyvantārkku avaṉ koṭumaikūṟit tōḻi iyaṟpaḻittavaḻit talaimakaḷ colliyatu.</p>    <p xml:lang="en">
+           Spoken by the heroine, when the confidante spoke of [his] cruelty so that [she] leaves the hero who [now] had separated from the other woman, to him [the hero] who [just] entered [the house].</p>
+  </div>  
     <div rend="parallel">
-      <lg xml:id="Aink164">
+      <lg xml:id="Aink167">
 <l>peruṅkaṭaṟ karaiyatu ciṟuveṇ kākkai</l>
-<l>yiruṅkaḻi maruṅki ṉayirai yārun</l>
-<l>taṇṇan tuṟaivaṉ ṟakuti</l>
-<l>nammō ṭamaiyā talarpayan taṉṟē</l>
+<l>yiruṅkaḻi yiṉakkeṭi ṟārun tuṟaiva</l>
+<l>ṉalkuvaṉ pōlak kūṟi</l>
+<l>nalkā ṉāyiṉun tolkē ḷaṉṉē</l>
       </lg>
       <lg xml:lang="en">
-        <l>The entitlement of the man from the cool, pretty shore </l>
-        <l>In which the small, white crow of the vast seashore </l>
-        <l>Consumes Ayirai fish in the dark backwaters</l>
-        <l>Does not sit well with us. </l>
-        <l>It has produced gossip.</l>      </lg>
+        <l>The man from the shore where the small, white crow of the vast seashore</l>
+        <l>Fills [itself] up with the Keṭiṟu fish in schools in the dark backwaters - </l>
+        <l>Having spoken like one who bestows [love upon me];</l>
+        <l>Although he is not a bestower [of love],</l>
+        <l>He is an old friend.</l>
+      </lg>
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#Aink164"><interp type="alignment" select="0">86MG7MG13M2GM,111M</interp>
+<standOff type="wordsplit" corresp="#Aink167"><interp type="alignment" select="0">51MG12ML37MGM,104M</interp>
 <entry>
 <form>perum</form>
 <def>vast</def>
@@ -70,6 +71,8 @@
 <form>karaiyatu</form>
 <def>shore</def>
 <gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">neuter singular</gram>
   <gram type="role">genitive</gram>
 </gramGrp>
 </entry>
@@ -111,43 +114,26 @@
 </gramGrp>
 </entry>
 <entry>
-<form>maruṅkiṉ</form>
-<def>side</def>
-<gramGrp>
-  <gram type="role">suffix</gram>
-  <gram type="role">locative</gram>
-  <gram type="role">oblique</gram>
-</gramGrp>
-</entry>
-<entry>
-<form>ayirai</form>
-<def>Aiyrai fish</def>
+<form><c type="glide">y</c>iṉa<c type="geminated">k</c></form>
+<def>school</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
-<form><c type="glide">y</c>ārum</form>
-<def>to-consume</def>
-<form type="sandhi"><c type="glide">y</c>ārun</form>
+<form>keṭiṟ<c type="elided">u</c></form>
+<def>Keṭiṟu-fish</def>
+<form type="sandhi">keṭiṟ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ārum</form>
+<def>be-filled-with</def>
+<form type="sandhi">ārun</form>
 <gramGrp>
   <gram type="role">peyareccam</gram>
-</gramGrp>
-</entry>
-<entry>
-<form>taṇ</form>
-<def>cool</def>
-<gramGrp>
-  <gram type="role">adjective</gram>
-</gramGrp>
-</entry>
-<entry>
-<form><c type="geminated">ṇ</c>am</form>
-<def>pretty</def>
-<form type="sandhi"><c type="geminated">ṇ</c>an</form>
-<gramGrp>
-  <gram type="role">adjective</gram>
-  <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
@@ -159,50 +145,58 @@
 </gramGrp>
 </entry>
 <entry>
-<form>takuti</form>
-<def>entitlement</def>
-<form type="sandhi">ṟakuti</form>
+<form>nalkuvaṉ</form>
+<def>bestow-he</def>
+<form type="sandhi">ṉalkuvaṉ</form>
 <gramGrp>
-  <gram type="role">noun</gram>
-</gramGrp>
-</entry>
-<entry>
-<form>nammōṭ<c type="elided">u</c></form>
-<def>us</def>
-<form type="sandhi">nammōṭ</form>
-<gramGrp>
-  <gram type="role">sociative</gram>
-</gramGrp>
-</entry>
-<entry>
-<form>amaiyāt<c type="elided">u</c></form>
-<def>be-suited-not</def>
-<form type="sandhi">amaiyāt</form>
-<gramGrp>
-  <gram type="role">neuter singular</gram>
-  <gram type="role">negative</gram>
-  <gram type="role">third person</gram>
+  <gram type="role">masculine singular</gram>
   <gram type="role">imperfective aspect</gram>
-
 </gramGrp>
 </entry>
 <entry>
-<form>alar</form>
-<def>gossip</def>
+<form>pōla<c type="geminated">k</c></form>
+<def>be-similar</def>
 <gramGrp>
-  <gram type="role">noun</gram>
+  <gram type="role">infinitive</gram>
 </gramGrp>
 </entry>
 <entry>
-<form>payantaṉṟ<c type="elided">u</c>-ē</form>
-<def>to-produce</def>
-<form type="simple">payantaṉṟu</form>
-<form type="sandhi">payantaṉṟ</form>
+<form>kūṟi</form>
+<def>told</def>
 <gramGrp>
-  <gram type="role">neuter singular</gram>
-  <gram type="role">perfective aspect</gram>
-  <gram type="role">third person</gram>
-
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>nalkāṉ</form>
+<def>bestow-he</def>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">masculine singular</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>āyiṉum</form>
+<def>if-even</def>
+<form type="sandhi">āyiṉun</form>
+<gramGrp>
+  <gram type="role">concessive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tol</form>
+<def>old</def>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kēḷaṉ<c type="geminated">ṉ</c>-ē</form>
+<def>friendship-he</def>
+<form type="simple">kēḷaṉ</form>
+<form type="sandhi">kēḷaṉ<c type="geminated">ṉ</c></form>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry></standOff>
