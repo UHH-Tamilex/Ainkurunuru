@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <script src="./lib/js/xslt-polyfill.min.js" xmlns="http://www.w3.org/1999/xhtml"></script>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+            <title xml:lang="ta">Aiṅkuṟunūṟu</title> <num>193</num>.
+            <persName xml:lang="ta">Ammūvaṉār</persName>
+        </title>     
+        <editor role="translator" xml:lang="en">Ammūvaṉār</editor>
+      </titleStmt>
+      <publicationStmt><p/></publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc><change/></revisionDesc>
+  </teiHeader>
+<text xml:lang="ta" type="edition">
+  <body>
+    <div rend="parallel"> 
+      <p xml:id="Aink191-kilavi">
+       varaiyātu vantoḻukun talaimakaṉ talaimakaṭku vaḷaikoṇṭu vantu koṭuttuḻi, paṇṭaivaḷai pōlāvāy melintuḻi nīṅkā nalaṉuṭaiyavō ivai eṉat talaimakaḷ melivucollit tōḻi varaivukaṭāyatu.</p>    <p xml:lang="en">
+       The confidante suggesting marriage, talking about the frailty of the heroine, saying 'Are these good ones that do not leave [her wrists] when [she] is frail [= loses weight], unlike the previous bangles [she had]?' when the hero, having brought [new] bangles, gave [them], still coming without [intentions] to marry.</p>
+  </div> 
+    <div rend="parallel">
+      <lg xml:id="Aink193">
+<l>valampuri yuḻuta vārmaṇa laṭaikarai</l>
+<l>yilaṅkukatir mutta miruḷkeṭa vimaikkun</l>
+<l>tuṟaikeḻu koṇkanī tanta</l>
+<l>vaṟaipuṉal vālvaḷai nallavō tāmē</l>
+      </lg>
+      <lg xml:lang="en">
+        <l>Oh man from the sea that has ghats</l>
+        <l>In which pearls that shine with rays sparkle</l>
+        <l>So that darkness gets lost,</l>
+        <l>In the shore where overflowing sand which is furrowed by right-spiralled conches settles!</l>
+        <l>The pure bangles [from] the beating floods that you gave [her] —</l>
+        <l>They are good ones, right?</l>      </lg>
+    </div>
+  </body>
+</text>
+<standOff type="wordsplit" corresp="#Aink193"><interp type="alignment" select="0">111MG5MGM,119M</interp>
+<entry>
+<form>valampuri</form>
+<def>right-spiralled-conch</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>uḻuta</form>
+<def>ploughed</def>
+<gramGrp>
+  <gram type="role">perfective aspect</gram>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vār</form>
+<def>overflow</def>
+<gramGrp>
+  <gram type="role">verbal root</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>maṇal</form>
+<def>sand</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>aṭai</form>
+<def>to-settle</def>
+<gramGrp>
+  <gram type="role">verbal root</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>karai</form>
+<def>shore</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>ilaṅku</form>
+<def>shine</def>
+<gramGrp>
+  <gram type="role">verbal root</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>katir</form>
+<def>ear</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>muttam</form>
+<def>pearl</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>iruḷ</form>
+<def>darkness</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>keṭa</form>
+<def>get-lost</def>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">v</c>imaikkum</form>
+<def>twinkling-</def>
+<form type="sandhi"><c type="glide">v</c>imaikkun</form>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tuṟai</form>
+<def>ghat</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>keḻu</form>
+<def>have</def>
+</entry>
+<entry>
+<form>koṇka</form>
+<def>man from the sea</def>
+<gramGrp>
+  <gram type="role">vocative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>nī</form>
+<def>you</def>
+<gramGrp>
+  <gram type="role">personal pronoun</gram>
+  <gram type="role">singular</gram>
+  <gram type="role">second person</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tanta</form>
+<def>given</def>
+<gramGrp>
+  <gram type="role">perfective aspect</gram>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">v</c>aṟai</form>
+<def>to-beat</def>
+<gramGrp>
+  <gram type="role">verbal root</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>puṉal</form>
+<def>flood</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vāl</form>
+<def>purity</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vaḷai</form>
+<def>bangle</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>nalla-<c type="glide">v</c>ō</form>
+<def>good-they</def>
+<form type="simple">nalla</form>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">neuter plural</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ō</m></gramGrp>
+</entry>
+<entry>
+<form>tām-ē</form>
+<def>self</def>
+<form type="simple">tām</form>
+<gramGrp>
+  <gram type="role">demonstrative pronoun</gram>
+  <gram type="role">pronoun</gram>
+  <gram type="role">plural</gram>
+  <gram type="role">honorific</gram>
+  <gram type="role">third person</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry></standOff>
+</TEI>
