@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <script src="./lib/js/xslt-polyfill.min.js" xmlns="http://www.w3.org/1999/xhtml"></script>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+            <title xml:lang="ta">Aiṅkuṟunūṟu</title> <num>187</num>.
+            <persName xml:lang="ta">Ammūvaṉār</persName>
+        </title>     
+        <editor role="translator" xml:lang="en">Ammūvaṉār</editor>
+      </titleStmt>
+      <publicationStmt><p/></publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc><change/></revisionDesc>
+  </teiHeader>
+<text xml:lang="ta" type="edition">
+  <body>
+    <div rend="parallel"> 
+      <p xml:id="Aink186-kilavi">
+       tōḻi kaiyuṟai maṟuttatu.</p>    <p xml:lang="en">
+       The confidante rejected the gift [from the hero].</p>
+  </div>  
+    <div rend="parallel">
+      <lg xml:id="Aink187">
+<l>notuma lāḷar koḷḷā rivaiyē</l>
+<l>yemmoṭu vantu kaṭalāṭu makaḷiru</l>
+<l>neytalam pakaittaḻaip pāvai puṉaiyā</l>
+<l>ruṭalakaṅ koḷvō riṉmaiyiṟ</l>
+<l>ṟoṭalaik kuṟṟa cilapū viṉarē</l>
+      </lg>
+      <lg xml:lang="en">
+        <l>Strange men do not take these [= such flowers].</l>
+        <l>Even the girls that bathe in the ocean, having come with me,</l>
+        <l>Do not adorn dolls of contrasting foliage of [different hues of] blue waterlilies.</l>
+        <l>Because of the absence of those who would take [these flowers] on their bodies,</l>
+        <l>[Only] a few flower-sellers have [taken them] for garlands.</l>      </lg>
+    </div>
+  </body>
+</text>
+<standOff type="wordsplit" corresp="#Aink187"><interp type="alignment" select="0">21MG29MGMR64MG15MGM,136M</interp>
+<entry>
+<form>notumal</form>
+<def>stranger</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>āḷar</form>
+<def>man</def>
+<gramGrp>
+  <gram type="role">plural</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>koḷḷār</form>
+<def>take-not-they</def>
+<gramGrp>
+  <gram type="role">negative</gram>
+  <gram type="role">imperfective aspect</gram>
+  <gram type="role">third person</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ivai-<c type="glide">y</c>ē</form>
+<def>these</def>
+<form type="simple">ivai</form>
+<gramGrp>
+  <gram type="role">neuter plural</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>emmoṭu</form>
+<def>us</def>
+<gramGrp>
+  <gram type="role">sociative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vantu</form>
+<def>come</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kaṭal</form>
+<def>sea</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>āṭu</form>
+<def>bathe</def>
+<gramGrp>
+  <gram type="role">verbal root</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>makaḷir-um</form>
+<def>women</def>
+<form type="simple">makaḷir</form>
+<gramGrp>
+  <gram type="role">plural</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>neytalam</form>
+<def>blue waterlily</def>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>pakai<c type="geminated">t</c></form>
+<def>contrast</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>taḻai<c type="geminated">p</c></form>
+<def>foliage</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>pāvai</form>
+<def>doll</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>puṉaiyār</form>
+<def>adorn</def>
+<gramGrp>
+  <gram type="role">third person</gram>
+  <gram type="role">plural</gram>
+  <gram type="role">negative</gram>
+  <gram type="role">imperfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>uṭal</form>
+<def>body</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>akam</form>
+<def>inside</def>
+<form type="sandhi">akaṅ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>koḷvōr</form>
+<def>take-they</def>
+<gramGrp>
+  <gram type="role">third person</gram>
+  <gram type="role">plural</gram>
+  <gram type="role">imperfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>iṉmaiyiṉ</form>
+<def>non-existence</def>
+<form type="sandhi">iṉmaiyiṟ</form>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>toṭalaikk<c type="elided">u</c></form>
+<def>garland</def>
+<form type="sandhi">ṟoṭalaikk</form>
+<gramGrp>
+  <gram type="role">dative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>uṟṟa</form>
+<def>had</def>
+<gramGrp>
+  <gram type="role">perfective aspect</gram>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>cila</form>
+<def>few</def>
+<gramGrp>
+  <gram type="role">neuter plural</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>pūviṉar-ē</form>
+<def>flower-they</def>
+<form type="simple">pūviṉar</form>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry></standOff>
+</TEI>
