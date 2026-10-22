@@ -1,4 +1,6 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -49,7 +51,7 @@
     </body>
   </text>
   <standOff type="wordsplit" corresp="#Aink44">
-<interp type="alignment" select="0">38MR20MG3MG14M2G33MG3M,116MG</interp>
+<interp type="alignment" select="0">38MR20MG3MG14M2G26MG7MG3M,117MG</interp>
 <entry>
 <form>tīm</form>
 <def>sweet</def>
@@ -100,7 +102,7 @@
 </gramGrp>
 </entry>
 <entry>
-<form>mukam</form>
+<form>muka<c type="uncertain">m</c></form>
 <def>face</def>
 <form type="sandhi">mukan</form>
 <gramGrp>
@@ -122,7 +124,7 @@
   <gram type="role">comparative</gram>
   <gram type="role">absolutive</gram>
 </gramGrp>
-<note>!!! This is a very unusual form. Looks like comparative absolutive vaḷarntu + empty
+<note xmlns="http://www.tei-c.org/ns/1.0">!!! This is a very unusual form. Looks like comparative absolutive vaḷarntu + empty
         morph iciṉ + āṅku. </note>
 </entry>
 <entry>
@@ -179,11 +181,14 @@
 </gramGrp>
 </entry>
 <entry>
-<form><c type="glide">y</c>aṟaṉumār</form>
+<form><c type="glide">y</c>aṟaṉ-umār</form>
 <def>duty</def>
+<form type="simple">aṟaṉ</form>
+<form type="sandhi"><c type="glide">y</c>aṟaṉ</form>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
+<gramGrp type="particle"><m type="enclitic">umār</m></gramGrp>
 </entry>
 <entry>
 <form>atu-<c type="glide">v</c>ē</form>
