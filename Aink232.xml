@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?><?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0"><script xmlns="http://www.w3.org/1999/xhtml" src="./lib/js/xslt-polyfill.min.js"></script>
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -192,10 +189,11 @@
 <entry>
 <form>kaṇ-<c type="geminated">ṇ</c>ēteyyō</form>
 <def>eye</def>
-<form type="sandhi">kaṇ<c type="geminated">ṇ</c>ēteyyō</form>
+<form type="simple">kaṇ</form>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
+<gramGrp type="particle"><m type="enclitic">ēteyyō</m></gramGrp>
 </entry>
 </standOff>
 <standOff corresp="#Aink232-kilavi" type="wordsplit">
@@ -203,7 +201,7 @@
 <entry>
 <form>oru</form>
 <def>one</def>
-</entry>
+<gramGrp><gram type="role">adjective</gram><gram type="role">numeral</gram></gramGrp></entry>
 <entry>
 <form>vaḻi<c type="geminated">t</c></form>
 <def>way</def>
