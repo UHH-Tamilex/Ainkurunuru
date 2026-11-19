@@ -1,4 +1,6 @@
-<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?><?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0"><script xmlns="http://www.w3.org/1999/xhtml" src="./lib/js/xslt-polyfill.min.js"></script>
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"><script xmlns="http://www.w3.org/1999/xhtml" src="./lib/js/xslt-polyfill.min.js"></script>
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -202,7 +204,7 @@
 </entry>
 </standOff>
 <standOff corresp="#Aink222-kilavi" type="wordsplit">
-<interp type="alignment" select="0">16MG6MG48MG66M,139M</interp>
+<interp type="alignment" select="0">15MG7MG48MG66M,139M</interp>
 <entry>
 <form>kuṟi</form>
 <def>tryst</def>
@@ -218,10 +220,9 @@
 </gramGrp>
 </entry>
 <entry>
-<form>kaṇ<c type="geminated">ṇ</c>-um</form>
+<form>kaṇ-<c type="geminated">ṇ</c>um</form>
 <def>place</def>
 <form type="simple">kaṇ</form>
-<form type="sandhi">kaṇ<c type="geminated">ṇ</c></form>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -237,7 +238,7 @@
 </entry>
 <entry>
 <form>oḻukum</form>
-<def>following-accordingly</def>
+<def>following accordingly</def>
 <form type="sandhi">oḻukun</form>
 <gramGrp>
   <gram type="role">peyareccam</gram>
